@@ -1,0 +1,55 @@
+init
+
+
+
+init
+
+
+init
+
+
+Gestione degli eventi Creo un duplicato dei vettori delle stagionalita per permettere l'annullamento delle operazioni
+
+init
+
+
+
+init
+Reinizzializza l'array degli addebiti in quanto si cambia stanza e chiede se gli addebiti fatti alla stanza precedente vanno confermati o meno. Aggiorna il panel2, che e' quello di informazione sugli addebiti di una data stanza, in modo che contenga le informazioni aggiornate sugli addebiti. Ritorna false se si sta' cercando di addebitare un extra in mancanza dei dati necessari per l'addebito: num_stanza e extra. Travaso dati degli extra nelle strutture dati apposite Per la gestione degli eventi della finestra Creazione della finestra
+init Frutta o dessert
+controlla che nella lista non vi siano stanze ripetute piu' volte errori
+
+procedura utilizzata da Modifica e Cancella
+Ritorna false se si sta' cercando di addebitare un extra in mancanza dei dati necessari per l'addebito: coperti e extra. Travaso dati degli extra nelle strutture dati apposite Per la gestione degli eventi della finestra Creazione della finestra
+
+Per la gestione degli eventi della finestra Creazione della finestra
+
+
+se la ricerca viene lanciata per un cambio stanza (caller = 3) si deve impedire che la data di fine venga posticipata rispetto la fine del soggiorno o anticipata rispetto la data del cambio stanza. Gestione degli eventi startSearchComm
+
+
+
+
+init
+
+
+init
+
+
+
+
+
+
+
+
+
+
+
+
+
+init
+
+
+
+
+init

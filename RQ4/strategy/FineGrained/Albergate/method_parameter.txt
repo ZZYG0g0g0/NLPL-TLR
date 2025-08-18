@@ -1,0 +1,55 @@
+numero_pannello c sup_rid stanza mot
+
+
+
+
+
+
+
+prima_volta nuova_valuta
+
+lista
+caption room
+padre id
+stanza data1 data2
+room data_i data_f p tipo
+
+
+b stanza
+index tipo scelte numero_pannello c scelte numero_pannello c scelte numero_pannello c
+elenco stanza elenco elenco
+s
+comm tipo data1 data2 caption comm
+addebito b
+L L room
+bottone_conf
+pren tipo data_i data_f caption pens pren
+
+L_disp k L_disp k
+
+sogg tipo parz tot pren cont caption pens status sogg
+
+stanza data_inizio data_fine caller t0 t1 t2 t3 t4
+
+
+
+
+pren
+add
+back pren father1 father2 pren pren pren pren pren
+tel
+
+
+
+
+
+
+
+
+
+
+cli cliente
+
+
+sogg
+

@@ -1,0 +1,55 @@
+init
+
+
+
+init
+
+
+init
+
+
+gestion degli eventi creo un duplicato dei vettori dell stagionalita per permetter dell operazioni
+
+init
+
+
+
+init
+reinizzializza degli addeb quanto si cambia stanza e chied se gli addeb fatti alla stanza precedent vanno confermati meno aggiorna il che e quello di informazion sugli addeb di una datum stanza modo che contenga le informazioni aggiorn sugli addeb ritorna fals se si sta cercando di addebitar un extra mancanza dei dati necessari per e extra travaso dati degli extra nell struttur dati apposit per la gestion degli eventi della finestra creazion della finestra
+init frutta dessert
+controlla che nella lista non vi siano stanz ripetut piu volt errori
+
+procedura utilizzata da modifica e cancella
+ritorna fals se si sta cercando di addebitar un extra mancanza dei dati necessari per coperti e extra travaso dati degli extra nell struttur dati apposit per la gestion degli eventi della finestra creazion della finestra
+
+per la gestion degli eventi della finestra creazion della finestra
+
+
+se la ricerca vien lanciata per un cambio stanza caller si deve impedir che la data di fine venga posticipata rispetto la fine del soggiorno anticipata rispetto la datum del cambio stanza gestion degli eventi search comm
+
+
+
+
+init
+
+
+init
+
+
+
+
+
+
+
+
+
+
+
+
+
+init
+
+
+
+
+init

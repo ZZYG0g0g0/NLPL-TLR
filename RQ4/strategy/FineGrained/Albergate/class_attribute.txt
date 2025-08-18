@@ -1,0 +1,55 @@
+annulla1 annulla2 conferma1 conferma2 tf_supp tf_rid tf_stanza_supp tf_stanza_rid tf_mot_supp tf_mot_rid label_supp label_rid label_stanza_supp label_stanza_rid label_mot_supp label_mot_rid
+prenotazione num_sogg stanza OK padre
+button1 button2 button3 padre panel1 panel2 message gridbag
+button1 button2 button3 padre panel1 panel2 message gridbag
+extra elenco_extra1 elenco_extra2 desc_extra px_extra desc prezzo annulla3 annulla_canc conferma_canc
+commissione
+p parent
+
+OK padre testo1 testo2 testo3 label1 label2 label3 grid pannello pannello_x_annulla conf conferma cambio annulla dialog font_base font_sub font_titolo font_allineato giorni_blocco sup_bassissima sup_bassa sup_media sup_alta sup_letto_agg costo_x_scatto sup_neonato rid_bambino rid_ragazzo rid_comitiva password num_max_stanze px_colazione px_mezza px_intera coperto min_pers_comitiva cambio albergo indirizzo_alb comune_alb citta_alb rag_soc licenza cambio_L_E etichetta etich1 etich2 etich3 etich4 etich5 etich6 etich7 etich8 etich9 etich10 etich11 etich11_1 etich12 etich13 etich14 etich15 etich16 etich17 etich18 etich19 etich20 etichetta1 etichetta2 etichetta3 etichetta4 etichetta5 etich21 etich22 etichetta6 etich23 etich24 etich25 etichetta7 panel0 panel1 panel2 panel3 panel4 gridbag checkbox checkboxes Annulla Passwd Conferma Stagioni def_stag new_passwd new_stag_anno_corr new_stag_anno_prox padre this_config db first_start msg OK c dialog gridbag testo3 pannello pwd_passata
+p parent
+panel1 panel2 panel3 panel4 panel5 etichetta1 etichetta2 etichetta3 etichetta etichetta4 Annulla Conferma Aggiungi data_inizio data_fine list gridbag checkbox_group checkboxes conf_stag_corr conf_stag_prox config_locale anno_corr anno_prox config
+etichetta label1 label2 label3 label4 testo1 testo2 testo3 testo4 Annulla Azione Cerca panel1 panel2 gridbag mycheckboxes stanze caller
+extra
+mask_ricerca
+mask_ricerca agenzia
+prenotazione counter_ins counter_tot
+
+ok annulla msg gridbag titolo padre stanza_prec etich1 etich2 etich3 num_stanza
+label label1 label2 label3 label4 label5 label6 label7 label8 label9 label12 label13 testo3 testo4 panel buttons annulla conferma tipi bar ristorante servizi bevande cibi antipasti primi secondi contorni prima_scelta scelta_bar scelta_piatto scelta_servizio scelta_bevanda scelta_cibo scelta_antipasto scelta_primo scelta_secondo scelta_contorno grid grid1 gridbag elenco L padre level codice
+Annulla Visualizza testo etichetta1 etichetta2 etichetta3 etichetta4 etichetta5 stanza stanza1 nome cognome stanza2 panel checkbox_group checkboxes gridbag padre visual sogg_x_conto_sing L_st date_fine date_inizio data_fine_magg fine_sogg_anticipato tipo_conto qualcuno_tramite_agenzia qualcuno_senza_agenzia
+stanza1 stanza2 Annulla Conferma Ricerca etichetta1 etichetta2 panel1 panel2 gridbag p padre figlio
+num_stanza nome_agenzia inizio_comm fine_comm scadenza_comm num_tel_agenzia etichetta3 etich1 etich2 etich3 etich4 etich5 etich6 etich7 panel1 panel2 panel3 panel4 panel5 lista Annulla Azione Cerca gridbag padre L caller
+etich1 etich2 etich3 num_coperti
+Indietro Visualizza testo etichetta1 etichetta2 etichetta3 label3 label5 label1 panel checkbox_group checkboxes gridbag lista_disp padre cost anno_corr anno_prox agenzia L
+elenco_extra elenco_addebiti elenco_extra_addebitati etich4 etich5 etich6 etich7 panel1 panel2 panel3 panel4 panel5 panel6 panel7 conferma annulla addebita deaddebita aggiungi extra_add totale addebiti extra gridbag padre nuovo addebito quantita_mod
+panel1 panel2 panel3 etichetta1 label1 label2 label3 label4 label5 label6 label7 label8 label9 label10 label11 label12 label13 lista Annulla Azione Assegna Cancella testo mychoice checkboxes myCheckbox myCheckbox1 pensione gridbag padre L stanza caller
+Annulla Conferma testo etichetta1 etichetta2 etichetta3 etichetta4 etichetta5 label1 label2 label3 label5 panel checkbox_group checkboxes gridbag list_soggiornanti padre figlio elenco_soggiornanti
+panel1 panel2 panel3 panel4 panel5 etichetta1 etichetta2 etichetta3 etichetta etichetta4 etichetta5 Avvio Annulla ShowDisp Annulla1 Conferma data_inizio data_fine nome_ag lista con_ag gridbag pren comm figlio padre father caller stanze_disp save_date nomi_agenzie data1 data2
+Annulla Conferma testo etichetta1 etichetta2 etichetta3 etichetta4 etichetta5 label1 label2 label3 label5 panel checkbox_group checkboxes gridbag list_clienti padre figlio cliente elenco_clienti
+etichetta etichetta1 label1 label2 label3 label4 label5 label6 label7 label8 label9 label10 label11 label12 label13 label14 label15 label16 testo1 testo2 testo3 testo4 testo5 testo6 testo7 testo8 testo9 testo10 testo11 testo12 testo13 testo14 Annulla Conferma pensione cliente checkboxes checkboxes1 panel1 panel2 panel3 gridbag padre
+num_stanza data_tel ora_i ora_f numero durata scatti costo tot_scatti tot_costo etich1 etich2 etich3 etich4 etich5 etich6 etich7 etich8 etich9 etich10 etich11 etich12 panel1 panel2 Annulla gridbag padre phone scatti_totali
+Stampa OK Partenza testo1 testo2 testo3 testo4 etichetta label1 label2 label3 label4 panel1 panel2 panel3 gridbag text inStream chiusura conto
+extra elenco_extra1 elenco_extra2 annulla3
+commissione
+p parent
+
+prenotazione panel2 panel3 label3 lista Annulla Scegli gridbag padre L_pren figlio to_call first_time
+panel1 panel2 panel3 etichetta1 label1 label3 lista Annulla Cerca stanza gridbag padre figlio L add totale_add
+prenotazione panel1 panel2 panel3 panel4 etichetta1 label1 label2 label3 label4 lista Annulla Cerca Scegli Aggiungi t_nome t_cognome chbx1 chbx2 chbx3 filtri gridbag padre L L_visual figlio to_call first_time
+prenotazione panel1 panel2 panel3 etichetta1 label1 label3 lista Annulla Cerca stanza gridbag padre figlio L tel tot_scatti
+label panel0 panel1 Inserimento Modifica Cancellazione Ricerca Annulla gridbag s call_3 call_2 call_1 call_4
+label panel0 panel1 Inserimento Modifica Cancellazione Ricerca Annulla gridbag p mask_ric mask_mod mask_canc mask_vis
+label panel0 panel1 Stanze BeniServizi Configurazione Annulla gridbag p1 pass call_stanze call_beniservizi call_config
+label panel0 panel1 Inserimento Modifica Cancellazione Ricerca Annulla gridbag p ric_stanza ric_pren
+label panel0 panel1 Calcolo Annulla gridbag p rist
+label panel0 panel1 Arrivo Cambio Addebito Telefonate Calcolo Ricerca BeniServizi Annulla gridbag p ric_pren figlio
+label panel0 panel1 Inserimento Modifica Cancellazione Ricerca Annulla gridbag s call_1 call_2 call_3 call_4
+label panel0 panel1 Ricerca Annulla gridbag p figlio
+num_stanza desc quantita tot tot_addebiti etich1 etich2 etich3 etich4 etich5 etich6 panel1 panel2 Annulla gridbag padre add addebiti_totali
+extra elenco_extra1 elenco_extra2 desc_extra px_extra desc prezzo annulla3 annulla_canc
+padre
+commissione
+p parent flag
+padre
+

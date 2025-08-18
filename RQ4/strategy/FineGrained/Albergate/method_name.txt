@@ -1,0 +1,55 @@
+inComuneDE inizializza scriviSuDB setupNuovi
+inizializza startConferma init
+init setupPanel startAzione
+init setupPanel startAzione
+beneSelezionato goBack initialize setupPannello startConfermaCanc
+init startAzione
+init startCancella
+init startAzione startTesto1
+esci init g i init setupPanels errore init readDatiConf setStagioni setupPanels startAvviso startChangePwd startConferma writeDatiConf init setup startOK
+init startCancella startRinnova startUpdate
+init initLista initVectors reportStagionalita setupPanels startAggiungi visStagionalita
+cleanFields errori inizializza readDatiStanza setupPanels writeDatiStanza
+initialize o p startConferma tornaCodId
+init startAzione
+init startAggiornaDisp startAzione
+erroriLocale inizializza startConferma
+init startAzione
+inComune init AltraStanza aggiornaAddebiti aggiornaAvideo annullaAddebitiStanzaPrec continuaAggiornamento errore inizExtra inizializza posExtraInAddebiti riscriviElencoAddebiti scriviSuDB setupPanello thereIsModifiche
+completeCode composeCode creaLista errore inComuneABC inComuneGH inComuneILMN inComuneOP init o p setup
+aggiornamentoFlagsEffettuato chkDouble displayConto errori init problemiStanza setupPanels startChiudiSingoloConAgenzia startContoComitiva startContoSingolo startContoStanza startVisualizza tornaDateFineMagg tornaDateInizioMin
+contaPosti ctrlPosti init noErrors setup startConferma startRicerca
+aggiornaDisp cleanFields creaLista errori inizializza readDatiComm setupPanels writeDatiComm
+aggiornaAvideo continuaAggiornamento errore inizExtra inizializza posExtraInAddebiti setupPanello stampaConto writeFile
+init setupPanels showDispOfHotel showDispOfRoom
+init setupPanels startAggiungi
+aggiornaDisp cleanFields creaLista errori inizializza readDatiPren setupPanels writeDatiPren
+errori init setupPanels startConferma startVediSogg
+ctrlAvvio dataInizioIsNotBeforeToday init lookDisp restartAvvio returnFreeRoom setupPanels startAnnulla1 startAvvio startInserimento startSearchComm visualInsertComm visualInsertPren
+errori init setupPanels startConferma startVediCliente
+aggiornaDisp changeTitle cleanFields errori init readDatiSogg setupPanels writeDatiSogg
+inizializza setupPanels writeDatiTel
+chiudiComitiva chiudiSingolo chiudiStanza init readConto setup startChiudiConto startChiusura startStampa
+beneSelezionato initialize setupPannello startConferma
+abilita deabilita init startAzione
+init startAssegnazione
+init startAzione startTesto1
+init noSelection setupPanels startControllaPren
+creaLista init noErrors setupPanels startVediAddebito
+creaLista init noSelection notifyRoomBlocked setupPanels startAddSoggiornante startAggiungi startCancella startInsSoggiornante startModifica startVediPrenotazione
+creaLista init noErrors setupPanels startVediTelefonata
+cancBeneServizio init insBeneServizio modBeneServizio setup vediBeneServizio
+init setup startCanc startMod startRic startVis
+gestioneBeniServizi gestioneStanze init setup startConfigurazione
+cancPrenotazione init insPrenotazione modPrenotazione setup vediPrenotazione
+init setup startCalcolo
+addebitaBeneServizio calcoloConto cambiaStanza init insSoggiornante ricercaTelefonate setup startRicerca visitaBeneServizio
+cancStanza init insStanza modStanza setup vediStanza
+init setup start_ricerca
+inizializza setupPanels writeDatiTel
+beneSelezionato goBack initialize setupPannello
+disableFields inizializza writeDatiCliente
+init
+init
+disableFields inizializza
+init startCerca

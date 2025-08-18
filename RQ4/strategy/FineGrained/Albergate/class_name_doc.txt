@@ -1,0 +1,55 @@
+aggiungi bene servizio
+aggiungi soggiornant avviso local
+ask chiudi conto
+ask chiudi singolo con agenzia
+cancella beni servizi
+cancella commissioni
+cancella prenotazion
+cancella stanz
+avviso cambio password configurazion sistema messaggio
+controlla prenotazion
+definizion stagionalita
+descrittor stanz
+inserisci beni servizi
+inserisci commissionu
+inserisci prenotazion
+inserisci soggiornant
+inserisci stanz
+fin modifich maschera addeb
+maschera bene servizio
+maschera calcolo conto
+maschera cambio
+maschera commissionu
+maschera conto ristorazion
+maschera disponibilita
+maschera per addebitar
+maschera prenotazion
+maschera ricerca soggiornant
+maschera ricerca stanza
+maschera ricerca storico
+maschera soggiorno
+maschera telefon
+maschera visualizzazion conto
+modifica beni servizi
+modifica commissionu
+modifica prenotazion
+modifica stanz
+prenotazioni scadut
+ricerca addeb
+ricerca prenotazion
+ricerca telefon
+sub beni servizi
+sub commissionu
+sub gestion
+sub prenotazion
+sub ristorazion
+sub soggiorno
+sub stanz
+sub storico
+vedi addebito
+vedi beni servizi
+vedi client
+vedi commission
+vedi prenotazion
+vedi soggiornant
+vedi stanza

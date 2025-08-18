@@ -1,0 +1,55 @@
+
+prenotazion stanza ok padr
+padr messag gridbag
+padr messag gridbag
+extra desc prezzo
+commission
+p parent
+
+ok padr grid pannello conf conferma cambio annulla dialog password coperto cambio albergo licenza e etichetta gridbag checkbox checkbox annulla passwd conferma stagioni padr db msg ok c dialog gridbag pannello
+p parent
+etichetta annulla conferma aggiungi list gridbag checkbox config
+etichetta annulla azion cerca gridbag mycheckbox stanz caller
+extra
+
+agenzia
+prenotazion
+
+ok annulla msg gridbag titolo padr
+label panel button annulla conferma tipi bar ristorant servizi bevand cibi antipasto primi secondi contornu grid gridbag elenco l padr level codic
+annulla visualizza testo stanza nome cognom panel checkbox gridbag padr visual
+annulla conferma ricerca gridbag p padr figlio
+lista annulla azion cerca gridbag padr l caller
+
+indietro visualizza testo panel checkbox gridbag padr cost agenzia l
+conferma annulla addebita deaddebita aggiungi total addeb extra gridbag padr nuovo addebito
+lista annulla azion assegna cancella testo mychoic checkbox checkbox checkbox pension gridbag padr l stanza caller
+annulla conferma testo panel checkbox gridbag padr figlio
+etichetta avvio annulla show disp annulla conferma lista gridbag pren comm figlio padr father caller
+annulla conferma testo panel checkbox gridbag padr figlio client
+etichetta annulla conferma pension client checkbox gridbag padr
+numero durata scatti costo annulla gridbag padr phone
+stampa ok partenza etichetta gridbag text stream chiusura conto
+extra
+commission
+p parent
+
+prenotazion lista annulla scegli gridbag padr figlio
+lista annulla cerca stanza gridbag padr figlio l add
+prenotazion lista annulla cerca scegli aggiungi filtri gridbag padr l figlio
+prenotazion lista annulla cerca stanza gridbag padr figlio l tel
+label inserimento modifica cancellazion ricerca annulla gridbag
+label inserimento modifica cancellazion ricerca annulla gridbag p
+label stanz beni servizi configurazion annulla gridbag pass
+label inserimento modifica cancellazion ricerca annulla gridbag p
+label calcolo annulla gridbag p rist
+label arrivo cambio addebito telefon calcolo ricerca beni servizi annulla gridbag p figlio
+label inserimento modifica cancellazion ricerca annulla gridbag
+label ricerca annulla gridbag p figlio
+desc quantita tot annulla gridbag padr add
+extra desc prezzo
+padr
+commission
+p parent flag
+padr
+

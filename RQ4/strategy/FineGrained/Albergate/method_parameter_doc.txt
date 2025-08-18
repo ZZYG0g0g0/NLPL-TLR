@@ -1,0 +1,55 @@
+c stanza mot
+
+
+
+
+
+
+
+
+
+lista
+caption room
+padr id
+stanza
+room p tipo
+
+
+b stanza
+index tipo scelt c scelt c scelt c
+elenco stanza elenco elenco
+
+comm tipo caption comm
+addebito b
+l l room
+
+pren tipo caption pen pren
+
+k k
+
+sogg tipo parz tot pren cont caption pen statu sogg
+
+stanza caller
+
+
+
+
+pren
+add
+back pren pren pren pren pren pren
+tel
+
+
+
+
+
+
+
+
+
+
+cli client
+
+
+sogg
+

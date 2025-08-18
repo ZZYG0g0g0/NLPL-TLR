@@ -1,0 +1,55 @@
+void void void void
+void void void
+void void void
+void void void
+void void void void void
+void void
+void void
+void void void
+void void void void void void boolean void void void void void void void void void void void
+void void void void
+void void void String[] void void void
+void boolean void Stanza void void
+void void void void String
+void void
+void void void
+boolean void void
+void void
+void void void void void void void boolean void void int void void void boolean
+char[] char[] void boolean void void void void void void void void
+boolean int void boolean void boolean void void void void void void Date[] Date[]
+int boolean void boolean void void void
+void void void boolean void Commissionamento void void
+void void boolean void void int void void void
+void void void void
+void void void
+void void void boolean void Prenotazione void void
+boolean void void void void
+void boolean void void void void void void void void void void void
+boolean void void void void
+void void void boolean void Soggiornante void void
+void void void
+void void void void void void void void void
+void void void void
+void void void void
+void void
+void void void
+void boolean void void
+void void boolean void void
+void void boolean void void void void void void void void
+void void boolean void void
+void void void void void void
+void void void void void void
+void void void void void
+void void void void void void
+void void void
+void void void void void void void void void
+void void void void void void
+void void void
+void void void
+void void void void
+void void void
+void
+void
+void void
+void void
