@@ -1,0 +1,3527 @@
+
+
+
+
+
+
+
+
+
+
+A base class with common functionality to all events
+A super interface for all AST nodes
+
+
+
+
+
+
+
+
+
+
+
+Provides a abstract base implementation that an object can extend so that it can be used in a LinkedList.
+
+
+
+
+
+
+Base column of in a decision table
+This handler is used as a base class for all {@link org.kie.reteoo.compiled.NetworkHandler}s used for generating a compiled network. It provides methods to return the variable type and names used for storing refernces to different {@link org.kie.common.NetworkNode}s and variable names for {@link ClassFieldReader}s.
+A superclass for all composite constraints, like "OR" and "AND"
+
+Convenience base class for <code>ConflictResolver</code>s.
+
+
+
+
+
+Base class for Thread-safe Event Support in Drools. Note that subclasses wishing to access the listeners should do so via the <method>getEventListenersIterator</method> method. This will provide an Iterator accessing the current snapshot of the underlying list, freeing the subclasss of thread problems. <p/> Please note that for lists of small sizes, and few modifications, the CopyOnWriteArrayList provides best performance. If the list is modified more often, than a simple ArrayList with synchonized operations, and copying of the array for iteration is faster.
+
+
+
+
+
+
+
+Base class for compiler implementations. Provides just a few convenience methods.
+
+
+
+
+
+An abstract super class for the LeftTupleSinkAdapters
+
+
+
+
+This class manages {@link JpaPersistenceContext} objects, and the underlying persistence context ({@link EntityManager}) instances for a persistent {@link KieSession} and other infrastructure classes that use persistence in KIE projects. </p> (For reference in the following documentation: the {@link EntityManager} is the class used to represent a persistence context) </p> There are 2 issues to take into account when looking at or modifying the code here: <ol> <li>One of the features made available here is the ability for the user to supply their own (Command Scoped) persistence context for use by the {@link KieSession}</li> <li>However, significant race-conditions arise when a Command Scoped persistence context is used in one persistent {@link KieSession} by multiple threads. In other words, when multiple threads call operations on a Singleton persistent {@link KieSession}.</li> </ol> This class uses {@link ThreadLocal} instances for two things:<ol> <li>The internal Command Scoped {@link EntityManager} instance.</li> <li></li> </ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A class to represent the Accumulate CE
+
+A descr class for accumulate node
+A descriptor builder for Accumulate
+An implementation for the CollectDescrBuilder
+
+
+
+
+A descriptor for imported static functions
+An interface for the import builder
+
+
+AccumulateNode A beta node capable of doing accumulate logic. Created: 04/06/2006
+
+
+
+
+
+
+
+Accumulator Created: 04/06/2006
+
+For modifying a field on a bound LHS variable or a global. Modify here means that users can call methods that modify the object. If setting a field on a fact bound variable, this will NOT notify the engine of any changes (unless done outside of the engine).
+
+
+
+
+
+An Action to invoke a Work Item
+This node indicates that the user wants to execute a method on some fact in case the LHR matches.
+This class is the parent for field setting or assertion actions. <p/> Contains the list of fields and their values to be set.
+Holds field and value for "action" parts of the rule.
+
+This is for adding a given fact to a global collection
+This is used when asserting a new fact.
+
+
+Adaptor to use RuleModel class in GuidedDecisionTable
+Adaptor to use RuleModel class in GuidedDecisionTable
+Details of an ActionInsertFact column
+A Fact Pattern used by the ActionInsertFactFieldsPage Wizard page adding a flag indicating whether the Pattern is inserted Logically or not
+Logical assertions are used as part of "truth maintenance".
+
+
+This is used to specify that the bound fact should be retracted when the rule fires.
+
+A column representing the retraction of a Fact. Columns not implementing LimitedEntryCol are for Extended Entry Decision Tables for which the values are held in the table data. Consequentially the identifier for the Fact being retracted will be contained in the table data. This class is therefore effectively a marker-interface for this type of action.
+
+
+For setting a field on a bound LHS variable or a global. If setting a field on a fact bound variable, this will NOT notify the engine of any changes (unless done outside of the engine).
+
+
+Details of an ActionSetField column
+Simple holder class identifying a condition, action or attribute column, also including the rule name and a comment (called "description"). Its objects are stored in a map in the main listener class, to track what type of values you can expect to see in the rows directly below the column header, identified by an ActionType.Code.
+Basically the same as setting fields, EXCEPT that it will notify the engine of the changes. This only applies to bound fact variables from the LHS.
+
+
+A column representing the execution of a Work Item.
+Details of an ActionWorkItem column, for when a Work Item is executed
+Holds field and Work Item definition parameters for actions
+An Action to insert and set a field value on a new Fact with the value of a Work Item Definition's result parameter
+Details of an ActionWorkItemInsertFact column
+An Action to set an existing Fact's field value with the value of a Work Item Definition's result parameter
+Details of an ActionWorkItemSetField column
+
+When a <code>Tuple</code> fully matches a rule it is added to the <code>Agenda</code> As an <code>Activation</code>. Each <code>Activation</code> is assigned a number, this number is determined by the <code>WorkingMemory</code> all <code>Activations</code> created from a single insert, update, retract are assgigned the same Activation number.
+
+
+
+
+
+
+
+
+
+
+An activation event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the working memory. It contains the activation id, the name of the rule and a String representing the declarations of the activation, which is a list of name-value-pairs for each of the declarations in the tuple of the activation.  The name is the identifier (=name) of the declaration, and the value is a toString of the value of the parameter, followed by the id of the fact between parentheses. e.g. param1=10; param2=Person[John Doe] Such a String representation is used to create a snapshot of the current state of the activation by storing a toString of the facts bound in the activation.  If necessary, this event could be extended to contain a map of declarations too.
+An event filter that can be used to filter assertion events. By default, all events are allowed.  You can filter out any of the four types of assertion events by setting the allow boolean for that type to false.
+
+
+A filter interface for agenda activations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>The implementation of the 'after' evaluator definition.</p> <p>The <b><code>after</code></b> evaluator correlates two events and matches when the temporal distance from the current event to the event being correlated belongs to the distance range declared for the operator.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this after[ 3m30s, 4m ] $eventB )</pre> <p>The previous pattern will match if and only if the temporal distance between the time when $eventB finished and the time when $eventA started is between ( 3 minutes and 30 seconds ) and ( 4 minutes ). In other words:</p> <pre> 3m30s <= $eventA.startTimestamp - $eventB.endTimeStamp <= 4m </pre> <p>The temporal distance interval for the <b><code>after</code></b> operator is optional:</p> <ul><li>If two values are defined (like in the example below), the interval starts on the first value and finishes on the second.</li> <li>If only one value is defined, the interval starts on the value and finishes on the positive infinity.</li> <li>If no value is defined, it is assumed that the initial value is 1ms and the final value is the positive infinity.</li></ul> <p><b>NOTE:</b> it is allowed to define negative distances for this operator. Example:</p> <pre>$eventA : EventA( this after[ -3m30s, -2m ] $eventB )</pre> <p><b>NOTE:</b> if the initial value is greater than the finish value, the engine automatically reverse them, as there is no reason to have the initial value greater than the finish value. Example: the following two patterns are considered to have the same semantics:</p> <pre> $eventA : EventA( this after[ -3m30s, -2m ] $eventB ) $eventA : EventA( this after[ -2m, -3m30s ] $eventB ) </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+The <code>Agenda</code> can be partitioned into groups, called <code>AgendaGroup</code>s. <code>Rule</code>s can be assigned to these <code>AgendaGroup</code>s. Only rules in the focus group can fire.
+
+
+
+
+
+
+
+<code>AgendaGroup</code> implementation that uses a <code>PriorityQueue</code> to prioritise the evaluation of added <code>ActivationQueue</code>s. The <code>AgendaGroup</code> also maintains a <code>Map</code> of <code>ActivationQueues</code> for requested salience values.
+
+
+Item entry in the <code>Agenda</code>.
+Simple fact class used in aggregation test. Holds one value that can be aggregated.
+
+
+
+
+
+
+
+
+
+
+<code>AlphaNodes</code> are nodes in the <code>Rete</code> network used to apply <code>FieldConstraint<.code>s on asserted fact objects where the <code>FieldConstraint</code>s have no dependencies on any other of the facts in the current <code>Rule</code>.
+
+
+Pattern, rule or similar that is always satisfied.
+Multiple "root" TypeNodes were found when constructing the Decision Tree
+
+An interface with the results from the expression/block analysis
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+This is the super type for all pattern AST nodes.
+An interface for DescrBuilders that support annotations
+
+
+
+A descriptor builder for annotations
+
+
+
+
+
+
+
+An ANTLR-driven implementation for the DSL Mapping Entry interface
+
+
+
+
+
+
+
+
+This is a simple fact class to mark something as approved.
+
+
+
+A column in a decision table that represents an array (comma-delimited) of values.
+
+
+
+Implements an {@link java.util.Iterator Iterator} over any array. <p> The array can be either an array of object or of primitives. If you know that you have an object array, the {@link org.apache.commons.collections.iterators.ObjectArrayIterator ObjectArrayIterator} class is a better choice, as it will perform better. <p> The iterator implements a {@link #reset} method, allowing the reset of the iterator back to the start if required.
+
+
+
+
+todo: document
+
+
+
+
+
+
+
+
+
+This is a rule attribute - eg salience, no-loop etc.
+Details of an Attribute column
+
+A descriptor builder for attributes
+
+An interface for all builders of statements that support attributes
+Intermediary class, extending DRLElement with the capability of storing attributes, as required for rules and the package itself.
+An Audit Log that filters entries added to it depending on the type of entries the Log is configured to receive. Users of this log need therefore not filter which entries should be appended as this is handled by the log itself.
+An entry in an Audit Log
+An Audit Log Filter, controlling which entries passed to the AuditLog are actually appended to the log.
+
+
+Finds currently available server ports.
+An implementation of an accumulator capable of calculating average values
+
+
+
+
+An Action column defined with a BRL fragment
+A column representing a single BRL fragment variable
+A column that consists of a BRL fragment
+A Condition column defined with a BRL fragment
+A column representing a single BRL fragment variable
+A RuleModel that can provide details of bound Facts and Fields from an associated Decision Table. This allows columns using BRL fragments to integrate with Decision Table columns
+A variable (Template defined value) for a BRLColumn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A base class for all annotated assets
+
+
+A Base class for primitive boolean class field extractors. This class centralizes type conversions.
+A Base class for primitive boolean class field write accessors. This class centralizes type conversions.
+
+A Base class for primitive byte class field extractors. This class centralizes type conversions.
+A Base class for primitive byte class field writer. This class centralizes type conversions.
+
+
+This is the supertype for the ASM generated classes for accessing a field.
+This is the supertype for the ASM generated classes for writing values into fields.
+A base column
+Diff result for a column, NOTE: BZ-996944.
+
+
+
+This is the super type for all pattern AST nodes.
+A base class for all DescrBuilders
+
+
+BaseEvaluator is an Object Comparator that is operator aware
+
+
+
+
+
+A base abstract class for all Knowledge Builder results
+A parent class for all specific LeftTuple specializations
+
+
+
+
+
+
+
+
+
+
+
+
+
+Represents a constraint, which may be part of a direct field constraint or a connective.
+
+
+
+
+
+
+
+
+<p>Java class for BatchExecutionCommand complex type. DO NOT ADD NEW COMMANDS TO THIS CLASS WITHOUT THOROUGHLY TESTING 1. THE SERIALIZATION OF THOSE COMMANDS 2. THE INTEGRATION OF THOSE COMMANDS IN THE REST AND WS/SOAP IMPLEMENTATIONS!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>The implementation of the 'before' evaluator definition.</p> <p>The <b><code>before</code></b> evaluator correlates two events and matches when the temporal distance from the event being correlated to the current correlated belongs to the distance range declared for the operator.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this before[ 3m30s, 4m ] $eventB )</pre> <p>The previous pattern will match if and only if the temporal distance between the time when $eventA finished and the time when $eventB started is between ( 3 minutes and 30 seconds ) and ( 4 minutes ). In other words:</p> <pre> 3m30s <= $eventB.startTimestamp - $eventA.endTimeStamp <= 4m </pre> <p>The temporal distance interval for the <b><code>before</code></b> operator is optional:</p> <ul><li>If two values are defined (like in the example below), the interval starts on the first value and finishes on the second.</li> <li>If only one value is defined, then the interval starts on the value and finishes on the positive infinity.</li> <li>If no value is defined, it is assumed that the initial value is 1ms and the final value is the positive infinity.</li></ul> <p><b>NOTE:</b> it is allowed to define negative distances for this operator. Example:</p> <pre>$eventA : EventA( this before[ -3m30s, -2m ] $eventB )</pre> <p><b>NOTE:</b> if the initial value is greater than the finish value, the engine automatically reverse them, as there is no reason to have the initial value greater than the finish value. Example: the following two patterns are considered to have the same semantics:</p> <pre> $eventA : EventA( this before[ -3m30s, -2m ] $eventB ) $eventA : EventA( this before[ -2m, -3m30s ] $eventB ) </pre>
+
+
+
+
+
+
+
+
+
+
+An interface for all behavior implementations
+A super class for all Behavior Descriptors like time window, event window, distinct, etc
+A descriptor builder for pattern behaviors
+A descr builder implementation for pattern behaviors
+A class to encapsulate behavior management for a given beta node
+
+
+
+
+This enum represents all engine supported clocks
+
+
+
+
+
+
+
+
+
+
+
+
+An implementation of an accumulator capable of calculating average values
+An implementation of an accumulator capable of calculating sum of values
+
+An implementation of an accumulator capable of calculating sum of values
+
+
+
+
+
+
+
+
+
+
+
+
+
+A bound Type referenced could not be located in the tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A cell in a decision table containing a long value
+A column of type Long in a decision table
+
+
+
+
+
+
+
+
+
+A build context for Reteoo Builder
+
+Utility functions for reteoo build
+Returned by the builder.
+Utility class for compilation results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hello world!
+
+
+
+A descriptor builder for Conditional Elements
+An implementation for the CEDescrBuilder
+Utility class to build DRL for CEP operators
+Definition of a CEP Window
+Utility class to build DRL for CEP 'window' operators
+
+
+Holds field and value for "action" parts of the rule.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cause for a Reason.
+
+A cell in a decision table
+Represents a column of Sudoku grid cells.
+Abstract class for "numbered" cell groups: rows and columns.
+Abstract base class for all kinds of groups of related cells.
+Represents a row of Sudoku grid cells.
+Represents a 3x3 area of Sudoku grid cells.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Declares a class to be dynamically created
+
+This is a wrapper for a ClassFieldExtractor that provides default values and a simpler interface for non-used parameters like the working memory, when the field extractor is used outside the working memory scope.
+
+This generates subclasses of BaseClassFieldExtractor to provide field extractors. This should not be used directly, but via ClassFieldExtractor (which ensures that it is all nicely serializable).
+
+
+Visit a POJO user class, and extract the property getter methods that are public, in the order in which they are declared actually in the class itself (not using introspection). This may be enhanced in the future to allow annotations or perhaps external meta data configure the order of the indexes, as this may provide fine tuning options in special cases.
+This provides access to fields, and what their numerical index/object type is. This is basically a wrapper class around dynamically generated subclasses of BaseClassFieldExtractor, which allows serialization by regenerating the accessor classes when needed.
+This class implements the WriteAccessor interface allowing the application to write values into a field from a class
+
+
+
+
+Filters Objects by Class, only accepting Classes of the specified type
+
+
+Java class semantics <code>ObjectType</code>.
+
+Borrowed gratuitously from Spring under ASL2.0. +
+
+
+
+Discovers all KieModules on the classpath, via the kmodule.xml file. KieBaseModels and KieSessionModels are then indexed, with helper lookups Each resulting KieModule is added to the KieRepository
+
+
+
+
+
+
+
+This enum represents all engine supported clocks
+
+
+
+
+
+
+<p>The implementation of the 'coincides' evaluator definition.</p> <p>The <b><code>coincides</code></b> evaluator correlates two events and matches when both happen at the same time. Optionally, the evaluator accept thresholds for the distance between events' start and finish timestamps.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this coincides $eventB )</pre> <p>The previous pattern will match if and only if the start timestamps of both $eventA and $eventB are the same AND the end timestamp of both $eventA and $eventB also are the same.</p> <p>Optionally, this operator accepts one or two parameters. These parameters are the thresholds for the distance between matching timestamps. If only one paratemer is given, it is used for both start and end timestamps. If two parameters are given, then the first is used as a threshold for the start timestamp and the second one is used as a threshold for the end timestamp. In other words:</p> <pre> $eventA : EventA( this coincides[15s, 10s] $eventB ) </pre> Above pattern will match if and only if: <pre> abs( $eventA.startTimestamp - $eventB.startTimestamp ) <= 15s && abs( $eventA.endTimestamp - $eventB.endTimestamp ) <= 10s </pre> <p><b>NOTE:</b> it makes no sense to use negative interval values for the parameters and the engine will raise an error if that happens.</p>
+
+
+An accumulator to execute "collect" CEs
+
+An AST class to describe "collect" conditional element
+A descriptor builder for Collect
+An implementation for the CollectDescrBuilder
+
+<p>An implementation of an accumulator capable of collecting lists of values. This is similar to the "collect" CE, but allows us to collect any value, not only facts.</p> <p>Example:</p> <pre> rule "List employee names" when $names : List() from accumulate( Employee( $n : firstName, $l : lastName ), collectList( $n + " " + $l ) ) then // do something end </pre> <p>The list accepts duplications and the order of the elements in the list is not guaranteed.</p>
+<p>An implementation of an accumulator capable of collecting sets of values. This is similar to the "collect" CE, but allows us to collect any value, not only facts.</p> <p>Example:</p> <pre> rule "Set of unique employee names" when $names : Set() from accumulate( Employee( $n : firstName, $l : lastName ), collectSet( $n + " " + $l ) ) then // do something end </pre> <p>The set obviously does not computes duplications and the order of the elements in the set is not guaranteed.</p>
+
+
+
+
+A column in a decision table
+Basic details of a column
+Factory to produce a column of the correct type based on its declaration. [] indicates a column that represents an array (comma-delimited) of values.
+
+
+
+
+
+
+
+
+
+
+An abstract definition of a compilation problem
+
+A CompilationProblemHandler gets access to a problem as soon as the problem is available while the CompilationResult only represents a summary at the end. The handler can be used to asynchronously update a GUI or stop compilation by returning false (e.g. when a maximum number of erros has been reached) NOTE: has to be supported by the compiler implementation!!
+A CompilationResult represents the result of a compilation. It includes errors (which failed the compilation) or warnings (that can be ignored and do not affect the creation of the class files)
+
+
+This interface is used by semantic modules that are compiled to bytecode.
+This is the base type for all generated classes that that represent a "compiled" portion of the RETE network. By compiled we mean IF statements, switch statements, etc. as opposed to nodes, propagators, etc.
+
+
+
+
+
+
+A column composed of other columns
+
+Represents first order logic like Or, Not, Exists.
+This is a field constraint that may span multiple fields.
+
+
+
+While a rule might have multiple DurationTimers, due to LHS CEP rules, there can only ever be one timer attribute. Duration rules should be considered a priority over the one timer rule. So the Timer cannot fire, until the maximum duration has passed.
+
+
+
+
+
+A composite type interface, i.e., a type that contains fields
+
+
+
+
+A concurrent implementation for the node memories interface
+This class represents a single LHS item (which will be the same as a line in traditional DRL).
+
+
+This is the config for a condition column. Typically many of them have their constraints added.
+Adaptor to use RuleModel class in GuidedDecisionTable
+Details of a Condition column
+
+
+
+
+
+
+
+Node which allows to follow different paths in the Rete-OO network, based on the result of a boolean <code>Test</code>.
+
+
+
+
+
+
+
+
+
+
+Strategy for resolving conflicts amongst multiple rules. <p> Since a fact or set of facts may activate multiple rules, a <code>ConflictResolutionStrategy</code> is used to provide priority ordering of conflicting rules. </p>
+This is for a connective constraint that adds more options to a field constraint.
+This is used to connect restrictions together for a single field eg: age < 40 & > 30
+An enum for connective types
+This represents a RHS fragement. A rule may have many of these, or just one. They are all mushed together.
+
+Indicates an error during a <code>Consequence</code> invocation.
+Care should be taken when implementing this class. Swallowing of consequence can be dangerous if the exception occured during a WorkingMemory action, thus leaving the integrity of the WorkingMemory invalid.
+
+
+
+
+
+
+
+
+A descriptor to represent logical connectives in constraints, like &&, || and ^.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A container for a new Asset created during the conversion process
+A message resulting from the conversion process
+Types of message
+A single result of a conversion process
+
+
+
+An implementation of an accumulator capable of counting occurences
+
+
+
+
+Provides a parser and evaluator for unix-like cron expressions. Cron expressions provide the ability to specify complex time combinations such as &quot;At 8:00am every Monday through Friday&quot; or &quot;At 1:30am every last Friday of the month&quot;. <P> Cron expressions are comprised of 6 required fields and one optional field separated by white space. The fields respectively are described as follows: <table cellspacing="8"> <tr> <th align="left">Field Name</th> <th align="left">&nbsp;</th> <th align="left">Allowed Values</th> <th align="left">&nbsp;</th> <th align="left">Allowed Special Characters</th> </tr> <tr> <td align="left"><code>Seconds</code></td> <td align="left">&nbsp;</th> <td align="left"><code>0-59</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * /</code></td> </tr> <tr> <td align="left"><code>Minutes</code></td> <td align="left">&nbsp;</th> <td align="left"><code>0-59</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * /</code></td> </tr> <tr> <td align="left"><code>Hours</code></td> <td align="left">&nbsp;</th> <td align="left"><code>0-23</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * /</code></td> </tr> <tr> <td align="left"><code>Day-of-month</code></td> <td align="left">&nbsp;</th> <td align="left"><code>1-31</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * ? / L W</code></td> </tr> <tr> <td align="left"><code>Month</code></td> <td align="left">&nbsp;</th> <td align="left"><code>1-12 or JAN-DEC</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * /</code></td> </tr> <tr> <td align="left"><code>Day-of-Week</code></td> <td align="left">&nbsp;</th> <td align="left"><code>1-7 or SUN-SAT</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * ? / L #</code></td> </tr> <tr> <td align="left"><code>Year (Optional)</code></td> <td align="left">&nbsp;</th> <td align="left"><code>empty, 1970-2199</code></td> <td align="left">&nbsp;</th> <td align="left"><code>, - * /</code></td> </tr> </table> <P> The '*' character is used to specify all values. For example, &quot;*&quot; in the minute field means &quot;every minute&quot;. <P> The '?' character is allowed for the day-of-month and day-of-week fields. It is used to specify 'no specific value'. This is useful when you need to specify something in one of the two fields, but not the other. <P> The '-' character is used to specify ranges For example &quot;10-12&quot; in the hour field means &quot;the hours 10, 11 and 12&quot;. <P> The ',' character is used to specify additional values. For example &quot;MON,WED,FRI&quot; in the day-of-week field means &quot;the days Monday, Wednesday, and Friday&quot;. <P> The '/' character is used to specify increments. For example &quot;0/15&quot; in the seconds field means &quot;the seconds 0, 15, 30, and 45&quot;. And &quot;5/15&quot; in the seconds field means &quot;the seconds 5, 20, 35, and 50&quot;.  Specifying '*' before the  '/' is equivalent to specifying 0 is the value to start with. Essentially, for each field in the expression, there is a set of numbers that can be turned on or off. For seconds and minutes, the numbers range from 0 to 59. For hours 0 to 23, for days of the month 0 to 31, and for months 1 to 12. The &quot;/&quot; character simply helps you turn on every &quot;nth&quot; value in the given set. Thus &quot;7/6&quot; in the month field only turns on month &quot;7&quot;, it does NOT mean every 6th month, please note that subtlety. <P> The 'L' character is allowed for the day-of-month and day-of-week fields. This character is short-hand for &quot;last&quot;, but it has different meaning in each of the two fields. For example, the value &quot;L&quot; in the day-of-month field means &quot;the last day of the month&quot; - day 31 for January, day 28 for February on non-leap years. If used in the day-of-week field by itself, it simply means &quot;7&quot; or &quot;SAT&quot;. But if used in the day-of-week field after another value, it means &quot;the last xxx day of the month&quot; - for example &quot;6L&quot; means &quot;the last friday of the month&quot;. When using the 'L' option, it is important not to specify lists, or ranges of values, as you'll get confusing results. <P> The 'W' character is allowed for the day-of-month field.  This character is used to specify the weekday (Monday-Friday) nearest the given day.  As an example, if you were to specify &quot;15W&quot; as the value for the day-of-month field, the meaning is: &quot;the nearest weekday to the 15th of the month&quot;. So if the 15th is a Saturday, the trigger will fire on Friday the 14th. If the 15th is a Sunday, the trigger will fire on Monday the 16th. If the 15th is a Tuesday, then it will fire on Tuesday the 15th. However if you specify &quot;1W&quot; as the value for day-of-month, and the 1st is a Saturday, the trigger will fire on Monday the 3rd, as it will not 'jump' over the boundary of a month's days.  The 'W' character can only be specified when the day-of-month is a single day, not a range or list of days. <P> The 'L' and 'W' characters can also be combined for the day-of-month expression to yield 'LW', which translates to &quot;last weekday of the month&quot;. <P> The '#' character is allowed for the day-of-week field. This character is used to specify &quot;the nth&quot; XXX day of the month. For example, the value of &quot;6#3&quot; in the day-of-week field means the third Friday of the month (day 6 = Friday and &quot;#3&quot; = the 3rd one in the month). Other examples: &quot;2#1&quot; = the first Monday of the month and &quot;4#5&quot; = the fifth Wednesday of the month. Note that if you specify &quot;#5&quot; and there is not 5 of the given day-of-week in the month, then no firing will occur that month.  If the '#' character is used, there can only be one expression in the day-of-week field (&quot;3#1,6#3&quot; is not valid, since there are two expressions). <P> <!--The 'C' character is allowed for the day-of-month and day-of-week fields. This character is short-hand for "calendar". This means values are calculated against the associated calendar, if any. If no calendar is associated, then it is equivalent to having an all-inclusive calendar. A value of "5C" in the day-of-month field means "the first day included by the calendar on or after the 5th". A value of "1C" in the day-of-week field means "the first day included by the calendar on or after sunday".--> <P> The legal characters and the names of months and days of the week are not case sensitive. <p> <b>NOTES:</b> <ul> <li>Support for specifying both a day-of-week and a day-of-month value is not complete (you'll need to use the '?' character in one of these fields). </li> <li>Overflowing ranges is supported - that is, having a larger number on the left hand side than the right. You might do 22-2 to catch 10 o'clock at night until 2 o'clock in the morning, or you might have NOV-FEB. It is very important to note that overuse of overflowing ranges creates ranges that don't make sense and no effort has been made to determine which interpretation CronExpression chooses. An example would be "0 0 14-6 ? * FRI-MON". </li> </ul> </p>
+
+
+a CSV line, with all the normal CSV features.
+Csv implementation. This implementation removes empty "cells" at the end of each line. Different CSV tools may or may not put heaps of empty cells in. Csv format is almost identical to XLS, with the one limitation: Merged cells are not supported. To allow constraints to span across cells for the one column, this is achieved by using "..." at the end of a cell value. If a cell value ends with "..." then it will be taken as spanned from the previous cell.
+
+
+
+
+
+
+Created with IntelliJ IDEA. User: vinod kiran Date: 14/10/12 Time: 11:00 AM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An evaluator for DMN Decision Table Expressions
+Stores the result of the evaluation of a decision
+
+
+
+
+
+
+
+An Expression Evaluator interface for DMN defined expressions
+
+
+
+
+
+
+
+
+An evaluator for DMN Literal Expressions
+
+
+A general message interface for all DMN related messages raised during compilation and execution.
+An interface for message container objects like DMNResults and DMNModel
+
+An internal interface for objects that also support managing message lists
+
+
+
+
+
+
+
+
+adding something here? don't forget to update merge of DMNWeaverService
+
+
+An instance that encapsulates all the information resulting from a DMN service invocation
+
+
+
+A runtime event manager interface for DMN
+
+
+
+
+A type-check safe runtime creation helper.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A Helper class for building parts of DRL from higher-order representations (i.e. Guided Rule Editor, Guided Template Rule Editor and Guided Decision Table).
+The LayerSupertype for this model/parse tree.
+
+
+
+Classes that implement this interface should generate DRL fragments according to the drools java semantic module.
+
+This contains the DRL output that each piece of the parser spreadsheet will contribute to
+This is a low level parser API. This will return textual AST representations of the DRL source, including with DSL expanders if appropriate.
+
+
+This class represents the value of a complex variable inside a DSLSentence. "complex variable" means that the variable has 2 values: id and the real value.
+
+
+
+
+An interface that represents a DSL Mapping
+A single entry in a DSL mapping file
+A helper class that handles a DSL Mapping file
+
+
+This represents a DSL sentence.
+
+This class represents the value of a simple variable inside a DSLSentence. "Simple variable" means that it only contains a single value.
+This XStream converter converts legacy String DSL values into DSLVariableValue objects. XStream blindly unmarshalls members of a Collection according to their persisted XML type. For legacy DSLSentences this is a String whereas for newer (and correctly) it is DSLVariableValue.
+Holder for cell value and other attributes. This is serialised by GWT RPC and therefore does not contain a single property of type Serializable (that would have been ideal). Instead the concrete data types are included separately.
+
+
+8.3.3 Decision Rule metamodel The class DecisionRule is used to model the rules in a decision table (see 8.2 Notation). An instance of DecisionRule has an ordered list of inputEntry instances which are instances of UnaryTests, and an ordered list of outputEntry instances, which are instances of LiteralExpression. By definition, a DecisionRule element that has no inputEntrys is always applicable. Otherwise, an instance of DecisionRule is said to be applicable if and only if, at least one of the rule's inputEntrys match their corresponding inputExpression value. The inputEntrys are matched in arbitrary order. The inputEntry elements SHALL be in the same order as the containing DecisionTable's inputs. The i th inputExpression must satisfy the i th inputEntry for all inputEntrys in order for the DecisionRule to match, as defined in 8.1 Introduction. The outputEntry elements SHALL be in the same order as the containing DecisionTable's outputs. The i th outputEntry SHALL be consistent with the typeRef of the i th OutputClause.
+
+
+
+
+
+This example shows how to use Data-driven rule templates. It assumes that the FeeScheduleRule objects have been retrieved from a database using some form of Object-Relational Mapper (such as Hibernate or Toplink). An alternative is to use the ResultSetGenerator from the org.drools.templates.jdbc package, where you can use vanilla JDBC to generate rules from (you just select the table names as the field named from the template) - this means no ORM is required. Some things to note: - at the moment the templates require all parameters to come in a Strings - any row that references a parameter that is empty will not be generated.
+Callback interface for scanning an spreadsheet.
+
+An object of this class acts as a template compiler, inserting spreadsheet data into templates. Template data may come from a resource or an InputStream, or you may provide a TemplateDataListener.
+
+
+
+
+
+
+
+A String value could not be converted to a type-safe Value class
+The data-type of a class's field could not be found
+Utilities
+
+
+
+
+
+This implementation is a signavio profile implementation. For the standard implementation, see DateAndTimeFunction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events recorded for the Decision Table audit log DO NOT CHANGE THE NAMES OF THESE ENUMS TO PRESERVE COMPATIBILITY OF EXISTING AUDIT LOGS IN FUTURE RELEASES
+An AuditLogFilter implementation specific to the types of AuditLogEntry's created by a Web Guided Decision Table.
+
+
+
+
+
+Validates and extends the model based on selected HitPolicy
+
+
+
+Generic interface for all input parsers.
+
+
+An event class to report all matches for a decision table
+An event class to report all rules selected as a result for a decision table. For a unique hit decision table, the same rule will be matched and selected, but for decision tables with different hit policies, the rules actually selected might be a subset of the rules matched.
+
+
+
+A class capable of resolving a declaration in the current build context
+
+
+This handler is used to create the member declarations section of a generated subclass of a {@link CompiledNetwork}. Currently we only create member variables for the following types of nodes: <p/> <li>Non-hashed {@link AlphaNode}s</li> <li>{@link LeftInputAdapterNode}s</li> <li>{@link BetaNode}s</li> <li>A {@link Map} for each set of hashed {@link AlphaNode}s. The keys are the hashed values, and the values are the IDs of the alphas</li>
+This is the parent class function/method calls.
+A descriptor builder for declare statements
+
+
+Wrapper for declarative types. Declared Types must be written in the appropriate style, no formatting is contributed here.
+Rule-firing Agenda. <p> Since many rules may be matched by a single assertObject(...) all scheduled actions are placed into the <code>Agenda</code>. </p> <p> While processing a scheduled action, it may update or retract objects in other scheduled actions, which must then be removed from the agenda. Non-invalidated actions are left on the agenda, and are executed in turn. </p>
+
+
+An Audit Log Filter, controlling which entries passed to the AuditLog are actually appended to the log.
+A builder to dynamically build simple Javabean(TM) classes
+
+
+
+
+A default implementation for the DMN Runtime Event Listener that can be subclassed by application implementations to listen for specific events
+This is a default implementation of the DSL Mapping interface capable of storing a list of DSLMappingEntries and managing it.
+A builder to dynamically build simple Javabean(TM) classes
+The default expander uses String templates to provide pseudo natural language, as well as general DSLs. For most people, this should do the job just fine.
+The default expander resolver will provide instances of the DefaultExpander. The DefaultExpander uses templates to provide DSL and pseudo natural language support.
+Implementation of <code>FactHandle</code>.
+Generate the rules for a decision table row from a rule template.
+A default implementation for the JobHandle interface
+
+
+
+
+
+
+
+Generic message that cannot be represented by one of the more explicit concrete implementations
+
+
+An object of this class is prepared to receive calls passing it the contents of a spreadsheet containing one or more decision tables. Each of these tables is then expanded into a set of similar rules, varying to a degree with respect to the patterns and actions. A "rule set" starts with some overall definitions such as imports, globals, functions and queries. A table is identifed by a cell beginning with the text "RuleTable". The first row after the table identifier defines the column type: either a pattern of the condition or an action for the consequence, or an attribute. The second row contains optional pattern type declarations. If cells in this row are merged, then all snippets below the merged stretch become part of the same pattern, as separate constraints. The third row identifies the java code block associated with the condition or consequence. This code block should include one or more parameter markers for the insertion of values defined in cells of that column. The third row is available for comments on the purpose of the column. All subsequent rows identify rules with the set, providing values to be inserted where there are markers in the code snippets defined in the third row, or for the attribute identified by the column header. href="mailto:michael.neale@gmail.com"> Michael Neale </a>
+
+The default column condition for a rule template to be generated. If the conditon starts with "!" then the template will only be generated if the column condition does not exist. If there is no condition string then the template will be generated only if the column contains a value. The condition can be any valid rule condition.
+Container for a set of templates (residing in one file). This class will parse the template file.
+Create a rule base for the set of rule templates in the TemplateContainer. These rules are used internally by the engine to generate the actual decision table rules based on which columns have been filled in. <p/> Basically, if a rule template requires columns A and B then the template rule base will generate a rule with columns A and B as the LHS and a RHS which triggers the rule to be generated. ie. rule "template1" when r : Row() column1 : Column(name == "column1") Cell(row == r, column == column1) column2 : Column(name == "column2") Cell(row == r, column == column2, value == "xyz") then generator.generate( "template1", r); end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An Audit Event for when a column is deleted
+
+
+
+An Audit Event when a row is deleted
+A dependent scoped bean with a name. It is not injected anywhere, so should not cause any problems....
+
+
+
+
+A super interface for all DescrBuilders.
+A factory API for the *Descr classes
+
+
+This is a rule description
+
+From http://www.ifitjams.com/start.gif
+A Dialect implementation handles the building and execution of code expressions and blocks for a rule. This api is considered unstable, and subject to change. Those wishing to implement their own dialects should look ove the MVEL and Java dialect implementations.
+A Registry of DialectConfigurations. It is also responsible for issueing actions to all registered dialects. This Class api is subject to change.
+Each Dialect can have its own configuration. Implementations of this class are typically loaded via reflection in PackageBuilderConfiguration during the call to buildDialectRegistry(). This Class api is subject to change.
+
+
+
+
+
+
+A column than can perform diff with another column. E.g.: Useful when querying the differences in a user edited column for update column event. BZ-996944: The idea is to show the changed fields and its values in audit log events.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A non-alcoholic or alcoholic drink offered in a bar.
+This represents obviously a driver who is applying for an insurance Policy.
+Dumps a PackageDescr into a DRL String
+This is a helper class that provides helper methods to parse expressions using both the DRLExpressions parser and the DRLExprTree parser.
+
+
+
+
+
+
+
+
+
+
+Warning: Manners benchmark is working (producing the correct result), but it performs a breadth first search instead of a depth first one as it could be expected to do. At the moment it is not possible to specify the type of tree search in drools.
+
+
+
+Enum to identify an editor type (most for syntax highlighting). This is used on DroolsTree and DroolsToken.
+
+
+
+
+
+
+
+
+The main management agent for Drools. The purpose of this agent is to serve as a singleton for knowledge base and session monitoring mbeans registration and management.
+A mismatched token exception that properly resolves ID tokens into soft keywords
+A mismatched token exception that properly resolves ID tokens into soft keywords
+A mismatched token exception that properly resolves ID tokens into soft keywords
+
+
+
+
+Simple enum to identify a paraphrase type. This enum is used to better format error messages during parsing.
+
+Helper class that generates DroolsParserException with user friendly error messages.
+
+
+Class that represents a DroolsLanguage sentence. To be used by IDE.
+Enum to identify a sentence type. This is used by DRLParser and stored into DroolsSentence.
+Simple holder class identifying all the DRL soft keywords. This is used by DRLParser.
+Created by IntelliJ IDEA. User: sg0521861 Date: Mar 27, 2008 Time: 8:56:14 AM Provide Drools specific streaming helper routines
+An extension of the CommonToken class that keeps the char offset information
+An extension of the CommonTree class that keeps the char offset information.
+
+
+
+
+
+
+
+
+
+
+Indicates an attempt to add a <code>Rule</code> to a <code>Package</code> that already contains a <code>Rule</code> with the same name.
+Interface for specifying truthness duration.
+
+
+<p>The implementation of the <code>during</code> evaluator definition.</p> <p>The <b><code>during</code></b> evaluator correlates two events and matches when the current event happens during the occurrence of the event being correlated.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this during $eventB )</pre> <p>The previous pattern will match if and only if the $eventA starts after $eventB starts and finishes before $eventB finishes. In other words:</p> <pre> $eventB.startTimestamp < $eventA.startTimestamp <= $eventA.endTimestamp < $eventB.endTimestamp </pre> <p>The <b><code>during</code></b> operator accepts 1, 2 or 4 optional parameters as follow:</p> <ul><li>If one value is defined, this will be the maximum distance between the start timestamp of both event and the maximum distance between the end timestamp of both events in order to operator match. Example:</li></lu> <pre>$eventA : EventA( this during[ 5s ] $eventB )</pre> Will match if and only if: <pre> 0 < $eventA.startTimestamp - $eventB.startTimestamp <= 5s && 0 < $eventB.endTimestamp - $eventA.endTimestamp <= 5s </pre> <ul><li>If two values are defined, the first value will be the minimum distance between the timestamps of both events, while the second value will be the maximum distance between the timestamps of both events. Example:</li></lu> <pre>$eventA : EventA( this during[ 5s, 10s ] $eventB )</pre> Will match if and only if: <pre> 5s <= $eventA.startTimestamp - $eventB.startTimestamp <= 10s && 5s <= $eventB.endTimestamp - $eventA.endTimestamp <= 10s </pre> <ul><li>If four values are defined, the first two values will be the minimum and maximum distances between the start timestamp of both events, while the last two values will be the minimum and maximum distances between the end timestamp of both events. Example:</li></lu> <pre>$eventA : EventA( this during[ 2s, 6s, 4s, 10s ] $eventB )</pre> Will match if and only if: <pre> 2s <= $eventA.startTimestamp - $eventB.startTimestamp <= 6s && 4s <= $eventB.endTimestamp - $eventA.endTimestamp <= 10s </pre>
+
+
+DO NOT USE THIS YET. Use FactType instead.
+
+
+Wrapping an Eclipse compiler problem
+Eclipse compiler implementation
+Native Eclipse compiler settings
+(literalize edge type p1 p2 joined)
+
+(literalize edge_label p1 p2 l_name l_id)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A markup interface for builders
+
+
+
+
+
+
+This is a builder for the entry point pattern source.
+
+
+An interface for the entry point declaration descriptor builder
+
+An entry point descriptor for facts. This is part of the support to multi-stream concurrent event assertion.
+This class defines a Rete "Entry Point". An entry point is used as a source of facts that are scoped to a separate alpha network. The alpha network is not shared among separate entry points and this allows them to safelly run in parallel and concurrent modes.
+
+A node that is an entry point into the Rete network. As we move the design to support network partitions and concurrent processing of parts of the network, we also need to support multiple, independent entry points and this class represents that. It replaces the function of the Rete Node class in previous designs.
+
+Declares an enum class to be dynamically created
+
+
+
+
+
+
+
+Declares an enum to be dynamically generated.
+
+
+
+
+
+
+
+
+
+Upon instantiation the EqualityKey caches the first Object's hashCode this can never change. The EqualityKey has an internal datastructure which references all the handles which are equal. It also records Whether the referenced facts are JUSTIFIED or STATED
+
+Object type that indicates a equivalence between two objects. Equivalence happens when the LHS of the rules are redundant, but the LHS is different.
+This is the super of the error handlers. Each error handler knows how to report a compile error of its type, should it happen. This is needed, as the compiling is done as one hit at the end, and we need to be able to work out what rule/ast element caused the error. An error handler it created for each class task that is queued to be compiled. This doesn't mean an error has occurred, it just means it *may* occur in the future and we need to be able to map it back to the AST element that originally spawned the code to be compiled.
+
+
+
+
+
+
+A descriptor builder for evals
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+
+
+
+
+
+A public interface to be implemented by all evaluators
+This is a super class for all restrictions that are based on evaluators.
+A simple helper class to store Evaluators for a given set of value types and operators
+
+An evaluator definition interface that allows for pluggable evaluator implementation. This interface is the register entry point for all available evaluators and describes all evaluator capabilities
+
+A registry class for all available evaluators
+
+
+An EvaluatorWrapper is used when executing MVEL expressions that have operator calls rewritten as: operator.evaluate( leftArg, rightArg )
+
+
+
+
+
+
+Parse an excel spreadsheet, pushing cell info into the SheetListener interface.
+
+
+
+
+
+
+
+
+
+
+Execution Frame interface represents a stack frame on the FEEL runtime
+
+
+
+This contains lists of rules to include in the scenario (or exclude, as the case may be !). This will be used to filter the rule engines behaviour under test.
+
+
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+<code>ExistsNode</code> extends <code>BetaNode</code> to perform tests for the existence of a Fact plus one or more conditions. Where existence is found the left ReteTuple is copied and propagated. Further to this it maintains the "truth" by canceling any <code>Activation<code>s that are no longer considered true by the retraction of ReteTuple's or FactHandleImpl. Tuples are considered to be asserted from the left input and facts from the right input. The <code>BetaNode</code> provides the BetaMemory to store asserted ReteTuples and <code>FactHandleImpl<code>s. Each fact handle is stored in the right memory.
+
+Expanders are extension points for expanding expressions in DRL at parse time. This is just-in-time translation, or macro expansion, or whatever you want. The important thing is that it happens at the last possible moment, so any errors in expansion are included in the parsers errors. Just-in-time expansions may include complex pre-compilers, or just macros, and everything in between. Expanders should ideally not make presumptions on any embedded semantic language. For instance, java aware pre processing should be done in drools-java semantic module, not in the parser itself. Expanders should be reusable across semantic languages.
+
+
+All assertions on results.
+
+
+
+
+
+
+
+This represents a constraint in a pattern defined by an arbitrary expression. The constraint can be any valid java/mvel expression.
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+
+
+
+
+
+
+This expression represent a bound field.
+
+
+
+
+
+ExpressionPart representing a ExpressionMethod parameter
+Meta Data for a ExpressionMethod's parameter definitions.
+
+
+
+
+
+
+
+
+
+
+<code>RuleSet</code> loader. Note you can override the default entity resolver by setting the System property of: <code>org.kie.api.io.EntityResolve</code> to your own custom entity resolver. This can be done using -Dorg.drools.io.EntityResolver=YourClassHere on the command line, for instance.
+
+
+
+FEEL expression language engine interface This class is the entry point for the engine use
+An implementation of the FEEL marshaller interface that converts FEEL objects into it's string representation and vice versa
+An interface for FEEL related events
+A base class with common functionality to all events
+A general interface for a FEEL event listener
+
+
+An interface for all FEEL functions, custom or built-in
+Language runtime entry point
+A generic marshaller interface for FEEL values
+
+
+
+An implementation of the FEEL marshaller interface that converts FEEL objects into it's string representation and vice versa
+
+
+
+
+
+
+
+
+
+
+
+An interface for Fact Fields
+
+Factory Interface to return new <code>FactHandle</code>s
+import woolfel.engine.rule.Rule;
+A fact pattern is a declaration of a fact type, and its constraint, and perhaps a variable that is it bound to It is the equivalent of a "pattern" in drools terms.
+Adaptor to use RuleModel class in GuidedDecisionTable
+
+
+
+
+
+
+
+
+
+
+FactType declarations are fact definitions (like classes) that are managed alongside the rules. You then communicate with the rulebase/knowledge base by using instances created by this. There are utility set and get methods on this, as well as in the FieldAccessors. The Object that is used is a javabean (which was generated by the rules). You can also use reflection on it as normal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An interface for Accessor classes that joins both reader and writer accessor methods
+This class holds a dynamically generated instance of a FieldAccessor, and a map of the field names to index numbers that are used to access the fields.
+
+This is the top level interface for all field constraints. These may be composites.
+This represents a literal node in the rule language. This is a constraint on a single field of a pattern. The "text" contains the content, which may also be an enumeration.
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+Declares a field to be dynamically generated.
+A descriptor builder for Globals
+
+
+
+
+This is just a place holder for empty field cells.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Borrowed gratuitously from Spring under ASL2.0.
+
+
+
+<p>The implementation of the <code>finishedby</code> evaluator definition.</p> <p>The <b><code>finishedby</code></b> evaluator correlates two events and matches when the current event start timestamp happens before the correlated event start timestamp, but both end timestamps occur at the same time. This is the symmetrical opposite of <code>finishes</code> evaluator.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this finishedby $eventB )</pre> <p>The previous pattern will match if and only if the $eventA starts before $eventB starts and finishes at the same time $eventB finishes. In other words:</p> <pre> $eventA.startTimestamp < $eventB.startTimestamp && $eventA.endTimestamp == $eventB.endTimestamp </pre> <p>The <b><code>finishedby</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the end timestamp of both events in order for the operator to match. Example:</p> <pre>$eventA : EventA( this finishedby[ 5s ] $eventB )</pre> Will match if and only if: <pre> $eventA.startTimestamp < $eventB.startTimestamp && abs( $eventA.endTimestamp - $eventB.endTimestamp ) <= 5s </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+
+<p>The implementation of the <code>finishes</code> evaluator definition.</p> <p>The <b><code>finishes</code></b> evaluator correlates two events and matches when the current event's start timestamp happens after the correlated event's start timestamp, but both end timestamps occur at the same time.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this finishes $eventB )</pre> <p>The previous pattern will match if and only if the $eventA starts after $eventB starts and finishes at the same time $eventB finishes. In other words:</p> <pre> $eventB.startTimestamp < $eventA.startTimestamp && $eventA.endTimestamp == $eventB.endTimestamp </pre> <p>The <b><code>finishes</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the end timestamp of both events in order for the operator to match. Example:</p> <pre>$eventA : EventA( this finishes[ 5s ] $eventB )</pre> Will match if and only if: <pre> $eventB.startTimestamp < $eventA.startTimestamp && abs( $eventA.endTimestamp - $eventB.endTimestamp ) <= 5s </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+
+
+
+
+
+
+
+
+
+
+A fixed truthness duration.
+
+All test fixtures implement this.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A fluent interface to the {@link KieModuleDeploymentHelper} functionality. See the {@link KieModuleDeploymentHelper} for more info.
+
+
+
+
+A descr class for for functions
+The forall conditional element.
+The Reteoo component builder for forall CE
+
+A descriptor builder for Forall
+An implementation for the CEDescrBuilder
+
+This is a free form line which will be rendered and displayed-as-is. Allows users to put anything in via guided editor. Use with caution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A descriptor builder for functions
+
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+A descriptor for imported static functions
+
+
+
+
+
+Wrapper for functions. Functions must be written in the appropriate style, no formatting is contributed here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is a marker interface implemented by classes dinamically generated from declared types or facts
+<a href="stevearoonie@gmail.com">Steven Williams</a> Generate the rules for a decision table
+A Rule Model Visitor to extract Interpolation Variables (Template Keys). This version also identifies whether components of a RuleModel use non-template constraints.
+
+An MBean to monitor a given knowledge session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Represents an application-data tag (nominally at the rule-set level). The idea of this can be extended to other ruleset level settings.
+
+A descriptor class for globals.
+A descriptor builder for Globals
+
+
+Used to provide a strategy for the StatelessSession global exportation, so that StatelessSessionResult can have accesso to globals using during the execute(...) method that returned the StatelessSessionResult.
+This is a global variable extractor used to get a global variable value
+
+
+
+
+
+
+
+
+
+A grand parent class
+
+
+
+
+
+
+
+
+A simple factory for GroupElements
+
+
+
+A specialised implementation of BRDELPersistence that can expand Template Keys to values
+Utility class to build Field Constraints for cells with "Otherwise" values
+This takes care of converting GuidedDT object to DRL (via the RuleModel).
+Utilities to support Guided Decision Table operations
+A Template value provider backed by a Decision Table
+
+
+This is a decision table model for a guided editor. It is not template or XLS based. (template could be done relatively easily by taking a template, as a String, and then String[][] data and driving the SheetListener interface in the decision tables module). This works by taking the column definitions, and combining them with the table of data to produce rule models.
+
+
+
+Helper class to upgrade model used for Guided Decision Table. This implementation converts legacy GuidedDecisionTable objects to GuidedDecisionTable52 objects used from Guvnor 5.2 onwards.
+Helper class to upgrade data-types for Guided Decision Table. This implementation ensures the RowNumber, Salience and Duration columns have data of the correct data-type. Support for this was added for Guvnor v5.4.
+Helper class to upgrade Default Values to DTCellValue52 objects instead of Strings. Support for this was added for Guvnor v5.4.
+
+This takes care of converting GuidedDecisionTree object to DRL
+Visitor that converts the GuidedDecisionTree into DRL
+Visitor that converts DRL into GuidedDecisionTree
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implementations can be bound to a variable
+Implementations support CEP "windows"
+
+The Constraint has an Expression
+
+Implementations have an operator
+Implementations have parameters
+Implementations have a value
+
+Fast re-usable iterator
+This class is used to hold information for Hashed {@link org.kie.reteoo.AlphaNode}s for generated subclasses of {@link CompiledNetwork}.
+
+
+
+This is a sample file to launch a rule package from a rule source file.
+
+
+
+
+Encodes a hierachy using bit masks, according to the algorithm described in M.F. van Bommel, P. Wang, Encoding Multiple Inheritance Hierarchies for Lattice Operations Data & Knowledge Engineering 50 (2004) 175-194
+
+
+
+An event class to report a hit policy violation on a decision table
+
+
+
+
+
+
+
+Class with non-ASCII characters.
+
+
+
+
+
+
+
+
+
+
+Interface for Patterns that contains a Fact Type
+An event filter that can be used to filter log events.
+
+
+
+
+
+
+
+
+
+
+
+(literalize illegal bp l_id)
+
+
+
+Represents an import (nominally at the rule-set level). The idea of this can be extended to other ruleset level settings.
+
+A class to represent an import declaration.
+
+An interface for the import builder
+
+
+
+
+
+
+<p>The implementation of the <code>includes</code> evaluator definition.</p> <p>The <b><code>includes</code></b> evaluator correlates two events and matches when the event being correlated happens during the current event. It is the symmetrical opposite of <code>during</code> evaluator.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this includes $eventB )</pre> <p>The previous pattern will match if and only if the $eventB starts after $eventA starts and finishes before $eventA finishes. In other words:</p> <pre> $eventA.startTimestamp < $eventB.startTimestamp <= $eventB.endTimestamp < $eventA.endTimestamp </pre> <p>The <b><code>includes</code></b> operator accepts 1, 2 or 4 optional parameters as follow:</p> <ul><li>If one value is defined, this will be the maximum distance between the start timestamp of both event and the maximum distance between the end timestamp of both events in order to operator match. Example:</li></lu> <pre>$eventA : EventA( this includes[ 5s ] $eventB )</pre> Will match if and only if: <pre> 0 < $eventB.startTimestamp - $eventA.startTimestamp <= 5s && 0 < $eventA.endTimestamp - $eventB.endTimestamp <= 5s </pre> <ul><li>If two values are defined, the first value will be the minimum distance between the timestamps of both events, while the second value will be the maximum distance between the timestamps of both events. Example:</li></lu> <pre>$eventA : EventA( this includes[ 5s, 10s ] $eventB )</pre> Will match if and only if: <pre> 5s <= $eventB.startTimestamp - $eventA.startTimestamp <= 10s && 5s <= $eventA.endTimestamp - $eventB.endTimestamp <= 10s </pre> <ul><li>If four values are defined, the first two values will be the minimum and maximum distances between the start timestamp of both events, while the last two values will be the minimum and maximum distances between the end timestamp of both events. Example:</li></lu> <pre>$eventA : EventA( this includes[ 2s, 6s, 4s, 10s ] $eventB )</pre> Will match if and only if: <pre> 2s <= $eventB.startTimestamp - $eventA.startTimestamp <= 6s && 4s <= $eventA.endTimestamp - $eventB.endTimestamp <= 10s </pre>
+
+Object type that indicates an incompatibility between two objects. Incompatibility happens when there is no value that would satisfy both objects. Example: A: x > 10 B: x == 100
+
+
+
+
+
+
+
+
+IndexedNumber Created: 22/06/2006
+This class should be for testing purposes only Use @see{TypeHierarchy} instead.
+
+
+
+
+
+
+Initial fact, automatically put into the network. This fact is needed by 'not' CEs when they are the CEs in the rule.
+We dont want users to be able to instantiate InitialFact so we expose it as an interface and make the class and its constructor package protected
+
+
+
+
+
+
+
+
+
+
+
+
+Provides valid input types for decision tables. (which also serve as parser factories).
+
+
+
+An Audit Event for when a column is inserted
+
+
+
+An Audit Event when a row is inserted
+
+InstanceEqualsConstraint Created: 21/06/2006
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void setWorkingMemory(InternalWorkingMemory workingMemory);  InternalWorkingMemory getWorkingMemory();  void addActivation(Activation activation);  void removeActivation(final Activation activation);  void clear();  /** * Checks if this ruleflow group is active and should automatically deactivate. * If the queue is empty, it deactivates the group. */ public void deactivateIfEmpty();  /** * Activates or deactivates this <code>RuleFlowGroup</code>. * When activating, all activations of this <code>RuleFlowGroup</code> are added * to the agenda. * As long as the <code>RuleFlowGroup</code> remains active, * its activations are automatically added to the agenda. * When deactivating, all activations of this <code>RuleFlowGroup</code> are removed * to the agenda. * As long as the <code>RuleFlowGroup</code> remains deactive, * its activations are not added to the agenda. */ void setActive(boolean active);  boolean isActive();  void addNodeInstance(Long processInstanceId, String nodeInstanceId);  void removeNodeInstance(Long processInstanceId, String nodeInstanceId);  public Activation[] getActivations();  Map<Long, String> getNodeInstances();  public void setActivatedForRecency(long recency);  public long getActivatedForRecency();  public void setClearedForRecency(long recency);  public long getClearedForRecency();
+
+
+
+Exposes the work items outside of the manager.
+
+
+
+
+
+A class to represent a time interval. Specially useful to calculate time distance between events constrained by temporal constraints. If the interval is open, i.e., from -infinitum to +infinitum, the representation is created by using lowerBound = Long.MIN_VALUE and upperBound = Long.MAX_VALUE.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An event class to report a syntax error as returned by the parser
+An event class to report an evaluation error occured due to invalid parameters.
+
+The root of the tree was not a TypeNode (this should not happen for valid DRL).
+Indicates an error regarding the semantic validity of a rule.
+This exception is thrown when an invalid package (ie one that has errors) it attempted to be added to a RuleBase. The package and builder should be interrogated to show the specific errors.
+
+
+TODO FIXME make this extend MetaProperty
+public void set( T o, R value, Lit forw, Lit back ) { this.setOneWay( o, value, forw ); getInverse().setOneWay( value, o, back ); }
+
+
+
+
+
+
+
+
+
+
+
+
+<p>The implementation of the 'str' evaluator definition.</p> <p>The <b><code>str</code></b> compares two string values.</p> <p>Lets look at some examples:</p> <pre>$m : Message( routingValue str[startsWith] "R1" )</pre> <pre>$m : Message( routingValue str[endsWith] "R2" )</pre> <pre>$m : Message( routingValue str[length] 17 )</pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A default Scheduler implementation that uses the JDK built-in ScheduledThreadPoolExecutor as the scheduler and the system clock as the clock.
+
+
+
+
+
+
+
+Janino version of a CompilationProblem
+
+
+A builder for the java dialect accumulate version
+A Java accumulator function executor implementation
+An analysis result implementation for the java dialect
+
+
+
+The general compiler interface. All compilers implementing this interface should read the resources from the reader and store the java class files into the ResourceStore. The actual compilation language does not matter. But the contract is that the result of the compilation will be a class file. If possible the compiler should notify the optional CompilationProblemHandler as soon as a problem is found.
+Creates JavaCompilers TODO use META-INF discovery mechanism
+Most common denominator for JavaCompiler settings. If you need more specific settings you have to provide the native compiler configurations to the compilers. Writing of a custom factory is suggested.
+
+Specific implementation for MVEL
+
+There are options to use various flavours of runtime compilers. Apache JCI is used as the interface to all the runtime compilers. You can also use the system property "drools.compiler" to set the desired compiler. The valid values are "ECLIPSE" and "JANINO" only. drools.dialect.java.compiler = <ECLIPSE|JANINO> drools.dialect.java.compiler.lnglevel = <1.5|1.6> The default compiler is Eclipse and the default lngLevel is 1.5. The lngLevel will attempt to autodiscover your system using the system property "java.version" The JavaDialectConfiguration will attempt to validate that the specified compiler is in the classpath, using ClassLoader.loasClass(String). If you intented to just Janino sa the compiler you must either overload the compiler property before instantiating this class or the PackageBuilder, or make sure Eclipse is in the classpath, as Eclipse is the default.
+
+
+
+
+A helper class used during java code parsing to identify and handle exitPoints calls
+Expression analyzer.
+
+
+
+
+
+
+A helper class used during java code parsing to identify and handle exitPoints calls
+
+
+A descriptor class for a local variable declaration in a java code block
+A helper class used during java code parsing to identify and handle modify(){} blocks
+A Java 1.5 grammar for ANTLR v3 derived from the spec This is a very close representation of the spec; the changes are comestic (remove left recursion) and also fixes (the spec isn't exactly perfect).  I have run this on the 1.4.2 source and some nasty looking enums from 1.5, but have not really tested for 1.5 compatibility. I built this with: java -Xmx100M org.antlr.Tool java.g and got two errors that are ok (for now): java.g:691:9: Decision can match input such as "'0'..'9'{'E', 'e'}{'+', '-'}'0'..'9'{'D', 'F', 'd', 'f'}" using multiple alternatives: 3, 4 As a result, alternative(s) 4 were disabled for that input java.g:734:35: Decision can match input such as "{'$', 'A'..'Z', '_', 'a'..'z', '\u00C0'..'\u00D6', '\u00D8'..'\u00F6', '\u00F8'..'\u1FFF', '\u3040'..'\u318F', '\u3300'..'\u337F', '\u3400'..'\u3D2D', '\u4E00'..'\u9FFF', '\uF900'..'\uFAFF'}" using multiple alternatives: 1, 2 As a result, alternative(s) 2 were disabled for that input You can turn enum on/off as a keyword :) Version 1.0 -- initial release July 5, 2006 (requires 3.0b2 or higher) Primary author: Terence Parr, July 2006 Version 1.0.1 -- corrections by Koen Vanderkimpen & Marko van Dooren, October 25, 2006; fixed normalInterfaceDeclaration: now uses typeParameters instead of typeParameter (according to JLS, 3rd edition) fixed castExpression: no longer allows expression next to type (according to semantics in JLS, in contrast with syntax in JLS) Version 1.0.2 -- Terence Parr, Nov 27, 2006 java spec I built this from had some bizarre for-loop control. Looked weird and so I looked elsewhere...Yep, it's messed up. simplified. Version 1.0.3 -- Chris Hogue, Feb 26, 2007 Factored out an annotationName rule and used it in the annotation rule. Not sure why, but typeName wasn't recognizing references to inner `1111111   annotations (e.g. @InterfaceName.InnerAnnotation()) Factored out the elementValue section of an annotation reference.  Created elementValuePair and elementValuePairs rules, then used them in the annotation rule.  Allows it to recognize annotation references with multiple, comma separated attributes. Updated elementValueArrayInitializer so that it allows multiple elements. (It was only allowing 0 or 1 element). Updated localVariableDeclaration to allow annotations.  Interestingly the JLS doesn't appear to indicate this is legal, but it does work as of at least JDK 1.5.0_06. Moved the Identifier portion of annotationTypeElementRest to annotationMethodRest. Because annotationConstantRest already references variableDeclarator which has the Identifier portion in it, the parser would fail on constants in annotation definitions because it expected two identifiers. Added optional trailing ';' to the alternatives in annotationTypeElementRest. Wouldn't handle an inner interface that has a trailing ';'. Swapped the expression and type rule reference order in castExpression to make it check for genericized casts first.  It was failing to recognize a statement like  "Class<Byte> TYPE = (Class<Byte>)...;" because it was seeing 'Class<Byte' in the cast expression as a less than expression, then failing on the '>'. Changed createdName to use typeArguments instead of nonWildcardTypeArguments. Again, JLS doesn't seem to allow this, but java.lang.Class has an example of of this construct. Changed the 'this' alternative in primary to allow 'identifierSuffix' rather than just 'arguments'.  The case it couldn't handle was a call to an explicit generic method invocation (e.g. this.<E>doSomething()).  Using identifierSuffix may be overly aggressive--perhaps should create a more constrained thisSuffix rule? Version 1.0.4 -- Hiroaki Nakamura, May 3, 2007 Fixed formalParameterDecls, localVariableDeclaration, forInit, and forVarControl to use variableModifier* not 'final'? (annotation)?
+
+
+
+
+
+
+A helper class used during java code parsing to identify and handle update() blocks
+
+
+
+
+This is actually a wrapper for the following collections: - list - set - map
+
+
+
+Do not return an instance of Arrays.asList() -- that implementation is *not* modifiable! 7.0 plans: - move this at least to kie-internal - use JaxbObjectObjectPair instead of JaxbStringObjectPair for maps
+This will generate a jar from a meta model.
+
+
+An interface for Job Handles
+
+
+
+
+A default Scheduler implementation that uses the JDK built-in ScheduledThreadPoolExecutor as the scheduler and the system clock as the clock.
+
+This class manages {@link JpaPersistenceContext} objects, and the underlying persistence context ({@link EntityManager}) instances for a persistent {@link KieSession} and other infrastructure classes that use persistence in KIE projects. </p> (For reference in the following documentation: the {@link EntityManager} is the class used to represent a persistence context) </p> There are 2 issues to take into account when looking at or modifying the code here: <ol> <li>One of the features made available here is the ability for the user to supply their own (Command Scoped) persistence context for use by the {@link KieSession}</li> <li>However, significant race-conditions arise when a Command Scoped persistence context is used in one persistent {@link KieSession} by multiple threads. In other words, when multiple threads call operations on a Singleton persistent {@link KieSession}.</li> </ol> This class uses {@link ThreadLocal} instances for two things:<ol> <li>The internal Command Scoped {@link EntityManager} instance.</li> <li></li> </ol>
+
+
+
+Implementation of {@link org.drools.persistence.TransactionManager} that creates {@link JtaTransactionManager} instances.
+
+(literalize junction p1 p2 p3 base_point type name visited)
+
+
+
+
+
+
+
+
+Common utilities for loading KJar used in tests.
+
+
+
+
+A helper class to deal with the key store and signing process during Serialisation <p> This class will read and use the following system properties: <p> drools.serialization.sign = <false|true> drools.serialization.private.keyStoreURL = <URL> drools.serialization.private.keyStorePwd = <password> drools.serialization.private.keyAlias = <key> drools.serialization.private.keyPwd = <password> drools.serialization.public.keyStoreURL = <URL> drools.serialization.public.keyStorePwd = <password>
+
+
+An mbean monitor class for the knowledgebase configuration
+
+
+
+Basic provider class for KieBaseModel instances.
+
+
+Util class that provides various methods related to KieBase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+additional functions not part of the spec version 1.1
+
+
+
+This class contains a set of utility functions that were created with the aim to be used in the context of a process's action scripts and conditions scripts. To make the life of the script programmer easier. This class will be automatically imported by the platform when process script related classes are generated. So the user don't have to take care of import this class. An example of use of this class in a process condition script can be something like this. return KieFunctions.isTrue(approved) && !KieFunctions.equals(invoiceType, "external") && KieFunctions.greaterThan(amount, "15000");
+
+
+
+
+@@protoc_insertion_point(outer_class_scope)
+
+
+This class provides users with the ability to programmatically create kjars and deploy them to the available maven repositories. </p> Both a fluent and "single-method" interface are provided.
+This is the main class where all interfaces and code comes together.
+
+
+Discovers all KieModules on the classpath, via the kmodule.xml file. KieBaseModels and KieSessionModels are then indexed, with helper lookups Each resulting KieModule is added to the KieRepository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Basic provider class for KieSessionModel instances.
+
+Util class that provides various methods related to KieSession.
+Util class that provides various methods related to Kie API.
+
+
+
+
+<p> This factory will create and return a KnowledgeBase instance, an optional KnowledgeBaseConfiguration can be provided. The KnowledgeBaseConfiguration is also itself created from this factory. </p> <pre> KnowledgeBase kbase = KnowledgeBaseFactory.newKnowledgeBase(); </pre> <p> Create sequential KnowledgeBase using the given ClassLoader. </p> <pre> Properties properties = new Properties(); properties.setOption( SequentialOption.YES ); KnowledgeBaseConfiguration kbConf = KnowledgeBaseFactory.newKnowledgeBaseConfiguration(properties, myClassLoader); KnowledgeBase kbase = KnowledgeBaseFactory.newKnowledgeBase(kbConf); </pre> <p> The above could also have used the supported property </p> <pre> properties.setProperty( "org.kie.sequential", "true"); </pre>
+
+An implementation for the KnowledgeBaseMBean
+This class configures the package compiler. Dialects and their DialectConfigurations  are handled by the DialectRegistry Normally you will not need to look at this class, unless you want to override the defaults. This class is not thread safe and it also contains state. Once it is created and used in one or more PackageBuilders it should be considered immutable. Do not modify its properties while it is being used by a PackageBuilder. drools.dialect.default = <String> drools.accumulate.function.<function name> = <qualified class> drools.evaluator.<ident> = <qualified class> drools.dump.dir = <String> drools.classLoaderCacheEnabled = true|false default dialect is java. Available preconfigured Accumulate functions are: drools.accumulate.function.average = org.kie.base.accumulators.AverageAccumulateFunction drools.accumulate.function.max = org.kie.base.accumulators.MaxAccumulateFunction drools.accumulate.function.min = org.kie.base.accumulators.MinAccumulateFunction drools.accumulate.function.count = org.kie.base.accumulators.CountAccumulateFunction drools.accumulate.function.sum = org.kie.base.accumulators.SumAccumulateFunction drools.parser.processStringEscapes = true|false drools.problem.severity.<ident> = ERROR|WARNING|INFO
+
+
+KnowledgeHelper implementation types are injected into consequenses instrumented at compile time and instances passed at runtime. It provides convenience methods for users to interact with the WorkingMemory. <p> Of particular interest is the update method as it allows an object to be modified without having to specify the facthandle, because they are not passed to the consequence at runtime. To achieve this the implementation will need to lookup the fact handle of the object form the WorkingMemory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+private Map<String, >
+LHS DRL generation context object
+Factory for Generator Contexts
+(literalize label id type name n1 n2 n3)
+
+
+
+
+
+
+
+
+This generates a large number of rules (complex ones) and then times compiling, serializing etc.
+
+
+
+
+
+
+
+All asserting Facts must propagated into the right <code>ObjectSink</code> side of a BetaNode, if this is the first Pattern then there are no BetaNodes to propagate to. <code>LeftInputAdapter</code> is used to adapt an ObjectSink propagation into a <code>TupleSource</code> which propagates a <code>ReteTuple</code> suitable fot the right <code>ReteTuple</code> side of a <code>BetaNode</code>.
+
+
+
+
+
+
+
+
+
+Receiver of propagated <code>ReteTuple</code>s from a <code>TupleSource</code>.
+Items placed in a <code>LinkedList<code> must implement this interface .
+This is a simple linked linked implementation. Each node must implement </code>LinkedListNode<code> so that it references the node before and after it. This way a node can be removed without having to scan the list to find it. This class does not provide an Iterator implementation as its designed for efficiency and not genericity. There are a number of ways to iterate the list. <p> Simple iterator: <pre> for ( LinkedListNode node = list.getFirst(); node != null; node =  node.remove() ) { } </pre> Iterator that pops the first entry: <pre> for ( LinkedListNode node = list.removeFirst(); node != null; node = list.removeFirst() ) { } </pre>
+
+A source of <code>ReteTuple</code> s for a <code>TupleSink</code>. <p> Nodes that propagate <code>Tuples</code> extend this class. </p>
+
+Created by IntelliJ IDEA. User: davide Date: 2/12/11 Time: 11:46 PM To change this template use File | Settings | File Templates.
+
+This utility will build up a list of constraints for a column. For instance, the column has been spanned across multiple cells, and the cells below contain the constraints.
+A column that sets a field on a new fact.
+Details of a Limited Entry ActionInsertFact column
+A column representing the retraction of a Fact on a Limited Entry decision table. The Value will be the String identifier of the Fact Pattern being retracted.
+A column that sets the value of an existing fact.
+Details of a Limited Entry ActionSetField column
+This is the config for a BRLActionColumn that supports Limited Entry. Since a Limited Entry BRLActionColumn contains the literal values in the BRL definition it does not have a discrete value itself.
+This is the config for a BRLConditionColumn that supports Limited Entry. Since a Limited Entry BRLConditionColumn contains the literal values in the BRL definition it does not have a discrete value itself.
+Limited Entry columns need to store their value
+This is the config for a condition column that supports Limited Entry, hence it has a value. Typically many of them have their constraints added.
+Details of a Limited Entry Condition column
+
+
+This is a simple linked linked implementation. Each node must implement </code>LinkedListNode<code> so that it references the node before and after it. This way a node can be removed without having to scan the list to find it. This class does not provide an Iterator implementation as its designed for efficiency and not genericity. There are a number of ways to iterate the list. <p> Simple iterator: <pre> for ( LinkedListNode node = list.getFirst(); node != null; node =  node.remove() ) { } </pre> Iterator that pops the first entry: <pre> for ( LinkedListNode node = list.removeFirst(); node != null; node = list.removeFirst() ) { } </pre>
+The idea behind <code>LinkedListNodeWrapper</code> is to be able to add the same <code>LinkedListNode</code> to multiple <code>LinkedList</code>s where the node can have different previous and next nodes in each list.
+Items placed in a <code>LinkedList<code> must implement this interface .
+Representation for DMN XSD tList type.
+
+
+
+
+
+
+
+
+
+
+
+This represents a literal node in the rule language. This is a constraint on a single field of a pattern. The "text" contains the content.
+
+
+
+
+An event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the working memory.
+
+
+LogicTransformation is reponsible for removing redundant nodes and move Or nodes upwards. This class does not turn Exists into two Nots at this stage, that role is delegated to the Builder.
+
+
+
+
+
+
+A cell in a decision table containing a long value
+A column of type Long in a decision table
+
+
+
+
+
+
+
+A builder for the java dialect accumulate version
+An MVEL accumulator function executor implementation
+An analysis result implementation for the MVEL dialect
+
+
+
+
+
+
+
+
+
+A class field extractor that uses MVEL engine to extract the actual value for a given expression. We use MVEL to resolve nested accessor expressions.
+
+Debug Handler for MVEL dialect. Takes care of registering breakpoints and calling required methods to trigger eclipse debugger to keep breakpoints in sync etc.
+
+The MVEL dialect. drools.dialect.mvel.strict = <true|false> Default strict is true, which means all expressions and the consequence are type safe. However dynamic mode is still used while executed nested accessors in the field constraints.
+
+
+
+
+
+
+Expression analyzer.
+
+A builder for "from" conditional element
+A class field extractor that uses MVEL engine to extract the actual value for a given expression. We use MVEL to resolve nested accessor expressions.
+A class field extractor that uses MVEL engine to extract the actual value for a given expression. We use MVEL to resolve nested accessor expressions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A map-based type descriptor
+
+
+
+
+
+
+
+MappingError A class to represent errors found in a DSL mapping Created: 11/04/2006
+
+
+
+
+
+
+This class defines the matches evaluator
+
+
+Utility methods for math classes
+
+
+Util class that provides various methods related to Maven.
+An implementation of an accumulator capable of calculating maximum values
+
+
+
+<p>The implementation of the <code>meets</code> evaluator definition.</p> <p>The <b><code>meets</code></b> evaluator correlates two events and matches when the current event's end timestamp happens at the same time as the correlated event's start timestamp.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this meets $eventB )</pre> <p>The previous pattern will match if and only if the $eventA finishes at the same time $eventB starts. In other words:</p> <pre> abs( $eventB.startTimestamp - $eventA.endTimestamp ) == 0 </pre> <p>The <b><code>meets</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the end timestamp of current event and the start timestamp of the correlated event in order for the operator to match. Example:</p> <pre>$eventA : EventA( this meets[ 5s ] $eventB )</pre> Will match if and only if: <pre> abs( $eventB.startTimestamp - $eventA.endTimestamp) <= 5s </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+
+A super interface for node memories
+
+
+
+
+
+
+A memory based reader to compile from memory
+
+
+
+
+
+
+
+
+
+
+
+
+
+A helper class to report messages
+
+<p>The implementation of the <code>metby</code> evaluator definition.</p> <p>The <b><code>metby</code></b> evaluator correlates two events and matches when the current event's start timestamp happens at the same time as the correlated event's end timestamp.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this metby $eventB )</pre> <p>The previous pattern will match if and only if the $eventA starts at the same time $eventB finishes. In other words:</p> <pre> abs( $eventA.startTimestamp - $eventB.endTimestamp ) == 0 </pre> <p>The <b><code>metby</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the end timestamp of the correlated event and the start timestamp of the current event in order for the operator to match. Example:</p> <pre>$eventA : EventA( this metby[ 5s ] $eventB )</pre> Will match if and only if: <pre> abs( $eventA.startTimestamp - $eventB.endTimestamp) <= 5s </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+public NewInstance<T> newInstance( Object id, With... args );
+
+
+This is a rule metadata - eg @foo(bar) etc.
+Details of a Metadata column
+
+
+
+
+The purpose of this utility it to check if 2 method implementations are equivalent, by comparing the bytecode. This essentual for node sharing where java semantics are involved.
+
+
+
+
+An implementation of an accumulator capable of calculating minimun values
+
+
+
+
+
+
+
+
+
+
+
+A Mock accumulate object.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A JobHandle container for scheduling multiple jobs
+An interface to represent pattern destinations
+
+A base class for constraints
+An MVEL accumulator implementation
+
+
+Specific implementation for MVEL
+
+
+
+
+
+
+
+
+
+
+
+
+
+A name is defined either as a sequence of tokens or as a String. This class supports both, although they should not be used interchangeably.
+
+
+
+
+
+A builder implementation for NamedConsequenceDescr using a fluent API.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Receive notification of the logical parts of the RETE-OO network. todo: finish documenting
+An abstract adapter class for receiving network node events from the {@link org.kie.reteoo.compiled.ObjectTypeNodeParser}. The methods in this class are empty. This class exists as convenience for creating handler objects. <P> Extend this class to create a <code>NetworkHandler</code> and override the methods for the nodes of interest. (If you implement the {@link NetworkHandler} interface, you have to define all of the methods in it. This abstract class defines null methods for them all, so you can only have to define methods for events you care about.) <P>
+Interface used to expose generic information on Rete nodes outside of he package. It is used for exposing information events.
+
+
+
+
+
+
+
+Validity exception indicating that a <code>Rule</code> does not contain a <code>Consequence</code>s.
+
+
+
+An interface for node memories implementation
+
+ObjectSource   : < NodeTypeEnums.ObjectSource * LeftTupleSource: > LeftTupleSource BetaNode       : > BetaNode ObjectSink     : % 2 == 0 LeftSource     : % 2 != 0
+
+
+
+
+
+The not() function is a special case because it doubles both as a function and as a unary test.
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+
+
+
+Null listner.
+
+
+
+
+
+
+
+This class provides additional methods for invoking the template compiler, taking the actual parameters from maps or objects.
+An object of this class acts as a DataProvider for rule templates. It may be created with a collection of maps or objects. The template's column names are used as keys or Bean-stype accessors to obtain the actual parameters for the substitution.
+
+
+
+ObjectFilter is used with WorkingMemories to filter out instances during Iteration
+
+
+
+An object event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the working memory. It contains the fact id and a String represention of the object at the time the event was logged.
+
+Receiver of propagated <code>FactHandleImpl</code>s from a <code>ObjectSource</code>.
+Items placed in a <code>LinkedList<code> must implement this interface .
+This is a simple linked linked implementation. Each node must implement </code>LinkedListNode<code> so that it references the node before and after it. This way a node can be removed without having to scan the list to find it. This class does not provide an Iterator implementation as its designed for efficiency and not genericity. There are a number of ways to iterate the list. <p> Simple iterator: <pre> for ( LinkedListNode node = list.getFirst(); node != null; node =  node.remove() ) { } </pre> Iterator that pops the first entry: <pre> for ( LinkedListNode node = list.removeFirst(); node != null; node = list.removeFirst() ) { } </pre>
+
+A source of <code>FactHandle</code>s for an <code>ObjectSink</code>. <p> Nodes that propagate <code>FactHandleImpl</code> extend this class. </p>
+
+Semantic object type differentiator.
+
+
+
+<code>ObjectTypeNodes<code> are responsible for filtering and propagating the matching fact assertions propagated from the <code>Rete</code> node using <code>ObjectType</code> interface. <p/> The assert and retract methods do not attempt to filter as this is the role of the <code>Rete</code> node which builds up a cache of matching <code>ObjectTypdeNodes</code>s for each asserted object, using the <code>matches(Object object)</code> method. Incorrect propagation in these methods is not checked and will result in <code>ClassCastExpcections</code> later on in the network. <p/> Filters <code>Objects</code> coming from the <code>Rete</code> using a <code>ObjectType</code> semantic module.
+todo: document
+The monitor MBean for ObjectTypeNodes
+This class is used for reading an {@link ObjectTypeNode} using callbacks. <p/> The user defines a number of callback methods in a {@link NetworkHandler} that will be called when events occur during parsing. The events include : <li>ObjectTypeNode</li> <li>Non-hashed and hashed AlphaNodes</li> <li>BetaNodes</li> <li>LeftInputAdapterNodes</li> <p/> Events are fired when each of these network features are encountered, and again when the end of them is encountered. OTN parsing is unidirectional; previously parsed data cannot be re-read without starting the parsing operation again.
+
+
+
+
+
+
+
+
+
+
+
+An "open" BitSet implementation that allows direct access to the array of words storing the bits. <p/> Unlike java.util.bitset, the fact that bits are packed into an array of longs is part of the interface.  This allows efficient implementation of other algorithms by someone other than the author.  It also allows one to efficiently implement alternate serialization or interchange formats. <p/> <code>OpenBitSet</code> is faster than <code>java.util.BitSet</code> in most operations and *much* faster at calculating cardinality of sets and results of set operations. It can also handle sets of larger cardinality (up to 64 * 2**32-1) <p/> The goals of <code>OpenBitSet</code> are the fastest implementation possible, and maximum code reuse.  Extra safety and encapsulation may always be built on top, but if that's built in, the cost can never be removed (and hence people re-implement their own version in order to get better performance). If you want a "safe", totally encapsulated (and slower and limited) BitSet class, use <code>java.util.BitSet</code>. <p/> <h3>Performance Results</h3> Test system: Pentium 4, Sun Java 1.5_06 -server -Xbatch -Xmx64M <br/>BitSet size = 1,000,000 <br/>Results are java.util.BitSet time divided by OpenBitSet time. <table border="1"> <tr> <th></th> <th>cardinality</th> <th>intersect_count</th> <th>union</th> <th>nextSetBit</th> <th>get</th> <th>iterator</th> </tr> <tr> <th>50% full</th> <td>3.36</td> <td>3.96</td> <td>1.44</td> <td>1.46</td> <td>1.99</td> <td>1.58</td> </tr> <tr> <th>1% full</th> <td>3.31</td> <td>3.90</td> <td>&nbsp;</td> <td>1.04</td> <td>&nbsp;</td> <td>0.99</td> </tr> </table> <br/> Test system: AMD Opteron, 64 bit linux, Sun Java 1.5_06 -server -Xbatch -Xmx64M <br/>BitSet size = 1,000,000 <br/>Results are java.util.BitSet time divided by OpenBitSet time. <table border="1"> <tr> <th></th> <th>cardinality</th> <th>intersect_count</th> <th>union</th> <th>nextSetBit</th> <th>get</th> <th>iterator</th> </tr> <tr> <th>50% full</th> <td>2.50</td> <td>3.50</td> <td>1.00</td> <td>1.03</td> <td>1.12</td> <td>1.25</td> </tr> <tr> <th>1% full</th> <td>2.51</td> <td>3.49</td> <td>&nbsp;</td> <td>1.00</td> <td>&nbsp;</td> <td>1.02</td> </tr> </table>
+
+
+A descriptor to represent a relational operator
+
+Utility interface to define an operation to build DRL for a given set of parameters. The only existing use-case at present is to supplement CEP operators with additional meta-information.
+
+Object type that indicates an opposity between two objects. Opposity happens when only the values that would satisfy object A can not satisfy object B. Example: A: a == 10 B: a != 10
+
+ExecutableInterceptor that is capable of retrying command execution. It is intended to retry only if right exception has been thrown. By default it will look for <code>org.hibernate.StaleObjectStateException</code> and only then attempt to retry. Since this is Hibernate specific class another can be given as system property to override default. Name of the system property <code>org.kie.optlock.exclass</code> and its value should be fully qualified class name of the exception that indicates OptimisticLocking. By default it will: <ul> <li>Retry 3 times</li> <li>First retry will be attempted after 50 milliseconds</li> <li>next retries will be calculated as last sleep time multiplied by a factor (default factor is 4)</li> </ul> In case all retries failed origin exception will be thrown.
+
+
+
+
+
+Order of a drink by a customer.
+A simple order event POJO
+
+
+
+
+
+
+
+
+
+
+The row number used in this class is the actual row number declared in the dtable data. Not the row index. <p> Priority is declared with Row X has priority over Row Y. This Over class contains the row number of Y.
+Object type that indicates an overlap between two objects. Overlap happens when only some values can satisfy both objects Example "values between 1 and 9 can satisfy both": A: x > 10 B: x < 0
+<p>The implementation of the <code>overlappedby</code> evaluator definition.</p> <p>The <b><code>overlappedby</code></b> evaluator correlates two events and matches when the correlated event starts before the current event starts and finishes after the current event starts, but before the current event finishes. In other words, both events have an overlapping period.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this overlappedby $eventB )</pre> <p>The previous pattern will match if and only if:</p> <pre> $eventB.startTimestamp < $eventA.startTimestamp < $eventB.endTimestamp < $eventA.endTimestamp </pre> <p>The <b><code>overlappedby</code></b> operator accepts 1 or 2 optional parameters as follow:</p> <ul><li>If one parameter is defined, this will be the maximum distance between the start timestamp of the current event and the end timestamp of the correlated event. Example:</li></lu> <pre>$eventA : EventA( this overlappedby[ 5s ] $eventB )</pre> Will match if and only if: <pre> $eventB.startTimestamp < $eventA.startTimestamp < $eventB.endTimestamp < $eventA.endTimestamp && 0 <= $eventB.endTimestamp - $eventA.startTimestamp <= 5s </pre> <ul><li>If two values are defined, the first value will be the minimum distance and the second value will be the maximum distance between the start timestamp of the current event and the end timestamp of the correlated event. Example:</li></lu> <pre>$eventA : EventA( this overlappedby[ 5s, 10s ] $eventB )</pre> Will match if and only if: <pre> $eventB.startTimestamp < $eventA.startTimestamp < $eventB.endTimestamp < $eventA.endTimestamp && 5s <= $eventB.endTimestamp - $eventA.startTimestamp <= 10s </pre>
+
+<p>The implementation of the <code>overlaps</code> evaluator definition.</p> <p>The <b><code>overlaps</code></b> evaluator correlates two events and matches when the current event starts before the correlated event starts and finishes after the correlated event starts, but before the correlated event finishes. In other words, both events have an overlapping period.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this overlaps $eventB )</pre> <p>The previous pattern will match if and only if:</p> <pre> $eventA.startTimestamp < $eventB.startTimestamp < $eventA.endTimestamp < $eventB.endTimestamp </pre> <p>The <b><code>overlaps</code></b> operator accepts 1 or 2 optional parameters as follow:</p> <ul><li>If one parameter is defined, this will be the maximum distance between the start timestamp of the correlated event and the end timestamp of the current event. Example:</li></lu> <pre>$eventA : EventA( this overlaps[ 5s ] $eventB )</pre> Will match if and only if: <pre> $eventA.startTimestamp < $eventB.startTimestamp < $eventA.endTimestamp < $eventB.endTimestamp && 0 <= $eventA.endTimestamp - $eventB.startTimestamp <= 5s </pre> <ul><li>If two values are defined, the first value will be the minimum distance and the second value will be the maximum distance between the start timestamp of the correlated event and the end timestamp of the current event. Example:</li></lu> <pre>$eventA : EventA( this overlaps[ 5s, 10s ] $eventB )</pre> Will match if and only if: <pre> $eventA.startTimestamp < $eventB.startTimestamp < $eventA.endTimestamp < $eventB.endTimestamp && 5s <= $eventA.endTimestamp - $eventB.startTimestamp <= 10s </pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the top of the parse tree. Represents a package of rules once it has been parsed from the spreadsheet. Also is the launching point for dumping out the DRL.
+A context for the current build
+
+
+
+
+
+
+A builder implementation for PackageDescrs using a fluent API.
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+
+
+Just a helper class for pair of values
+
+
+
+An interface for objects that support parameters, like functions and queries
+
+
+
+
+
+
+
+Base class for messages generated whilst parsing DRL into a Guided Decision Tree. Rather than return a list of Strings to the client we return explicit message classes allowing the client to i18n the message.
+Partial redundancy between left and right. Redundancy stores the connection between left and right.
+
+
+
+
+
+
+
+
+
+
+A Fact Pattern to which column definitions can be added
+Adaptor to use RuleModel class in GuidedDecisionTable
+
+A builder for patterns
+
+
+
+A helper interface for all builders that can encapsulate patterns
+
+
+
+
+A descriptor builder for Patterns rule.name("Xyz") .attribute("ruleflow-grou","bla") .lhs() .and() .pattern("Foo").id("$foo").constraint("bar==baz").constraint("x>y").end() .not().pattern("Bar").constraint("a+b==c").end() .end() .rhs( "System.out.println();" ) .end()
+A descr builder implementation for Patterns
+
+An interface to represent pattern destinations
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+Takes a list of Constraints and makes possibilities from them.
+A markup interface for pattern source elements
+A common base class for all descriptor classes that represent a pattern sources
+
+
+
+
+
+
+
+
+
+
+Basic interface so that persisteces can avoid depending on the JPA implementation of a session.
+Basic interface so that persisteces can avoid depending on the JPA implementation of a work item.
+
+
+
+
+
+
+
+
+
+
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:45 To change this template use File | Settings | File Templates.
+
+
+
+
+
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:44 To change this template use File | Settings | File Templates.
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:46 To change this template use File | Settings | File Templates.
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:43 To change this template use File | Settings | File Templates.
+
+
+
+
+
+
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:42 To change this template use File | Settings | File Templates.
+
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:42 To change this template use File | Settings | File Templates.
+
+
+
+
+
+
+
+
+
+
+Represents a custom IAction, which is recognized by an implementation of org.drools.workbench.models.commons.backend.rule.RuleModelIActionPersistenceExtension.
+
+
+
+
+This represents a policy that a driver is applying for. Obviously in the real world, there are actuaries to mess things up, but lets just pretend there is some simple base price and discount that we can calculate with relatively simple rules !
+
+
+
+
+
+
+
+
+A Boolean parameter
+An Enum parameter
+A Float parameter
+An Integer parameter
+A List parameter
+An Object parameter. These can only be bound to Facts of the same data-type
+A ParameterDefinition used in Guvnor.
+A String parameter
+A WorkDefinition used in Guvnor.
+
+
+
+
+
+
+
+
+
+
+A predicate can be written as a top level constraint or be nested inside inside a field constraint (and as so, must implement the Restriction interface).
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+This shows off a decision table.
+This is a sample file to launch a rule package from a rule source file.
+This shows off a rule template where the data provider is a spreadsheet. This example uses the same spreadsheet as the Decision table example ({@link PricingRuleDTExample}) so that you can see the difference between the two. Note that even though they  use the same spreadsheet, this example is just concerned with the data cells and does not use any of the Decision Table data.
+
+
+
+
+
+
+ProcessBuilderFactoryService is used by the PackageBuilder to "provide" it's concrete implementation.
+
+
+
+
+
+This is used for reporting errors with loading a ruleflow.
+
+
+ProcessRuntimeFactoryService is used by the AbstractWorkingMemory to "provide" it's concrete implementation.
+Extension to default <code>MarshallerWriteContext</code> that allows to pass additional information to marshaller strategies, such as process instance id, task it, state
+
+
+
+ProcessRuntimeFactoryService is used by the AbstractWorkingMemory to "provide" it's concrete implementation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A node that will add the propagation to the working memory actions queue, in order to allow multiple threads to concurrently assert objects to multiple entry points.
+Reads an Excel sheet as key-value properties. Treats the first non-empty cell on a row as a key and any subsequent non-empty cell as a value. Any cells defined after the second cell are ignored as comments. Could be easily adapted to accept multiple values per key but the semantics were kept in line with Properties.
+Provides utility methods to obtain relevant properties and directories for a test.
+
+
+
+
+
+An input marshaller that uses protobuf.
+A Marshaller implementation that uses ProtoBuf as the marshalling framework in order to support backward compatibility with marshalled sessions
+@@protoc_insertion_point(outer_class_scope)
+An output marshaller that uses ProtoBuf as the marshalling framework in order to provide backward compatibility with marshalled sessions
+
+
+
+
+
+
+A PseudoClockScheduler is a scheduler based on a user controlled clock that allows the user to explicitly control current time.
+
+Please note this does not extend the DMNBaseConverter as it just need access to the node value itself.
+
+
+
+This represents a qualified identifier, like enums or subfield access in variables like "$p.name". This is a constraint on a single field of a pattern. The "text" contains the content.
+
+
+
+
+
+Wrapper for queries. Queries must be written in the appropriate style, no formatting is contributed here.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A descriptor builder for queries
+A descr builder for queries
+
+
+
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+Returned QueryResults instance for a requested named query. from here you can iterate the returned data, or get a specific row. All the available Declarations used in the query can also be accessed.
+
+
+
+
+Leaf Rete-OO node responsible for enacting <code>Action</code> s on a matched <code>Rule</code>.
+
+
+
+
+RHS DRL generation context object
+Factory for Generator Contexts
+
+
+
+
+
+
+Reminder: no need to override boolean removeIf(Predicate<? super E> filter) as it uses the collection's Iterator which in this case is already opportunely wrapped.
+
+
+
+
+
+
+
+
+
+
+
+A public interface for Read accessors
+
+
+Reason why something is wrong.
+
+
+Object type that indicates a redundancy between two objects. Redundancy happens when all the possible values satisfy both objects. Example: A: x == 10 B: x == 10
+This implementation does nothing other than pass by reference the original GlobalResolver as used in the StatelessSession. Care should be taken if you use this strategy, as later executes may change those globals. The GlobalResolver of the StatelessSession may also not be serialisable friendly.
+
+Java Tip 98: Reflect on the Visitor design pattern. Implement visitors in Java, using reflection. http://www.javaworld.com/javaworld/javatips/jw-javatip98.html Michael Neale says: I really hate this code. Not really a helpful use of reflection, always annoys me.
+declare @{ pmmlPackageName }.RegNormalizationFactor @propertyReactive context         : String        @key target          : String        @key den             : double end
+declare @{ pmmlPackageName }.RegTable @propertyReactive context         : String        @key target          : String category        : String numCoeffs       : double[] numExps         : double[] catCoeffs       : double[] trmCoeffs       : double[] intercept       : double index           : int           @key end
+declare @{ pmmlPackageName }.RegTargetBit @propertyReactive context         : String        @key target          : String value           : String weight          : double normalized      : boolean       = false cumulative      : boolean       = false index           : int           @key end
+
+
+
+
+
+
+
+A descriptor to represent a relational expression
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result of conversion from custom resource (like guided dtable or guided template) into DRL or DSLR.
+
+
+
+A ResourceReader provide access to resource like e.g. source code
+A Store is where the compilers are storing the results
+
+Utility class for handling resources.
+
+
+This is used to connect restrictions together for a single field eg: age < 40 & > 30
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+This represents a literal node in the rule language. This is a constraint on a single field of a pattern. The "text" contains the content, which may also be an enumeration.
+
+<p> A Drools template compiler which takes a ResultSet and compiles it into a template using DefaultTemplateContainer.</p> <p/> To use simply you need a JDBC ResultSet - with the field names mapping to the field names used in the template !
+
+
+The Rete-OO network. The Rete class is the root <code>Object</code>. All objects are asserted into the Rete node where it propagates to all matching ObjectTypeNodes. The first time an  instance of a Class type is asserted it does a full iteration of all ObjectTyppeNodes looking for matches, any matches are then cached in a HashMap which is used for future assertions. While Rete  extends ObjectSource nad implements ObjectSink it nulls the methods attach(), remove() and  updateNewNode() as this is the root node they are no applicable
+
+
+
+
+Builds the Rete-OO network for a <code>Package</code>.
+An interface for Reteoo Component builders
+
+
+
+Retract a named fact.
+
+This Descr is used in jBPM code (jbpm-flow-builder) as part of the syntax tree for the scripts used in BPMN2 definitions.
+
+
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+Builds up a consequence entry.
+
+
+
+When joining a subnetwork into the main network again, RightInputAdapterNode adapts the subnetwork's tuple into a fact in order right join it with the tuple being propagated in the main network.
+
+
+
+
+
+
+
+
+
+
+
+This is a thread safe implementation of a root execution frame that automatically registers all the built in functions.
+
+
+
+
+
+Represents a row in a decision table.
+
+
+This is the actual number of the row that is defined in the table. If you want the row index you can use the getRowIndex() method. Priority is declared with Row X has priority over Row Y. This RowNumber class contains the row number of X.
+This is a rule index column (i.e. just displays row's number)
+RowPriorities keeps track of what the salience values for the final dtable will end up being.
+Resolves priorities for Resolved Hit Policy. Helper classes Salience, RowNumber and Over are used since map.get(int) is different from map.get(object).
+Represents a rule.
+
+
+This holds values for rule attributes (eg salience, agenda-group etc).
+RuleBaseConfiguration A class to store RuleBase related configuration. It must be used at rule base instantiation time or not used at all. This class will automatically load default values from system properties, so if you want to set a default configuration value for all your new rule bases, you can simply set the property as a System property. After RuleBase is created, it makes the configuration immutable and there is no way to make it mutable again. This is to avoid inconsistent behavior inside rulebase. NOTE: This API is under review and may change in the future. Available configuration options: <pre> drools.maintainTms = &lt;true|false&gt; drools.sequential = &lt;true|false&gt; drools.sequential.agenda = &lt;sequential|dynamic&gt; drools.removeIdentities = &lt;true|false&gt; drools.shareAlphaNodes  = &lt;true|false&gt; drools.shareBetaNodes = &lt;true|false&gt; drools.alphaNodeHashingThreshold = &lt;1...n&gt; drools.compositeKeyDepth = &lt;1..3&gt; drools.indexLeftBetaMemory = &lt;true/false&gt; drools.indexRightBetaMemory = &lt;true/false&gt; drools.equalityBehavior = &lt;identity|equality&gt; drools.conflictResolver = &lt;qualified class name&gt; drools.consequenceExceptionHandler = &lt;qualified class name&gt; drools.ruleBaseUpdateHandler = &lt;qualified class name&gt; drools.sessionClock = &lt;qualified class name&gt; drools.mbeans = &lt;enabled|disabled&gt; drools.classLoaderCacheEnabled = &lt;true|false&gt; drools.phreakEnabled = &lt;true|false&gt; drools.declarativeAgendaEnabled =  &lt;true|false&gt; drools.permgenThreshold = &lt;1...n&gt; drools.jittingThreshold = &lt;1...n&gt; </pre>
+A rulebase event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the rulebase.
+
+A class to identify RuleBase partitions
+A context for the current build
+
+
+
+
+
+Semantic component marker.
+An interface to define classes capable of building specific conditional elements.
+
+Base exception for errors during <code>Rule</code> construction.
+
+Measure the rule coverage.
+
+A descriptor builder for rules
+A descr builder for Rules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Implementation of a <code>RuleFlowGroup</code> that collects activations of rules of this ruleflow-group. If this group is activated, all its activations are added to the agenda. As long as this group is active, its activations are added to the agenda. Deactivating the group removes all its activations from the agenda and collects them until it is activated again. By default, <code>RuleFlowGroups</code> are automatically deactivated when there are no more activations in the <code>RuleFlowGroup</code>.  However, this can be configured.
+
+A ruleflow-group event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the working memory. It contains the ruleflow group name and its size.
+A ruleflow event logged by the WorkingMemoryLogger. It is a snapshot of the event as it was thrown by the working memory. It contains the process name and id.
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+
+
+href="mailto:michael.neale@gmail.com"> Michael Neale </a> Define a ruleset spreadsheet which contains a matrix style decision tables. This is an example of a custom RuleSheetListener. It differs from the standard decision table in the following ways: - AgendaGroup property so that all rules fall within the same agenda-group - Precondition property which specifies a condition that is always included if a rule is being generated - Action property. Each cell within the decision table causes this action to be triggered - HorizontalCondition property. Each column header in the matrix applies this condition - VerticalCondition property. Each row header in the matrix applies this condition A table is identifed by a cell beginning with the text "RuleTable". The cells after RuleTable in the same row identify the Horizontal Conditions. The cells after RuleTable in the same column identify the Vertical Conditions. The cells with the matrix identify the actions. Wherever an action cell exists for a Vertical/Horizontal condition intersection the following rule is created: rule "rule_row_col" agenda-group AgendaGroup when Precondition VerticalCondition HorizontalCondition then Action end
+This holds values for rule metadata (eg @foo(bar), @foo2(bar2)).
+
+
+This class persists the rule model to DRL and back
+
+
+
+Utility class to support upgrades of the RuleModel model. Release pre-5.2
+Utility class to support upgrades of the RuleModel model. This implementation ensures additional ConnectiveConstraints fields created for Guvnor v5.2 have reasonable default values.
+Utility class to support upgrades of the RuleModel model. This implementation ensures additional SingleFieldConstraint and ConnectiveConstraint fields created for Guvnor v5.4 have reasonable default values.
+A Rule Model Visitor to extract Interpolation Variables (Template Keys)
+Filters activations based on a specified rule name suffix.
+Filters activations based on an exact match of a rule name.
+Filters activations based on a specified regular expression.
+
+Filters activations based on a specified rule name prefix.
+
+
+
+This context class is used during rule removal to ensure network consistency.
+
+
+
+SheetListener used for creating rules
+Parking lot for utility methods that don't belong anywhere else.
+Takes a list of Constraints and makes possibilities from them.
+A rule template made up of a name, the decision table columns required, the decision table columns that must be empty and the contents of the rule.
+This class persists a {@link TemplateModel} to DRL template
+
+
+This class persists the rule model to XML and back. This is the 'brl' xml format (Business Rule Language).
+Leaf Rete-OO node responsible for enacting <code>Action</code> s on a matched <code>Rule</code>.
+
+
+A class with some utilities for testing rules.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wrapper for salience. Salience is used on run time to make sure the rule priority order defined in the editor is respected.
+
+<code>ConflictResolver</code> that uses the salience of rules to resolve conflict.
+
+
+This represents a test scenario. It also encapsulates the result of a scenario run.
+This is essentially a "Either" class. It will either be a list of rule compiler errors (should it have to compile), or the scenario run results.
+This actually runs the test scenarios.
+
+
+
+Persists the scenario model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A special field extractor for the self reference "this".
+
+
+
+
+
+
+
+
+
+
+<code>ConflictResolver</code> that uses the loadOrder of rules to resolve conflict.
+
+
+
+
+
+
+
+Marshalling helper class to perform serialize/de-serialize a given object
+
+Convenient class to help generalizing drools StatelessKnowledgeSession and StatefulKnowledgeSession. This is least common implementation. The sessions are stored within and are created during construction of this class. Session implements CommandExecutor and KnowledgeRuntimeEventManager interfaces by delegating the methods directly to stateless or stateful knowledge session instance.
+
+SessionConfiguration A class to store Session related configuration. It must be used at session instantiation time or not used at all. This class will automatically load default values from system properties, so if you want to set a default configuration value for all your new sessions, you can simply set the property as a System property. After the Session is created, it makes the configuration immutable and there is no way to make it mutable again. This is to avoid inconsistent behavior inside session. NOTE: This API is under review and may change in the future. drools.keepReference = <true|false> drools.clockType = <pseudo|realtime|heartbeat|implicit>
+
+
+
+
+
+
+
+
+
+This class defines all the set built in evaluators like contains, memberOf, etc.
+
+This handler is used to create the member variable assignment statements section of a generated subclass of a {@link CompiledNetwork#setNetworkNodeReference(org.kie.common.NetworkNode)}. Currently we only need to create member variable assignments for the following types of nodes: <p/> <li>Non-hashed {@link AlphaNode}s</li> <li>{@link LeftInputAdapterNode}s</li> <li>{@link BetaNode}s</li>
+Abstract base class for the three types of cell groups of nine cells.
+
+
+
+
+Represents a temporary fact used for assigning a value to a cell.
+
+
+Shared resources
+
+
+
+
+
+
+
+
+
+
+
+
+This EvaluationContext should only be used to "try" evaluations
+
+Default implementation emulates classical Drools TMS behaviour.
+
+
+
+
+
+LogicalDependency is a special node for LinkedLists that maintains references for the Activation justifier and the justified FactHandle.
+
+
+
+This shows off a very simple rule template where the data provider is a spreadsheet.
+
+
+A simple type definition interface, i.e., a type that does not contain fields
+
+
+
+
+
+
+
+
+
+
+
+This represents a constraint on a fact - involving a SINGLE FIELD. Can also include optional "connective constraints" that extend the options for matches.
+
+
+
+
+
+
+
+
+Custom DT collector: it only 1 output, return the output itself. If more than 1 output, return a FEEL Context (hashmap) with name of the output and its value. From the specs: The output expression of a rule in a single output decision table is simply the rule's output entry. The output expression of a multiple output decision table is a context with entries composed from the output names and the rule's corresponding output entries.
+A simple markup interfaces for Sink types
+A length window behavior implementation
+
+public int getWorkingFreezersCount() { return workingFreezersCount; }  public void setWorkingFreezersCount(int workingFreezersCount) { this.workingFreezersCount = workingFreezersCount; }  public int getWorkingFridgesCount() { return workingFridgesCount; }  public void setWorkingFridgesCount(int workingFridgesCount) { this.workingFridgesCount = workingFridgesCount; } public int getDefectiveFridgesCount() { return defectiveFridgesCount; } public void setDefectiveFridgesCount(int defectiveFridgesCount) { this.defectiveFridgesCount = defectiveFridgesCount; } public int getDefectiveFreezersCount() { return defectiveFreezersCount; } public void setDefectiveFreezersCount(int defectiveFreezersCount) { this.defectiveFreezersCount = defectiveFreezersCount; } public int getWorkingDevicesCount() { return workingFridgesCount+workingFreezersCount; } public int getDefectiveDevicesCount() { return defectiveFridgesCount+defectiveFreezersCount; } public int getOverallFridgesCount() { return getWorkingFridgesCount()+getDefectiveFridgesCount(); } public int getOverallFreezersCount() { return getWorkingFreezersCount()+getDefectiveFreezersCount(); } public int getOverallDevicesCount() { return getWorkingDevicesCount()+getDefectiveDevicesCount(); } public double getWorkingFridgesRatio() { if (getOverallFridgesCount() == 0) return 0; return (double)getWorkingFridgesCount()/getOverallFridgesCount(); } public double getDefectiveFridgesRatio() { if (getOverallFridgesCount() == 0) return 0; return (double)getDefectiveFridgesCount()/getOverallFridgesCount(); } public double getWorkingFreezersRatio() { if (getOverallFreezersCount() == 0) return 0; return (double)getWorkingFreezersCount()/getOverallFreezersCount(); } public double getDefectiveFreezersRatio() { if (getOverallFreezersCount() == 0) return 0; return (double)getDefectiveFreezersCount()/getOverallFreezersCount(); } public double getWorkingDevicesRatio() { if (getOverallDevicesCount() == 0) return 0; return (double)getWorkingDevicesCount()/getOverallDevicesCount(); } public double getDefectiveDevicesRatio() { if (getOverallDevicesCount() == 0) return 0; return (double)getDefectiveDevicesCount()/getOverallDevicesCount(); }
+
+This utility class exists to convert rule script snippets to actual code. The snippets contain place holders for values to be substituted into. See the test case for how it really works ! <p/> Snippet template example: "something.getBlah($param)" $param is the "place holder". This will get replaced with the "cellValue" that is passed in. <p/> 12-Oct-2005 change: moved from regex to using simple character based interpolation. Regex was overkill and couldn't not quite get it right.
+
+Takes a list of Constraints and makes possibilities from them.
+
+
+
+
+
+
+This class defines the soundslike evaluator
+
+This is for building up LHS and RHS code for a rule row.
+A descriptor builder for Pattern sources
+A descr builder implementation for pattern sources
+
+
+This class handles the input XLS and CSV and extracts the rule DRL, ready for pumping into drools.
+
+
+
+
+Created with IntelliJ IDEA. User: mdproctor Date: 03/05/2013 Time: 15:47 To change this template use File | Settings | File Templates.
+
+
+Stand alone to test writing to a file.
+
+An implementation of an accumulator capable of calculating standard deviation.
+
+
+
+
+
+
+
+
+
+<p>The implementation of the <code>startedby</code> evaluator definition.</p> <p>The <b><code>startedby</code></b> evaluator correlates two events and matches when the correlating event's end timestamp happens before the current event's end timestamp, but both start timestamps occur at the same time.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this startedby $eventB )</pre> <p>The previous pattern will match if and only if the $eventB finishes before $eventA finishes and starts at the same time $eventB starts. In other words:</p> <pre> $eventA.startTimestamp == $eventB.startTimestamp && $eventA.endTimestamp > $eventB.endTimestamp </pre> <p>The <b><code>startedby</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the start timestamp of both events in order for the operator to match. Example:</p> <pre>$eventA : EventA( this startedby[ 5s ] $eventB )</pre> Will match if and only if: <pre> abs( $eventA.startTimestamp - $eventB.startTimestamp ) <= 5s && $eventA.endTimestamp > $eventB.endTimestamp </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+<p>The implementation of the <code>starts</code> evaluator definition.</p> <p>The <b><code>starts</code></b> evaluator correlates two events and matches when the current event's end timestamp happens before the correlated event's end timestamp, but both start timestamps occur at the same time.</p> <p>Lets look at an example:</p> <pre>$eventA : EventA( this starts $eventB )</pre> <p>The previous pattern will match if and only if the $eventA finishes before $eventB finishes and starts at the same time $eventB starts. In other words:</p> <pre> $eventA.startTimestamp == $eventB.startTimestamp && $eventA.endTimestamp < $eventB.endTimestamp </pre> <p>The <b><code>starts</code></b> evaluator accepts one optional parameter. If it is defined, it determines the maximum distance between the start timestamp of both events in order for the operator to match. Example:</p> <pre>$eventA : EventA( this starts[ 5s ] $eventB )</pre> Will match if and only if: <pre> abs( $eventA.startTimestamp - $eventB.startTimestamp ) <= 5s && $eventA.endTimestamp < $eventB.endTimestamp </pre> <p><b>NOTE:</b> it makes no sense to use a negative interval value for the parameter and the engine will raise an exception if that happens.</p>
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////// End of utility methods used by droolsjbpm-tools /////////////////////////////////////////////////////////////////////////
+
+
+
+
+
+
+
+
+Used in single step solution mode to indicatean emergeny stop due to failure to solve anything.
+
+
+
+
+
+<p>The implementation of the 'str' evaluator definition.</p> <p>The <b><code>str</code></b> compares two string values.</p> <p>Lets look at some examples:</p> <pre>$m : Message( routingValue str[startsWith] "R1" )</pre> <pre>$m : Message( routingValue str[endsWith] "R2" )</pre> <pre>$m : Message( routingValue str[length] 17 )</pre>
+
+A cell in a decision table containing a String value
+A column of type String in a decision table
+
+
+
+
+
+
+
+
+
+
+
+Ripped form commons StringUtil, unless specified: <p>Operations on {@link java.lang.String} that are <code>null</code> safe.</p> <ul> <li><b>IsEmpty/IsBlank</b> - checks if a String contains text</li> <li><b>Trim/Strip</b> - removes leading and trailing whitespace</li> <li><b>Equals</b> - compares two strings null-safe</li> <li><b>IndexOf/LastIndexOf/Contains</b> - null-safe index-of checks <li><b>IndexOfAny/LastIndexOfAny/IndexOfAnyBut/LastIndexOfAnyBut</b> - index-of any of a set of Strings</li> <li><b>ContainsOnly/ContainsNone</b> - does String contains only/none of these characters</li> <li><b>Substring/Left/Right/Mid</b> - null-safe substring extractions</li> <li><b>SubstringBefore/SubstringAfter/SubstringBetween</b> - substring extraction relative to other strings</li> <li><b>Split/Join</b> - splits a String into an array of substrings and vice versa</li> <li><b>Remove/Delete</b> - removes part of a String</li> <li><b>Replace/Overlay</b> - Searches a String and replaces one String with another</li> <li><b>Chomp/Chop</b> - removes the last part of a String</li> <li><b>LeftPad/RightPad/Center/Repeat</b> - pads a String</li> <li><b>UpperCase/LowerCase/SwapCase/Capitalize/Uncapitalize</b> - changes the case of a String</li> <li><b>CountMatches</b> - counts the number of occurrences of one String in another</li> <li><b>IsAlpha/IsNumeric/IsWhitespace/IsAsciiPrintable</b> - checks the characters in a String</li> <li><b>DefaultString</b> - protects against a null input String</li> <li><b>Reverse/ReverseDelimited</b> - reverses a String</li> <li><b>Abbreviate</b> - abbreviates a string using ellipsis</li> <li><b>Difference</b> - compares two Strings and reports on their differences</li> <li><b>LevensteinDistance</b> - the number of changes needed to change one String into another</li> </ul> <p>The <code>StringUtils</code> class defines certain words related to String handling.</p> <ul> <li>null - <code>null</code></li> <li>empty - a zero-length string (<code>""</code>)</li> <li>space - the space character (<code>' '</code>, char 32)</li> <li>whitespace - the characters defined by {@link Character#isWhitespace(char)}</li> <li>trim - the characters &lt;= 32 as in {@link String#trim()}</li> </ul> <p><code>StringUtils</code> handles <code>null</code> input Strings quietly. That is to say that a <code>null</code> input will return <code>null</code>. Where a <code>boolean</code> or <code>int</code> is being returned details vary by method.</p> <p>A side effect of the <code>null</code> handling is that a <code>NullPointerException</code> should be considered a bug in <code>StringUtils</code> (except for deprecated methods).</p> <p>Methods in this class give sample code to explain their operation. The symbol <code>*</code> is used to indicate any input including <code>null</code>.</p>
+
+
+
+
+
+
+
+
+Instance of this class represents a possible combination of Constraints under one Pattern. Each possibility returns true if all the Constraints in the combination are true.
+Instance of this class represents a possible combination of PatternPosibilities under one Rule. Each possibility returns true if all the PatternPosibilities in the combination are true.
+
+
+
+
+
+
+Object type that indicates a subsumption between two objects. Subsumption happens when all possible the values for component A, are able to satisfy component B and only some values that are able to satisfy component B are able to satisfy component A. Example "if x is more than 1 both restrictions are satisfied": A: x > 10 B: x > 1
+An object of this class solves Sudoku problems.
+This example shows how Drools can be used to solve a 9x9 Sudoku Grid. This Class hooks together the GUI and the model and allows you to load different grids. &lt;pgt; Several grids are provided via File -> Samples. &lt;pgt; For loading a grid from a file, prepare a text file containing nine text lines as shown below and select File -> Open... &lt;pgt; &lt;pre&gt; 95 1 3  752 8 7 3  9 4 8  5   2 6  814  7 5  1 49 5  8 6 8 4 7 3 &lt;/pre&gt;
+
+Defines the callbacks that can be implemented to listen to events from a SudokuGridModel.
+An interface representing a 9x9 Sudoku Grid of Cells.
+
+
+An implementation of an accumulator capable of calculating sum of values
+
+
+
+
+
+An event class to report a syntax error as returned by the parser
+
+
+
+
+
+
+
+A column condition for a rule template to be generated.
+
+SheetListener for creating rules from a template
+An interface defining the means to retrieve the value relating to a Template Key as a String
+
+Utility class to support upgrades of the TemplateModel model
+
+
+
+A class to abstract the management of temporal dependency management information
+
+
+
+A markup interface for terminal nodes
+
+
+
+
+
+
+
+
+
+
+
+
+
+A parameters parser that uses JodaTime for time units parsing.
+
+A helper class with utility methods for time related operations.
+
+
+
+
+
+
+An interface for all timer service implementations used in a drools session.
+
+Utility class providing methods for coping with timing issues, such as {@link java.lang.Thread#sleep(long, int)} inaccuracy, on certain OS. <p/> Inspired by http://stackoverflow.com/questions/824110/accurate-sleep-for-java-on-windows and http://andy-malakov.blogspot.cz/2010/06/alternative-to-threadsleep.html.
+
+
+
+
+A visitor that can emit a String representing the Expression
+
+
+
+
+
+
+AgendaEventListener to track fired rules. When rule is fired for the first time it's added to fired rules and when the rule fires afterwards the counter is incremented to make it possible to track how many times the rule was fired
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+not marked as trait/traitable
+
+
+
+
+
+ExecutableInterceptor that will lock underlying <code>Runner</code> until transaction completion. In case there is no transaction active lock is released directly. By default, interceptor is disabled and needs to be explicitly enabled in one of two ways: <ul> <li>using system property named <code>org.kie.tx.lock.enabled</code> that must be set to true</li> <li>using environment entry named <code>TRANSACTION_LOCK_ENABLED</code> that must be set to true</li> </ul>
+
+Abstract factory for creating {@link org.drools.persistence.TransactionManager} instances.. The implementation class can be specified using the {@code org.kie.txm.factory.class} system property.
+
+
+
+
+
+declare @{ pmmlPackageName }.TreeNode @propertyReactive context     : String            @key id          : String            @key parent      : String children    : java.util.List outcome     : String recordCount : int counts      : java.util.Map confidence  : java.util.Map defaultChld : String end
+
+
+A trigger interface for scheduling jobs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This shows off a decision table.
+The Truth Maintenance System is responsible for tracking two things. Firstly It maintains a Map to track the classes with the same Equality, using the EqualityKey. The EqualityKey has an internal data structure which references all the handles which are equal. Secondly It maintains another map tracking the justifications for logically asserted facts.
+
+Partial matches are propagated through the Rete network as <code>Tuple</code>s. Each <code>Tuple</code> Is able to return the <code>FactHandleImpl</code> members of the partial match for the requested pattern. The pattern refers to the index position of the <code>FactHandleImpl</code> in the underlying implementation.
+
+
+
+
+
+
+
+
+
+
+
+Checks if one tuple is the start subtuple of other tuple. For instance, if we have two tuples: T1 = [ a, b, c ] T2 = [ a, b, c, d, e] This constraint will evaluate to true as T1 is the starting subtuple of T2. On the other hand, if we have: T1 = [ a, c, b ] T2 = [ a, b, c, d, e ] This constraint will evaluate to false, as T1 is not the starting subtuple of T2. Besides having the same elements, the order is different. This constraint is used when joining subnetworks back into the main network.
+A type definition interface
+
+The type declaration class stores all type's metadata declared in source files.
+
+
+
+
+A descriptor builder for declared types
+
+
+
+
+
+
+
+
+
+
+public void removeMember(T val) { //To change body of implemented methods use File | Settings | File Templates. } public void removeMember(BitSet key) { //To change body of implemented methods use File | Settings | File Templates. } public Map<T, BitSet> getSortedMap() { return null;  //To change body of implemented methods use File | Settings | File Templates. } public boolean hasKey(BitSet key) { return false;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> children(BitSet key) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> lowerDescendants(BitSet key) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> parents(T x) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> parents(BitSet x) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> upperBorder(BitSet key) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public Collection<T> immediateParents(BitSet key) { return null;  //To change body of implemented methods use File | Settings | File Templates. } public boolean isEmpty() { return false; } protected void add( HierNode<T> node ) { } protected Collection<HierNode<T>> getNodes() { return null; } public T getMember( BitSet key ) { return null; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This exception is thrown when verifier tries to handle a descr that it is not familiar with.
+An event class to report an unknown variable error as returned by the parser
+
+
+Only SingleFieldConstraints are supported at present.
+Only Literal values are supported at present.
+Only Literal values are supported at present.
+Only ActionRetractFact, ActionInsertFact, ActionInsertLogicalFact, ActionUpdateField and ActionSetField are supported at present.
+Only FactPattern is supported at present. Negated FactPattern's are not supported.
+An Audit Event when a column is updated
+
+
+
+
+
+Borrowed gratuitously from Spring under ASL2.0. Added in local file cache ability for http and https urls. Set the system property: "drools.resource.urlcache" to a directory which can be written to and read from as a cache - so remote resources will be cached with last known good copies.
+
+
+
+
+
+
+
+
+
+
+
+
+TODO To change the template for this generated type comment go to Window - Preferences - Java - Code Style - Code Templates
+
+
+An implementation of an accumulator capable of calculating variance.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This is the main user class for verifier. This will use rules to validate rules, caching the "knowledge base" of verifier rules.
+
+
+
+
+
+
+Wraps the PackageBuilder for Verifier. Used to build PackageDescrs.
+
+
+
+
+
+
+
+
+
+This is for making assertions over a specific facts value/state AFTER execution.
+
+
+
+view is the result
+
+
+
+
+
+
+
+
+This is a sample file to launch a rule package from a rule source file.
+This is a sample file to launch a rule package from a rule source file.
+This example is incomplete, it run's, but is no way near correct.
+
+
+
+
+
+A builder for patterns
+The window declaration defines a window that can be used by patterns in rules
+
+A descriptor builder for declared types
+
+
+
+<code>WindowNodes</code> are nodes in the <code>Rete</code> network used to manage windows. They support multiple types of windows, like sliding windows, tumbling windows, etc. <p/> This class must act as a lock-gate for all working memory actions on it and propagated down the network in this branch, as there can be concurrent threads propagating events and expiring events working on this node at the same time. It requires it to be thread safe.
+This class defines a reference to a declared window
+This is a builder for named window references
+A pattern source descriptor for windows
+
+
+A specialisation of RightTuples that also belong to a window
+A class to hold a list of the right tuples that belong to a window (sliding, tumbling, etc)
+
+
+
+
+
+
+A simple demonstration of using a Work Item handler as an action
+A simple demonstration of using a Work Item handler as an action
+
+
+
+
+
+
+
+
+
+
+A knowledge session for a <code>RuleBase</code>. While this object can be serialised out, it cannot be serialised in. This is because the RuleBase reference is transient. Please see the RuleBase interface for serializing in WorkingMemories from an InputStream.
+
+
+An interface for instances that allow handling of entry-point-scoped facts
+
+The EventManager class is implemented by classes wishing to add,remove and get the various Drools EventListeners.
+
+A logger of events generated by a working memory. It stores its information in a file that can be specified. All the events logged are written to the file when the writeToDisk() method is invoked. The log will contain all the events logged serialized to XML using XStream. Every time a new logger is created, the old event log will be overwritten. TODO: make this class more scalable, for example - logging to several files if log becomes too large - automatically write updates to file at certain time intervals - ...
+A logger of events generated by a working memory. It stores its information in memory, so it can be retrieved later.
+
+An event filter that can be used to filter working memory events. By default, all events are allowed.  You can filter out any of the three types of working memory events by setting the allow boolean for that type to false.
+A logger of events generated by a working memory. It listens to the events generated by the working memory and creates associated log event (containing a snapshot of the state of the working event at that time). Filters can be used to filter out unwanted events. Subclasses of this class should implement the logEventCreated(LogEvent) method and store this information, like for example log to file or database.
+
+Wrapper of StatefulKnowledgeSessionImpl so to intercept call from RHS internal Drools execution and proxy or delegate method call as appropriate.
+
+
+An interface for a class that is able to write values into a class field
+
+
+
+
+
+
+
+
+
+
+
+
+private void setIncomingNodes(BayesNetwork bayesNetwork){ for(BayesVariable node : bayesNetwork.getNodos()){ if(node.getGiven()!=null && !node.getGiven().isEmpty()){ node.setIncomingNodes(this.getNodesByGiven(node.getGiven(), bayesNetwork.getNodos())); } } }  private List<BayesVariable> getNodesByGiven(List<String> given, List<BayesVariable> nodes){ List<BayesVariable> listIncoming = new ArrayList(); for(String giv : given){ for(BayesVariable node : nodes){ if(node.getName().equals(giv)){ listIncoming.add(node); break; } } } return listIncoming; }
+
+This utility will take a AST of a rule package, and emit XML. This can be used in porting from DRL to XML.
+
+
+
+
+
+
+
+
+
+
+
+

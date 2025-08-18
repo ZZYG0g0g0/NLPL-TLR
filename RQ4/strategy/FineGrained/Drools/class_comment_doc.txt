@@ -1,0 +1,3527 @@
+
+
+
+
+
+
+
+
+
+
+base class common function event
+super interfac ast node
+
+
+
+
+
+
+
+
+
+
+
+provid abstract base implement object extend use link list
+
+
+
+
+
+
+base column decis tabl
+handler use base class link network handler use gener compil network provid method return variabl type name use store refernc differ link network node variabl name link class field reader
+superclass composit constraint like
+
+conveni base class conflict resolv
+
+
+
+
+
+base class thread event support drool note subclass wish access listen via event listen iter method provid iter access current snapshot underli list free subclasss thread problem pleas note list small size modif copi write array list provid good perform list modifi often simpl array list synchon oper copi array iter fast
+
+
+
+
+
+
+
+base class compil implement provid conveni method
+
+
+
+
+
+abstract super class leav tupl sink adapt
+
+
+
+
+class manag link jpa persist context object underli persist context link entiti manag instanc persist link kie session infrastructur class use persist kie project refer follow document link entiti manag class use repres persist context issu take account look modifi code ol one featur make avail abil user suppli command scop persist context use link kie session howev signific aris command scop persist context use one persist link kie session multipl thread word multipl thread call oper singleton persist link kie session class use link thread local instanc two thing ol intern command scop link entiti manag instanc li
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+class repres accumul ce
+
+descr class accumul node
+descriptor builder accumul
+implement collect descr builder
+
+
+
+
+descriptor import static function
+interfac import builder
+
+
+accumul node beta node capabl accumul logic creat
+
+
+
+
+
+
+
+accumul creat
+
+modifi field bind lh variabl global modifi mean user call method modifi object set field fact bind variabl notifi engin chang unless do outsid engin
+
+
+
+
+
+action invok work item
+node indic user want execut method fact case lhr match
+class parent field set assert action contain list field valu set
+hold field valu action part rule
+
+add give fact global collect
+use assert new fact
+
+
+adaptor use rule model class guid decis tabl
+adaptor use rule model class guid decis tabl
+detail action insert fact column
+fact pattern use action insert fact field page wizard page add flag indic whether pattern insert logic
+logic assert use part truth mainten
+
+
+use specifi bind fact retract rule fire
+
+column repres retract fact column implement limit entri col extend entri decis tabl valu hold tabl datum consequenti identifi fact retract contain tabl datum class therefor effect type action
+
+
+set field bind lh variabl global set field fact bind variabl notifi engin chang unless do outsid engin
+
+
+detail action set field column
+simpl holder class identifi condit action attribut column also includ rule name comment call descript object store map main listen class track type valu expect see row directli column header identifi action type code
+basic set field except notifi engin chang appli bound fact variabl lh
+
+
+column repres execut work item
+detail action work item column work item execut
+hold field work item definit paramet action
+action insert set field valu new fact valu work item definit result paramet
+detail action work item insert fact column
+action set exist fact field valu valu work item definit result paramet
+detail action work item set field column
+
+tupl fulli match rule add agenda activ activ assign number number determin work memori activ creat singl insert updat retract assgign activ number
+
+
+
+
+
+
+
+
+
+
+activ event log work memori logger snapshot event throw work memori contain activ id name rule string repres declar activ list declar tupl activ name identifi declar valu string valu paramet follow id fact parenthesi e g person john doe string represent use creat snapshot current state activ store string fact bind activ necessari event could extend contain map declar
+event filter use filter assert event default event allow filter four type assert event set allow boolean type fals
+
+
+filter interfac agenda activ
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement evalu definit b code evalu correl two event match tempor distanc current event event correl belong distanc rang declar oper let look exampl event b previou pattern match tempor distanc time b finish time start minut second minut word pre timestamp time stamp tempor distanc interv b code oper option two valu defin like exampl interv start first valu finish second one valu defin interv start valu finish posit infin valu defin assum initi valu final valu posit infin allow defin neg distanc oper exampl event b initi valu great finish valu engin automat revers reason initi valu great finish valu exampl follow two pattern consid semant pre event b event b
+
+
+
+
+
+
+
+
+
+
+
+
+agenda partit group call agenda group rule assign agenda group rule focu group fire
+
+
+
+
+
+
+
+agenda group implement use prioriti queue prioritis evalu add activ queue agenda group also maintain map activ queue request salienc valu
+
+
+item entri agenda
+simpl fact class use aggreg test hold one valu aggreg
+
+
+
+
+
+
+
+
+
+
+alpha node node rete network use appli field constraint assert fact object field constraint depend fact current rule
+
+
+pattern rule similar alway satisfi
+multipl root type node find construct decis tree
+
+interfac result analysi
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+super type pattern ast node
+interfac descr builder support annot
+
+
+
+descriptor builder annot
+
+
+
+
+
+
+
+antl implement dsl map entri interfac
+
+
+
+
+
+
+
+
+simpl fact class mark someth approv
+
+
+
+column decis tabl repres array valu
+
+
+
+implement link iter iter array p array either array object primit know object array link object array iter object array iter class good choic perform good p iter implement link reset method allow reset iter back start requir
+
+
+
+
+todo document
+
+
+
+
+
+
+
+
+
+rule attribut eg salienc etc
+detail attribut column
+
+descriptor builder attribut
+
+interfac builder statement support attribut
+intermediari class extend drl element capabl store attribut requir rule packag
+audit log filter entri add depend type entri log configur receiv user log need therefor filter entri append handl log
+entri audit log
+audit log filter control entri pass audit log actual append log
+
+
+find current avail server port
+implement accumul capabl calcul averag valu
+
+
+
+
+action column defin brl fragment
+column repres singl brl fragment variabl
+column consist brl fragment
+condit column defin brl fragment
+column repres singl brl fragment variabl
+rule model provid detail bind fact field associ decis tabl allow column use brl fragment integr decis tabl column
+variabl templat defin valu brl column
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+base class annot asset
+
+
+base class primit boolean class field extractor class central type convers
+base class primit boolean class field write accessor class central type convers
+
+base class primit byte class field extractor class central type convers
+base class primit byte class field writer class central type convers
+
+
+supertyp asm gener class access field
+supertyp asm gener class write valu field
+base column
+diff result column b
+
+
+
+super type pattern ast node
+base class descr builder
+
+
+base evalu object compar oper awar
+
+
+
+
+
+base abstract class knowledg builder result
+parent class specif left tupl special
+
+
+
+
+
+
+
+
+
+
+
+
+
+repres constraint may part direct field constraint connect
+
+
+
+
+
+
+
+
+java class batch execut command complex type add new command class without thoroughli test serial command integr command rest w soap implement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement evalu definit b code evalu correl two event match tempor distanc event correl current correl belong distanc rang declar oper let look exampl event b previou pattern match tempor distanc time finish time b start minut second minut word pre timestamp time stamp tempor distanc interv b code oper option two valu defin like exampl interv start first valu finish second one valu defin interv start valu finish posit infin valu defin assum initi valu final valu posit infin allow defin neg distanc oper exampl event b initi valu great finish valu engin automat revers reason initi valu great finish valu exampl follow two pattern consid semant pre event b event b
+
+
+
+
+
+
+
+
+
+
+interfac behavior implement
+super class behavior descriptor like time window event window distinct etc
+descriptor builder pattern behavior
+descr builder implement pattern behavior
+class encapsul behavior manag give beta node
+
+
+
+
+enum repres engin support clock
+
+
+
+
+
+
+
+
+
+
+
+
+implement accumul capabl calcul averag valu
+implement accumul capabl calcul sum valu
+
+implement accumul capabl calcul sum valu
+
+
+
+
+
+
+
+
+
+
+
+
+
+bound type refer could locat tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cell decis tabl contain long valu
+column type long decis tabl
+
+
+
+
+
+
+
+
+
+build context reteoo builder
+
+util function reteoo build
+return builder
+util class compil result
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+hello world
+
+
+
+descriptor builder condit element
+implement ce descr builder
+util class build drl cep oper
+definit cep window
+util class build drl cep oper
+
+
+hold field valu action part rule
+
+
+
+
+
+
+
+
+
+
+
+
+
+caus reason
+
+cell decis tabl
+repres column sudoku grid cell
+abstract class number cell group row column
+abstract base class kind group relat cell
+repres row sudoku grid cell
+repres area sudoku grid cell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+declar class dynam creat
+
+wrapper class field extractor provid default valu simpl interfac paramet like work memori field extractor use outsid work memori scope
+
+gener subclass base class field extractor provid field extractor use directli via class field extractor ensur nice serializ
+
+
+visit pojo user class extract properti getter method public order declar actual class use introspect may enhanc futur allow annot perhap extern meta datum configur order index may provid fine tune option special case
+provid access field numer type basic wrapper class around dynam gener subclass base class field extractor allow serial regener accessor class need
+class implement write accessor interfac allow applic write valu field class
+
+
+
+
+filter object class accept class specifi type
+
+
+java class semant object type
+
+borrow gratuit spring
+
+
+
+discov kie modul classpath via kmodul xml file kie base model kie session model index helper lookup result kie modul add kie repositori
+
+
+
+
+
+
+
+enum repres engin support clock
+
+
+
+
+
+
+implement evalu definit b code coincid evalu correl two event match happen time option evalu accept threshold distanc event start finish timestamp let look exampl event coincid b previou pattern match start timestamp b end timestamp b also option oper accept one two paramet paramet threshold distanc match timestamp one paratem give use start end timestamp two paramet give first use threshold start timestamp second one use threshold end timestamp word pre event coincid b pattern match pre ab timestamp timestamp ab timestamp timestamp make sens use neg interv valu paramet engin rais error happen
+
+
+accumul execut collect c e
+
+ast class describ collect condit element
+descriptor builder collect
+implement collect descr builder
+
+implement accumul capabl collect list valu similar collect c allow we collect valu fact exampl pre rule list employe name name list accumul employe n name l name list n l someth end list accept duplic order element list guarante
+implement accumul capabl collect set valu similar collect c allow we collect valu fact exampl pre rule set uniqu employe name name set accumul employe n name l name set n l someth end set obvious comput duplic order element set guarante
+
+
+
+
+column decis tabl
+basic detail column
+factori produc column correct type base declar indic column repres array valu
+
+
+
+
+
+
+
+
+
+
+abstract definit compil problem
+
+compil problem handler get access problem soon problem avail compil result repres summari end handler use asynchron updat guu stop compil return fals e g maximum number erro reach support compil implement
+compil result repres result compil includ error fail compil warn ignor affect creation class file
+
+
+interfac use semant modul compil bytecod
+base type gener class repres compil portion rete network compil mean statement switch statement etc oppos node propag etc
+
+
+
+
+
+
+column compos column
+
+repres first order logic like exist
+field constraint may span multipl field
+
+
+
+rule might multipl durat timer due lh cep rule ever one timer attribut durat rule consid prioriti one timer rule timer fire maximum durat pass
+
+
+
+
+
+composit type interfac e type contain field
+
+
+
+
+concurr implement node memori interfac
+class repres singl lh item line tradit dr
+
+
+config condit column typic mani constraint add
+adaptor use rule model class guid decis tabl
+detail condit column
+
+
+
+
+
+
+
+node allow follow differ path rete oo network base result boolean test
+
+
+
+
+
+
+
+
+
+
+strategi resolv conflict amongst multipl rule p sinc fact set fact may activ multipl rule conflict resolut strategi use provid prioriti order conflict rule
+connect constraint add option field constraint
+use connect restrict togeth singl field eg age
+enum connect type
+repres rh fragement rule may mani one mush togeth
+
+indic error consequ invoc
+care take implement class swallow consequ danger except occur work memori action thu leav integr work memori invalid
+
+
+
+
+
+
+
+
+descriptor repres logic connect constraint like
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+contain new asset creat convers process
+messag result convers process
+type messag
+singl result convers process
+
+
+
+implement accumul capabl count occur
+
+
+
+
+provid parser evalu cron express cron express provid abil specifi complex time combin everi monday friday everi last friday month quot p cron express compris requir field one option field separ white space field respect describ follow tabl tr th field name th leav nbsp th allow valu th leav nbsp th allow special charact tr td second td left nbsp td leav code td leav nbsp td leav code tr td minut td left nbsp td leav code td leav nbsp td leav code tr td hour td left nbsp td leav code td leav nbsp td leav code tr td day td leav nbsp td leav code td leav nbsp td leav code l w tr td month td leav nbsp td leav code ja de td leav nbsp td leav code tr td day week td leav nbsp td leav code su sa td leav nbsp td leav code l tr td year option td leav nbsp td leav code empti td leav nbsp td leav code p charact use specifi valu exampl quot quot minut field mean quot everi minut quot p charact allow field use specifi specif valu use need specifi someth one two field p charact use specifi rang exampl quot quot hour field mean quot hour quot p charact use specifi addit valu exampl mo fr field mean quot day monday wednesday friday p charact use specifi increment exampl quot quot second field mean quot second quot quot quot second field mean quot second quot specifi equival specifi valu start essenti field express set number turn second minut number rang hour day month month quot quot charact simpli help turn everi quot nth quot valu give set thu quot quot month field turn month quot quot mean everi month pleas note subtleti p l charact allow field charact quot last quot differ mean two field exampl valu quot l quot field mean quot last day month quot day januari day februari year use field simpli mean quot quot sa use field anoth valu mean quot last xxx day month quot exampl quot quot mean quot last friday month quot use l option import specifi list rang valu get confus result p w charact allow field charact use specifi weekday monday friday near give day exampl specifi quot quot valu field mean quot near weekday month quot saturday trigger fire friday sunday trigger fire monday tuesday fire tuesday howev specifi quot quot valu saturday trigger fire monday boundari month day w charact specifi singl day rang list day p l w charact also combin express yield l translat quot last weekday month quot p charact allow field charact use specifi quot nth quot xxx day month exampl valu quot quot field mean third friday month day friday quot quot one month exampl quot quot first monday month quot quot fifth wednesday month note specifi quot quot give month fire occur month charact use one express field quot quot valid sinc two express p c charact allow field charact calendar mean valu calcul associ calendar calendar associ equival calendar valu field mean first day includ calendar valu field mean first day includ calendar sunday p legal charact name month day week case sensit p note ul support specifi valu complet need use charact one field overflow rang support larg number left hand side right might catch night morn might fe import note overus overflow rang creat rang make sens effort make determin interpret cron express choos exampl would fr mo
+
+
+csv line normal csv featur
+csv implement implement remov empti cell end line differ csv tool may may put heap empti cell csv format almost ident xl one limit merg cell support allow constraint span across cell one column achiev use end cell valu cell valu end take span previou cell
+
+
+
+
+
+
+creat intelli j ide user vinod kiran date time
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+evalu dmn decis tabl express
+store result evalu decis
+
+
+
+
+
+
+
+express evalu interfac dmn defin express
+
+
+
+
+
+
+
+
+evalu dmn liter express
+
+
+gener messag interfac dmn relat messag rais compil execut
+interfac messag contain object like dmn result dmn model
+
+intern interfac object also support manag messag list
+
+
+
+
+
+
+
+
+add someth forget updat merg dmn weaver servic
+
+
+instanc encapsul inform result dmn servic invoc
+
+
+
+runtim event manag interfac dmn
+
+
+
+
+safe runtim creation helper
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+helper class build part drl represent e guid rule editor guid templat rule editor guid decis tabl
+layer supertyp tree
+
+
+
+class implement interfac gener drl fragment accord drool java semant modul
+
+contain drl output piec parser spreadsheet contribut
+low level parser ap return textual ast represent drl sourc includ dsl expand appropri
+
+
+class repres valu complex variabl insid dsl sentenc complex variabl mean variabl valu id real valu
+
+
+
+
+interfac repres dsl map
+singl entri dsl map file
+helper class handl dsl map file
+
+
+repres dsl sentenc
+
+class repres valu simpl variabl insid dsl sentenc simpl variabl mean contain singl valu
+x stream convert convert legaci string dsl valu dsl variabl valu object x stream blindli unmarshal member collect accord persist xml type legaci dsl sentenc string wherea new correctli dsl variabl valu
+holder cell valu attribut serialis gwt rpc therefor contain singl properti type serializ would ideal instead concret datum type includ separ
+
+
+decis rule metamodel class decis rule use model rule decis tabl see notat instanc decis rule order list entri instanc instanc unari test order list entri instanc instanc liter express definit decis rule element entri alway applic otherwis instanc decis rule say applic least one rule entri match correspond express valu entri match arbitrari order entri element shall order contain decis tabl input th express must satisfi th entri entri order decis rule match defin introduct entri element shall order contain decis tabl output th entri shall consist ref th output claus
+
+
+
+
+
+exampl show use datum rule templat assum fee schedul rule object retriev databas use form object relat mapper hibern toplink altern use result set gener org drool templat jdbc packag use vanilla jdbc gener rule select tabl name field name templat mean orm requir thing note moment templat requir paramet come string row refer paramet empti gener
+callback interfac scan spreadsheet
+
+object class act templat compil insert spreadsheet datum templat templat datum may come resourc input stream may provid templat datum listen
+
+
+
+
+
+
+
+string valu could convert valu class
+class field could find
+util
+
+
+
+
+
+implement signavio profil implement standard implement see date time function
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+event record decis tabl audit log chang name enum preserv compat exist audit log futur releas
+audit log filter implement specif type audit log entri creat web guid decis tabl
+
+
+
+
+
+valid extend model base select hit polici
+
+
+
+gener interfac input parser
+
+
+event class report match decis tabl
+event class report rule select result decis tabl uniqu hit decis tabl rule match select decis tabl differ hit polici rule actual select might subset rule match
+
+
+
+class capabl resolv declar current build context
+
+
+handler use creat member declar section gener subclass link compil network current creat member variabl follow type node non link alpha node li link leav input adapt node li link beta node link map set hash link alpha node key hash valu valu d alpha
+parent class call
+descriptor builder declar statement
+
+
+wrapper declar type declar type must write appropri style format contribut
+rule agenda p sinc mani rule may match singl object schedul action place agenda p process schedul action may updat retract object schedul action must remov agenda non action leav agenda execut turn
+
+
+audit log filter control entri pass audit log actual append log
+builder dynam build simpl javabean class
+
+
+
+
+default implement dmn runtim event listen subclass applic implement listen specif event
+default implement dsl map interfac capabl store list dsl map entri manag
+builder dynam build simpl javabean class
+default expand use string templat provid pseudo natur languag well gener d l person job fine
+default expand resolv provid instanc default expand default expand use templat provid dsl pseudo natur languag support
+implement fact handl
+gener rule decis tabl row rule templat
+default implement job handl interfac
+
+
+
+
+
+
+
+gener messag repres one explicit concret implement
+
+
+object class prepar receiv call pass content spreadsheet contain one decis tabl tabl expand set similar rule vari degre respect pattern action rule set start overal definit import global function queri tabl identif cell begin text rule tabl first row tabl identifi defin column type either pattern condit action consequ attribut second row contain option pattern type declar cell row merg snippet merg stretch becom part pattern separ constraint third row identifi java code block associ condit consequ code block includ one paramet marker insert valu defin cell column third row avail comment purpos column subsequ row identifi rule set provid valu insert marker code snippet defin third row attribut identifi column header mailto michael neal gmail com michael neal
+
+default column condit rule templat gener conditon start templat gener column condit exist condit string templat gener column contain valu condit valid rule condit
+contain set templat resid one file class pars templat file
+creat rule base set rule templat templat contain rule use intern engin gener actual decis tabl rule base column fill basic rule templat requir column b templat rule base gener rule column b lh rh trigger rule gener ie rule r row column cell r column column cell r column valu xyz gener gener r end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+audit event column delet
+
+
+
+audit event row delet
+depend scop bean name inject anywher caus problem
+
+
+
+
+super interfac descr builder
+factori api descr class
+
+
+rule descript
+
+http ifitjam gif
+dialect implement handl build execut code express block rule api consid unstabl subject chang wish implement dialect look ove mvel java dialect implement
+registri dialect configur also respons issu action regist dialect class api subject chang
+dialect configur implement class typic load via reflect packag builder configur call dialect registri class api subject chang
+
+
+
+
+
+
+column perform diff anoth column e g use queri differ user edit column updat column event b idea show chang field valu audit log event
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+alcohol drink offer bar
+repres obvious driver appli insur polici
+dump packag descr drl string
+helper class provid helper method pars express use drl express parser drl expr tree parser
+
+
+
+
+
+
+
+
+
+
+warn manner benchmark work produc correct result perform breadth first search instead depth first one could expect moment possibl specifi type tree search drool
+
+
+
+enum identifi editor type syntax highlight use drool tree drool token
+
+
+
+
+
+
+
+
+main manag agent drool purpos agent serv singleton knowledg base session monitor mbean registr manag
+mismatch token except properli resolv id token soft keyword
+mismatch token except properli resolv id token soft keyword
+mismatch token except properli resolv id token soft keyword
+
+
+
+
+simpl enum identifi paraphras type enum use good format error messag pars
+
+helper class gener drool parser except user friendli error messag
+
+
+class repres drool languag sentenc use id
+enum identifi sentenc type use drl parser store drool sentenc
+simpl holder class identifi drl soft keyword use drl parser
+creat intelli j ide user date mar time provid drool specif stream helper routin
+extens common token class keep char offset inform
+extens common tree class keep char offset inform
+
+
+
+
+
+
+
+
+
+
+indic attempt add rule packag alreadi contain rule name
+interfac specifi truth durat
+
+
+implement code evalu definit b code evalu correl two event match current event happen occurr event correl let look exampl event b previou pattern match start b start finish b finish word pre timestamp timestamp timestamp timestamp b code oper accept option paramet follow one valu defin maximum distanc start timestamp event maximum distanc end timestamp event order oper match exampl event b match pre timestamp timestamp timestamp timestamp two valu defin first valu minimum distanc timestamp event second valu maximum distanc timestamp event exampl event b match pre timestamp timestamp timestamp timestamp four valu defin first two valu minimum maximum distanc start timestamp event last two valu minimum maximum distanc end timestamp event exampl event b match pre timestamp timestamp timestamp timestamp
+
+
+use ye use fact type instead
+
+
+wrap eclips compil problem
+eclips compil implement
+nativ eclips compil set
+liter edg type join
+
+liter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+markup interfac builder
+
+
+
+
+
+
+builder entri point pattern sourc
+
+
+interfac entri point declar descriptor builder
+
+entri point descriptor fact part support concurr event assert
+class defin rete entri point entri point use sourc fact scop separ alpha network alpha network share among separ entri point allow safelli run parallel concurr mode
+
+node entri point rete network move design support network partit concurr process part network also need support multipl independ entri point class repres replac function rete node class previou design
+
+declar enum class dynam creat
+
+
+
+
+
+
+
+declar enum dynam gener
+
+
+
+
+
+
+
+
+
+upon instanti equal key cach first object code never chang equal key intern datastructur refer handl equal also record whether refer fact justifi state
+
+object type indic equival two object equival happen lh rule redund lh differ
+super error handler error handler know report compil error type happen need compil do one hit end need abl work element caus error error handler creat class task queue compil mean error occur mean may occur futur need abl map back ast element origin spawn code compil
+
+
+
+
+
+
+descriptor builder eval
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+
+
+
+
+
+public interfac implement evalu
+super class restrict base evalu
+simpl helper class store evalu give set valu type oper
+
+evalu definit interfac allow pluggabl evalu implement interfac regist entri point avail evalu describ evalu capabl
+
+registri class avail evalu
+
+
+evalu wrapper use execut mvel express oper call rewrit oper evalu arg arg
+
+
+
+
+
+
+pars excel spreadsheet push cell info sheet listen interfac
+
+
+
+
+
+
+
+
+
+
+execut frame interfac repres stack frame feel runtim
+
+
+
+contain list rule includ scenario exclud case may use filter rule engin behaviour test
+
+
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+exist node extend beta node perform test exist fact plu one condit exist find leav rete tupl copi propag maintain truth cancel activ longer consid true retract rete tupl fact handl impl tupl consid assert leav input fact right input beta node provid beta memori store assert rete tupl fact handl impl fact handl store right memori
+
+expand extens point expand express drl pars time translat macro expans whatev want import thing happen last possibl moment error expans includ parser error expans may includ complex macro everyth expand ideal make presumpt emb semant languag instanc java awar pre process do semant modul parser expand reusabl across semant languag
+
+
+assert result
+
+
+
+
+
+
+
+repres constraint pattern defin arbitrari express constraint valid express
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+
+
+
+
+
+
+express repres bound field
+
+
+
+
+
+express part repres express method paramet
+meta datum express method paramet definit
+
+
+
+
+
+
+
+
+
+
+rule set loader note overrid default entiti resolv set system properti entiti resolv custom entiti resolv do use dorg entiti resolv class command line instanc
+
+
+
+feel express languag engin interfac class entri point engin use
+implement feel marshal interfac convert feel object string represent vice versa
+interfac feel relat event
+base class common function event
+gener interfac feel event listen
+
+
+interfac feel function custom
+languag runtim entri point
+gener marshal interfac feel valu
+
+
+
+implement feel marshal interfac convert feel object string represent vice versa
+
+
+
+
+
+
+
+
+
+
+
+interfac fact field
+
+factori interfac return new fact handl
+import rule
+fact pattern declar fact type constraint perhap variabl bind equival pattern drool term
+adaptor use rule model class guid decis tabl
+
+
+
+
+
+
+
+
+
+
+fact type declar fact definit like class manag alongsid rule commun base use instanc creat util set get method well field accessor object use javabean gener rule also use reflect normal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+interfac accessor class join reader writer accessor method
+class hold dynam gener instanc field accessor map field name index number use access field
+
+top level interfac field constraint may composit
+repres liter node rule languag constraint singl field pattern text contain content may also enumer
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+declar field dynam gener
+descriptor builder global
+
+
+
+
+place holder empti field cell
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+borrow gratuit spring
+
+
+
+implement code finishedbi evalu definit b code finishedbi evalu correl two event match current event start timestamp happen correl event start timestamp end timestamp occur time symmetr opposit code finish evalu let look exampl event finishedbi b previou pattern match start b start finish time b finish word pre timestamp timestamp timestamp timestamp b code finishedbi evalu accept one option paramet defin determin maximum distanc end timestamp event order oper match exampl event finishedbi b match pre timestamp timestamp ab timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+
+implement code finish evalu definit b code finish evalu correl two event match current event start timestamp happen correl event start timestamp end timestamp occur time let look exampl event finish b previou pattern match start b start finish time b finish word pre timestamp timestamp timestamp timestamp b code finish evalu accept one option paramet defin determin maximum distanc end timestamp event order oper match exampl event finish b match pre timestamp timestamp ab timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+
+
+
+
+
+
+
+
+
+
+fix truth durat
+
+test fixtur implement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+fluent interfac link kie modul deploy helper function see link kie modul deploy helper info
+
+
+
+
+descr class function
+foral condit element
+reteoo compon builder foral ce
+
+descriptor builder foral
+implement ce descr builder
+
+free form line render allow user put anyth via guid editor use caution
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descriptor builder function
+
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+descriptor import static function
+
+
+
+
+
+wrapper function function must write appropri style format contribut
+
+
+
+
+
+
+
+
+
+
+
+
+
+marker interfac implement class dinam gener declar type fact
+steven william gener rule decis tabl
+rule model visitor extract interpol variabl templat key version also identifi whether compon rule model use constraint
+
+bean monitor give knowledg session
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+repres tag nomin level idea extend ruleset level set
+
+descriptor class global
+descriptor builder global
+
+
+use provid strategi stateless session global export stateless session result accesso global use execut method return stateless session result
+global variabl extractor use get global variabl valu
+
+
+
+
+
+
+
+
+
+grand parent class
+
+
+
+
+
+
+
+
+simpl factori group element
+
+
+
+specialis implement brdel persist expand templat key valu
+util class build field constraint cell otherwis valu
+take care convert guid dt object drl via rule model
+util support guid decis tabl oper
+templat valu provid back decis tabl
+
+
+decis tabl model guid editor templat xl base templat could do rel easili take templat string string datum drive sheet listen interfac decis tabl modul work take column definit combin tabl datum produc rule model
+
+
+
+helper class upgrad model use guid decis tabl implement convert legaci guid decis tabl object guid decis tabl object use guvnor onward
+helper class upgrad guid decis tabl implement ensur row number salienc durat column datum correct support add guvnor
+helper class upgrad default valu dt cell valu object instead string support add guvnor
+
+take care convert guid decis tree object drl
+visitor convert guid decis tree drl
+visitor convert drl guid decis tree
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement bind variabl
+implement support cep window
+
+constraint express
+
+implement oper
+implement paramet
+implement valu
+
+fast iter
+class use hold inform hash link alpha node gener subclass link compil network
+
+
+
+sampl file launch rule packag rule sourc file
+
+
+
+
+encod hierachi use bit mask accord algorithm describ f van bommel p wang encod multipl inherit hierarchi lattic oper datum knowledg engin
+
+
+
+event class report hit polici violat decis tabl
+
+
+
+
+
+
+
+class ascii charact
+
+
+
+
+
+
+
+
+
+
+interfac pattern contain fact type
+event filter use filter log event
+
+
+
+
+
+
+
+
+
+
+
+liter illeg bp
+
+
+
+repres import nomin level idea extend ruleset level set
+
+class repres import declar
+
+interfac import builder
+
+
+
+
+
+
+implement code includ evalu definit b code includ evalu correl two event match event correl happen current event symmetr opposit code evalu let look exampl event includ b previou pattern match b start start finish finish word pre timestamp timestamp timestamp timestamp b code includ oper accept option paramet follow one valu defin maximum distanc start timestamp event maximum distanc end timestamp event order oper match exampl event includ b match pre timestamp timestamp timestamp timestamp two valu defin first valu minimum distanc timestamp event second valu maximum distanc timestamp event exampl event includ b match pre timestamp timestamp timestamp timestamp four valu defin first two valu minimum maximum distanc start timestamp event last two valu minimum maximum distanc end timestamp event exampl event includ b match pre timestamp timestamp timestamp timestamp
+
+object type indic incompat two object incompat happen valu would satisfi object exampl x b x
+
+
+
+
+
+
+
+
+index number creat
+class test purpos use type hierarchi instead
+
+
+
+
+
+
+initi fact automat put network fact need c e c e rule
+do not want user abl instanti initi fact expos interfac make class constructor packag protect
+
+
+
+
+
+
+
+
+
+
+
+
+provid valid input type decis tabl also serv parser factori
+
+
+
+audit event column insert
+
+
+
+audit event row insert
+
+instanc equal constraint creat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+void work memori intern work memori memori intern work memori work memori void activ activ activ void activ activ activ void clear check ruleflow group activ automat deactiv queue empti deactiv group public void empti activ deactiv rule flow group activ activ rule flow group add agenda long rule flow group remain activ activ automat add agenda deactiv activ rule flow group remov agenda long rule flow group remain deactiv activ add agenda void activ activ boolean activ void node instanc long instanc id string instanc id void node instanc long instanc id string instanc id public activ activ map long string node instanc public void activ recenc recenc public long activ recenc public void clear recenc recenc public long clear recenc
+
+
+
+expos work item outsid manag
+
+
+
+
+
+class repres time interv special use calcul time distanc event constrain tempor constraint interv open e represent creat use bound long mi valu bind long valu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+event class report syntax error return parser
+event class report evalu error occur due invalid paramet
+
+root tree type node happen valid dr
+indic error regard semant valid rule
+except throw invalid packag ie one error attempt add rule base packag builder interrog show specif error
+
+
+todo fixm make extend meta properti
+public void set r valu light forw light back one way valu forw invers one way valu back
+
+
+
+
+
+
+
+
+
+
+
+
+implement evalu definit b code str compar two string valu let look exampl pre messag valu pre messag valu pre messag valu str length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+default schedul implement use jdk schedul thread pool executor schedul system clock clock
+
+
+
+
+
+
+
+janino version compil problem
+
+
+builder java dialect accumul version
+java accumul function executor implement
+analysi result implement java dialect
+
+
+
+gener compil interfac compil implement interfac read resourc reader store java class file resourc store actual compil languag matter contract result compil class file possibl compil notifi option compil problem handler soon problem find
+creat java compil todo use meet inf discoveri mechan
+common denomin java compil set need specif set provid nativ compil configur compil write custom factori suggest
+
+specif implement mvel
+
+option use variou flavour runtim compil apach jci use interfac runtim compil also use system properti drool compil set desir compil valid valu eclip janin drool dialect java compil eclip janin drool dialect java compil lnglevel default compil eclips default level level attempt autodiscov system use system properti java version java dialect configur attempt valid specifi compil classpath use class loader class string intent janino sa compil must either overload compil properti instanti class packag builder make sure eclips classpath eclips default
+
+
+
+
+helper class use java code pars identifi handl point call
+express analyz
+
+
+
+
+
+
+helper class use java code pars identifi handl point call
+
+
+descriptor class local variabl declar java code block
+helper class use java code pars identifi handl modifi block
+java grammar antlr deriv spec close represent spec chang comest remov left recurs also fix spec exactli perfect run sourc nasti look enum realli test compat build java xmx tool java g get two error ok java decis match input e e f f use multipl altern result altern disabl input java decis match input z z ff ff faf use multipl altern result altern disabl input turn enum keyword version initi releas juli requir high primari author terenc parr juli version correct koen vanderkimpen marko van dooren octob fix interfac declar use paramet instead paramet accord jl edit fix express long allow express next type accord semant jl contrast syntax jl version terenc parr nov java spec build bizarr control look weird look yep mess simplifi version chri hogu feb factor name rule use annot rule sure name recogn refer inner annot e g interfac name inner annot factor valu section annot refer creat valu pair valu pair rule use annot rule allow recogn annot refer multipl comma separ attribut updat valu array initi allow multipl element allow element updat variabl declar allow annot interestingli jl appear indic legal work least jdk move identifi portion type element rest method rest constant rest alreadi refer declar identifi portion parser would fail constant annot definit expect two identifi add option trail altern type element rest handl inner interfac trail swap express type rule refer order express make check generic cast first fail recogn statement like class byte type class byte see class byte cast express less express fail chang name use argument instead wildcard type argument jl seem allow class exampl construct chang altern primari allow suffix rather case could handl call explicit gener method invoc e g someth use suffix may overli aggress perhap creat constrain suffix rule version hiroaki nakamura may fix paramet decl variabl declar init var control use modifi annot
+
+
+
+
+
+
+helper class use java code pars identifi handl updat block
+
+
+
+
+actual wrapper follow collect list set map
+
+
+
+return instanc array list implement modifi plan move least use jaxb object object pair instead jaxb string object pair map
+gener jar meta model
+
+
+interfac job handl
+
+
+
+
+default schedul implement use jdk schedul thread pool executor schedul system clock clock
+
+class manag link jpa persist context object underli persist context link entiti manag instanc persist link kie session infrastructur class use persist kie project refer follow document link entiti manag class use repres persist context issu take account look modifi code ol one featur make avail abil user suppli command scop persist context use link kie session howev signific aris command scop persist context use one persist link kie session multipl thread word multipl thread call oper singleton persist link kie session class use link thread local instanc two thing ol intern command scop link entiti manag instanc li
+
+
+
+implement link transact manag creat link jta transact manag instanc
+
+liter junction type name visit
+
+
+
+
+
+
+
+
+common util load k jar use test
+
+
+
+
+helper class deal key store sign process serialis p class read use follow system properti p drool serial sign store url ur store pwd password alia key pwd password store url ur store pwd password
+
+
+mbean monitor class knowledgebas configur
+
+
+
+basic provid class kie base model instanc
+
+
+util class provid variou method relat kie base
+
+
+
+
+
+
+
+
+
+
+
+
+
+addit function part spec version
+
+
+
+class contain set util function creat aim use context process action script condit script make life script programm easi class automat import platform process script relat class gener user take care import class exampl use class process condit script someth like return kie function true kie function type extern kie function
+
+
+
+
+
+
+
+class provid user abil programmat creat kjar deploy avail maven repositori fluent interfac provid
+main class interfac code come togeth
+
+
+discov kie modul classpath via kmodul xml file kie base model kie session model index helper lookup result kie modul add kie repositori
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+basic provid class kie session model instanc
+
+util class provid variou method relat kie session
+util class provid variou method relat kie ap
+
+
+
+
+p factori creat return knowledg base instanc option knowledg base configur provid knowledg base configur also creat factori pre knowledg base kbase knowledg base factori knowledg base p creat sequenti knowledg base use give class loader pre properti properti new properti option sequenti option ye knowledg base configur conf knowledg base factori knowledg base configur class loader knowledg base kbase knowledg base factori knowledg base conf p could also use support properti pre properti org kie sequenti true
+
+implement knowledg base bean
+class configur packag compil dialect dialect configur handl dialect registri normal need look class unless want overrid default class thread safe also contain state creat use one packag builder consid immut modifi properti use packag builder drool dialect default string drool accumul function function name qualifi class drool evalu ident qualifi class drool dump dir string loader cach enabl default dialect java avail preconfigur accumul function drool accumul function averag averag accumul function drool accumul function max max accumul function drool accumul function min min accumul function drool accumul function count count accumul function drool accumul function sum sum accumul function string escap drool problem sever ident erro warnin info
+
+
+knowledg helper implement type inject consequen instrument compil time instanc pass runtim provid conveni method user interact work memori p particular interest updat method allow object modifi without specifi facthandl pass consequ runtim achiev implement need lookup fact handl object form work memori
+
+
+
+
+
+
+
+
+
+
+
+
+
+privat map string
+lh drl gener context object
+factori gener context
+liter label id type name
+
+
+
+
+
+
+
+
+gener larg number rule complex one time compil serial etc
+
+
+
+
+
+
+
+assert fact must propag right object sink side beta node first pattern beta node propag left input adapt use adapt object sink propag tupl sourc propag rete tupl suitabl fot right rete tupl side beta node
+
+
+
+
+
+
+
+
+
+receiv propag rete tupl tupl sourc
+item place link list must implement interfac
+simpl link link implement node must implement link list node refer node way node remov without scan list find class provid iter implement design effici gener number way iter list p simpl iter pre link list node node first node null node node remov iter pop first entri pre link list node node first node null node first
+
+sourc rete tupl tupl sink p node propag tupl extend class
+
+creat intelli j ide user david date time pm chang templat use file set file templat
+
+util build list constraint column instanc column span across multipl cell cell contain constraint
+column set field new fact
+detail limit entri action insert fact column
+column repres retract fact limit entri decis tabl valu string identifi fact pattern retract
+column set valu exist fact
+detail limit entri action set field column
+config brl action column support limit entri sinc limit entri brl action column contain liter valu brl definit discret valu
+config brl condit column support limit entri sinc limit entri brl condit column contain liter valu brl definit discret valu
+limit entri column need store valu
+config condit column support limit entri henc valu typic mani constraint add
+detail limit entri condit column
+
+
+simpl link link implement node must implement link list node refer node way node remov without scan list find class provid iter implement design effici gener number way iter list p simpl iter pre link list node node first node null node node remov iter pop first entri pre link list node node first node null node first
+idea behind link list node wrapper abl add link list node multipl link list node differ previou next node list
+item place link list must implement interfac
+represent dmn xsd list type
+
+
+
+
+
+
+
+
+
+
+
+repres liter node rule languag constraint singl field pattern text contain content
+
+
+
+
+event log work memori logger snapshot event throw work memori
+
+
+logic transform repons remov redund node move node upward class turn exist two not stage role deleg builder
+
+
+
+
+
+
+cell decis tabl contain long valu
+column type long decis tabl
+
+
+
+
+
+
+
+builder java dialect accumul version
+mvel accumul function executor implement
+analysi result implement mvel dialect
+
+
+
+
+
+
+
+
+
+class field extractor use mvel engin extract actual valu give express use mvel resolv nest accessor express
+
+debug handler mvel dialect take care regist breakpoint call requir method trigger eclips debugg keep breakpoint sync etc
+
+mvel dialect drool dialect mvel strict default strict true mean express consequ type safe howev dynam mode still use execut nest accessor field constraint
+
+
+
+
+
+
+express analyz
+
+builder condit element
+class field extractor use mvel engin extract actual valu give express use mvel resolv nest accessor express
+class field extractor use mvel engin extract actual valu give express use mvel resolv nest accessor express
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+type descriptor
+
+
+
+
+
+
+
+map error class repres error find dsl map creat
+
+
+
+
+
+
+class defin match evalu
+
+
+util method math class
+
+
+util class provid variou method relat maven
+implement accumul capabl calcul maximum valu
+
+
+
+implement code meet evalu definit b code meet evalu correl two event match current event end timestamp happen time correl event start timestamp let look exampl event meet b previou pattern match finish time b start word pre ab timestamp timestamp b code meet evalu accept one option paramet defin determin maximum distanc end timestamp current event start timestamp correl event order oper match exampl event meet b match pre ab timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+
+super interfac node memori
+
+
+
+
+
+
+memori base reader compil memori
+
+
+
+
+
+
+
+
+
+
+
+
+
+helper class report messag
+
+implement code metbi evalu definit b code metbi evalu correl two event match current event start timestamp happen time correl event end timestamp let look exampl event metbi b previou pattern match start time b finish word pre ab timestamp timestamp b code metbi evalu accept one option paramet defin determin maximum distanc end timestamp correl event start timestamp current event order oper match exampl event metbi b match pre ab timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+public new instanc instanc object id arg
+
+
+rule metadata eg foo bar etc
+detail metadata column
+
+
+
+
+purpos util check method implement equival compar bytecod essentu node share java semant involv
+
+
+
+
+implement accumul capabl calcul minimun valu
+
+
+
+
+
+
+
+
+
+
+
+mock accumul object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+job handl contain schedul multipl job
+interfac repres pattern destin
+
+base class constraint
+mvel accumul implement
+
+
+specif implement mvel
+
+
+
+
+
+
+
+
+
+
+
+
+
+name defin either sequenc token string class support although use interchang
+
+
+
+
+
+builder implement name consequ descr use fluent ap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+receiv notif logic part ret oo network todo finish document
+abstract adapt class receiv network node event link object type node parser method class empti class exist conveni creat handler object p extend class creat network handler overrid method node interest implement link network handler interfac defin method abstract class defin null method defin method event care p
+interfac use expos gener inform rete node outsid packag use expos inform event
+
+
+
+
+
+
+
+valid except indic rule contain consequ
+
+
+
+interfac node memori implement
+
+object sourc node type enum object sourc left tupl sourc leav tupl sourc beta node beta node object sink leav sourc
+
+
+
+
+
+function special case doubl function unari test
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+
+
+
+null listner
+
+
+
+
+
+
+
+class provid addit method invok templat compil take actual paramet map object
+object class act datum provid rule templat may creat collect map object templat column name use key bean accessor obtain actual paramet substitut
+
+
+
+object filter use work memori filter instanc iter
+
+
+
+object event log work memori logger snapshot event throw work memori contain fact id string represent object time event log
+
+receiv propag fact handl impl object sourc
+item place link list must implement interfac
+simpl link link implement node must implement link list node refer node way node remov without scan list find class provid iter implement design effici gener number way iter list p simpl iter pre link list node node first node null node node remov iter pop first entri pre link list node node first node null node first
+
+sourc fact handl object sink p node propag fact handl impl extend class
+
+semant object type differenti
+
+
+
+object type node respons filter propag match fact assert propag rete node use object type interfac assert retract method attempt filter role rete node build cach match object typd node assert object use object object method incorrect propag method check result class cast expcect later network filter object come rete use object type semant modul
+todo document
+monitor bean object type node
+class use read link object type node use callback user defin number callback method link network handler call event occur pars event includ object type node non hash alpha node beta node leav input adapt node event fire network featur encount end encount otn pars unidirect previous pars datum without start pars oper
+
+
+
+
+
+
+
+
+
+
+
+open bit set implement allow direct access array word store bit unlik java util bitset fact bit pack array long part interfac allow effici implement algorithm someon author also allow one effici implement altern serial interchang format open bit set fast bit set oper much fast calcul cardin set result set oper also handl set larg cardin goal open bit set fast implement possibl maximum code reus extra safeti encapsul may alway build top build cost never remov henc person version order get good perform want safe total encapsul slow limit bit set class use bit set perform result test system pentium sun java xbatch xmx bit set size result bit set time divid open bit set time tabl tr th th cardin th th union set bit th get th iter tr th full td td td td td td tr th full td td td nbsp td td nbsp td test system amd opteron bit linux sun java xbatch xmx bit set size result bit set time divid open bit set time tabl tr th th cardin th th union set bit th get th iter tr th full td td td td td td tr th full td td td nbsp td td nbsp td
+
+
+descriptor repres relat oper
+
+util interfac defin oper build drl give set paramet exist present supplement cep oper addit
+
+object type indic oppos two object oppos happen valu would satisfi object satisfi object b exampl b
+
+execut interceptor capabl retri command execut intend retri right except throw default look stale object state except attempt retri sinc hibern specif class anoth give system properti overrid default name system properti code org kie optlock exclass valu fulli qualifi class name except indic optimist lock default ul retri time first retri attempt millisecond li next retri calcul last sleep time multipli factor default factor case retri fail origin except throw
+
+
+
+
+
+order drink custom
+simpl order event pojo
+
+
+
+
+
+
+
+
+
+
+row number use class actual row number declar dtabl datum row index p prioriti declar row x prioriti row class contain row number
+object type indic overlap two object overlap happen valu satisfi object exampl valu satisfi x b x
+implement code overlappedbi evalu definit b code overlappedbi evalu correl two event match correl event start current event start finish current event start current event finish word event overlap period let look exampl event overlappedbi b previou pattern match pre timestamp timestamp timestamp timestamp b code overlappedbi oper accept option paramet follow one paramet defin maximum distanc start timestamp current event end timestamp correl event exampl event overlappedbi b match pre timestamp timestamp timestamp timestamp timestamp timestamp two valu defin first valu minimum distanc second valu maximum distanc start timestamp current event end timestamp correl event exampl event overlappedbi b match pre timestamp timestamp timestamp timestamp timestamp timestamp
+
+implement code overlap evalu definit b code overlap evalu correl two event match current event start correl event start finish correl event start correl event finish word event overlap period let look exampl event overlap b previou pattern match pre timestamp timestamp timestamp timestamp b code overlap oper accept option paramet follow one paramet defin maximum distanc start timestamp correl event end timestamp current event exampl event overlap b match pre timestamp timestamp timestamp timestamp timestamp timestamp two valu defin first valu minimum distanc second valu maximum distanc start timestamp correl event end timestamp current event exampl event overlap b match pre timestamp timestamp timestamp timestamp timestamp timestamp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+top pars tree repres packag rule pars spreadsheet also launch point dump dr
+context current build
+
+
+
+
+
+
+builder implement packag descr use fluent ap
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+
+
+helper class pair valu
+
+
+
+interfac object support paramet like function queri
+
+
+
+
+
+
+
+base class messag gener whilst pars drl guid decis tree rather return list string client return explicit messag class allow client messag
+partial redund leav right redund store connect leav right
+
+
+
+
+
+
+
+
+
+
+fact pattern column definit add
+adaptor use rule model class guid decis tabl
+
+builder pattern
+
+
+
+helper interfac builder encapsul pattern
+
+
+
+
+descriptor builder pattern xyz attribut bla lh foo bar end rh system end
+descr builder implement pattern
+
+interfac repres pattern destin
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+take list constraint make possibl
+markup interfac pattern sourc element
+common base class descriptor class repres pattern sourc
+
+
+
+
+
+
+
+
+
+
+basic interfac persistec avoid depend jpa implement session
+basic interfac persistec avoid depend jpa implement work item
+
+
+
+
+
+
+
+
+
+
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+
+
+
+
+
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+
+
+
+
+
+
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+
+
+
+
+
+
+
+
+
+
+repres custom action recogn implement rule model action persist extens
+
+
+
+
+repres polici driver appli obvious real world actuari mess thing let pretend simpl base price discount calcul rel simpl rule
+
+
+
+
+
+
+
+
+boolean paramet
+enum paramet
+float paramet
+integ paramet
+list paramet
+object paramet bind fact
+paramet definit use guvnor
+string paramet
+work definit use guvnor
+
+
+
+
+
+
+
+
+
+
+predic write top level constraint nest insid insid field constraint must implement restrict interfac
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+show decis tabl
+sampl file launch rule packag rule sourc file
+show rule templat datum provid spreadsheet exampl use spreadsheet decis tabl exampl link price rule dt exampl see differ two note even though use spreadsheet exampl concern datum cell use decis tabl datum
+
+
+
+
+
+
+process builder factori servic use packag builder provid concret implement
+
+
+
+
+
+use report error load ruleflow
+
+
+process runtim factori servic use abstract work memori provid concret implement
+extens default marshal write context allow pass addit inform marshal strategi process instanc id task state
+
+
+
+process runtim factori servic use abstract work memori provid concret implement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+node add propag work memori action queue order allow multipl thread concurr assert object multipl entri point
+read excel sheet properti treat first cell row key subsequ cell valu cell defin second cell ignor comment could easili adapt accept multipl valu per key semant keep line properti
+provid util method obtain relev properti directori test
+
+
+
+
+
+input marshal use protobuf
+marshal implement use proto buf marshal framework order support backward compat marshal session
+
+output marshal use proto buf marshal framework order provid backward compat marshal session
+
+
+
+
+
+
+pseudo clock schedul schedul base user control clock allow user explicitli control current time
+
+pleas note extend dmn base convert need access node valu
+
+
+
+repres qualifi identifi like enum subfield access variabl like p name constraint singl field pattern text contain content
+
+
+
+
+
+wrapper queri queri must write appropri style format contribut
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+descriptor builder queri
+descr builder queri
+
+
+
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+return queri result instanc request name queri iter return datum get specif row avail declar use queri also access
+
+
+
+
+leaf rete oo node respons enact action match rule
+
+
+
+
+rh drl gener context object
+factori gener context
+
+
+
+
+
+
+remind need overrid boolean predic super e filter use collect iter case alreadi opportun wrap
+
+
+
+
+
+
+
+
+
+
+
+public interfac read accessor
+
+
+reason someth wrong
+
+
+object type indic redund two object redund happen possibl valu satisfi object exampl x b x
+implement noth pass refer origin global resolv use stateless session care take use strategi later execut may chang global global resolv stateless session may also serialis friendli
+
+java tip reflect visitor design pattern implement visitor java use reflect http javaworld html michael neal say realli hate code realli help use reflect alway annoy
+declar packag name reg normal factor reactiv context string key target string key den doubl end
+declar packag name reg tabl reactiv context string key target string categori string coeff doubl exp doubl coeff doubl coeff doubl intercept doubl index int key end
+declar packag name reg target bit reactiv context string key target string valu string weight doubl normal boolean fals cumul boolean fals index int key end
+
+
+
+
+
+
+
+descriptor repres relat express
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+result convers custom resourc like guid dtabl guid templat drl dsl
+
+
+
+resourc reader provid access resourc like e g sourc code
+store compil store result
+
+util class handl resourc
+
+
+use connect restrict togeth singl field eg age
+todo chang templat gener type comment go window prefer java code style code templat
+repres liter node rule languag constraint singl field pattern text contain content may also enumer
+
+p drool templat compil take result set compil templat use default templat contain use simpli need jdbc result set field name map field name use templat
+
+
+rete oo network rete class root object object assert rete node propag match object type node first time instanc class type assert full iter object typp node look match match cach hash map use futur assert rete extend object sourc nad implement object sink null method attach remov new node root node applic
+
+
+
+
+build rete oo network packag
+interfac reteoo compon builder
+
+
+
+retract name fact
+
+descr use bpm code part syntax tree script use bpm definit
+
+
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+build consequ entri
+
+
+
+join subnetwork main network right input adapt node adapt subnetwork tupl fact order right join tupl propag main network
+
+
+
+
+
+
+
+
+
+
+
+thread safe implement root execut frame automat regist build function
+
+
+
+
+
+repres row decis tabl
+
+
+actual number row defin tabl want row index use row index method prioriti declar row x prioriti row row number class contain row number x
+rule index column e display row number
+row prioriti keep track salienc valu final dtabl end
+resolv prioriti resolv hit polici helper class salienc row number use sinc map get int differ map get object
+repres rule
+
+
+hold valu rule attribut eg salienc etc
+rule base configur class store rule base relat configur must use rule base instanti time use class automat load default valu system properti want set default configur valu new rule basi simpli set properti system properti rule base creat make configur immut way make mutabl avoid inconsist behavior insid rulebas api review may chang futur avail configur option pre tm lt gt drool sequenti lt gt drool sequenti agenda lt gt ident lt gt alpha node lt gt beta node lt gt node hash threshold lt n gt key depth lt gt leav beta memori lt gt right beta memori lt gt behavior lt gt resolv lt qualifi class name gt except handler lt qualifi class name gt base updat handler lt qualifi class name gt clock lt qualifi class name gt drool mbean lt gt loader cach enabl lt gt enabl lt gt agenda enabl lt gt threshold lt n gt threshold lt n gt
+rulebas event log work memori logger snapshot event throw rulebas
+
+class identifi rule base partit
+context current build
+
+
+
+
+
+semant compon marker
+interfac defin class capabl build specif condit element
+
+base except error rule construct
+
+measur rule coverag
+
+descriptor builder rule
+descr builder rule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+implement rule flow group collect activ rule group activ activ add agenda long group activ activ add agenda deactiv group remov activ agenda collect activ default rule flow group automat deactiv activ rule flow group howev configur
+
+event log work memori logger snapshot event throw work memori contain ruleflow group name size
+ruleflow event log work memori logger snapshot event throw work memori contain process name id
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+
+
+mailto michael neal gmail com michael neal defin ruleset spreadsheet contain matrix style decis tabl exampl custom rule sheet listen differ standard decis tabl follow way agenda group properti rule fall within precondit properti specifi condit alway includ rule gener action properti cell within decis tabl caus action trigger horizont condit properti column header matrix appli condit vertic condit properti row header matrix appli condit tabl identif cell begin text rule tabl cell rule tabl row identifi horizont condit cell rule tabl column identifi vertic condit cell matrix identifi action wherev action cell exist vertic horizont condit intersect follow rule creat rule agenda group precondit vertic condit horizont condit action end
+hold valu rule metadata eg foo bar
+
+
+class persist rule model drl back
+
+
+
+util class support upgrad rule model model releas
+util class support upgrad rule model model implement ensur addit connect constraint field creat guvnor reason default valu
+util class support upgrad rule model model implement ensur addit singl field constraint connect constraint field creat guvnor reason default valu
+rule model visitor extract interpol variabl templat key
+filter activ base specifi rule name suffix
+filter activ base exact match rule name
+filter activ base specifi regular express
+
+filter activ base specifi rule name prefix
+
+
+
+context class use rule remov ensur network consist
+
+
+
+sheet listen use creat rule
+park lot util method belong anywher els
+take list constraint make possibl
+rule templat make name decis tabl column requir decis tabl column must empti content rule
+class persist link templat model drl templat
+
+
+class persist rule model xml back xml format busi rule languag
+leaf rete oo node respons enact action match rule
+
+
+class util test rule
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+wrapper salienc salienc use run time make sure rule prioriti order defin editor respect
+
+conflict resolv use salienc rule resolv conflict
+
+
+repres test scenario also encapsul result scenario run
+essenti either class either list rule compil error compil scenario run result
+actual run test scenario
+
+
+
+persist scenario model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+special field extractor self refer
+
+
+
+
+
+
+
+
+
+
+conflict resolv use order rule resolv conflict
+
+
+
+
+
+
+
+marshal helper class perform give object
+
+conveni class help gener drool stateless knowledg session state knowledg session least common implement session store within creat construct class session implement command executor knowledg runtim event manag interfac deleg method directli stateless state knowledg session instanc
+
+session configur class store session relat configur must use session instanti time use class automat load default valu system properti want set default configur valu new session simpli set properti system properti session creat make configur immut way make mutabl avoid inconsist behavior insid session api review may chang futur refer type
+
+
+
+
+
+
+
+
+
+class defin set build evalu like contain etc
+
+handler use creat member variabl assign statement section gener subclass link compil network network node refer network node current need creat member variabl assign follow type node non link alpha node li link leav input adapt node li link beta node
+abstract base class three type cell group nine cell
+
+
+
+
+repres temporari fact use assign valu cell
+
+
+share resourc
+
+
+
+
+
+
+
+
+
+
+
+
+evalu context use tri evalu
+
+default implement emul classic drool tm behaviour
+
+
+
+
+
+logic depend special node link list maintain refer activ justifi justifi fact handl
+
+
+
+show simpl rule templat datum provid spreadsheet
+
+
+simpl type definit interfac e type contain field
+
+
+
+
+
+
+
+
+
+
+
+repres constraint fact involv singl fiel also includ option connect constraint extend option match
+
+
+
+
+
+
+
+
+custom dt collector output return output output return feel context hashmap name output valu spec output express rule singl output decis tabl simpli rule output entri output express multipl output decis tabl context entri compos output name rule correspond output entri
+simpl markup interfac sink type
+length window behavior implement
+
+public int work freezer count return freezer count public void work freezer count freezer count freezer count freezer count public int work fridg count return fridg count public void work fridg count fridg count fridg count fridg count public int defect fridg count return fridg count public void defect fridg count fridg count fridg count fridg count public int defect freezer count return freezer count public void defect freezer count freezer count freezer count freezer count public int work devic count return fridg count freezer count public int defect devic count return fridg count freezer count public int overal fridg count return work fridg count defect fridg count public int overal freezer count return work freezer count defect freezer count public int overal devic count return work devic count defect devic count public doubl work fridg ratio overal fridg count return return work fridg count overal fridg count public doubl defect fridg ratio overal fridg count return return defect fridg count overal fridg count public doubl work freezer ratio overal freezer count return return work freezer count overal freezer count public doubl defect freezer ratio overal freezer count return return defect freezer count overal freezer count public doubl work devic ratio overal devic count return return work devic count overal devic count public doubl defect devic ratio overal devic count return return defect devic count overal devic count
+
+util class exist convert rule script snippet actual code snippet contain place holder valu substitut see test case realli work snippet templat exampl blah param place holder get replac valu pass oct chang move regex use simpl charact base interpol regex overkil could quit get right
+
+take list constraint make possibl
+
+
+
+
+
+
+class defin soundslik evalu
+
+build lh rh code rule row
+descriptor builder pattern sourc
+descr builder implement pattern sourc
+
+
+class handl input xl csv extract rule dr readi pump drool
+
+
+
+
+creat intelli j ide user mdproctor date time chang templat use file set file templat
+
+
+stand alon test write file
+
+implement accumul capabl calcul standard deviat
+
+
+
+
+
+
+
+
+
+implement code startedbi evalu definit b code startedbi evalu correl two event match correl event end timestamp happen current event end timestamp start timestamp occur time let look exampl event startedbi b previou pattern match b finish finish start time b start word pre timestamp timestamp timestamp timestamp b code startedbi evalu accept one option paramet defin determin maximum distanc start timestamp event order oper match exampl event startedbi b match pre ab timestamp timestamp timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+implement code start evalu definit b code start evalu correl two event match current event end timestamp happen correl event end timestamp start timestamp occur time let look exampl event start b previou pattern match finish b finish start time b start word pre timestamp timestamp timestamp timestamp b code start evalu accept one option paramet defin determin maximum distanc start timestamp event order oper match exampl event start b match pre ab timestamp timestamp timestamp timestamp make sens use neg interv valu paramet engin rais except happen
+
+
+
+
+
+end util method use
+
+
+
+
+
+
+
+
+use singl step solut mode indicatean emergeni stop due failur solv anyth
+
+
+
+
+
+implement evalu definit b code str compar two string valu let look exampl pre messag valu pre messag valu pre messag valu str length
+
+cell decis tabl contain string valu
+column type string decis tabl
+
+
+
+
+
+
+
+
+
+
+
+rip form common string util unless specifi oper link string code null safe ul empti blank check string contain text trim strip remov lead trail whitespac equal compar two string index last index contain check index last index index last index set string contain contain none string contain charact substr left right mid substr extract substr substr substr substr extract rel string split join split string array substr vice versa remov delet remov part string replac overlay search string replac one string anoth chomp chop remov last part string leav pad right pad center repeat pad string upper case low case swap case capit uncapit chang case string count match count number occurr one string anoth alpha numer whitespac ascii printabl check charact string default string protect null input string revers revers delimit revers string abbrevi abbrevi string use ellipsi differ compar two string report differ levenstein distanc number chang need chang one string anoth string util class defin certain word relat string handl ul li null code null li empti string code li space space charact code char li whitespac charact defin link charact whitespac li trim charact lt link string string util handl code null input string quietli say code null input return code null code boolean code int return detail vari method side effect code null handl null pointer except consid bug string util except deprec method method class give sampl code explain oper symbol code use indic input includ code null
+
+
+
+
+
+
+
+
+instanc class repres possibl combin constraint one pattern possibl return true constraint combin true
+instanc class repres possibl combin pattern posibl one rule possibl return true pattern posibl combin true
+
+
+
+
+
+
+object type indic subsumpt two object subsumpt happen possibl valu compon abl satisfi compon b valu abl satisfi compon b abl satisfi compon exampl x restrict satisfi x b x
+object class solv sudoku problem
+exampl show drool use solv sudoku grid class hook togeth gui model allow load differ grid lt pgt sever grid provid via file sampl lt pgt load grid file prepar text file contain nine text line show select file open lt pgt lt pre gt lt gt
+
+defin callback implement listen event sudoku grid model
+interfac repres sudoku grid cell
+
+
+implement accumul capabl calcul sum valu
+
+
+
+
+
+event class report syntax error return parser
+
+
+
+
+
+
+
+column condit rule templat gener
+
+sheet listen creat rule templat
+interfac defin mean retriev valu relat templat key string
+
+util class support upgrad templat model model
+
+
+
+class abstract manag tempor depend manag inform
+
+
+
+markup interfac termin node
+
+
+
+
+
+
+
+
+
+
+
+
+
+paramet parser use joda time time unit pars
+
+helper class util method time relat oper
+
+
+
+
+
+
+interfac timer servic implement use drool session
+
+util class provid method cope time issu link thread int inaccuraci certain inspir http http blogspot html
+
+
+
+
+visitor emit string repres express
+
+
+
+
+
+
+agenda event listen track fire rule rule fire first time add fire rule rule fire afterward counter increment make possibl track mani time rule fire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mark
+
+
+
+
+
+execut interceptor lock underli runner transact complet case transact activ lock releas directli default interceptor disabl need explicitli enabl one two way ul li use system properti name code org kie tx lock enabl must set true li use environ entri name transactio loc enabl must set true
+
+abstract factori creat link transact manag instanc implement class specifi use code org kie txm factori class system properti
+
+
+
+
+
+declar packag name tree node reactiv context string key id string key parent string child list outcom string count int count map confid map chld string end
+
+
+trigger interfac schedul job
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+show decis tabl
+truth mainten system respons track two thing firstli maintain map track class equal use equal key equal key intern datum structur refer handl equal secondli maintain anoth map track justif logic assert fact
+
+partial match propag rete network tupl tupl abl return fact handl impl member partial match request pattern pattern refer index posit fact handl impl underli implement
+
+
+
+
+
+
+
+
+
+
+
+check one tupl start subtupl tupl instanc two tupl b c b c e constraint evalu true start subtupl hand c b b c e constraint evalu fals start subtupl besid element order differ constraint use join subnetwork back main network
+type definit interfac
+
+type declar class store type metadata declar sourc file
+
+
+
+
+descriptor builder declar type
+
+
+
+
+
+
+
+
+
+
+public void member val chang bodi implement method use file set file templat public void member bit set key chang bodi implement method use file set file templat public map bit set sort map return null chang bodi implement method use file set file templat public boolean key bit set key return fals chang bodi implement method use file set file templat public collect bit set key return null chang bodi implement method use file set file templat public collect descend bite set key return null chang bodi implement method use file set file templat public collect x return null chang bodi implement method use file set file templat public collect bit set x return null chang bodi implement method use file set file templat public collect border bit set key return null chang bodi implement method use file set file templat public collect parent bite set key return null chang bodi implement method use file set file templat public boolean empti return fals protect void add hy node node protect collect hier node node return null public member bit set key return null
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+except throw verifi tri handl descr familiar
+event class report unknown variabl error return parser
+
+
+singl field constraint support present
+liter valu support present
+liter valu support present
+action retract fact action insert fact action insert logic fact action updat field action set field support present
+fact pattern support present negat fact pattern support
+audit event column updat
+
+
+
+
+
+borrow gratuit spring add local file cach abil http http url set system properti drool resourc urlcach directori write read cach remot resourc cach last know good copi
+
+
+
+
+
+
+
+
+
+
+
+
+todo chang templat gener type comment go window prefer java code style code templat
+
+
+implement accumul capabl calcul varianc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+main user class verifi use rule valid rule cach knowledg base verifi rule
+
+
+
+
+
+
+wrap packag builder verifi use build packag descr
+
+
+
+
+
+
+
+
+
+make assert specif fact execut
+
+
+
+view result
+
+
+
+
+
+
+
+
+sampl file launch rule packag rule sourc file
+sampl file launch rule packag rule sourc file
+exampl incomplet run way near correct
+
+
+
+
+
+builder pattern
+window declar defin window use pattern rule
+
+descriptor builder declar type
+
+
+
+window node node rete network use manag window support multipl type window like slide window tumbl window etc class must act work memori action propag network branch concurr thread propag event expir event work node time requir thread safe
+class defin refer declar window
+builder name window refer
+pattern sourc descriptor window
+
+
+specialis right tupl also belong window
+class hold list right tupl belong window slide tumbl etc
+
+
+
+
+
+
+simpl demonstr use work item handler action
+simpl demonstr use work item handler action
+
+
+
+
+
+
+
+
+
+
+knowledg session rule base object serialis serialis rule base refer transient pleas see rule base interfac serial work memori input stream
+
+
+interfac instanc allow handl fact
+
+event manag class implement class wish add remov get variou drool event listen
+
+logger event gener work memori store inform file specifi event log write file disk method invok log contain event log serial xml use x stream everi time new logger creat old event log overwritten tod make class scalabl exampl log sever file log becom larg automat write updat file certain time interv
+logger event gener work memori store inform memori retriev later
+
+event filter use filter work memori event default event allow filter three type work memori event set allow boolean type fals
+logger event gener work memori listen event gener work memori creat associ log event contain snapshot state work event time filter use filter unwant event subclass class implement event creat log event method store inform like exampl log file databas
+
+wrapper state knowledg session impl intercept call rh intern drool execut proxi deleg method call appropri
+
+
+interfac class abl write valu class field
+
+
+
+
+
+
+
+
+
+
+
+
+privat void incom node bay network network bay variabl node network nodo give give empti incom node node give give network nodo privat list bay variabl node give list string give list bay variabl node list bay variabl incom new array list string giv give bay variabl node node name incom break return incom
+
+util take ast rule packag emit xm use port drl xm
+
+
+
+
+
+
+
+
+
+
+
+
