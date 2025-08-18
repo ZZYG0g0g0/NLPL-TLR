@@ -1,0 +1,1316 @@
+compil time calcul exec arg func map schema
+comput
+compil time calcul exec schema
+comput
+comput
+comput
+accumul cleanup combin count exec arg func map final initi interm valu schema sum
+schema failur success unset input format output format arg command line entri input format input format entri load caster mutat next output format output format entri tupl udf properti writer depend jar pair byte text text column read write next ab path store locat absolut path type type locat locat uri store func udf context signatur store locat udf context signatur unset byte text entri configur
+equal type null iter refer delimit string string
+add clear equal memori size tuplebuff code distinct sort iter stale field size spill write
+accumul cleanup exec valu
+clear tupl next batch batch
+accumul cleanup valu
+valu
+accumul cleanup exec valu
+valu
+accumul cleanup exec valu
+valu
+spark op
+accumul check udf input accumul batch size
+bag big decim big integ boolean char array date time doubl float integ long map tupl byte byte byte byte byte byte byte byte byte byte byte byte byte
+column input format mutat tupl
+author command line help messag int long author
+add clone get next next big decim next big integ next doubl next float next integ next long name visit
+compil time calcul exec arg func map schema
+accept copi field schema equal
+new transform
+final initi interm
+accumul cleanup tupl work work exec seed valu schema
+accumul cleanup tupl work work exec seed valu schema
+accumul cleanup tupl work work exec initi seed valu schema
+accumul cleanup tupl work work exec seed valu schema
+accumul cleanup final initi interm valu eval func
+valu
+accumul cleanup tupl work work exec seed valu schema
+valu
+accumul cleanup tupl work work exec seed valu schema
+valu
+accumul cleanup tupl work work exec seed valu schema
+final initi interm op
+alia bag cmd comment cond eid expr filenam deleg error messag grammar file name mask token name tree adaptor keyvalu liter map queri rel scalar param tree adaptor statement alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker alia masker tupl type
+visitor visit visit visit visit visit visit visit visit visit visit visit
+accumul cleanup exec valu
+featur input format load caster next partit column partit key schema schema load func statist udf context read project locat partit filter udf context signatur schema statist
+execut visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+execut visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+amend key amend key
+accept copi field schema equal
+accumul cleanup valu schema
+append field size specif get append field append field type append field memori size type type awar base code append field null append field null null field append field set set set append field append field specif type awar base size element
+compil time calcul exec
+alia bag cmd comment cond eid expr filenam deleg grammar file name result token name tree adaptor keyvalu liter map queri rel scalar tree adaptor statement ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer ast printer tupl type
+alia bag duplic cmd comment cond eid expr filenam deleg grammar file name last rel token name tree adaptor keyvalu liter map queri mismatch set mismatch token rel scalar tree adaptor statement ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid ast valid tupl type alia ref schema alia name
+back prop constraint gener match tupl gener match tupl gener match tupl helper gener match tupl helper gener match tupl helper gener match tupl helper gener match tupl helper gener match tupl helper get group input get join input get join input get larg valu get small valu get unequ valu datum new base datum ori limit map input limit visit visit visit visit visit visit visit visit visit visit visit visit
+close current key current valu progress initi key valu
+add clear memori size distinct sort iter stale field size spill write
+clear key valu set get empti set put remov size valu
+close current key current valu progress initi key valu
+close datum file writer write write
+bag schema convert pig schema inconvert
+schema init name schema
+schema failur success avro schema avro schema featur input avro schema input format next output avro schema output format partit key properti properti schema ship file statist read write project next ab path store locat input avro schema locat output avro schema partit filter store func udf context signatur store locat udf context signatur schema input avro schema
+avro avro avro avro
+close length read seek tell
+debug detail error call info debug level warn
+schema resourc schema schema resourc schema nullabl union nullabl union resourc field schema pig type nullabl union union simpl type schema requir field list schema requir field list simpl union field schema avro schema schema avro schema avro name
+gener union gener union recurs record recurs record ud field ud partial record schema accept type file intern file recurs dummi field name last path schema schema merg schema map ud field accept union tupl wrapper ud partial record schema schema type dir tupl union
+append get memori size memori size pig object type null iter field object refer set size delimit string write object
+default extens
+
+
+exec
+exec
+exec
+exec
+exec
+exec
+exec
+instanc default bag default bag distinct bag limit sort bag sort bag bag self
+format
+compil time calcul exec schema
+compil time calcul exec schema
+compil time calcul exec ouput tupl size schema
+compil time calcul schema
+add predecessor connect connect soft link disconnect explain oper predecessor sink soft link predecessor soft link successor sourc successor connect equal equal dirti tree exist remov reconnect soft link replac size string
+compil time calcul exec
+accumul cleanup combin count div exec final initi interm valu schema sum
+
+
+
+negativ infin positiv infin neg infin posit infin
+equal get code field set string write
+compil time calcul exec
+accumul cleanup combin count div exec final initi interm valu schema sum
+
+
+
+negativ infin positiv infin neg infin posit infin
+equal get code field set string write
+exec schema
+exec schema
+accept copi condit field schema lh rh equal
+col tupl tupl raw compar class tupl size tupl byte bag big decim big integ byte datum datum intern map map schema tupl tupl tupl writabl bag big decim big integ datum datum map tupl
+compar class field write
+fix size tupl tupl tupl tupl tupl copi class raw compar class
+schema failur success input format load caster next output format partit key schema statist code read write next ab path store locat locat partit filter store func udf context signatur store locat byte byte byte byte byte byte byte byte byte byte
+record reader
+record writer
+close current key current valu progress initi key valu
+close write
+helper operand type markup operand type
+lh rh
+helper child express lh rh markup lh rh multipl input
+init valid
+valid
+exec cach file filenam path init filter
+input bloom filter bloom filter distinct bloom key next serial bloom filter bloom key type combin
+describ exec explain illustr queri diagnost run run run singl singl singl pig stat pig stat
+convert
+close posit read read line skip
+exec final initi interm schema
+hash type size
+bit po bit po
+record reader
+comput
+block header overrun get int get int vs get u char getint r set stream cadvis close complet stream eof error block move front decod po read count read limit creat decod tabl block initi map read bs decod tabl decompress structur size read limit block rand part rand part b rand part c rand part rand part b rand part c
+compress structur finish stream put int vs put u char putint set stream w close revers transform block compress final flush gt u mtf valu assign code make code length block initi sort map front code send panic sort block mtf valu sort vswap write run
+comput
+compil time calcul exec arg func map schema type schema
+combin exec final initi interm schema string
+comput
+comput
+accumul cleanup exec arg func map final initi interm valu schema sum
+accumul cleanup exec final initi interm valu schema sum
+combin exec final initi interm schema string
+final crc global crc crc global crc crc
+eol treatment request header treatment request multilin treatment request schema featur input format next instanc read write one record project next field locat store func udf context signatur udf context signatur
+featur input format next read project field locat udf context signatur
+new name
+accept copi field schema func spec equal func spec
+visitor
+type boolean doubl float integ long
+
+close close
+close close write
+local file local file local file local file local file local file delet exist statu size updat
+next opt remain arg val int val str opt
+key instanc split
+convert
+equal column famili column qualifi type string
+visitor
+clone equal column info column info code insert insert column chain info reduc size string
+
+clone equal column result type start col code rang project star string
+new transform
+oper check annot column sub plan chang
+necessari requir item sub tree visit visit visit visit visit visit visit visit visit visit visit visit visit
+pattern
+combin map side reduc side fe algebra successor packag spark op
+algebra func combin fe combin predecessor plan func grp proj oper key partial agg plan predecessor algebra op algebra successor new rearrang pre combin lr group map project input
+input datum bag next valu tupl key info
+execut
+pattern
+compar compar report
+next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl operand type operand type
+collect collect get kind aggreg error messag messag type iter aggreg messag messag messag messag messag size
+match
+match
+empti bag outer join
+altern name local fs properti conf config local mode configur configur properti
+long type valid properti pig properti
+
+new transform
+accept copi field schema valu schema equal valu
+compil time calcul exec schema
+
+counter counter name store record count error exceed threshold get counter error success
+convert
+display total count put
+exec schema
+exec schema
+compil time calcul null unknown exec schema cube
+compil time calcul exec
+exec arg func map schema
+schema output format write next store func udf context signatur store locat datum type pig datum type parallel write store locat
+exec schema
+compil time calcul diff exec
+attribut attribut list attribut statement edg statement node statement pars init init init init pars except next token token unquot
+
+init init init round skip lexic action switch next token add state check n add check n add two state fill token move nfa move nfa move nfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa start nfa state start nfa start nfa stop po stop string liter dfa stop string liter dfa debug stream
+
+visit
+add clear distinct sort iter stale size
+append append append append compar equal get code code set set size string
+go local main run usag col line
+bag big char array char array intern map map tupl writabl datum datum datum
+collect contain contain contain contain contain element element element element element close activ contain configur statist init contain activ contain configur
+
+castabl compar compar field schema field schema field schema byte array type class type type type name type class type name type name type name type name type map type name map atom atom complex complex number type schema type schema type usabl type string type type tupl content bag big decim big decim big integ big integ boolean boolean byte byte date time date time doubl doubl float float integ integ long long map string string tupl
+exec arg func map
+accumul cleanup exec final initi interm valu max schema
+accumul cleanup exec final initi interm valu min schema
+equal get code field avail zone list set avail zone id string write
+compil time calcul exec arg func map schema
+add clear equal memori size spill file code spill count spill count spillabl necessari stale field progress eight content size string size avg tupl size warn write
+default bag default bag distinct bag limit sort bag sort bag
+distinct sort iter spill
+close key idx tupl key input format load caster next right loader initi read near index file locat
+close input type
+output type
+append get compar class memori size code field set size write
+raw compar class
+predecessor child walker walk
+first child walker walk
+accept copi bag column field schema raw column refer express equal bag column raw column string alia po
+exec arg func map schema
+next main string
+add space display nest tabl display tabl make array shorten field shorten field shorten field metric nest tabular nest tabular simpl tabular tabular
+datum bag exec distinct distinct nest bag final initi interm
+
+convert
+add distinct sort iter size spill
+decim divid scale clone divid zero get next next big decim next big integ next doubl next float next integ next long name visit
+accept copi field schema equal
+
+
+load file
+attribut multi input nest plan name nest plan dumper revers
+attribut name nest plan dumper verbos
+
+attribut multi output nest plan name nest plan dumper
+invis invis input invis input invis output dump edg invis edg invis input invis input invis oper invis output multi input nest oper multi output nest oper nest oper oper attribut cluster id cluster id id invis attribut name subgraph id subgraph id dumper revers
+attribut name nest plan dumper verbos
+comput
+accumul cleanup combin count exec final initi interm valu schema sum
+comput exec arg func map
+exec schema
+comput exec arg func map
+exec schema
+
+
+exec schema
+exec schema
+compil time calcul exec schema
+compil time calcul exec arg func map
+exec schema
+
+exec schema
+equal get code field set string write
+artifact instanc queri string uri
+result stop error alias clear help cd cat copi copi local copi local declar default describ dump explain f command histori illustr kill l mkdir move pwd pig regist regist remov sql command script set set sh command prompt quit
+configur evalu display string initi
+input format next read locat
+
+deseri load caster
+deseri load caster
+add exp plan insert ident visit
+alia string
+exec
+compil time calcul exec arg func map schema
+comput
+comput
+copi copi creat creat delet exist configur datum storag statist open open renam sopen sopen element configur
+error messag stat byte write display string durat error code featur input stat job client job graph number byte number job number record output alia output locat output name output stat pig properti proactiv spill count object proactiv spill count record record write return code smm spill count script id emb success result
+error messag stat byte write display string input stat job client job graph number byte number fail job number job number record number success job output alia output locat output name output stat proactiv spill count object proactiv spill count record record write smm spill count emb result backend except start stop
+mr op
+accept copi field schema equal
+clone comparison next boolean name visit
+compil time calcul exec
+eq class lo eq class map
+error success
+error handler
+compil time calcul exec finish arg func map cach file input schema load caster logger pig logger report return type return type spec schema name schema type ship file asynchron end input process schema progress end input input schema pig logger report udf context signatur warn
+op key key match
+plan datum datum datum eq class exampl lineag lo eq class map log datum map log phi map mr transform base datum load datum map max record
+append get memori size type null field refer set size string tupl write
+appli
+
+notif alia configur except log po store result std error std statist statu complet kill
+accept execut engin execut engin class local name
+string singleton exec type
+close configur exec process error run output
+destroy explain configur datum storag execut manag init pig stat script state kill job pig configur properti
+binari comparison oper binari express oper physic plan pig context visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+op type
+child clone udf child express next datum bag illustr multipl output string visit
+exec arg func map schema
+accumul cleanup exec extrem final initi interm return type valu schema field index order
+exec init
+comput
+replic input convert replic input
+po read seek
+write
+close key progress valu next
+counter counter
+explain init pig pipelin
+init elig fetch enabl plan fetchabl
+store func
+progress progress
+get counter counter counter counter
+
+locat uri output size path size support
+close input type
+split compar
+final
+default prefix creat creat contain delet temp file temp resourc file file file file intern resourc exist exist path path file element descriptor size size temp contain temporari path temporari path temporari resourc path match file hadoopifi directori directori file file open open open df file df file df file lf file cyg path root initi r
+output type
+equal file name func name func spec size code string
+equal code field string write
+pattern new transform
+pattern
+convert
+filter plan logic express push push push push push express express express filter plan push express filter remov support op type support op type logic express filter plan visit
+finish
+equal exec func object
+exec memori size
+write write
+default schema string featur input format next partit key schema statist column spec read project field locat partit filter udf context signatur
+schema output format partit key statist write next partit filter store func udf context signatur store locat statist field string
+compil time calcul exec schema
+accumul cleanup combin count exec final initi interm valu schema sum
+exec schema
+exec schema
+
+
+exec schema
+exec schema
+compil time calcul exec schema
+compil time calcul exec arg func map
+exec schema
+
+exec schema
+pattern
+convert
+exp null byte array schema null byte array field schema null byte array schema type null visit
+exec
+
+clone equal arg string spec class name class name spec ctor arg input arg schema code argument class name ctor arg input arg schema string
+ship file ship file
+appli
+cast
+exec counter group function class function class function type class function
+exec
+exec cross key next tupl
+exec
+clone comparison next boolean name visit
+mr op plan expr equal expr equal expr gt equal expr great expr great expr null expr lt equal expr less expr equal expr filter op pig storag op const project project ok temp file spec chain filter grp chain pc r filter op filter op ex plan filter op proj filter op proj filter op proj cast op plan op plan op plan op plan op udf op gener op ex plan gener op ex plan fe gener op ex plan fe gener op ex plan fe gener op ex plan fe flat gener op ex plan lr global rearrang op limit op load op local rearrang op plan local rearrang op plan plain local rearrang op po partial agg packag op read op split op store op union op
+float datum bag mix tupl convert rand dba rand full tup datum bag rand full tup text datum bag rand larg string rand map rand small bag text tupl rand small bag text tupl null rand small bag tupl rand small bag tupl null rand small tup datum bag rand small tup datum bag null rand small tupl rand small tupl rand string rand text dba float datum bag field schema full tup text datum bag field schema mix tupl convert field schema rand map field schema small bag text tupl field schema small tup datum bag field schema small tupl field schema
+exec schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+exec return type
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+convert secondari sort
+exec
+accept copi field schema equal
+clone comparison next boolean name visit
+accept copi field schema equal
+accumul cleanup valu schema
+final initi interm
+exec invoc target schema
+
+engin param variabl script lang accumul algebra main function
+pig groovi
+pattern new transform
+
+script exec run consol reader
+batch batch current batch current batch init do script substitut grunt stop error stop error alia clear help length replic cd cat copi copi local copi local declar default describ dump explain explain f command histori illustr kill l mkdir move pwd pig regist regist remov sql command script set set sh command prompt quit preprocessor sql command batch explain state interact load prop script illustr valid statement
+bag big decim big integ boolean char array date time doubl float integ long map tupl byte byte byte byte byte byte byte byte byte byte byte byte byte
+class list filter filter column prefix filter without column prefix h base deleg token row filter schema failur success delet put key instanc split column info list featur input format load caster next output format ship file split compar udf properti famili increment scan local job config byte column list valid option read write field name project next ab path store locat absolut path column info list locat store func udf context signatur store locat udf context signatur project field name string
+split region
+configur
+collect contain contain contain contain contain element element element element element close activ contain configur hf statist init contain activ contain configur
+type class name type nullabl writabl new writabl compar writabl compar writabl compar type writabl compar type
+copi creat iter open open sopen sopen
+compil destroy explain configur datum storag exec conf execut manag inner log phi map job conf local conf log phi map conf init init kill job pig configur properti
+creat open open sopen sopen
+notif alia configur except log po store result std error std statist statu complet kill except
+kerbero keytab login
+copi copi creat creat delet equal exist configur datum storag hf path statist code open renam permiss sopen element string configur
+avail close mark support read read read reset seek skip tell
+comput
+close configur exec output name error debug footer debug header error hdf
+job context job context task attempt context task attempt id new task attempt id file system impl map
+input handler output handler
+exec arg func map fnv fnv init schema
+exec
+exec
+hash code write
+partit
+
+featur input format next partit column partit key requir column schema statist udf context read project columnar struct columnar tupl locat partit filter udf context signatur setup
+schema output format udf properti field next store locat
+filter express date partit record reader number format min split size statu date
+rc file writer column number record writer column number
+close current key current valu progress split path initi key valu
+set day date pig type hive type pig datum type string lazi array pig array lazi map pig map schema schema type
+exec final initi interm udaf schema
+exec finish ship file schema
+error messag ship file mapr context func
+exec end input process schema end input
+hive pig object inspector constant object inspector primari hive resourc field schema type info
+exec arg func map
+compil time calcul exec arg func map schema
+comput
+compil time calcul exec schema
+compil time calcul invers exec schema
+exec arg func map schema
+date time
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec schema
+exec schema
+add clear contain empti iter remov size array array string
+markup illustr
+counter counter progress progress statu
+datum input check datum eq class share equival class input lineag origin limit schema sub exp result sub exp result eq class share equival class origin limit sub exp result
+datum map plan attach revisit illustr illustr illustr bin cond cast comparison func counter demux distinct equal filter gt equal great null lt equal less limit load local rearrang map look neg equal po po optim packag project rank regexp sort split store stream union user func
+write
+execut two output
+sort key list match
+close initi near
+nullfield equal index key code secondari sort order use secondari key string
+close input format next output format initi near reader
+close input type next
+visit
+exec schema
+number reduc input size loader total input file size total input file size
+byte conf display string input type locat name number record success index input sampl input side file input conf
+compil time calcul exec schema
+accumul cleanup combin count exec final initi interm valu schema sum
+
+
+
+close current key current valu progress initi key valu
+close write
+col tupl tupl raw compar class datum datum datum datum
+inter sede instanc
+schema failur success input format next output format partit key schema statist code read write next ab path store locat locat partit filter store func udf context signatur store locat
+
+
+add do clear init distinct sort iter spill spill rec counter
+add init distinct sort iter size spill
+
+add init distinct sort iter spill
+cmd string
+ex string
+string
+
+
+
+
+
+number list expect arg first class first object return type invok class arg primitiv
+eval
+const primit signatur string exec invok function invok function bytecod argument class array method style name object version uniqu id initi store argument constructor schema primit
+exec schema
+compil time calcul exec
+exec init
+init
+exec schema
+exec schema
+exec schema
+accept copi field schema equal
+exec schema
+exec
+accumul cleanup exec valu initi finish
+exec
+exec
+next next remov transform
+node scope node scope node scope ariti creat node scope node node node reset node
+bind bind compil compil file file defin fs jar udf set
+static datum method name
+instanc static datum cleanup method static datum cleanup
+depend jar qualifi jar name stream cl pig script udf jar pig script udf jar contain jar default jar
+adjust buff size begin token do expand buff fill buff get imag get suffix init init init init init init init init init read byte updat line column begin line column backup begin column begin line column end column end line line tab size hexval char tab size
+class path compil class path
+singl file distribut cach distribut cach num reduc runtim reduc compil compress number reduc cach stage dir exist dist cach file path cach group name job job mro map store result result run local jar class path distribut cach part reset counter compar output format distribut cach distribut cach distribut cach join hdf uri mr op plan
+
+pred prevoiou spark op runtim parallel skew join ud fs job d predecessor rdd replic input replic file replic merg join predecessor rd d oper rdd spark op
+cleanup job metric applic end applic start block manag add block manag remov block updat environ updat executor add executor metric updat executor remov job end job start stage complet stage submit task end task get result task start unpersist rdd reset job end
+accept median valu alia alia locat avg map time avg be educ time byte write display string error messag except featur hadoop counter hdf byte read hdf byte write input job id map input record map output record max map time max reduc time min map time min reduc time multi input counter multi store counter number map number reduc output size output proactiv spill count object proactiv spill count rec record writtern reduc input record reduc output record smm spill count state equal index sampler success backend except conf error msg success
+plan predecessor lra successor pkg multiqueri map spark op join group case spark op
+convert
+input input plan next name chunk size illustr input plan flatten
+accumul cleanup valu initi schema
+final initi interm
+exec initi schema
+param variabl script lang ship recurs main function
+append convert j pig convert pig j return exec indent pig bag pig map pig tupl schema bag j map j tupl j stringifi stringifi string
+eval context instanc param variabl scope script lang call eval eval new array new object put load main function
+input format load caster next partit key schema ship file statist read field primit locat partit filter udf context signatur
+exist meta file partit key schema schema statist except field del partit filter record del schema statist
+schema schema cach file output format ship file write next store func udf context signatur store locat schema statist field
+exec schema
+function param variabl script lang function load main function py modul path
+python tupl py tupl pig
+compil time calcul exec schema
+mr op
+job conf job conf
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+main
+
+compil time calcul exec arg func map schema
+exec schema
+accept express plan gener input uid group type inner input plan schema schema equal group type uid express plan group type inner flag
+accept input schema equal nest nest
+accept express plan input oper schema equal uid express plan oper
+accept input schema equal
+accept filter plan input schema equal sampl filter plan
+accept nest schema reacheabl inner load boundari project inner plan schema equal inner plan
+comput
+comput
+comput
+accept exp schema flatten flag output plan schema output plan schema uid schema user defin schema equal schema uid flatten flag null type byte array type output plan schema output plan uid schema user defin schema string
+accept col num lo project schema equal schema locat bag string
+accept express plan valu express plan inner flag input join plan join type name schema equal inner join type inner flag join plan join type
+accept input limit limit plan schema equal limit limit plan
+accept cast state configur determin schema file spec limit load func schema schema file schema meta data script schema signatur cast adjust equal tmp load uid cast state limit requir field script schema tmp load script schema string
+accept nativ mr jar param schema equal nativ mr jar param
+accept ascend col rank col plan schema dens rank equal row number ascend col dens rank row number rank col plan
+accept copi ascend col input limit order schema sort col plan sort info user func equal limit star ascend col limit sort col plan star user func
+accept schema equal
+accept filter plan input uid schema equal uid rec uid filter plan
+accept file spec input spec output spec schema signatur sort info store func equal tmp store input spec sort info tmp store
+accept cast state execut manag schema script schema stream command cast adjust equal uid cast state
+accept merg schema alia cach ouput uid input uid input input schema equal schema uid union schema
+compil time calcul exec arg func map schema
+clone comparison next boolean name visit
+compil time calcul exec arg func map schema
+progress time spend destroy explain error messag except string except string stack trace element total hadoop time spend complet kill job pig run job reset job except
+compil time calcul exec schema
+accept copi field schema equal
+clone comparison next boolean name visit
+accept copi field schema equal
+lookup line
+adjust map reduc limit sort reduc limit mr op
+convert
+pattern new transform
+add clear memori size revers compar distinct sort iter stale field progress size spill string write
+uid load func map associ load func uid load func map ident caster caster match load func uid rel pred load func pred load func load func uid visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit express
+count member membership map repres weight count insert link union
+prune base datum constrain coverag complet new base data base datum init load oper visit visit visit visit visit visit visit visit visit visit visit visit visit
+
+input clone inner next valu tupl markup distinct distinct inner
+bag big decim big integ boolean char array date time doubl float integ long map tupl
+loader convert merg join successor udf file
+absolut path cach file input format load caster next path string ship file join read absolut path locat udf context signatur warn
+magic number extens map extens first file function function applic tag extens first file func spec content load per extens sequenc file key class
+partit key schema statist metadata load func partit filter
+input format load caster method name next func read absolut path load func locat udf context signatur
+partit key schema statist partit filter
+predic field support express type pushdown predic
+featur project
+
+pattern schema cast adjust cast insert cast need
+load tez op
+accept execut engin execut engin class local name string
+phi mr map pig
+convert
+avail close mark support read read read reset seek skip tell
+
+f flatten l g pack trio merg cogrp log phi map physic plan pig context collect cogroup express plan merg cogroup soft link empti bag check merg cogrp visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+permiss except pig except warn log log log
+copi field schema next uid type field schema use real set field schema field schema next uid uid string
+copi explain equal merg
+visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+explain alia signatur equal optim valid
+assert op command command cross op cube op distinct op filter op foreach op func spec gener op group op invok udf join op limit op limit op load op nativ op nest cross op nest distinct op nest filter op nest foreach op nest limit op nest limit op nest op nest op nest oper input nest project op nest sort op op op project expr project expr rang project expr rank op sampl op sampl op sort op split op split otherwis op split output op store op stream op tupl udf union op duplic alias duplic project rang project expr cube oper cube fg plan cube op datum bag filter op foreach op gener op group op inner load join op limit op nest filter op nest foreach op nest limit op nest sort op rank op sampl op sort op split output op command function last rel last rel next id next id oper plan project exp list user defin schema foreach oper command function oper mark delet oper key oper key big decim big integ group type join type long delet express plan oper alia bytearray null type parallel partition inner load proj class undollar unquot func spec
+load func num logic relat oper num sink num sourc sink sourc store func init
+alia bag cmd comment cond eid expr filenam deleg grammar file name last rel logic plan oper token name tree adaptor keyvalu liter map queri mismatch set mismatch token rel scalar tree adaptor statement logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener logic plan gener tupl type
+listen rule set add rule
+first first lp node plan plan visit tab
+valid
+visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+field schema uid set equal duplic uid alia custom partition line number request parallel schema pin option use real set schema option schema uid alia custom partition request parallel schema string
+field castabl null alia copi equal field field field field posit field sub name match field equal equal equal unless unknown merg name space alia schema alia schema alia uid normal uid size string string
+
+compil time calcul exec schema
+accumul cleanup combin count exec final initi interm valu schema sum
+
+
+
+exec init schema
+arg func map
+arg func map
+map scalar file block compil compil red oper soft link singl input plan str concaten job index job load mr op mr plan messag collector nativ mr op plan quantil job sampl job skew join sampl job sort col sort job store temp file spec mani input file merg merg block ud fs new collect group counter cross distinct fr join filter global rearrang limit load local rearrang merg co group merg join nativ po packag rank skew join sort split store stream union
+
+
+accept execut engin execut engin class local name string
+pig stat script state
+intermedi mr op
+accept counter input statist map reduc statist map reduc statist one input stat one output stat output statist stat alia alia locat avg map time avg be educ time counter display string featur hadoop counter job id map input record map output record max map time max reduc time min map time min reduc time multi input counter multi store counter number map number reduc proactiv spill count object proactiv spill count rec reduc input record reduc output record smm spill count task report task stat alia conf id map stat reduc stat
+mr op
+string
+stat fail job stat job stat nativ job stat nativ job stat success job stat statist multi store count backend except collect collect job mro map
+verbos mr op
+set conf workflow adjac conf get alia alia locat pig featur alia job parent pig featur
+get counter counter counter counter progress statu
+mr tez conf mr set remov mr set retain mr tez param map mr set unwant set vertex config mr set tez local resourc input split input split info disk
+plain op connect map reduc
+log j script type dryrun remot param file build time file canon path major version minor version patch version return code stat svn revis version string run job interrupt conf properti main listen properti script run time run emb script param preprocessor usag log file
+key key string
+check map uid map chang
+accept copi field schema lookup key map equal string
+
+input path recurs leaf store tmp file configur valu file recurs combin pig split path length path length split string partit file local cach split stream dir conf multi stream dir conf singl udf context
+compil warn aggreg success file explain error stat kill job pig progress mark output dir job failur
+small split counter oper counter oper custom partition oper id quant file rank oper id request parallel secondari sort order skew join skew join partit file sort order ud fs str union use secondari key cogroup counter oper end input set map end input set reduc global sort group index limit sort limit map do rank oper reduc do regular join row number sampler skew join splitter cogroup group index regular join sampler name distinct combin combin small split end input map end input reduc global sort limit sort limit map do map do multipl map do singl need distinct combin quant file reduc do secondari sort order skew join skew join partit file sort order splitter use secondari key string tab multipl input multipl output type compar type compar visit
+store func record counter
+partit partit
+accept op accept sort op map side merg
+compil time calcul exec schema
+accumul cleanup exec final initi interm valu max max schema
+convert
+pattern new transform
+pattern new transform
+convert
+input format load caster next read locat
+implement annot present implement signatur equal
+complet complet logic concis real
+compil time calcul exec arg func map schema
+cluster exec type launcher mini df mr cluster mini mr cluster
+main
+cluster cluster setup final configur exec type file system launcher properti properti mini df mr cluster mini df mr cluster mini df cluster mini mr cluster
+compil time calcul exec arg func map schema
+clone get next next big integ next integ next long mod name visit
+accept copi field schema equal
+default durat callback default default default default unit
+default valu exec termin
+compil time calcul exec arg func map schema
+exec schema
+exec schema
+
+clear key valu get empti set put put remov key size string valu
+shift key info index shift key info index demux plan demux mr oper merg list multi queri packag split store map key type diamond mr oper map singl load mapper plan singl predecessor splitte mergeabl map splitte map reduc splitte diamond mr oper mr oper properti map reduc splitte map reduc splitte one combin plan index one map part one map plan index one reduc plan index map reduc splitte mapper splitte singl map reduc splitte combin reconnect index lr split map key type splitter visit mr op
+sub plan properti parent split physic plan plan plan b spliter splitte spark op
+predecessor sub plan properti parent splitte tez op
+key wrap list packag packag key wrap list next num input packag valu tupl combin map key type combin map key type
+output format write next store locat parallel write store locat
+clone get next next big decim next big integ next doubl next float next integ next long multipli name visit
+accept copi field schema equal
+pattern
+exec
+exec
+exec arg func map schema
+exec arg func map schema
+command string job id job number nativ mr param name job visit
+command string job id job number nativ mr param job
+command string job id job number nativ tez param name job visit
+accept copi field schema equal
+pattern new transform
+rel op plan rel op plan
+exec
+add child close get child get num child get parent open set parent
+gener next node id reset reset
+match
+exec
+match
+default bag default bag distinct bag limit sort bag sort bag
+
+express string
+add clear equal memori size code distinct sort iter stale field progress size spill string write
+exec arg func map
+
+spark op
+filter
+store mr op
+accept copi field schema equal
+clone comparison next boolean name visit
+accept copi field schema equal
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+valu pig type
+clone index key partit valu pig type code null field index key null partit string write
+valu pig type
+valu pig type field
+valu pig type
+name datum type
+cach instanc object registri retriev object registri
+byte deseri byte serial
+accept annot annot locat name plan equal annot locat plan
+equal string op key id scope code string
+add connect connect soft link disconnect oper predecessor sink soft link predecessor soft link successor sourc successor equal exist remov reconnect soft link replac size
+plan oper key load file file graph
+add connect connect soft link disconnect base plan oper predecessor sink soft link predecessor soft link successor sourc successor equal exist remov reconnect soft link replac size
+edg string visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit edg op string visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+
+gener flatten flatten non determinist udf
+accept copi field schema equal
+search argument schema failur success column name express valu featur first file input format next output format partit key predic field reqir column id string reqir column name string reqir column name string schema search arg obj valu search arg obj valu search argument ship file statist support express type type info type info locat read write project next ab path store locat locat partit filter pushdown predic store func udf context signatur store locat udf context signatur
+compar
+compar
+
+test method
+split compar
+attach input next result next next next remov
+close next output type record delimit end row next line valu
+valu
+valu
+alia byte conf display string function name locat name number record po store record success iter byte conf po store record success
+exec init schema
+output overwrit
+clone next boolean name visit
+input clone get next child express cond lh next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl rh markup name cond lh rh multipl input visit
+input skip input clone next tupl tez input key bloom filter name input input key
+broadcast variabl name markup name broadcast variabl name multipl input multipl output visit
+key bloom filter output clone output key next tupl num bloom filter tez output name output bloom output key skip null key bloom filter join key bloom
+clone schema error child express func spec next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl markup func name object field schema func spec multipl input visit
+child express next integ next string markup name multipl input visit
+input output key type next tupl plan stream close result markup end input name end input illustr equival class key type plan multipl input multipl output visit
+counter valu local counter clone ascend column counter plan local counter next tupl oper id task id markup local counter reduc counter dens rank row number name local counter ascend column counter plan dens rank row number local counter oper id task id multipl input multipl output visit
+input skip input output next tupl tez input tez output markup name input output input key output key multipl input multipl output visit
+output next tupl tez output reduc counter initi name output stat output key tupl output key visit
+datum memori tupl next tupl markup last bag name reset multipl input multipl output visit
+plan input index next tupl plan stream close result markup combin name pipelin combin multipl input multipl output visit
+clone custom partition next tupl markup block name reset custom partition multipl input multipl output visit
+clone join plan key fragment join plan l rs next tupl repl file valu tupl markup key null left outer join name object fragment repl file hash map multipl input multipl output visit
+schema factori input name hash map
+input skip input clone input key tez input name input hash map
+clone next tupl plan markup name plan multipl input multipl output visit
+input plan input plan clone tupl termin flat str input plan leaf next tupl op reset plan leaf op flatten markup markup process earli termin map side name end input process plan initi accum end accum start accumul input plan map side op reset flatten flatten multipl input multipl output visit
+custom partition markup block cross name cross custom partition multipl input multipl output visit
+secondari sort order use secondari key secondari sort order use secondari key
+input skip input output next tupl tez input name input input key
+clone next boolean name visit
+gr op lr op pkg op predecessor markup name predecessor multipl input multipl output visit
+clone limit limit plan next tupl markup name reset limit limit plan multipl input multipl output visit
+cach file l file limit load func next tupl pc ship file signatur markup tmp load name cach file tmp load l file limit pc ship file signatur multipl input multipl output visit
+input clone lr output plan index key result key type main key type next tupl plan project col map secondari project col map markup cross distinct key compound key tupl project star secondari key tupl secondari project star name cross distinct index index key type multi queri index plan plan combin secondari plan strip key valu use secondari key multipl input multipl output visit
+output clone output key next tupl rearrang tupl tez output connect packag skew join name output connect packag output key skew join
+creat creat creat creat
+clone child express look key next next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl markup name input look key multipl input visit
+l ron first key next split idx func spec index file name lr inner plan next tupl output tupl markup end input name break heap index object end input end record mark idx func spec index file name loader signatur side file spec side load func setup multipl input multipl output visit
+join plan key tupl key index file inner plan join type l rs next right inp next right inp next tupl signatur markup end input name leav tupl array tupl factori object right stream end input index file right input file name right loader func spec signatur right pipelin multipl input multipl output process except visit
+quot nativ rjar param markup name nativ rjar param multipl input multipl output properti param visit
+clone next big decim next big integ next doubl next float next integ next long markup name visit
+clone next boolean name visit
+visit visit
+clone next tupl name visit
+clone next boolean name visit
+input clone input next tupl num inp pkgr markup name equival class illustr num inp pkgr multipl input multipl output visit
+packag packag mr op
+key singl val map key val map aggreg level first level raw row second level size reduct clone new valu list valu tupl map agg mem threshold memori agg result tupl key plan memori size next tupl output result valu plan markup init agg disabl name key plan valu plan aggreg first level aggreg second level spill spill result spill multipl input multipl output visit
+clone pr output next tupl pig context init name pig context
+clone pr output next tupl init name
+num row tupl next tupl markup name multipl input multipl output skip interv visit
+next tupl end input name end input
+input clone lr output key type next tupl plan markup name key type plan multipl input multipl output visit
+
+column input clone input bag child express column column next next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl rang tupl start col markup overload project end rang invalid star name input bag column column overload project end result singl tupl bag star multipl input multipl output visit
+rank clone ascend col next tupl oper id rank counter offset rank plan markup name ascend col oper id rank plan multipl input multipl output visit
+input skip input next tupl rank counter offset tez input name input stat input key tupl input key visit
+next tupl markup name multipl input multipl output visit
+custom partition flat str lr op pkg op secondari sort order use secondari key name custom partition secondari sort order use secondari key
+clone next boolean name const expr implement visit
+clone next datum bag name reset visit
+num row tupl next tupl sampl markup name sampl multipl input multipl output visit
+markup name multipl input multipl output visit
+input key input skip input next tupl tez input skew join input input key skew join multipl input
+input key input skip input next tupl tez input markup name input multipl input multipl output visit
+input skip input next tupl tez input initi input input key
+schema inner flag join plan schema markup name join plan multipl input multipl output visit
+clone limit asc col compar sort func next tupl sort plan markup block limit name reset limit sort func sort func sort plan multipl input multipl output visit
+next tupl name
+plan clone next tupl plan split store stream close result markup name plan plan pipelin split store multipl input multipl output visit
+
+counter cach file index input spec next tupl file schema ship file signatur sort info store func store func decor markup multi store tmp store name cach file disabl counter index input spec tmp store multi store file schema ship file signatur sort info store func store func decor store impl multipl input multipl output visit
+store func
+output next tupl output key tez output initi name output output key
+clone finish binari input queue binari output queue command initi next helper next tupl ship cach properti markup fetchabl name ship cach spec fetchabl initi multipl input multipl output string visit
+do next tupl markup name input multipl input multipl output visit
+input clone child express compar func spec next next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl markup func name object multipl input visit
+clone combin termin finish cach file child express final func func spec initi interm next next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl origin return type refer oper return type ship file signatur termin markup func asynchron earli termin name end input process schema input object accum start algebra function cach file func input schema func input schema func spec earli termin refer oper result type ship file signatur multipl input multipl output visit
+input skip input next tupl tez input markup name input input key multipl input multipl output visit
+output key output output key next tupl tez output markup initi scalar output task index record index key name output key output scalar output task index record index key multipl input multipl output visit
+comput
+convert
+input bag type clone input bag illustr inner key key key tupl key info key tupl key type next num input num input packag type use secondari key valu tupl markup markup distinct name equival class distinct illustr inner key compound key info key tupl key type num input packag type parent use secondari key markup
+equal code string
+constant
+spark op
+pars init init init init pars except next token token context unquot
+
+init init init round switch next token add state move check n add check n add state check n add two state fill token move nfa move string liter dfa start nfa stop po stop string liter dfa debug stream
+messag
+substitut file substitut file pig file
+featur init project locat
+init store locat
+initialis
+string
+caus string
+pars class
+push support op type support op type
+pattern new transform
+reduc exec memori size key
+exec
+configur initi root vertex initi sourc task complet vertex manag event receiv vertex start vertex state updat schedul task
+partit express partit key partit file path partit key valu statu partit filter express partit key
+partit key path partit key valu put key valu put key valu path key valu
+accept class name match equal leaf node sourc node class name leaf node match sourc node string
+creat match match match reset newli match pt node
+print start stop
+timer timer perf timer factori timer
+visit add bin cond cast collect group comparison func constant demux distinct divid equal fr join filter gt equal global rearrang great null lt equal less limit load local rearrang map look merg co group merg join mod multipli nativ neg equal po po optim packag partial agg poisson sampl pre combin local rearrang project rank regexp reservoir sampl skew join sort split store stream subtract union user func
+visit add bin cond broadcast spark cast collect group comparison func constant counter cross demux distinct divid equal fr join filter gt equal global rearrang great null lt equal less limit load local rearrang map look merg co group merg join mod multipli nativ neg equal po po optim packag partial agg partit rearrang poisson sampl pre combin local rearrang project rank regexp reservoir sampl skew join sort split store stream subtract union user func
+origin locat origin locat input clone helper plan alia input alia alia string illustr input logger next next big decim next big integ next boolean next datum bag next datum byte array next date time next doubl next float next integ next long next map next string next tupl origin locat parent plan pig logger report request parallel result type accum start accumul block end input input attach input reset accum end accum start accumul illustr input parent plan pig logger report request parallel result type datum cleanup visit
+input clone connect input explain explain explain empti remov replac op map op map string
+packag
+defin claus regist script udf claus bind bind bind compil compil file file defin non escap dollar sign f defin claus regist script udf claus script context script file jar udf paramet set sql
+instanc pig audit id event
+array enum array record array byte fix map record string
+array element array size field npe union schema instanc write boolean byte doubl fix float long record union
+record reader statu
+record writer deflat level
+close current key current valu po progress initi key valu remap tupl
+close write
+compar compar conf conf
+compar compar conf conf
+compar compar conf conf
+compar compar conf conf
+
+valid
+complet delimit candid keyword candid
+complet candid
+
+
+jar jar path skip script file script file script jar connect copi cl execut manag param substitut param substitut param substitut param substitut output file param substitut output file class cach class alia class loader command alia conf default log level default parallel df error sourc exec type execut engin f func spec alia last alia lf log properti packag import list param file param val param path skip preprocessor context properti script file jar init import list func alia func spec func spec object param jar predeploy function stream cmd renam class name class loader default log level exec type jobtrack locat last alia log properti packag import list param file param datum cleanup
+counter counter
+
+compar compar conf conf
+compar compar conf conf
+error sourc detail messag error code error sourc mark show user sourc locat bug input remot environ user environ retriabl detail messag error code error sourc mark show user retriabl sourc locat string
+load store string
+statu
+pars init init init init pars except next token token input other string context output writer unquot
+
+lexic action init init init round switch token lexic action next token state add state move check n add check n add state check n add two state fill token move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa start nfa state start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa stop po stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa state debug stream
+compar compar conf conf
+cleanup collect illustr context key type illustr map pipelin key type map plan setup
+datum cleanup
+initi vertex state updat
+aggreg instanc aggreg report warn
+
+pig split record reader load func load locat pig split split split specif conf load signatur
+record reader split initi udf context
+record reader
+compar compar conf conf
+state job job runner state time sleep run runner state time sleep submit
+enumerator load rubi rubi rubi rubi rubi rubi rubi rubi rubi rubi rubi rubi pig pig pig pig pig pig pig pig pig pig pig pig pig
+warn
+compar compar conf conf
+error messag name stack start line inlin multi valu return inlin alia char dollar alia word invoc stack pig context stack start line singl line comment param macro valid
+illustr context illustr
+
+
+
+clone equal index valu pig type code null field index null string write
+job task job job task committ recoveri support task commit task context context job task cleanup
+output spec output spec helper output committ record writer store conf prop equal locat udf env store
+output committ record writer udf context thread reus
+node file name invoc stack next invoc point start line invoc stack
+creat
+load caster
+output close sampl event initi input output run pipelin
+plan notif fail notif finish notif start notif submit notif complet notif start notif complet notif updat notif
+progress progress
+header
+close current key current valu multi input couner name progress next record reader initi key valu
+number reduc
+run
+convert convert primit type record record name compat tupl index convert convert convert record
+clear explain get default valu get key get path get reserv get valu get valu null histori illustr init init init init script semicolon pars except line number next token token pars alia clear help cd cat copi copi local copi local declar default describ dump explain f command histori illustr kill l mkdir move pwd pig regist regist remov sql command script set set sh command prompt quit consol reader interact unquot
+
+lexic action init init init round switch token lexic action next token state add state move check n add check n add state check n add two state fill token move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move nfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa move string liter dfa start nfa state start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa start nfa stop po stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa stop string liter dfa state debug stream
+compar compar conf conf
+compar compound key key
+statu
+exec type properti hadoop properti jar properti path skip lp store plan capac scope file batch schema schema nest execut batch batch compil logic plan file explain explain size alia key set alia clone graph current dag exampl job name job prioriti job last rel logic plan datum oper alia pig context batch empti batch debug plan path jar resourc predeploy jar properti mkdir iter map list build alia histori code function jar queri queri script script script script script script script script stream command file scope batch default parallel job name job prioriti skip pars regist batch valid statement shutdown store store ex
+counter conf input index length length locat info locat num path split index target op total split wrap split wrap split multi input field object conf current idx disabl counter multi input total split string write object
+get error messag stat byte write display string durat error code error messag error throwabl featur file name hadoop version input stat job client job graph number byte number fail job number job number record number success job output alia output locat output name output stat pig context pig properti pig version proactiv spill count object proactiv spill count record record write return code smm spill count script script id emb success result backend except error code error messag error throwabl return code start start stop
+output size support
+empti pig stat multi input counter name multi store counter name pig stat short name temp file error code error messag error throwabl stat map
+counter counter instanc progress counter counter warn counter warn counter progress context statu datum cleanup
+tupl valu schema schema failur success output equal equal featur input format next output format partit key schema statist code valid option read write project next field ab path store locat compress locat partit filter store func udf context signatur store locat udf context signatur overwrit schema statist
+
+
+load caster
+partit key schema statist udf context signatur partit filter udf context signatur
+input size byte statist locat
+deseri load caster byte
+deseri deseri load caster serial byte
+deseri deseri bag map tupl string load caster record delim byte
+statu
+record writer
+compar compar conf conf
+complet notif launch notif progress notif start notif
+serial
+compar compar tupl conf compar tupl null conf
+compar compar tupl conf conf
+warn counter warn counter
+
+
+dump edg multi input nest oper multi output nest oper nest oper oper multi input nest plan multi output nest plan nest plan verbos join dumper verbos
+put posit clone
+
+caus ex string
+physic oper local rearrang plan split physic oper store tmp path
+plan transform listen optim
+first first first first pp tab string string print verbos string tab visit filter global rearrang load local rearrang packag start map store
+miss edg messag op key outgo edg invers map node matcher equal equal
+transform
+
+plan walker walker visit
+plan plan child walker walk
+compil time calcul exec schema
+convert
+num row tupl next read skip interv
+first branch flag branch flag child walker walk
+push support op type support op type visit
+pattern new transform
+shell command param val param val scope pop scope push key ord line ord line shell cmd shell cmd pig context substitut substitut valid
+exec exec input type class
+progress progress rep
+project star visit visit project star visit visitor visit visit
+accept copi col num refer attach relat op col alia col num end col field schema input num project oper start col type equal project star rang star project rang project attach relat op col num column number alia end alia end col input num start alia start col string
+exp plan proj plan plan plan project lone star project star visit visit visit visit visit visit
+project start end col
+chang add field chang map field remov field add field chang map field remov field string
+transform
+default properti default properti properti classpath properti file default unset
+pattern new transform
+pattern new transform
+function param variabl script lang main function
+deleg error header error messag grammar file name ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl token union use void w error queri lexer queri lexer
+cmd cond copi eid expr deleg error header error messag grammar file name token error display token name tree adaptor keyvalu liter paramet project queri mismatch set mismatch token rel scalar schema tree adaptor statement queri parser queri parser queri parser queri parser queri parser queri parser queri parser queri parser type
+regist error import macro error messag last rel macro file oper pig server macro import macro def pars pars constant constant schema schema token travers import inlin ast
+la
+la
+la
+store plan file name signatur parser parser error header current dir file import search path remot host quot node node list hdf server
+exec schema seed uniquifi
+convert
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec schema
+compil time calcul exec arg func map schema
+exec arg func map schema
+comput
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+next sampl read
+convert
+add clear equal memori size code distinct sort iter stale field size spill write
+exec output buffer
+input skip input exec tez input input
+input format load caster next next helper partit key schema statist init reader read locat partit filter udf context signatur cur split index
+get boolean valu byte valu class schema doubl valu float valu int valu key long valu null valu schema builder builder builder put boolean valu byte valu doubl valu float valu int valu key long valu null valu
+convert secondari sort
+input format next pattern read locat
+accept copi field schema equal
+exec arg func map schema
+exec arg func map schema
+exec
+match
+compil good regex method match escap const expr
+exec arg func map schema
+file system impl regist resolv jar
+locat
+
+exec
+field field map key info need field need field merg map key map key info field field index field map key info map key info need field need field size string
+visit
+string
+equal name field sort key order sort key version field sort key order sort key version resourc schema string
+clone equal avg record size field num record size byte byte code avg record size field num record size byte byte string
+string
+exec schema
+successor child walker walk
+successor child walker walk
+next next next rewind rewind
+compil time calcul exec rollup schema
+conf partit conf
+add clear clone defin flatten bag initi initi inspect distinct empti sort iter size
+append compar defin equal dba hash initi initi initi plu set size string
+add place bag bag clone defin find find schema name get get get intern schema name index initi null alia rubi schema map map bag boolean bytearray chararray date time doubl float int long map tupl arg schema set name name name size string tupl tupl
+pattern name new transform pattern mandatori skip listen match match skip listen
+exit permiss exit code exit invok retir
+exec arg func map schema
+exec arg func map schema
+comput
+comput
+compil time calcul exec arg func map schema
+compil time calcul exec schema type schema
+comput
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+arg func map
+sampl input format load caster num sampl read absolut path locat num sampl udf context signatur next
+scan visit mr op
+accept copi attach logic oper field schema implicit refer oper attach logic oper implicit refer oper string
+scalar user func
+visit visit
+visitor
+add alia castabl null alia clone equal equal field schema nest schema alia field field field sub name match field sub name match throw schema merg except field pig schema posit posit posit sub name code indent two level access requir merg alia field schema first level alia name space alia prefix schema prefix schema schema schema schema alia schema alia print alia reconcil schema default type two level access requir size schema schema indent string string
+valid visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+
+
+transform
+execut valid visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+append box box box box box box box box box box box box box compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar compar element po null null size specif element po element po element po element po element po element po element po element po element po element po element po element po element po equal null code compar code compar specif code get big decim code get big integ code get boolean code get byte code get datum bag code get date time code get doubl code get field code get float code get int code get long code get map code get string code get tupl code hash code code null array code read field code set code set big decim code set big integ code set boolean code set byte code set datum bag code set date time code set doubl code set field code set float code set int code set iter code set long code set map code set specif code set string code set tupl code size code write element get big decim big integ boolean byte datum bag date time doubl float gener code field type gener code memori size int long map memori size quick gener schema string schema tupl identifi string tupl type type awar base code code piec code piec code piec code piec code piec code piec code piec code piec code piec code piec code piec code piec code piec gener code field null null specif schema tupl read read read read read read read read read read read field refer unless null unless null unless null unless null unless null unless null unless null unless null unless null unless null unless null unless null unless null size set set set set set set catch catch big decim big integ boolean byte datum bag date time doubl float int long map specif string tupl type awar base size schema gen unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox unbox big decim big integ boolean byte datum bag date time doubl float int long map string tupl write write write write write write write write write write write write write write element
+distribut cach resolv initi initi initi new schema tupl factori new schema tupl factori schema tupl factori schema tupl factori schema tupl factori reset class
+code string schema tupl schema tupl next global class identifi code string global class identifi
+instanc instanc instanc instanc fix size generat tupl tupl class
+gener distribut cach schema gener regist gener possibl reset gener possibl reset alia
+datum type paramet bag schema bag schema bag schema bag schema bag schema bag schema name tupl schema tupl schema tupl schema tupl schema tupl schema tupl schema
+mean sd exec schema
+shebang instanc jar path param variabl pig stat map resourc use class loader script stream script lang support script lang main function run pig stat pig stat
+get pig context script engin set
+set long initi plan notif job fail notif job start notif job submit notif launch complet notif launch start notif output complet notif progress updat notif finish notif long string get listen command line file name hadoop version id pig context pig version script script featur serial script listen command line file name pig context script script script script featur truncat script start start
+run id standard output root write locat task log dir udf output class captur output instanc captur output output locat instanc captur output captur output
+exec arg func map
+exec queri arg func map schema
+exec arg func map decod
+column chain distinct chang num mr use secondari key num sort remov sort key info secondari plan mr op
+num distinct chang num sort remov num use secondari key mr op
+map plan num distinct chang num sort remov num use secondari key reduc plan spark op
+num distinct chang num sort remov num use secondari key tez op
+secondari key sort column chain current node sort key info secondari plan
+conf partit conf
+secondari sort
+compil time calcul exec arg func map schema
+token cach token file
+boolean array byte chararray gener tupl boolean array boolean array byte chararray gener tupl
+seek tell
+
+schema failur success input format next output format partit key schema statist read write next ab path store locat locat partit filter store func udf context signatur store locat
+input format next pig datum type read key type locat valu type writabl pig datum type
+begin token do expand buff fill buff get imag get suffix init init init init init init init init init updat line column begin line column backup begin column begin line column end column end line line tab size char tab size
+key instanc split
+partit
+partit
+partit
+dump add child close get child get num child get parent get valu open set parent set valu string string
+mr job stat mr job stat nativ display finish error messag stat display string job client job control compil proactiv spill count object proactiv spill count record smm spill count initi emb initi job see mr oper job
+add clear equal memori size code distinct sort iter stale field size spill string write
+map entri size pig obj mem size eight
+partition convert join plan join key key distribut skew join partit file
+conf partit init conf
+init
+equal col index col name sort order code string
+convert
+equal sort col info list code global sort string
+visit
+asc column chain column chain info specif string
+distinct sort iter spill
+
+file line node offset string
+sampl oper skew join plan broadcast skew join compil compil soft link singl input plan str index job load nativ spark op sampl job skew join sampl job sort col sort job spark op spark plan store temp file spec merg merg ud fs new collect group counter cross distinct fr join filter global rearrang limit load local rearrang merg co group merg join nativ po packag rank skew join sort split store stream union
+
+accumul param display name name valu increment display name
+counter counter group display name group name spark counter group display name
+warn counter counter counter counter counter counter counter group spark counter group valu warn counter warn counter increment increment
+object spark udf import list str object
+accept execut engin execut engin class local name string
+error hdf
+execut manag pig stat script state
+accept input stat output info stat task metric avg map time avg be educ time display string hadoop counter job id map input record map output record max map time max reduc time min map time min reduc time multi input counter multi store counter number map number reduc proactiv spill count object proactiv spill count rec reduc input record reduc output record smm spill count stat warn counter warn counter hadoop counter alia conf
+file spark job jar spark job resourc spark job work directori udf resourc spark job file configur dynam alloc spark job compil explain explain file name file url initi kill job pig optim spark counter udf context udf import list file spark need spark resourc
+accept local name
+exec type launcher
+spark op
+string
+add cross key multi queri optim connect item small split featur cross key multi queri optim connect item request parallel skew join partit file ud fs str cogroup global sort group index limit limit sort nativ regular join sampler skew join splitter union cogroup group index limit limit sort nativ regular join sampler union name combin small split global sort request parallel request parallel refer skew join partit file splitter multipl input multipl output type compar type compar visit
+spark op
+cach file ship file spark op
+get broadcast var default parallel parallel default parallel
+initi
+counter length locat info num path split index wrap pig split wrap split wrap split multi input current idx disabl counter multi input
+fail job stat input info spark oper job stat nativ job stat display finish error messag stat display string job client number job proactiv spill count object proactiv spill count record smm spill count aggreg warn initi emb
+counter counter instanc counter datum cleanup
+verbos spark op
+convert
+script info script info
+current node
+fail job stat fail nativ job stat nativ job stat co load split counter name counter name job info record count record count job success job add stat
+predecessor size predecessor size great index spark node manifest partition product manifest tupl manifest job conf scala seq
+memori size spill
+spillabl configur memori threshold instanc notif spillabl datum cleanup
+
+convert
+pattern new transform
+
+exec schema
+bag schema failur success datum input format load caster next output format partit key schema statist init map read write next ab path store locat absolut path datum datum schema locat partit filter store func udf context signatur store locat udf context signatur schema statist tupl
+tupl field del singl quot string field field field field tupl field
+visit
+byte byte byte byte byte byte byte byte byte byte byte byte byte
+tupl function storer convert
+schema failur failur impl success output format write next ab path store locat store func udf context signatur store locat parallel write store locat warn
+error storer init next
+schema failur success output format write next ab path store locat store func udf context signatur store locat
+store func metadata schema statist
+schema failur success method name output format write next ab path store locat store func store func udf context signatur store locat func
+schema statist
+cach file ship file
+convert
+perform widget show gui main
+deseri load caster
+pattern schema cast adjust cast insert cast need
+handl spec path cach path ship clone cach spec command arg execut handl spec input spec log dir log file limit output spec persist stderr ship file ship spec command arg execut input spec log dir log file limit output spec persist stderr ship file string
+ship auto ship spec skip path quot string arg
+bag begin bag end field delim full delim map begin map end map key delim null param delim record end tupl begin tupl end delimit depth
+serial
+command input handler user file avail exec control path output user file extens initi python schema stream thread udf control
+languag line number messag string
+
+record delimit
+line number
+job conf environ process put environ
+compil time calcul exec schema type schema
+accumul cleanup exec final initi interm valu max schema
+accumul cleanup exec final initi interm valu min schema
+compil time calcul exec schema
+next next
+
+path string join input string
+
+exec schema
+compil time calcul name exec subtract datum bag set
+compil time calcul exec arg func map schema
+accept copi field schema equal
+walk
+exec schema
+plan notif fail notif finish notif start notif submit notif complet notif start notif complet notif updat notif
+comput
+comput
+close current key current valu progress initi key valu
+close write
+schema failur success input format next output format partit key schema statist code read write next ab path store locat locat partit filter store func udf context signatur store locat
+compil time calcul exec equal schema
+exec equal schema
+compil time calcul exec arg func map schema
+compil time calcul exec schema
+equal code field string write
+append equal get memori size target op type code field refer set target op size string tupl write
+get counter counter progress counter counter progress statu
+finish
+bag big decim big integ boolean char array date time doubl float integ long map tupl input format load caster next read locat byte byte byte byte byte byte byte byte byte byte
+bloom join distinct plan sampl sort input block compil compil po split scalar index job local rearrang sort input orderbi sampl aggreg job packag plan contain sampl aggreg job sort col sort job temp file spec tez op tez plan merg merg block ud f write datum partition collect group counter cross distinct fr join filter global rearrang limit load local rearrang merg co group merg join nativ po packag rank skew join sort split store stream union
+
+datum type combin plan valu tupl output connect connect tez op new predecessor tez op new succesor plain store non packag input input output custom partition connect two vertex
+accept stat hadoop counter avg map time avg be educ time display string hadoop counter job id map input record map output record max map time max reduc time min map time min reduc time multi input counter multi store counter number map number reduc proactiv spill count object proactiv spill count rec reduc input record reduc output record smm spill count vertex stat alia job id
+combin contain reus input split disk raw byte compar raw byte compar skew join raw compar raw compar skew join serial tez plan orderbi initi edg group input edg vertex store key compar group compar intermedi output key valu output format disabl dag recoveri tez op
+combin map combin reduc intermedi output key class intermedi output key compar class intermedi output valu class secondari sort order use secondari key distinct combin combin map combin reduc intermedi output key class intermedi output key compar class intermedi output valu class need distinct combin secondari sort order use secondari key
+tez op
+accept execut engin execut engin class tez version local name string
+exec conf pig stat script state
+input skip input tez input input
+applic id configur dag dag counter dag progress dag statu diagnost name vertex progress vertex statu job run pig stat
+cach resourc dag compil dag info job
+compil warn aggreg destroy explain un catch except kill job pig optim load parallel
+accept local name
+conf file exec type launcher mini df mr cluster mini df mr cluster mini mr cluster
+tez op
+parallel predecessor key pig context
+cach resourc extra resourc extra resourc ship resourc disconnect credenti estim total parallel extra resourc grand parent grace parallel tree remov estim parallel string
+cross key union predecessor vertex group store small split featur cross key effect parallel estim parallel loader info parallel factor processor name request parallel sampl oper sort oper sort order split parent total input file size ud fs str union member vertex group info vertex group member vertex group store vertex parallel build bloom close cogroup distinct do not estim parallel filter bloom global sort group index intermedi reduc limit limit sort nativ need estim parallel overrid intermedi parallel rank counter regular join sampl aggreg sampl base partition sampler skew join splitter union use grace parallel use mr map set use secondari key vertex group build bloom cogroup distinct filter bloom global sort group index limit limit sort nativ rank counter regular join sampl aggreg sampl base partition sampler skew join union name segment combin small split vertex group store close do not estim parallel estim parallel intermedi reduc need estim quantil overrid intermedi parallel request parallel request parallel refer sampl oper sort oper sort order split parent splitter total input file size use grace parallel use mr map set use secondari key vertex group info vertex group member vertex parallel string tab multipl input multipl output string visit
+output tez output output
+packag packag tez op
+cach file ship file tez op
+cach file ship file tez op
+parallel pig context
+stat tez job stat nativ display finish error messag stat display string job client proactiv spill count object proactiv spill count record smm spill count vertex stat initi emb
+plan splitter predecessor node oper key successor common splitter predecessor local resourc next plan tmp load tmp store scope split string plan
+equal tez oper plan code name multipl input multipl output string visit
+contain plan verbos tez plan contain node
+udf tez plan contain node
+tez plan contain node
+verbos tez op
+tez resourc tez resourc tez resourc instanc instanc resourc dir tez resourc init
+reduc map sampl
+dag set conf vertex set conf workflow adjac conf complet notif launch notif progress notif start notif get dag script info listen dag script info job parent pig featur
+config session session client shutdown session session config session resourc
+initi
+get counter counter counter counter
+udf context udf context udf context udf context edg tez op
+tez plan contain tez plan optim
+accept stat input statist output statist avg map time avg be educ time counter display string hadoop counter job id map input record map output record max map time max reduc time min map time min reduc time multi input counter multi store counter number map number reduc parallel proactiv spill count object proactiv spill count rec reduc input record reduc output record smm spill count load store conf
+time stamp heart beat heart beat time stamp
+compil time calcul iso space exec date time date time zone arg func map schema
+compil time calcul exec
+compil time calcul exec
+compil time calcul exec
+exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec arg func map schema
+compil time calcul exec schema
+compil time calcul exec arg func map schema
+valu token token string
+lexic error escap messag
+plan run plan
+accumul cleanup sort order arg func map final initi interm valu schema top
+check chang transform
+tree
+avro schema input format output format
+compil time calcul exec arg func map schema
+append get memori size type null refer set size delimit string
+instanc fix size tupl tupl tupl tupl tupl copi self class raw compar class
+format
+tupl tupl
+compar tupl null
+compil time calcul exec schema
+n gram word
+big decim big integ boolean byte datum bag date time doubl float int long map schema string tupl big decim big integ boolean byte datum bag date time doubl float int long map string tupl
+schema new transform cast adjust cast insert cast need
+
+cast compar binari exp cast numer bin express fit match fit match byte array array find cast warn empti tupl bytearray tupl match match helper match byte array possibl incompat type messag byte array posit cast cast cast null boolean cast udf bag empti tupl equal match incompat type error visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit boolean binari
+atom col type atom join col type schema inner plan atom cast inner plan cast necessari co group multi col join multi col multi expr plan per input type checker except visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit express plan
+class counter group output type class type argument incr counter input udf input
+job conf clone deseri spark key client sy prop client system prop job conf udf context udf properti udf properti udf conf frontend udf conf empti reset serial serial client system prop udf context datum cleanup
+add key un known key serial udf context udf context plan cast load store user func
+end input process user func
+udf list visit udf list visit visit
+user func
+udf jar spark op
+exec arg func map schema
+compil time calcul exec arg func map schema
+exec schema
+compil time calcul exec schema
+cach file ship file cast load store user func
+job conf exec
+exec cach file
+execut visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit visit
+helper operand type markup operand type
+express
+helper child express expr expr input expr multipl input
+alia string
+convert
+visit
+merg union plan predecessor vertex group split op union successor union non member predecessor split vertex group successor oper properti union pred plan split optimiz optimiz store func successor input disconnect tez op
+exec schema
+exec arg func map schema
+append get memori size field set size write
+hdf file hdf file local n
+accept copi argument eval func field schema func spec signatur invok function determinist equal via defin func spec string
+bag big decim big integ boolean char array date time doubl float integ long map object tupl bag complex type map tupl start char simpl type check integ long byte byte byte byte byte byte byte byte byte byte byte byte byte
+schema add tupl bag logic relat oper field schema field schema schema schema
+depend jar zip stream jar contain jar creat jar dir finder get jar map dir
+compil time calcul exec schema
+compil time calcul exec initi set size schema
+map exec schema
+
+compil time calcul exec arg func map schema
+array conf list partit pig nullabl writabl prob vec init conf
+partit init
+pattern match
+main
+wrap wrap
+datum length
+partit
+tupl input format next read locat
+plan mr op
+alia po node packag node first first pp print visit plan plan
+plan spark op
+exec arg func map arg valid
+name space ignor xpath string exec arg func map arg valid
+conf file mini df mr cluster mini mr cluster
+compil time calcul exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+exec arg func map schema
+comput
+comput

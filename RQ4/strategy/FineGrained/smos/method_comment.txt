@@ -1,0 +1,99 @@
+Method that returns the academic year relative to absence Method that returns the date of absence Method that returns the id of absence Method that returns the id of the justification relative to the absence Method that returns the student id relative to the absence Method setting the academic year relative to absence Method setting the date of absence Method setting the id of absence Method setting the id of the justification relative to the absence Method setting student id relative to absence
+
+Set the address id. Set address name.
+Method returning the academic year Method to get the class address ID Method that returns the class ID Method that returns the class name Method that sets the academic year Method setting class address ID Method setting class ID Method setting class name
+
+Returns the size of the list of active connections. Empty the pool of connections from active ones that have no longer run operations for inactiveMaxTimeout milliseconds. Closes all connections in the pool both active and They're pools. Closes all connections indicated in the connection list. Closes all pool connections that are in the pool list. Method used by getConnection() to create a new connection if they are not in the pool list. Returns a connection if the pool is not full, the check is done first in the list of pool connections to avoid creations useless otherwise a new connection will be created. Method not implemented Method not implemented Method not implemented Returns the maximum number of active connections Method used by getConnection() to determine whether in the list of pool connections there are some that you can reuse. Returns the size of the pool connection list Release a connection, deleting it from active ones and inserting it into those pools to be reused later. Sets the lifetime of active connections in milliseconds. Rearrange the lifetime of the connection due to run an operation. From now on the connection can be active without perform any operation for other inactiveMaxTimeout milliseconds. Method not implemented Method not implemented Converts an object of the ConnectionPoolDataSource class to String
+Close the wrapped connection.     Closes the wrapped connection.
+The thread does nothing but sleep when there are active users and keep the connection with MySQL open otherwise.
+Returns a connection from the pool. Actual creation of the connection pool. Returns a connection to the pool that will be included in the list of pool connections, i.e. those that can be reused later.
+
+Method that returns the academic year relative to absence Method that returns the date of delay Method that returns the Delay id Method that returns the id of the late student Method that returns the student's time of entry Method setting the academic year relative to absence Method setting the date of delay Method setting the Delay id Method setting the student id relative to the delay Method setting the time of entry of the student
+
+
+
+
+
+Method that returns the academic year relative to the justifies Method returning the date on which absence was justified Method that returns the id of the justify Method returns the student id relative to justify Method setting the academic year relating to the justification Method setting the date on which absence was justified Method setting the id of the justify Method setting student id relative to justify
+
+
+Delete an address from the address table. Returns the address corresponding to the id passed as a parameter. Returns the id of the address passed as a parameter. Returns the set of all addresses in the database. Return the name of the address corresponding to the id passed as parameter. Return a collection with the id of the teachings associated with the id passed as parameter. Returns the only instance of the existing class. Verify the existence of an address in the database. Inserts a new address in the address table. Lets you read a record from the ResultSet. Allows you to read records from the ResultSet.
+Delete a class from database Check if the input given class is in the database Returns the class that has the past ID Returns a collection of classes from the same academic year Returns the only instance of the existing class. Inserts the class object in the database Consistent reading an integer from recod resultSet Allows you to read only one record from the Result Set Lets you read multiple records from the Result Set Update the statistics of a class
+Delete an absence from database Delete a delay from database Delete a note from database Delete a note from database Check if the input given class is in the database Check if the input given class is in the database Check if the input given class is in the database Method that returns absences taken a given school year and user input Method that returns the absence of a given student on a given day Method that returns an absence given the id of this Method that returns an absence given the id of justifca associated with that absence Method that returns the delay of a given student on a given day Method that returns a delay given the id of this Returns the only instance of the existing class. Method that returns the justification linked to a given absence Method that returns an absence given the id of this Method that returns a collection of notes for a given user and a given school year Method that returns a note given the id of the note itself Method to check if there is an absence in a registry line Method to check if there is a delay in a log line Method that returns true if the absence given in input has an assigned justification Inserts an absence in the database Inserts a delay in the database Inserts a justification in the database Prepare Sql string Allows you to read only one record from the Result Set Allows you to read only one record from the Result Set Allows you to read only one record from the Result Set Allows you to read only one record from the Result Set Update the statistics of an absence Update the statistics of a delay Update statistics of a justifier Method that updates the statistics of a Note
+Delete a teaching from the teaching table. Verify the existence of a teaching in the database. The only instance of existing teaching returns. Returns the instruction corresponding to the past id as a parameter. Returns the id of the past teaching as a parameter. Returns the name of the teaching corresponding to the past id as parameter. Return the set of all the teachings in the database. Return the set of teachings associated with the specified class Return the set of teachings associated with the specified class Return the set of lessons associated with the corresponding user to the past id as a parameter. Return to the set of teachings that the teacher teaches in the class Check if a teaching has an assigned professor. Inserts a new teaching in the teaching table. Lets you read a record from the ResultSet. Allows you to read records from the ResultSet. Update a teaching in the teaching table.
+
+Delete a vote from the votes table. Check for voting in the database. Check if a student passed as a parameter has a grade assigned in the past teaching as a parameter in the past year as a parameter and in the past quarter as a parameter The only instance of the existing vote returns. Returns the set of all votes in the database. Returns the teaching id corresponding to the id of the past grade as parameter. Returns the instruction corresponding to the past id as a parameter. Returns the set of votes associated with the corresponding user to the id passed as a parameter. Returns the set of votes associated with the corresponding user to the id passed as a parameter. Inserts a new vote in the Votes table. Lets you read a record from the ResultSet. Allows you to read records from the ResultSet. Update a vote in the votes table.
+
+
+Method that returns the current academic year Method that returns a string representing the date the note was given Method that returns note text Method that returns the note id Method that returns the id of the student who received the note Method that returns the id of the teacher who gave the note Medoto setting the current academic year during the assignment of the note Method that sets a string representing the date the note was given Method setting the description of the note Method to set the note id Method to set the id of the student who received the note Method setting the id of the teacher who gave the note
+
+Method that returns the student's absence from this log line Method that returns the student's delay in this log line Method that returns the student of this log line Method that sets the student's absence from this log line Method setting the student's delay in this log line Method that sets the student to this log line
+Method that adds a vote to the array. Method that returns the vote from the index in the input array Method to delete a vote from the array
+
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Initialize the parameters
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+
+Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Definition of the doPost method
+
+Definition of the doGet method Definition of the doPost method
+
+Definition of the doGet method Definition of the doPost method
+Definizione del metodo doGet Definition of the doPost method
+Definition of the doGet method Definition of the doPost method
+Return the teaching id. The name of the course returns Set the teaching id. Set the name of the course.
+Wrong database, unable to insert null in the id_justify field of absence
+return Returns the user's id.        Set the user's name. Set the user id.  Set the user's last name. Set the user login. param pLogin The login to be set. Set the user's password. Returns a string containing the user's first and last name.
+Set the user id. Set the user's name.
+
+Converts Boolean data to integer. Returns the input date in String format. Converts a given integer to Boolean.  Replace the characters' and \ with '' in the string passed as parameter.  The previous function loops if I replace "\" with "\\" then we use two variables the first is "consumed" at each occurrence of the pattern  Replaces the 'character with the string "" in the string passed as parameter. Returns the date contained in the input string. Convert a String to Integer. Converts a date to a formatted string for the database. Calculate the distance in days between 2 past dates. Performs a database operation using an SQL string.        Returns, given a field and a table, the maximum value of the field in the table.          Checks if a given integer is null. Check if the string passed as a parameter is null. Check if a date is null. Executes an SQL Query on the database.                 Returns the current date.
+Method that returns the academic year of the grade Method that returns the id of the user connected to the vote Method that returns the id of the vote. Method that returns the laboratory grade method that returns the grade of the oral method that returns the code of teaching the vote Method that returns the quarter of the vote Method that returns the grade of the writing method that sets the academic year of the grade Method that sets the user's id related to the vote Method that sets the id of the vote method that sets the laboratory grade, checking that it is between 0 and 10 Method that sets the grade of the oral, checking that it is between 0 and 10 Method that sets the teaching code relating to the grade Method that sets the quarter of the vote Method that sets the grade of the writing, checking that it is between 0 and 10

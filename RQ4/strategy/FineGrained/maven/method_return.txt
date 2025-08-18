@@ -1,0 +1,786 @@
+
+String String String Artifact String String String String String String List String String
+void void void
+void void void void void void void void void void void void void void void void void
+void void void
+void void void
+void
+Log Map void void
+String Object
+Metadata Versioning String String Metadata int ArtifactRepositoryPolicy String void void void void String void
+void boolean
+Interpolator List List Interpolator RecursionInterceptor String AbstractStringBasedModelInterpolator void AbstractStringBasedModelInterpolator
+String String String void
+Activation ActivationFile String ActivationOS ActivationProperty boolean void void void void void
+ActivationFile String String void void
+ActivationOS String String String String void void void void
+ActivationProperty String String void void
+void int boolean ArtifactHandler String List String String String ArtifactFilter List String File String String Collection ArtifactRepository String ArtifactVersion String String VersionRange boolean int boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void void String void
+void boolean List int boolean
+void
+void ArtifactHandler String List String String String ArtifactFilter List String File String String Collection ArtifactRepository String ArtifactVersion String String VersionRange boolean boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void void void
+String String File String String String String
+ArtifactResolutionResult
+void void
+
+Dependency Exclusion void void
+Artifact RemoteRepository RepositoryPolicy
+
+Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact
+boolean
+void ArtifactFilter Set ArtifactFilter
+void void
+String String String String String boolean boolean
+void ArtifactHandler
+String String String String String boolean boolean void void void void void void void
+
+void void
+void
+
+ResolutionGroup ResolutionGroup List List List
+String
+Artifact List Authentication String String String ArtifactRepositoryLayout List String Proxy ArtifactRepositoryPolicy ArtifactRepositoryPolicy String boolean boolean boolean String String String void void void void void void void void void
+ArtifactRepository ArtifactRepository ArtifactRepository ArtifactRepository ArtifactRepositoryLayout void void
+String String String String
+ArtifactRepository
+String String String Object int ArtifactRepository boolean boolean void boolean boolean
+boolean String String boolean void int int void void void String
+
+ArtifactResolutionRequest Artifact Set ArtifactFilter List ArtifactRepository Map List List List ArtifactFilter List boolean boolean boolean boolean ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest ArtifactResolutionRequest String
+void ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult Set Set CyclicDependencyException List List List ArtifactResolutionException List List Artifact List OverConstrainedVersionException List boolean boolean boolean boolean boolean boolean List boolean void void ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult String
+void void ArtifactResolutionResult void ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult
+ArtifactScopeEnum boolean int String
+int boolean int String ArtifactStatus
+boolean byte[] int int int Exception File int ArtifactTransferResource long int void void void void void void void String
+
+boolean void void void void void
+long String String long String
+void void void void
+List void void void void
+Map Artifact Artifact T T List boolean String String String String String
+int int int int String void
+List List
+void List String String Collection ArtifactRepository String String VersionRange boolean boolean void void void void void void void void void void
+String String String String void void void void
+void void
+File
+
+
+File
+Object ClassLoader Object String BeanConfigurationPathTranslator BeanConfigurationValuePreprocessor BeanConfigurationRequest BeanConfigurationRequest BeanConfigurationRequest BeanConfigurationRequest BeanConfigurationRequest BeanConfigurationRequest
+Object
+void
+CoreExtensionEntry List List List
+void Build List String String String String String void void void void void void void
+
+void void void BuildBase String String List String List List void void void void void void void void void
+Throwable
+
+ProjectBuildList
+void MojoDescriptor ClassRealm PluginDescriptor
+void MojoDescriptor ClassRealm PluginDescriptor
+
+MavenProject long
+Thread
+Object
+void
+void String void MavenExecutionPlan
+
+void CommandLine
+String String String Properties String void String
+boolean boolean boolean WorkspaceRepository int boolean int boolean boolean int boolean int
+
+void CiManagement InputLocation List String String void void void void void
+String String File String String String
+ClassRealm ClassRealm ClassRealm ClassRealm ClassRealm
+void
+List Map List ClassLoader List RealmType
+ArtifactResult List
+ClasspathContainer List MetadataTreeNode ArtifactScopeEnum Iterator void void String
+ClasspathContainer
+String[]
+String[] ClassWorld CommandLine File MavenExecutionRequest Properties Properties String boolean boolean boolean void
+int boolean String int void Item void String
+Future Future int Future Future Future
+
+
+void void void
+void void void void
+List List Set int ProjectBuildList List List Set List
+ConfigurationContainer Object String InputLocation boolean boolean void void void void void
+void
+ResolutionNode
+ConflictResolver
+
+String void void void void void void void
+void void void void void void void void void void void void void void void void void void
+String void void void long void void void void void void
+Map void
+void void Contributor String InputLocation String String String Properties List String String void void void void void void void void void void
+Set Map
+CoreExports
+String String String void void void
+CoreExtensionEntry CoreExtensionEntry ClassRealm Set Set
+void List String void void void
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int CoreExtension CoreExtensions CoreExtensions CoreExtensions CoreExtensions CoreExtensions CoreExtensions void
+void void void void void
+void void boolean Set int
+Plugin
+Artifact
+void void String
+void void void void void void void void void void void void void void
+void void int boolean boolean ArtifactHandler String List String String String String ArtifactFilter List String File String String Collection ArtifactRepository String ArtifactVersion String String VersionRange boolean int boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void void void void String void void
+
+void void
+int Relocation void void Model void ArtifactDescriptorResult DefaultArtifactDescriptorReader void DefaultArtifactDescriptorReader DefaultArtifactDescriptorReader DefaultArtifactDescriptorReader DefaultArtifactDescriptorReader DefaultArtifactDescriptorReader DefaultArtifactDescriptorReader Properties
+Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact
+void ArtifactFilter Set ArtifactFilter Set
+String String String String String String boolean boolean void void void void
+void ArtifactHandler Set
+void void
+Artifact List Authentication String ArtifactRepositoryLayout List Proxy ArtifactRepositoryPolicy ArtifactRepositoryPolicy boolean boolean boolean String String String void void void void void void void String
+ArtifactRepository ArtifactRepository ArtifactRepository ArtifactRepository ArtifactRepositoryLayout ArtifactRepository boolean void void
+void RepositorySystemSession void void void void void ArtifactResolutionResult void ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult
+List void void void void
+int boolean int int int int Integer String int void String
+Plugin Object ClassLoader Object String BeanConfigurationPathTranslator BeanConfigurationValuePreprocessor DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest DefaultBeanConfigurationRequest
+void
+void MojoDescriptor ClassRealm PluginDescriptor void
+void ClassRealm ClassRealm ClassRealm ClassRealm ClassRealm String String String String String String ClassRealm boolean ClassRealm Set void
+List Map List ClassLoader List RealmType
+ClasspathContainer
+
+void ConflictResolver
+void
+void
+MavenProject RepositorySystemSession DependencyFilter DependencyResolutionRequest DependencyResolutionRequest DependencyResolutionRequest
+void List List DependencyNode List List List void void void
+Map
+String String ExceptionSummary ExceptionSummary ExceptionSummary ExceptionSummary boolean String
+Exception MojoExecution MavenProject MavenSession Type
+void void
+Key void void CacheRecord CacheRecord void
+Result void List boolean Result Result List List List void
+MetadataGraphEdge
+MetadataGraphEdge MetadataGraph MetadataGraph void
+void String
+String void
+boolean ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult void void void ManagedVersionMap void void void
+RepositorySystemSession MavenSession void
+void
+MavenExecutionPlan MavenExecutionPlan void void List List Map List void Xpp3Dom void MojoExecutionConfigurator void void
+MavenExecutionPlan MavenExecutionPlan void void List MojoDescriptor Map Set
+Map Map List Map void
+void Map
+String List Set GoalSpec void
+List List boolean boolean
+Lifecycle List String Map
+DefaultLifecycles
+void void void void void void void void void boolean boolean boolean boolean String void void void
+MavenExecutionResult void Result MavenExecutionResult MavenExecutionResult MavenExecutionResult Collection Logger Map RepositorySystemSession void void void
+MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest List String String Map int EventSpyDispatcher List ExecutionListener String File File List List ArtifactRepository File int String List File List List File List ProjectBuildingRequest List String List RepositoryCache String List List Date Properties Map TransferListener Properties File File WorkspaceReader boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest boolean
+void ArtifactRepository void void void void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest
+void MavenExecutionResult BuildSummary DependencyResolutionResult List MavenProject List boolean MavenExecutionResult MavenExecutionResult MavenExecutionResult
+boolean int boolean void ResolutionGroup CacheKey void void boolean int boolean int boolean
+Map void void void PluginDescriptor T MojoDescriptor PluginDescriptor String PluginDescriptor void void List CacheRecord void List List void
+ProfilesRoot
+MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject ProjectBuildingRequest List ProjectBuildingRequest ProjectBuildingException
+void void void void void void
+Settings Settings Settings Settings Settings Settings File
+boolean Metadata Metadata Metadata
+Artifact ArtifactRepository List boolean boolean boolean DefaultMetadataResolutionRequest DefaultMetadataResolutionRequest DefaultMetadataResolutionRequest DefaultMetadataResolutionRequest DefaultMetadataResolutionRequest DefaultMetadataResolutionRequest
+
+Mirror boolean boolean boolean boolean
+void ModelBuildingResult ModelBuildingResult ModelBuildingResult Result void void void boolean void T ModelSource DefaultProfileActivationContext Map Model boolean boolean void void Model void Model ModelData ModelData ModelData DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder DefaultModelBuilder
+DependencyManagementImporter DependencyManagementInjector InheritanceAssembler DefaultModelBuilder LifecycleBindingsInjector ModelInterpolator ModelLocator ModelNormalizer ModelPathTranslator ModelProcessor ModelReader ModelUrlNormalizer ModelValidator PathTranslator PluginConfigurationExpander PluginManagementInjector ProfileActivator[] ProfileInjector ProfileSelector ReportConfigurationExpander ReportingConverter SuperPomProvider UrlNormalizer
+Model ModelProblemCollector ModelBuildingRequest
+void MavenProject
+List Date List ModelBuildingListener ModelCache ModelResolver ModelSource File List Model Properties Properties int WorkspaceModelResolver boolean boolean boolean DefaultModelBuildingRequest ModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest ModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest ModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest DefaultModelBuildingRequest ModelBuildingRequest
+DefaultModelBuildingResult List List Model List List Model Model DefaultModelBuildingResult DefaultModelBuildingResult DefaultModelBuildingResult DefaultModelBuildingResult DefaultModelBuildingResult
+Object ModelCache void
+String void void void void void void void void void void DeploymentRepository void void void void void String
+File
+void void void
+String void DefaultModelPathTranslator
+int Exception int String String Severity String Version String
+void void void String List Model String String boolean boolean ModelBuildingException void void void
+File Model Model Model DefaultModelProcessor DefaultModelProcessor
+InputSource boolean Model Model Model Model
+void void ModelResolver void ModelSource ModelSource ModelSource
+String void DefaultModelUrlNormalizer
+void boolean InputLocation Severity Severity boolean boolean void void boolean boolean void void void void void boolean boolean void void void void void boolean boolean boolean boolean boolean void void boolean boolean boolean boolean boolean
+void void void
+void Plugin PluginExecution
+String
+void Key void CacheRecord boolean int CacheRecord CacheRecord void
+void void
+Artifact DependencyNode DependencyNode DependencyNode Artifact
+List PluginDescriptor Key void PluginDescriptor void
+void
+void Object Map Plugin PluginDescriptor PluginDescriptor PluginDescriptor PluginDescriptor
+List Model String List RepositorySystemSession DefaultPluginPrefixRequest DefaultPluginPrefixRequest DefaultPluginPrefixRequest DefaultPluginPrefixRequest DefaultPluginPrefixRequest
+void PluginPrefixResult PluginPrefixResult PluginPrefixResult PluginPrefixResult PluginPrefixResult PluginPrefixResult
+String String ArtifactRepository void void void
+Key void void CacheRecord boolean int CacheRecord void
+String String Model List RepositorySystemSession DefaultPluginVersionRequest DefaultPluginVersionRequest DefaultPluginVersionRequest DefaultPluginVersionRequest DefaultPluginVersionRequest
+void boolean void void PluginVersionResult PluginVersionResult PluginVersionResult PluginVersionResult void
+ArtifactRepository String void void
+int Exception int String String Severity String String
+void List void
+List List File Map Map Map DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext DefaultProfileActivationContext Map
+void
+void void void void void void void List List List List Map Properties
+DefaultProfileSelector List boolean boolean
+Set
+void Key void CacheRecord boolean int CacheRecord CacheRecord void
+ProjectBuildingResult ProjectBuildingResult List boolean boolean boolean ProjectBuildingResult ProjectBuildingResult ProjectBuildingResult ModelSource String ModelBuildingRequest List String String void void DependencyResolutionResult
+Date Properties ProfileManager ArtifactRepository Properties ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration
+List CacheRecord void List
+void List Date List ArtifactRepository List List MavenProject List RepositoryMerging RepositorySystemSession Properties Properties int boolean boolean boolean void void void ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest void void ProjectBuildingRequest DefaultProjectBuildingRequest DefaultProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest
+DependencyResolutionResult File List MavenProject String
+Set Set Set Set Set Set Set
+List void List List List void List String
+Key void void CacheRecord CacheRecord void
+void
+void Xpp3Dom Xpp3Dom void Plugin boolean Xpp3Dom
+String String String String String String String
+void void File Date void boolean void Metadata void void void void
+ArtifactRepository List RepositoryRequest boolean boolean DefaultRepositoryRequest DefaultRepositoryRequest DefaultRepositoryRequest DefaultRepositoryRequest
+String String DefaultRepositorySystemSession
+void List
+String boolean
+SettingsBuildingResult Source boolean Settings Settings DefaultSettingsBuilder DefaultSettingsBuilder DefaultSettingsBuilder
+DefaultSettingsBuilder SettingsReader SettingsValidator SettingsWriter
+File SettingsSource Properties Properties File SettingsSource DefaultSettingsBuildingRequest DefaultSettingsBuildingRequest DefaultSettingsBuildingRequest DefaultSettingsBuildingRequest DefaultSettingsBuildingRequest DefaultSettingsBuildingRequest
+Settings List
+String SettingsDecryptionResult
+List List DefaultSettingsDecryptionRequest DefaultSettingsDecryptionRequest
+List List Proxy Server List
+int Exception int String String Severity String String
+void List void
+boolean Settings Settings Settings
+void void boolean boolean void boolean
+void void void
+Model DefaultSuperPomProvider
+void boolean Logger ToolchainModel String int boolean String
+String Toolchain List Map List
+ToolchainPrivate[] void
+ToolchainsBuildingResult boolean PersistedToolchains
+Source Source ToolchainsBuildingRequest ToolchainsBuildingRequest
+PersistedToolchains List
+boolean PersistedToolchains PersistedToolchains PersistedToolchains
+String String String String File File boolean boolean Properties Date Date void void void
+String
+Map void void Versioning VersionRangeResult void DefaultVersionRangeResolver DefaultVersionRangeResolver DefaultVersionRangeResolver DefaultVersionRangeResolver
+String void void boolean void void void Versioning boolean VersionResult void DefaultVersionResolver DefaultVersionResolver DefaultVersionResolver DefaultVersionResolver
+void void AuthenticationInfo ArtifactRepository ProxyInfo
+boolean Artifact List String String LocalArtifactRepository LocalArtifactRepository String ArtifactRepositoryLayout ArtifactRepositoryPolicy ArtifactRepositoryPolicy String int String String void void
+void void void void void
+void void void void void void
+void Dependency String String List String InputLocation String String String String String String boolean void void void void void void void void void void void void String
+MavenProject Collection Collection Collection Collection boolean boolean void
+void DependencyManagement List InputLocation void void void
+void
+void
+DependencyResolutionResult
+MavenProject RepositorySystemSession DependencyFilter DependencyResolutionRequest DependencyResolutionRequest DependencyResolutionRequest
+
+List List DependencyNode List List List
+DeploymentRepository boolean void
+boolean boolean
+Developer String void
+DistributionManagement String InputLocation Relocation DeploymentRepository Site DeploymentRepository String void void void void void void void
+String Artifact MavenProject
+
+
+Map
+MavenExecutionPlan MavenExecutionPlan void void List Set Plugin
+Set Plugin
+List CacheRecord void
+void
+void void void void
+void void void
+void void void
+ExecutionListener RepositoryListener void List void void void void
+void void void void void void void void void void void void void void void void void
+void void void void void void void void void void void void void void void void void void void
+ExceptionSummary
+List Throwable String String
+boolean
+Exclusion String String InputLocation void void void
+boolean int boolean
+void Object List void void void
+Exception MojoExecution MavenProject MavenSession Type
+void void
+void void
+void void void String void void void void void void void void void void void void void void void
+void void void void void void void void void void void void void void void void void
+List String MojoExecution Plugin String
+void void Properties String Properties String String String String boolean void void void void void void void void
+void void List Map String void void void
+
+ClassLoader Map Map
+Extension boolean boolean String String InputLocation String int void void void void
+List List void void
+ExtensionDescriptor ExtensionDescriptor String List
+Key void CacheRecord CacheRecord void
+ResolutionNode
+URI File ModelSource2
+boolean boolean FileProfileActivator
+FileSet String void String
+File
+File InputStream String String
+List Date List ModelBuildingListener ModelCache ModelResolver ModelSource File List Model Properties Properties int WorkspaceModelResolver boolean boolean boolean FilterModelBuildingRequest ModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest ModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest ModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest FilterModelBuildingRequest ModelBuildingRequest
+List List List List List String
+String String String String String String
+String
+Result
+
+MetadataGraphEdge
+MetadataGraph
+void void String String String Object ArtifactRepository boolean void boolean boolean
+IdentifiableBase String void
+boolean List int boolean
+void
+InputLocation int int InputLocation Map InputSource InputLocation InputLocation void void String
+InputLocation void
+InputSource String String void void String
+
+String String String String String String String
+String Dependency
+
+String
+
+ModelValidationResult
+String String String
+String
+
+boolean int boolean
+IssueManagement InputLocation String String void void void
+
+ToolchainPrivate ToolchainPrivate Logger
+String File String void String
+boolean String String boolean boolean
+void List int boolean boolean boolean boolean
+String void void void
+ArtifactResolutionResult ArtifactResolutionResult ArtifactResolutionResult
+void void LocalArtifactResult LocalMetadataResult String String String String LocalRepository RepositorySystemSession
+String String String String String
+ArtifactRepository ArtifactRepositoryPolicy String Artifact Artifact ArtifactRepository Artifact ArtifactRepository ArtifactRepository Artifact Artifact ArtifactRepository ArtifactRepository Artifact Artifact Artifact ArtifactRepository Authentication ArtifactRepositoryPolicy List ArtifactRepositoryLayout String Mirror Mirror Proxy Proxy void void void void void void void void ArtifactResolutionResult void
+RepositorySystemSession MavenSession void
+License String String InputLocation String String void void void void void
+Set
+Set Plugin
+Map Map String List String
+void
+void List String void void void
+void void void void void void
+boolean Set List Set Collection void
+String MavenProject
+MavenExecutionPlan MavenExecutionPlan void void
+MavenExecutionPlan MavenExecutionPlan void MavenExecutionPlan MojoDescriptor MojoDescriptor MojoExecution int int MavenExecutionPlan MavenExecutionPlan Set void
+MavenExecutionPlan MavenExecutionPlan void void List Set
+Map List Map
+Map
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Execution Lifecycle LifecycleConfiguration Phase LifecycleConfiguration LifecycleConfiguration LifecycleConfiguration LifecycleConfiguration LifecycleConfiguration void
+void void void void void void void
+void void void
+Xpp3Dom List String void void void
+String
+List void void Map String
+String
+void
+boolean void boolean
+String String
+List List boolean
+List boolean
+Artifact boolean
+
+void Metadata String String Object String Object Nature String void MavenMetadata
+Collection Collection Artifact
+void void void void void void void void void boolean boolean boolean boolean void void void
+void void
+void void
+void void void void void void Logger String int void void boolean boolean boolean boolean boolean void void void
+void void void void void void
+void MailingList String InputLocation String List String String String void void void void void void void void
+String
+MavenExecutionResult
+void Set
+long String String long String String
+String String Object String String String String void void void void void void void String
+String String boolean boolean Artifact List Authentication String String String ArtifactRepositoryLayout List String Proxy ArtifactRepositoryPolicy ArtifactRepositoryPolicy String int boolean boolean boolean String String String String void void void void void void void void void String
+String
+int void CommandLine void void PlexusContainer ModelProcessor void int int int void int TransferListener TransferListener Object void List void void void int List void MavenExecutionRequest MavenExecutionRequest void List void File List void ClassRealm void void
+File
+ExecutionPlanItem Iterable List List List Set Set Iterator int
+MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest List String String Map int EventSpyDispatcher List ExecutionListener String File File List List ArtifactRepository File int String List File List List File List ProjectBuildingRequest List String List RepositoryCache String List List Date Properties Map TransferListener Properties File File WorkspaceReader boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest void MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest
+
+MavenExecutionRequest MavenExecutionRequest MavenExecutionRequest
+void MavenExecutionResult BuildSummary DependencyResolutionResult List MavenProject List boolean MavenExecutionResult MavenExecutionResult MavenExecutionResult
+File Map String boolean void void Metadata Metadata void
+void ResolutionGroup void
+List Set Artifact Artifact ArtifactFilter String ProjectBuilder Properties boolean ModelProblem void boolean boolean ResolutionGroup ResolutionGroup ResolutionGroup List List List List ProjectRelocation
+String Object Object Object Object Object Object Object Object void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void T MojoDescriptor PluginDescriptor void CacheRecord void
+List boolean void
+ProfilesRoot
+void void void void void void void void void void void void void void void MavenProject Set void boolean boolean List Artifact String Map Set List File Build List List CiManagement ClassRealm List List List List List Object List String List Set DependencyManagement String List DistributionManagement ArtifactRepository MavenProject Map Set DependencyFilter File List Xpp3Dom String String String Map IssueManagement List List Map Model Build String String List String Organization Model String MavenProject Artifact File Plugin Map List Set PluginManagement List Prerequisites ProjectBuildingRequest String Map Properties ArtifactRepository List List List Map Set Xpp3Dom List Reporting List List List List List Scm List ArtifactRepository List List List List List List List List String String boolean boolean int boolean Artifact void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void String void void
+MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject MavenProject
+void void void void void
+
+Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact Artifact ArtifactRepository ArtifactRepository ArtifactRepositoryPolicy void Artifact ArtifactRepository ArtifactRepository ArtifactRepository Artifact Artifact ArtifactRepository Artifact Artifact Artifact ArtifactRepository Repository RepositoryPolicy Authentication ArtifactRepositoryLayout Mirror Mirror Proxy Set void void void void void boolean boolean boolean boolean
+DefaultServiceLocator DefaultRepositorySystemSession
+void Set
+MavenSession List PlexusContainer MavenProject EventDispatcher Properties String List ArtifactRepository Map List ProjectBuildingRequest ProjectDependencyGraph Map List String RepositoryCache RepositorySystemSession MavenExecutionRequest MavenExecutionResult Settings List Date Properties MavenProject Properties boolean boolean boolean Object Object List Map void void void void void void
+Settings Settings Settings Settings Settings
+Map void void
+String String void
+Logger
+void
+void
+void Metadata String String Object String Object Nature String
+Object void void void
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int PersistedToolchains ToolchainModel TrackableBase PersistedToolchains PersistedToolchains PersistedToolchains PersistedToolchains PersistedToolchains void
+void void void void void void
+Model
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Activation ActivationFile ActivationOS ActivationProperty Build BuildBase CiManagement ConfigurationContainer Contributor Dependency DependencyManagement DeploymentRepository Developer DistributionManagement Exclusion Extension FileSet IssueManagement License MailingList Model ModelBase Notifier Organization Parent PatternSet Plugin PluginConfiguration PluginContainer PluginExecution PluginManagement Prerequisites Profile Relocation ReportPlugin ReportSet Reporting Repository RepositoryBase RepositoryPolicy Resource Scm Site Model Model Model Model Model void
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Activation ActivationFile ActivationOS ActivationProperty Build BuildBase CiManagement ConfigurationContainer Contributor Dependency DependencyManagement DeploymentRepository Developer DistributionManagement Exclusion Extension FileSet IssueManagement License MailingList Model ModelBase Notifier Organization Parent PatternSet Plugin PluginConfiguration PluginContainer PluginExecution PluginManagement Prerequisites Profile Relocation ReportPlugin ReportSet Reporting Repository RepositoryBase RepositoryPolicy Resource Scm Site Model Model Model void
+void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void Metadata String String String String List String Versioning boolean void void void void void void void void
+String String File String Nature Map String String boolean void MetadataBridge Metadata
+MetadataGraph MetadataGraphVertex void void void void void void int MetadataGraphVertex List MetadataGraphVertex List List ArtifactScopeEnum TreeSet void boolean boolean boolean boolean void MetadataGraph void void void void String
+boolean String int int ArtifactScopeEnum MetadataGraphVertex MetadataGraphVertex String boolean boolean void void void void void void void void String
+MetadataGraphNode MetadataGraphNode boolean int
+
+int int boolean ArtifactMetadata int boolean boolean void void void String
+int int
+Metadata Metadata Metadata
+ArtifactMetadata Collection void void
+
+Artifact ArtifactRepository List boolean boolean MetadataResolutionRequest MetadataResolutionRequest MetadataResolutionRequest MetadataResolutionRequest MetadataResolutionRequest
+int
+ClasspathContainer MetadataTreeNode MetadataGraph MetadataGraph MetadataGraph MetadataTreeNode void void
+ArtifactMetadata
+MetadataResolution
+void MetadataTreeNode[] ArtifactMetadata int MetadataTreeNode String boolean void void void void String
+Metadata
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Metadata Plugin Snapshot SnapshotVersion Versioning Metadata Metadata Metadata Metadata Metadata void
+void void void void void void void void
+Mirror String String String String String void void void void void String
+Mirror
+
+File String
+
+
+void void void void void Model void String Build CiManagement List String List String String String IssueManagement List List String String String Organization String Parent File Prerequisites List File Scm String String void void void void void void void void void void void void void void void void void void void void void void void void void void void void String
+void void void void void ModelBase List DependencyManagement DistributionManagement InputLocation List List Properties Reporting Object List void void void void void void void void void void void void void void
+ModelBuildingResult ModelBuildingResult Result
+Model ModelProblemCollector ModelBuildingRequest
+void
+Model String List ModelBuildingResult String String
+void
+List Date List ModelBuildingListener ModelCache ModelResolver ModelSource File List Model Properties Properties int WorkspaceModelResolver boolean boolean boolean ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest ModelBuildingRequest
+List List Model List List Model Model
+Object void
+T String Class T
+List String String String Model Model ModelSource String void void void void void void String
+void void void void
+String String
+Model
+File
+Object Object Object Object Object Object Object Object Object Object Object Object Object Object Object Object void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void void
+int int
+void
+int Exception int String String Severity String Version
+void
+List
+Exception InputLocation String Severity Version ModelProblemCollectorRequest ModelProblemCollectorRequest ModelProblemCollectorRequest
+String String String String String
+
+Model Model Model
+void void ModelResolver ModelSource ModelSource ModelSource
+
+URI ModelSource2
+void
+List void void void void List List
+void String int List String String
+void void
+void void void
+void Log void
+void boolean MojoDescriptor boolean boolean String String String String String String String String String String String String PlexusConfiguration Map List String PluginDescriptor String String String int boolean String boolean boolean boolean boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void void void void void
+Xpp3Dom Plugin Plugin Plugin MojoDescriptor void void
+String Xpp3Dom String Map String String String MojoDescriptor Plugin Source String String void void void void String
+void
+Throwable MojoExecution Mojo MavenProject MavenSession
+
+void void void
+void void void void void Collection ScopeState Provider void void Provider
+void
+void
+
+boolean Iterator Object boolean
+void void void void void List ArtifactFilter DependencyContext Collection
+MojoDescriptor void void
+
+String PluginDescriptor String
+void Callable void
+String List List
+ResolutionNode
+ResolutionNode
+
+String
+void Notifier String Properties InputLocation String boolean boolean boolean boolean void void void void void void void void
+ResolutionNode
+boolean boolean boolean boolean boolean boolean boolean
+void boolean int boolean
+Organization InputLocation String String void void void
+
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Expression ExpressionDocumentation ExpressionDocumentation ExpressionDocumentation ExpressionDocumentation ExpressionDocumentation ExpressionDocumentation void
+void void void void void
+Parameter boolean String String String String String String String Requirement String String int boolean boolean void void void void void void void void void void void void String
+Parent String String String InputLocation String String void void void void void String
+Object
+String void String void
+void void PatternSet List List InputLocation void void void void void String
+String[]
+void PersistedToolchains String List void void void
+void Object List String void void void void
+boolean void
+DependencyNode DependencyNode
+Plugin String String String void void void
+List List
+Key void CacheRecord CacheRecord CacheRecord void
+PluginConfiguration PluginManagement void
+
+void
+void PluginContainer void InputLocation List Map void void void
+ClassRealm
+Artifact DependencyNode
+void void boolean boolean void void void void void void void void void void
+void PluginDescriptor String boolean String Map List ClassRealm String String String InputStream String String String String Set Lifecycle MojoDescriptor List String Plugin Artifact String String String String int boolean void void void void void void void void void void void void void void
+PluginDescriptor PluginDescriptor MojoDescriptor PlexusConfiguration
+Key void PluginDescriptor void
+String
+void PluginExecution List String String int void void void void void String
+String MojoExecution
+
+String
+PluginManagement
+void
+void Object Map Plugin PluginDescriptor PluginDescriptor PluginDescriptor PluginDescriptor
+String String String String MavenProject
+Plugin
+String void String MojoDescriptor List
+File Object Object boolean String
+List Model String List RepositorySystemSession PluginPrefixRequest PluginPrefixRequest PluginPrefixRequest PluginPrefixRequest PluginPrefixRequest
+PluginPrefixResult
+PluginPrefixResult
+String String ArtifactRepository
+Key void CacheRecord CacheRecord void
+Plugin
+String String
+String String Model List RepositorySystemSession PluginVersionRequest PluginVersionRequest PluginVersionRequest PluginVersionRequest PluginVersionRequest
+String String String String
+PluginVersionResult
+PluginVersionResult
+ArtifactRepository String
+Prerequisites InputLocation String void void
+int Exception int String String Severity String
+void List void
+ProblemCollector
+void List Object
+void void void Profile Activation List Properties List void void void void void void
+List List File Map Map Map
+
+boolean boolean
+void
+void void void void void void List List List List Map Properties
+List
+Profile Repository RepositoryPolicy
+void void List String List void void void void void
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Activation ActivationFile ActivationOS ActivationProperty Profile ProfilesRoot Repository RepositoryBase RepositoryPolicy ProfilesRoot ProfilesRoot ProfilesRoot ProfilesRoot ProfilesRoot void
+void void void void void void void void void void void void
+List List MavenProject
+Set
+String File String Object String String void void void boolean String
+Key void CacheRecord CacheRecord CacheRecord void
+MojoFailureException String
+void ProjectSegment ProjectSegment ProjectBuildList Set Set boolean Iterator Map int
+ProjectBuildingResult List ProjectBuildingResult ProjectBuildingResult ProjectBuildingResult
+Date Properties ProfileManager ArtifactRepository Properties ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration ProjectBuilderConfiguration
+String String File String String List
+List CacheRecord void
+void List Date List ArtifactRepository List List MavenProject List RepositoryMerging RepositorySystemSession Properties Properties int boolean boolean boolean void void void ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest void void ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest ProjectBuildingRequest
+DependencyResolutionResult File List MavenProject String
+
+DependencyResolutionResult
+Set DependencyResolutionResult Set Set Set
+List List List List
+ProjectSegment TaskSegment List List List MavenSession MavenSession ProjectBuildList List List List
+Throwable List MavenProject MavenSession
+void void void void
+Map Map
+void void ModelResolver void ModelSource ModelSource ModelSource
+Key void CacheRecord CacheRecord void
+List MavenProject MavenSession TaskSegment List String
+void void DAG List List String Map List MavenProject boolean boolean
+List ArtifactRepository ArtifactRepository RepositorySystem RepositorySystemSession
+boolean boolean
+Proxy String String String int String String boolean void void void void void void void
+
+void void boolean boolean boolean
+ClassLoader ProjectIndex ReactorBuildStatus MavenExecutionResult Memento
+void void boolean BuildFailure BuildSuccess String Map String List boolean boolean boolean boolean boolean void void void
+Object void
+File void
+boolean File File Artifact Model List WorkspaceRepository boolean boolean boolean
+Interpolator
+String ArtifactMetadata void void void
+String String String File String Map String String
+Relocation String String InputLocation String String void void void void void
+int String void MavenMetadata
+Collection Collection Artifact
+void
+void ReportPlugin String void String String String List Map String void void void void void
+void ReportSet String List void void void String
+void Reporting void String InputLocation String List Map boolean void void void void void void
+void
+Repository boolean RepositoryPolicy RepositoryPolicy void void
+RepositoryBase boolean String String String String void void void void
+Object void
+Metadata int ArtifactRepositoryPolicy ArtifactRepository boolean void void
+
+
+void void void void void
+
+
+
+RepositoryPolicy String String boolean void void void
+ArtifactRepository List boolean boolean RepositoryRequest RepositoryRequest RepositoryRequest RepositoryRequest
+RepositorySystemSession
+ArtifactRepository Artifact Artifact ArtifactRepository Artifact ArtifactRepository ArtifactRepository Artifact ArtifactRepository Artifact Artifact List Mirror void void void void void void void ArtifactResolutionResult void
+String ArtifactType ArtifactTypeRegistry ArtifactHandler String Artifact Artifact Artifact Collection void Authentication Dependency Dependency Exclusion RepositoryPolicy Proxy RemoteRepository List
+Requirement String String
+boolean
+RequirementMatcher RequirementMatcher
+void
+
+void void void void void void void void void void void
+void void void
+void void void boolean Artifact Iterator List int Object List List boolean boolean boolean void String
+Resource String String String void boolean void void void void String
+boolean boolean ArtifactVersion ArtifactVersion int boolean boolean String
+Result Result Result Result Result Result Result Result T Iterable boolean boolean Result Result Result Result Result
+File
+String boolean
+Scm String String InputLocation String String void void void void void
+boolean boolean String int
+Server Object String String String String String String void void void void void void void
+void void void ScopeState Memento Provider void void Provider
+void
+
+void void void void void void Settings void void List Proxy Boolean String Mirror List String List List Map List Server List boolean boolean boolean void void void void void void void void void void void void void void void void void
+List String List List List List List boolean boolean
+SettingsBuildingResult
+List String
+File SettingsSource Properties Properties File SettingsSource SettingsBuildingRequest SettingsBuildingRequest SettingsBuildingRequest SettingsBuildingRequest SettingsBuildingRequest SettingsBuildingRequest
+Settings List
+int int
+SettingsDecryptionResult
+List List SettingsDecryptionRequest SettingsDecryptionRequest
+List List Proxy Server List
+int int
+int Exception int String String Severity String
+void
+Settings Settings Settings
+
+Profile Repository RepositoryPolicy RepositoryPolicy Profile Repository Settings void
+void
+void void void
+Object MavenExecutionRequest void File
+boolean void void boolean boolean boolean byte char Date Date double float int long String short String String int Activation ActivationFile ActivationOS ActivationProperty IdentifiableBase Mirror Profile Proxy Repository RepositoryBase RepositoryPolicy Server Settings TrackableBase Settings Settings Settings Settings Settings void
+void void void void void void void void void void void void void void void void void
+ResolutionGroup ResolutionGroup List List
+String PrintStream void void void void void void void void void void void void boolean String String String void void void void void void boolean boolean boolean boolean boolean boolean void void void void String String void int void void void void void void void void void void void
+Logger void
+void List List Model List
+void
+Site String InputLocation String String void void void void
+void void
+Slf4jConfiguration
+void void void void void void Logger String int void void boolean boolean boolean boolean boolean void void void
+int Logger Logger int void void void void
+void void void
+void void
+void void void void void void void void void void void void void void void void void void void void String void void void void void void void void void void boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void void void void
+Snapshot int String boolean void void void
+String String String Object int ArtifactRepository boolean void boolean boolean
+float MetadataGenerator MetadataGenerator
+String String DateFormat int void void void
+SnapshotVersion String String String String void void void void
+InputStream String
+ILoggerFactory String StaticLoggerBinder
+MDCAdapter String StaticMDCBinder
+IMarkerFactory String StaticMarkerBinder
+
+Interpolator Model void
+String
+String InputStream String String
+void void void void void String[] void
+Model
+void Properties Properties
+boolean void boolean
+void void void void void void void void void boolean boolean boolean boolean void void void void void void
+List boolean String
+void void void PrintStream boolean void void
+String String
+ToolchainPrivate ToolchainPrivate
+Toolchain List
+ToolchainPrivate[] void
+void ToolchainModel boolean Object Properties String int void void void
+ToolchainModel boolean
+ToolchainsBuildingResult
+List String
+Source Source ToolchainsBuildingRequest ToolchainsBuildingRequest
+PersistedToolchains List
+int int
+PersistedToolchains PersistedToolchains PersistedToolchains
+TrackableBase String void
+void TransferListener void void void void void ArtifactTransferEvent ArtifactTransferResource
+boolean int boolean
+String
+String String String
+List Artifact List
+void
+String boolean boolean void void
+
+String
+Object
+URL
+InputStream String URL String
+Artifact String boolean String String
+Collection void void void
+String InvalidVersionSpecificationException Dependency File String
+VersionRange boolean VersionRange VersionRange boolean ArtifactVersion List ArtifactVersion boolean int List boolean ArtifactVersion Restriction VersionRange String
+void void Versioning String String String Snapshot List List void void void void void void void void void void
+Metadata String String Object Object Nature String void MavenMetadata
+Collection Collection Artifact
+float MetadataGenerator MetadataGenerator
+String[]
+String[]
+String[]
+
+DependencySelector boolean int boolean boolean boolean
+void void AuthenticationInfo ArtifactRepository ProxyInfo
+String void
+void void void void void void void void void void void
+void void void
+Model Model
+NodePointer int boolean
+int Object Object int QName Object boolean boolean boolean void
+void NodePointer int boolean boolean
+NodeIterator NodeIterator int Object Object int QName Object Object boolean boolean void
+NodePointer NodePointer int
+

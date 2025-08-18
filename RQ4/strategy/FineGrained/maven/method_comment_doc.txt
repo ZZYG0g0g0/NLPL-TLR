@@ -1,0 +1,786 @@
+
+
+
+
+invok maven project instanc creat callback intend allow extens manipul maven project sort actual build execut start invok project build callback intend allow extens perform cleanup alloc extern resourc build invok basi may miss due error runtim except maven core code invok maven session instanc creat callback intend allow extens inject execut properti activ profil perform similar task affect maven project instanc construct todo earli build extens mayb remov
+
+
+p return logger inject mojo logger setup yet system stream log logger creat return note logger return method must cach instanc field construct mojo would caus mojo use wrongli configur default logger run maven proper logger get inject plexu contain em mojo construct therefor simpli call method directli whenev need logger fast enough need cach
+
+
+
+
+
+method method clone activ clone get specifi profil activ base exist file activ file file get specifi profil activ match jdk detect string jdk get specifi profil activ match os attribut detect activ os os get specifi profil activ system properti specifi activ properti properti get flag specifi whether profil activ default boolean activ default set flag specifi whether profil activ default void activ default boolean set specifi profil activ base exist file void file activ file set specifi profil activ match jdk detect void jdk string set specifi profil activ match os attribut detect void os activ os set specifi profil activ system properti specifi void properti activ properti
+method method clone activ file clone get name file exist activ profil string exist get name file miss activ profil string miss set name file exist activ profil void exist string set name file miss activ profil void miss string
+method method clone activ os clone get architectur os use activ profil string arch get gener famili os use activ profil e g string famili get name os use activ profil string name get version os use activ profil string version set architectur os use activ profil void arch string set gener famili os use activ profil e g void famili string set name os use activ profil void name string set version os use activ profil void version string
+method method clone activ properti clone get name properti use activ profil string name get valu properti use activ profil string valu set name properti use activ profil void name string set valu properti use activ profil void valu string
+doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc doc
+
+
+
+
+
+deploy artifact particular file deploy artifact particular directori artifact handler use determin filenam sourc file
+
+
+
+
+
+
+exclud extens artifact affect artifact filter result extens artifact filter return filter core extens artifact return filter core artifact
+
+
+
+
+
+instal artifact particular file instal artifact particular directori artifact handler use determin filenam sourc file
+
+
+
+
+new interfac method repositori system find version specifi artifact avail repositori indic whether repositori back actual project instanc build reactor ide workspac exampl repositori
+
+
+
+
+
+
+get artifact filter control travers depend graph get artifact filter control download artifact file filter oper artifact includ link collect filter use tycho break user forc upgrad maven realli leav possibl indefinit
+todo need accept link constrain version except return link version rang violat use like default legaci artifact collector repositori circular depend except error artifact except artifact resolut except except metadata resolut except artifact resolut except version rang violat intern
+use remot resourc plugi depend plugi shade plugin use remot resourc plugin use depend plugi archetyp download use invok plugin use maven assembl plugin use maven assembl plugin use surefir depend plugin
+helper method simplifi null process scope relationship function use graph conflict resolut polici
+
+return request type set request type
+
+
+size artifact byte path artifact rel repositori base ur base url repositori e g http maven unless url unknown termin trail slash get timestamp transfer artifact start get full url artifact
+take artifact return transform artifact distribut remot repositori transform occur origin artifact return take artifact return transform artifact locat local repositori transform occur origin artifact return take artifact return transform artifact locat remot repositori transform occur origin artifact return take artifact return transform artifact locat remot repositori transform occur origin artifact return
+take artifact return transform artifact distribut remot repositori transform occur origin artifact return take artifact return transform artifact locat local repositori transform occur origin artifact return take artifact return transform artifact locat remot repositori transform occur origin artifact return take artifact return transform artifact locat remot repositori transform occur origin artifact return
+return code collect
+
+
+
+get passphras privat key file passphras use support authent via exchang key privat key use authent get user password use connect repositori get absolut path privat key file get usernam use access repositori set passphras privat key file set user password use connect repositori set absolut path privat key file set usernam use access repositori
+
+
+
+
+translat specifi path
+get bean configur eventu valid request must bean set get class loader load type refer configur unset class loader bean class use get configur unmarsh bean return configur element name code null get option path translat configur valu unmarshal file get option preprocessor configur valu set bean configur eventu valid request must bean set set class loader load type refer configur unset class loader bean class use set configur unmarsh bean configur take link configur contain configur similar sourc fulli equival code configur null set configur unmarsh bean configur take link configur contain configur similar sourc code element code null child configur element specifi name unmarsh set option path translat configur valu unmarshal file set option preprocessor configur valu
+preprocess specifi bean configur valu option type provid method hint requir preprocessor resolv valu compat valu string valu unmarshal type preprocessor requir perform type convers rather filter incompat valu result
+perform specifi bean configur
+
+method method extens void extens extens method clone build clone method extens list extens extens get directori compil applic class place default valu code string output directori get element specifi directori contain script sourc project directori mean differ directori content copi output directori case sinc script interpret rather compil default valu code string script sourc directori get element specifi directori contain sourc project gener build system compil sourc directori project build path give rel project descriptor default valu code string sourc directori get directori compil test class place default valu code string test output directori get element specifi directori contain unit test sourc project gener build system compil directori project test path give rel project descriptor default valu code string test sourc directori method extens void extens extens set set build extens use project void extens list set directori compil applic class place default valu code void output directori string set element specifi directori contain script sourc project directori mean differ directori content copi output directori case sinc script interpret rather compil default valu code void script sourc directori string set element specifi directori contain sourc project gener build system compil sourc directori project build path give rel project descriptor default valu code void sourc directori string set directori compil test class place default valu code void test output directori string set element specifi directori contain unit test sourc project gener build system compil directori project test path give rel project descriptor default valu code void test sourc directori string
+
+method method filter void filter string method resourc void resourc resourc method test resourc void test resourc resourc method clone build base clone get default goal phase maven execut none specifi project note case build default goal project relev e default goal child modul ignor sinc maven multipl separ whitespac string default goal get directori file gener build place default valu code target string directori method filter list string filter get filenam exclud extens path inform produc artifact call default valu id string final name method resourc list resourc resourc method test resourc list resourc test resourc method filter void filter string method resourc void resourc resourc method test resourc void test resourc resourc set default goal phase maven execut none specifi project note case build default goal project relev e default goal child modul ignor sinc maven multipl separ whitespac void default goal string set directori file gener build place default valu code target void directori string set list filter properti file use filter enabl void filter list set filenam exclud extens path inform produc artifact call default valu id void final name string set element describ classpath resourc properti file associ project resourc often includ final packag default valu code void resourc list set element describ classpath resourc properti file associ project unit test default valu code void test resourc list
+get caus build failur
+
+
+igorf way mani declar except igorf way mani declar except
+
+
+get project summar get build time project millisecond
+
+
+nice whittl session mayb add task segment session session realli place store reactor relat inform
+todo realli wonder method belong smell like maven project reason local code smell
+
+
+creat human readabl string contain maven version buildnumb time build
+
+
+method method notifi void notifi notifi method clone ci manag clone input locat locat object method notifi list notifi notifi get name continu integr system e g code continuum string system get rl continu integr system use project web interfac string url method notifi void notifi notifi void locat object input locat set configur notifi build unsuccess includ user inform notif mode void notifi list set name continu integr system e g code continuum void system string set rl continu integr system use project web interfac void url string
+get artifact id constitu artifact get classifi constitu artifact get file constitu artifact get group id constitu artifact get type constitu artifact get version constitu artifact
+creat new class realm specifi build extens creat new class realm specifi plugin creat new class realm specifi project build extens get class realm host maven core get class realm expos maven ap basic restrict view maven core realm
+
+get constitu class realm get import foreign realm get parent class realm get import parent realm get type class realm
+
+
+transform graph collect metadata object could serv classpath particular scope
+
+
+checkstyl line length main test version pars comparison p check compar snapsho exampl issu pre java maven repo local maven version maven version jar snapsho command command line result give command someth like pre display paramet pars maven canon form comparison result gt snapshot snapshot checkstyl line length
+
+
+
+
+
+give link maven project code p return code p uncomplet depend give link maven project code p return code p depend get build mark provid project finish return list
+method method clone configur contain clone get configur dom object default everi element content trim start maven add code xml preserv element want preserv whitespac control child po ms inherit configur parent po ms add code combin child code combin self attribut child configur element ul li code combin child avail valu code merg default code append li code combin self avail valu code merg default code overrid see plugin pom refer document xpp dom util xpp dom util inform object configur get whether configur propag child po ms note type field string technic reason semant type actual boolean default valu code true string inherit input locat locat object set configur dom object default everi element content trim start maven add code xml preserv element want preserv whitespac control child po ms inherit configur parent po ms add code combin child code combin self attribut child configur element ul li code combin child avail valu code merg default code append li code combin self avail valu code merg default code overrid see plugin pom refer document xpp dom util xpp dom util inform void configur object set whether configur propag child po ms note type field string technic reason semant type actual boolean default valu code true void inherit string void locat object input locat
+
+determin specifi version artifact use conflict declar
+method get conflict resolv specifi type
+
+
+
+
+set new share context map mojo execut
+method method properti void properti string string method role void role string method clone contributor clone get email address contributor string email input locat locat object get full name contributor string name get organ contributor belong string organ get url organ string organ url method properti properti properti method role list string role get timezon contributor typic number rang ut ut valid time zone id like america montreal ut europ pari ut string timezon get url homepag contributor string url method role void role string set email address contributor void email string void locat object input locat set full name contributor void name string set organ contributor belong void organ string set url organ void organ url string set properti contributor instant messeng handl void properti properti set role contributor play project role describ code role element bodi role name also use describ contribut void role list set timezon contributor typic number rang ut ut valid time zone id like america montreal ut europ pari ut void timezon string set url homepag contributor void url string
+return artifact export maven core core extens artifact identifi id id string key return packag export maven core core extens
+
+method get artifact id extens string artifact id get group id extens artifact string group id get version extens string version set artifact id extens void artifact id string set group id extens artifact void group id string set version extens void version string
+return class loader use load extens class return artifact export extens identifi id id string key return classpath element export extens
+method method extens void extens core extens method extens list core extens extens get encod field string model encod method extens void extens core extens set set build extens use project void extens list set encod field void model encod string
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method core extens core extens core extens xml pull parser boolean method core extens core extens core extens xml pull parser boolean method read core extens read input stream method read core extens read input stream boolean core extens read reader core extens read reader boolean method read core extens read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream core extens method write void write writer core extens method core extens void core extens core extens string xml serial method core extens void core extens core extens string xml serial
+
+
+
+creat string represent specifi object
+logic use use copi logic use default artifact collector method call right actual scope chang do howev differ set condit inform need abl determin version scope chang see two add method artifact version artifact scope
+object overrid
+
+
+
+
+return artifact filter core extens artifact return artifact filter standard core artifact
+
+
+
+
+
+
+
+
+set configur configur take specifi build plugin po first build plugin search specifi plugin fail plugin manag section search
+
+mojo execut todo descriptor realm artifact set side effect call nice
+creat new class realm specifi parent import
+
+
+
+contextualiz method see contextualiz context conflict resolv factori method see conflict resolv factori conflict resolv string
+
+
+
+
+
+
+
+
+
+project collect
+
+
+calcul rel path base directori parent parent directori base directori child gener idea adjust inherit ur l match project layout sc calcul heurist base convent detail algo reli follow assumpt ul parent use aggreg refer child via modul section modul path child consid point pom rather base directori path end xml ignor case name child base directori match artifact id child note sake independ user environ filesystem intent use calcul
+
+check scope need updat ig depend mediationand conflict resolut scoperesolut info get map manag version remov origin artifact also manag version
+
+
+org apach maven plugin process todo take repo man account one may aggreg prefix mani todo collect root repositori read one root fetch remot someth miss user forc issu post effect configur specifi mojo execut step discard paramet configur applic mojo inject default valu miss paramet
+use site x site x backward use maven help plugin method deal construct intact plugin object look like come standard block maven po wiggl pull sourc inform togeth realli show problem construct sensibl default configur encapsul appear normal pom builder go take project packag find plugin default lifecycl creat fulli popul plugin object includ execut goal default configur take plugin xml insid plugin todo whole method could probabl remov inject cycl plugin analyz straight client site todo reason whole plexu appcontext refus start tri
+popul lifecycl map inject list lifecycl map alreadi do
+
+method deal construct intact plugin object look like come standard block maven po wiggl pull sourc inform togeth realli show problem construct sensibl default configur encapsul appear normal pom builder go take project packag find plugin default lifecycl creat fulli popul plugin object includ execut goal default configur take plugin xml insid plugin
+
+use map phase lifecycl contain use user specifi phase want execut easili determin lifecycl need run
+
+
+setup initi properti valid local repositori directori access creat repositori system session creat maven session execut abstract lifecycl particip session start get reactor project look gener pom error creat project depend graph use trim take account project reactor mode ensur project pass reactor reader specifi creat reactor reader project map project note project map code check duplic project definit build ideal type duplic check part get reactor project duplic check conflat project map execut abstract lifecycl particip project read creat project depend graph without trim trim do new topolog sort requir execut abstract lifecycl particip free mutat maven project instanc may chang depend turn affect build order execut lifecycl starter januari
+todo belong set equival set file
+artifact transfer mechan mave
+
+
+
+
+use site plugin use execut like run archetyp gener take profil handl interpol base directori spec properli maven project builder implement
+add attach artifact replac file exist artifact
+
+
+
+
+check url see repositori refer extern repositori method check pattern match repositori valid pattern everyth extern everyth localhost file base repo repo everyth except check whether layout configur mirror match layout repositori
+
+creat new model builder instanc
+
+get project whose model build
+
+
+
+todo eventu migrat default path translat todo remov todo remov todo remov todo move path tool
+
+
+
+
+
+
+
+
+
+field valid assert ul li code string null assert ul li code string null li code string length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+set identifi profil activ explicit demand set identifi profil deactiv explicit demand set base directori current project set system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl set system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl set user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line set user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line
+
+javadoc see profil manag profil profil javadoc see profil manag profil list javadoc see profil manag activ string javadoc see profil manag activ list javadoc see profil manag deactiv string javadoc see profil manag deactiv list javadoc see profil manag activ profil
+
+
+
+maven project builder implement
+
+
+
+
+
+
+
+
+
+
+ensur last updat timestamp specifi metadata refer futur fix local metadata necessari allow proper metadata deploy todo share default plugin map manag
+
+
+
+
+
+creat new set builder instanc
+
+
+
+
+
+
+
+
+assert ul li code string null field valid assert ul li code string length null li code string length
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+method method exclus void exclus exclus method clone depend clone get uniqu id artifact produc project group e g code string artifact id get classifi depend append filenam version allow ul li refer attach artifact exampl code sourc code javadoc see html default artifact handler list li distinguish two artifact belong pom build differ exampl code code string classifi method exclus list exclus exclus get project group produc depend e g code org apach maven string group id input locat locat object get indic depend option use librari version depend take account depend calcul librari use elsewher pass transit note type field string technic reason semant type actual boolean default valu code fals string option get scope depend code compil code runtim code test code system code provid use calcul variou classpath use compil test also assist determin artifact includ distribut project inform see http apach html depend mechan default scope code compil string scope get system scope onl note use properti b discourag may replac later version specifi path filesystem depend requir absolut path valu rel use properti give machin specif absolut path e g code java home string system path get type depend usual repres extens filenam depend alway case type map differ extens classifi type often correspond packag use though also alway case exampl code jar code war code code see html default artifact handler list new type defin plugin set code extens code true complet list string type get version depend e g code maven also specifi rang version string version method exclus void exclus exclus set uniqu id artifact produc project group e g code void artifact id string set classifi depend append filenam version allow ul li refer attach artifact exampl code sourc code javadoc see html default artifact handler list li distinguish two artifact belong pom build differ exampl code code void classifi string set list set artifact exclud depend artifact list come calcul transit depend void exclus list set project group produc depend e g code org apach maven void group id string void locat object input locat set indic depend option use librari version depend take account depend calcul librari use elsewher pass transit note type field string technic reason semant type actual boolean default valu code fals void option string set scope depend code compil code runtim code test code system code provid use calcul variou classpath use compil test also assist determin artifact includ distribut project inform see http apach html depend mechan default scope code compil void scope string set system scope onl note use properti b discourag may replac later version specifi path filesystem depend requir absolut path valu rel use properti give machin specif absolut path e g code java home void system path string set type depend usual repres extens filenam depend alway case type map differ extens classifi type often correspond packag use though also alway case exampl code jar code war code code see html default artifact handler list new type defin plugin set code extens code true complet list void type string set version depend e g code maven also specifi rang version void version string
+
+method method depend void depend depend method clone depend manag clone method depend list depend depend input locat locat object method depend void depend depend set depend specifi use refer pom within group allow specif standard version particular depend void depend list void locat object input locat
+import specifi depend manag section give target model
+merg default valu depend manag section give model
+
+get project resolv depend get session use repositori access get filter use exclud depend resolut set project resolv depend set session use repositori access set filter use exclud depend resolut note filter control depend artifact inclus depend node resolv depend graph
+
+get error occur build depend graph get transit depend project exclud link depend resolut request resolut filter list union result link resolv depend link unresolv depend get depend graph project get error occur resolv specifi depend get depend success resolv get depend could resolv
+method method clone deploy repositori clone get whether assign snapshot uniqu version compris timestamp build number use version time boolean uniqu version set whether assign snapshot uniqu version compris timestamp build number use version time void uniqu version boolean
+
+method method clone develop clone get uniqu id develop sc string id set uniqu id develop sc void id string
+method method clone distribut manag clone get url project download page give user refer homepag give code url give assist locat artifact repositori due licens restrict string download url input locat locat object get reloc inform artifact move new group id artifact reloc reloc get inform need deploy artifact gener project remot repositori deploy repositori repositori get inform need deploy web site project site site get deploy snapshot artifact give default code repositori element deploy repositori snapshot repositori get give statu artifact remot repositori must set local project updat tool place reposiori valid valu code none default code convert repositori manag convert maven po code partner directli sync partner maven repositori code deploy deploy maven instanc code verifi hand verifi correct final string statu set url project download page give user refer homepag give code url give assist locat artifact repositori due licens restrict void download url string void locat object input locat set reloc inform artifact move new group id artifact void reloc reloc set inform need deploy artifact gener project remot repositori void repositori deploy repositori set inform need deploy web site project void site site set deploy snapshot artifact give default code repositori element void snapshot repositori deploy repositori set give statu artifact remot repositori must set local project updat tool place reposiori valid valu code none default code convert repositori manag convert maven po code partner directli sync partner maven repositori code deploy deploy maven instanc code verifi hand verifi correct final void statu string
+
+
+
+get pom file project collid
+
+
+
+add environ variabl form properti whose key prefix code env e g code pat unlik nativ environ variabl properti alway sake determin environ variabl name normal upper case platform variabl lookup
+
+
+notifi spi maven termin allow free resourc alloc initi spi notifi spi build
+
+
+
+
+
+
+method method clone exclus clone get artifact id project exclud string artifact id get group id project exclud string group id input locat locat object set artifact id project exclud void artifact id string set group id project exclud void group id string void locat object input locat
+
+method method goal void goal string get configur pass goal object configur method goal list string goal method goal void goal string set configur pass goal void configur object set goal execut void goal list
+get except caus event get current mojo execut get current project get session event origin get type event
+
+
+checkstyl line length pre gt gt gt id id gt id gt gt gt pre gt gt gt id id gt lifecycl phase id gt gt gt checkstyl line length checkstyl line length pre lt lt lt id id lt id lt lt lt pre lt lt lt id id lt lifecycl phase id lt lt lt checkstyl line length pre id id id
+
+
+method method api method void api method string string method cli option void cli option string string method api method properti api method get prefer altern express case ban use string ban method cli option properti cli option get place syntax use chang valu express string configur get prefer altern express case deprec string deprec get descript express refer gener use string descript get syntax express string syntax get whether valu express chang boolean edit set programmat method use chang valu express void api method properti set prefer altern express case ban use void ban string set switch use chang valu express void cli option properti set place syntax use chang valu express void configur string set prefer altern express case deprec void deprec string set descript express refer gener use void descript string set whether valu express chang void edit boolean set syntax express void syntax string
+method method express void express express method express list express express get encod field string model encod method express void express express set list plugin paramet express describ document void express list set encod field void model encod string
+
+express express manag artifact repositori cdat manag repositori id url scp repositori id url scp repositori manag cdat repositori onto artifact deploy one releas snapshot express
+method method clone extens clone get artifact id extens string artifact id get group id extens artifact string group id input locat locat object get version extens string version set artifact id extens void artifact id string set group id extens artifact void group id string void locat object input locat set version extens void version string
+
+extract extens descriptor specifi jar file
+regist specifi cach record usag give project integr use inform collect method combin custom cach implement dispos unus record cach
+conflict resolv method see conflict resolv conflict resolut node resolut node
+
+
+method method clone file set clone get describ directori resourc store path rel po string directori set describ directori resourc store path rel po void directori string
+get set file model sourc
+get file sourc
+
+
+
+
+
+
+
+cleans suppli graph leav one direct version two node multipl exist use scope relationship defin artifact scope enum
+
+method method clone identifi base clone get id field string id set id field void id string
+
+merg valu specifi parent model give child model implement expect keep parent child complet decoupl inject deep copi object child rather origin object parent
+method method clone input locat clone get column number valu unknown int column number get line number valu unknown int line number input locat locat object map object input locat locat get sourc field input sourc sourc method merg input locat merg input locat input locat boolean method merg input locat merg input locat input locat collect void locat object input locat void locat map
+method get locat specifi field input sourc set locat specifi field
+method method clone input sourc clone get url pom code null unknown string locat get identifi pom format code id id string model id set url pom code null unknown void locat string set identifi pom format code id id void model id string
+
+
+
+
+
+
+
+
+
+
+
+method method clone issu manag clone input locat locat object get name issu manag system e g bugzilla string system get rl issu manag system use project string url void locat object input locat set name issu manag system e g bugzilla void system string set rl issu manag system use project void url string
+
+
+
+
+
+
+use
+
+
+artifact repositori creation public void proxi string protocol string host int port string usernam string password string proxi host proxi info info new proxi info info host host info type protocol info port port info non proxi host proxi host info user name usernam info password password proxi put protocol info manag proxi protocol host port usernam password proxi host
+get current activ repositori session get current activ session set current activ session legaci compon basic state api miss paramet would requir deleg stateless compon save session variabl good effort record state requir enabl proper deleg
+method method clone licens clone get addendum inform pertain licens string comment get primari method project may distribut dl dt repo dd may download maven repositori dt manual dd user must manual download instal depend string distribut input locat locat object get full legal name licens string name get offici url licens text string url set addendum inform pertain licens void comment string set primari method project may distribut dl dt repo dd may download maven repositori dt manual dd user must manual download instal depend void distribut string void locat object input locat set full legal name licens void name string set offici url licens text void url string
+
+
+
+inject plugin execut induc lifecycl bind specifi model model alreadi undergo inject plugin manag plugin inject lifecycl bind alreadi present model plugin section need subject model plugin manag
+method method lifecycl void lifecycl lifecycl method lifecycl list lifecycl lifecycl get encod field string model encod method lifecycl void lifecycl lifecycl set lifecycl field void lifecycl list set encod field void model encod string
+
+
+
+
+
+use site plugin x use site plugin x give project packag find plugin bind regist lifecycl project builder need default plugin inform need merg pom build pom builder plugin inform version assign pom builder defin plugin manag complet pass back default configur inform popul need know specif version lookup right version plugin descriptor tell we default configur
+
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method execut execut execut xml pull parser boolean method lifecycl lifecycl lifecycl xml pull parser boolean method lifecycl configur lifecycl configur lifecycl configur xml pull parser boolean method phase phase phase xml pull parser boolean method read lifecycl configur read input stream method read lifecycl configur read input stream boolean lifecycl configur read reader lifecycl configur read reader boolean method read lifecycl configur read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream lifecycl configur method write void write writer lifecycl configur method execut void execut execut string xml serial method lifecycl void lifecycl lifecycl string xml serial method lifecycl configur void lifecycl configur lifecycl configur string xml serial method phase void phase phase string xml serial
+
+
+get identifi lifecycl find
+
+get lifecycl phase find
+
+
+
+
+
+
+
+
+
+send messag user b debug error level send messag accompani except user b debug error level br error stacktrac output error level enabl send except user b debug error level br stack trace except output error level enabl send messag user b error error level send messag accompani except user b error error level br error stacktrac output error level enabl send except user b error error level br stack trace except output error level enabl send messag user b info error level send messag accompani except user b info error level br error stacktrac output error level enabl send except user b info error level br stack trace except output error level enabl send messag user b warn error level send messag accompani except user b warn error level br error stacktrac output error level enabl send except user b warn error level br stack trace except output error level enabl
+
+
+
+
+method method archiv void archiv string method clone mail list clone get link url brows mail list archiv string archiv input locat locat object get name mail list string name method archiv list string archiv get email address link use post mail list email address code mailto link automat creat document creat string post get email address link use subscrib mail list email address code mailto link automat creat document creat string subscrib get email address link use unsubscrib mail list email address code mailto link automat creat document creat string unsubscrib method archiv void archiv string set link url brows mail list archiv void archiv string void locat object input locat set name mail list void name string set link altern ur l brows list archiv void archiv list set email address link use post mail list email address code mailto link automat creat document creat void post string set email address link use subscrib mail list email address code mailto link automat creat document creat void subscrib string set email address link use unsubscrib mail list email address code mailto link automat creat document creat void unsubscrib string
+
+
+
+
+
+deriv path portion give ur decod specifi portion ur note decod assum use convert ur byte charact path util return protocol name e g input code http codehau org method return code http
+
+support painless invoc verifi emb execut core t see emb launcher emb launcher code todo need extern cli request todo need extern cli request probabl separ tool bake maven custom avail via cli configur log system properti handl need make method packag visibl make write unit test possibl mayb good move method separ class
+
+return last execut plan item suppli phase item specifi phase close plan item earli phase item return use remov realli get set mojo use mark safe get set plugin use mark safe
+control link builder use maven specif builder id mirror plugin group profil proxi server get system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl get user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line base directori control link builder use maven specif builder id set parallel degre concurr use build checksum polici goal interact local repositori log offlin reactor recurs realli process po set new list remot repositori use execut request necessari perform transform remot repositori use exampl replac exist repositori mirror easi replac whole list new list transform repositori error time remov properti set system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl transfer listen updat snapshot set user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line
+
+inject default valu like plugin group repositori specifi execut request mave copi valu give set specifi execut request method replac exist valu execut request control set henc expect method call execut request caller mutat fit need copi valu give toolchain specifi execut request method replac exist valu execut request control toolchain henc expect method call execut request caller mutat fit need
+add specifi build summari get build summari specifi project except know artifact miss project build except invalid project model except list marker xmlpull parser except
+
+
+use maven assembl plugin
+todo whether duplic remov look like option gener merger todo order merg list could control attribut model associ todo whether merg continu recurs exist node could option gener merger
+verifi specifi plugin compat current maven runtim look mojo specifi mojo execut popul paramet configur give mojo execut descriptor associ mojo execut provid class realm lookup mojo warn return mojo instanc must releas via link mojo object mojo execut mojo long need free resourc alloc retriev descriptor specifi plugin goal plugin main artifact retriev descriptor specifi plugin main artifact releas specifi mojo back contain set class realm specifi build extens plugin set class realm specifi plugin class realm plugin artifact constitut store plugin descriptor
+
+
+add replac artifact method deprec use maven project helper attach artifact project spite declar ap method never throw except sinc maven x histor log ignor second addit replac file artifact plugin e g shade chang pathnam file particular set coordin warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin test compil sourceroot accessor depend project includ transit one content lazili popul depend phase run depend scope will includ eg compil phase run depend scope test will includ plugin get project class realm class realm host build extens project warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin return context valu project associ give key null project valu direct depend project get depend filter use exclud share extens artifact plugin realm warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin get identifi profil contribut project effect model includ activ profil project pom parent po ms well extern sourc like code set xml profil identifi group identifi sourc e g code id id pom profil code extern profil code set xml todo would like get rid jvz appear use test code return project correspond declar parent get project build request project instanc creat warn util method mean assist integr maven must use maven plugin use maven t todo check file null happen resolv confus root artifact thing like stupid dummi artifact come surefir warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin set scope filter select artifact expos current execut mojo warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin set project class realm warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin set valu context valu project identifi give key suppli valu code null context valu remov project context valu intend allow core extens associ deriv state project instanc set artifact filter use exclud share extens artifact plugin realm warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin deleg model set project code file without chang project code basedir set project build request project instanc creat warn util method mean assist integr maven must use maven plugin use set transit depend artifact project warn intern util method public technic reason part public ap particular method chang delet without prior notic must use plugin default string
+todo use plugin directli use doxia integr tool mpir see doxiasitetool mpi todo todo todo provid project plugin need project execut need valu maven project ideal someth intern noth outsid maven would ever need expos public api
+add resourc directori project add test resourc directori project see link artifact maven project string string file type set null see link artifact maven project string string file classifi set null add replac artifact current project
+
+artifact factori default project builder code take legaci repositori system default project builder default project builder default project builder default project builder default project builder take legaci repositori system check url see repositori refer extern repositori method check pattern match repositori valid pattern everyth extern everyth localhost file base repo repo everyth except check whether layout configur mirror match layout repositori
+creat new servic locat alreadi know servic implement includ librari acquir complet repositori system client need add repositori connector remot transfer creat new maven repositori system session initi session valu typic maven resolut detail method configur set relev process depend graph set remain gener default valu use variou setter configur session authent mirror proxi inform requir environ
+
+provision method may remov backward compat use tycho break user forc upgrad maven realli leav possibl indefinit get system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl get user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line provision method may remov
+
+
+
+return appropri link maven simpl logger instanc name
+reset slf intern state
+
+
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method persist toolchain persist toolchain persist toolchain xml pull parser boolean method toolchain model toolchain model toolchain model xml pull parser boolean method trackabl base trackabl base trackabl base xml pull parser boolean method read persist toolchain read input stream method read persist toolchain read input stream boolean persist toolchain read reader persist toolchain read reader boolean method read persist toolchain read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream persist toolchain method write void write writer persist toolchain method persist toolchain void persist toolchain persist toolchain string xml serial method toolchain model void toolchain model toolchain model string xml serial method trackabl base void trackabl base trackabl base string xml serial
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method activ activ activ xml pull parser boolean method activ file activ file activ file xml pull parser boolean method activ activ os activ xml pull parser boolean method activ properti activ properti activ properti xml pull parser boolean method build build build xml pull parser boolean method build base build base build base xml pull parser boolean method ci manag ci manag ci manag xml pull parser boolean method configur contain configur contain configur contain xml pull parser boolean method contributor contributor contributor xml pull parser boolean method depend depend depend xml pull parser boolean method depend manag depend manag depend manag xml pull parser boolean method deploy repositori deploy repositori deploy repositori xml pull parser boolean method develop develop develop xml pull parser boolean method distribut manag distribut manag distribut manag xml pull parser boolean method exclus exclus exclus xml pull parser boolean method extens extens extens xml pull parser boolean method file set file set file set xml pull parser boolean method issu manag issu manag issu manag xml pull parser boolean method licens licens licens xml pull parser boolean method mail list mail list mail list xml pull parser boolean method model model model xml pull parser boolean method model base model base model base xml pull parser boolean method notifi notifi notifi xml pull parser boolean method organ organ organ xml pull parser boolean method parent parent parent xml pull parser boolean method pattern set pattern set pattern set xml pull parser boolean method plugin plugin plugin xml pull parser boolean method plugin configur plugin configur plugin configur xml pull parser boolean method plugin contain plugin contain plugin contain xml pull parser boolean method plugin execut plugin execut plugin execut xml pull parser boolean method plugin manag plugin manag plugin manag xml pull parser boolean method prerequisit prerequisit prerequisit xml pull parser boolean method profil profil profil xml pull parser boolean method reloc reloc reloc xml pull parser boolean method report plugin report plugin report plugin xml pull parser boolean method report set report set report set xml pull parser boolean method report report report xml pull parser boolean method repositori repositori repositori xml pull parser boolean method repositori base repositori base repositori base xml pull parser boolean method repositori polici repositori polici repositori polici xml pull parser boolean method resourc resourc resourc xml pull parser boolean method scm scm scm xml pull parser boolean method site site site xml pull parser boolean method read model read input stream method read model read input stream boolean model read reader model read reader boolean method read model read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method activ activ activ xml pull parser boolean input sourc method activ file activ file activ file xml pull parser boolean input sourc method activ activ os activ xml pull parser boolean input sourc method activ properti activ properti activ properti xml pull parser boolean input sourc method build build build xml pull parser boolean input sourc method build base build base build base xml pull parser boolean input sourc method ci manag ci manag ci manag xml pull parser boolean input sourc method configur contain configur contain configur contain xml pull parser boolean input sourc method contributor contributor contributor xml pull parser boolean input sourc method depend depend depend xml pull parser boolean input sourc method depend manag depend manag depend manag xml pull parser boolean input sourc method deploy repositori deploy repositori deploy repositori xml pull parser boolean input sourc method develop develop develop xml pull parser boolean input sourc method distribut manag distribut manag distribut manag xml pull parser boolean input sourc method exclus exclus exclus xml pull parser boolean input sourc method extens extens extens xml pull parser boolean input sourc method file set file set file set xml pull parser boolean input sourc method issu manag issu manag issu manag xml pull parser boolean input sourc method licens licens licens xml pull parser boolean input sourc method mail list mail list mail list xml pull parser boolean input sourc method model model model xml pull parser boolean input sourc method model base model base model base xml pull parser boolean input sourc method notifi notifi notifi xml pull parser boolean input sourc method organ organ organ xml pull parser boolean input sourc method parent parent parent xml pull parser boolean input sourc method pattern set pattern set pattern set xml pull parser boolean input sourc method plugin plugin plugin xml pull parser boolean input sourc method plugin configur plugin configur plugin configur xml pull parser boolean input sourc method plugin contain plugin contain plugin contain xml pull parser boolean input sourc method plugin execut plugin execut plugin execut xml pull parser boolean input sourc method plugin manag plugin manag plugin manag xml pull parser boolean input sourc method prerequisit prerequisit prerequisit xml pull parser boolean input sourc method profil profil profil xml pull parser boolean input sourc method reloc reloc reloc xml pull parser boolean input sourc method report plugin report plugin report plugin xml pull parser boolean input sourc method report set report set report set xml pull parser boolean input sourc method report report report xml pull parser boolean input sourc method repositori repositori repositori xml pull parser boolean input sourc method repositori base repositori base repositori base xml pull parser boolean input sourc method repositori polici repositori polici repositori polici xml pull parser boolean input sourc method resourc resourc resourc xml pull parser boolean input sourc method scm scm scm xml pull parser boolean input sourc method site site site xml pull parser boolean input sourc method read model read input stream boolean input sourc model read reader boolean input sourc method read model read xml pull parser boolean input sourc set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream model method write void write writer model method activ void activ activ string xml serial method activ file void activ file activ file string xml serial method activ void activ activ string xml serial method activ properti void activ properti activ properti string xml serial method build void build build string xml serial method build base void build base build base string xml serial method ci manag void ci manag ci manag string xml serial method configur contain void configur contain configur contain string xml serial method contributor void contributor contributor string xml serial method depend void depend depend string xml serial method depend manag void depend manag depend manag string xml serial method deploy repositori void deploy repositori deploy repositori string xml serial method develop void develop develop string xml serial method distribut manag void distribut manag distribut manag string xml serial method exclus void exclus exclus string xml serial method extens void extens extens string xml serial method file set void file set file set string xml serial method issu manag void issu manag issu manag string xml serial method licens void licens licens string xml serial method mail list void mail list mail list string xml serial method model void model model string xml serial method model base void model base model base string xml serial method notifi void notifi notifi string xml serial method organ void organ organ string xml serial method parent void parent parent string xml serial method pattern set void pattern set pattern set string xml serial method plugin void plugin plugin string xml serial method plugin configur void plugin configur plugin configur string xml serial method plugin contain void plugin contain plugin contain string xml serial method plugin execut void plugin execut plugin execut string xml serial method plugin manag void plugin manag plugin manag string xml serial method prerequisit void prerequisit prerequisit string xml serial method profil void profil profil string xml serial method reloc void reloc reloc string xml serial method report plugin void report plugin report plugin string xml serial method report set void report set report set string xml serial method report void report report string xml serial method repositori void repositori repositori string xml serial method repositori base void repositori base repositori base string xml serial method repositori polici void repositori polici repositori polici string xml serial method resourc void resourc resourc string xml serial method scm void scm scm string xml serial method site void site site string xml serial
+method method plugin void plugin plugin method clone metadata clone get id directori repres string artifact id get id directori repres string group id get encod field string model encod get version underli metadata model string model version method plugin list plugin plugin get version directori repres use artifact snapshot string version get version inform artifact version version method plugin void plugin plugin set id directori repres void artifact id string set id directori repres void group id string set encod field void model encod string set version underli metadata model void model version string set set plugin map group repres directori void plugin list set version directori repres use artifact snapshot void version string set version inform artifact void version version
+
+init graph
+use elimin exact duplic edg list helper equal
+
+
+
+get index column contain error get index line contain error
+read metadata specifi file read metadata specifi byte stream stream automat close method return read metadata specifi charact reader reader automat close method return
+
+
+get artifact resolv metadata get local repositori use resolut get remot repositori use resolut indic whether network access remot repositori disabl determin whether manag version inform retriev set artifact resolv metadata set local repositori use resolut enabl network access remot repositori set remot repositori use resolut enabl resolut depend manag inform
+
+
+
+
+
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method metadata metadata metadata xml pull parser boolean method plugin plugin plugin xml pull parser boolean method snapshot snapshot snapshot xml pull parser boolean method snapshot version snapshot version snapshot version xml pull parser boolean method version version version xml pull parser boolean method read metadata read input stream method read metadata read input stream boolean metadata read reader metadata read reader boolean method read metadata read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream metadata method write void write writer metadata method metadata void metadata metadata string xml serial method plugin void plugin plugin string xml serial method snapshot void snapshot snapshot string xml serial method snapshot version void snapshot version snapshot version string xml serial method version void version version string xml serial
+method method clone mirror clone get layout mirror repositori sinc maven string layout get server id repositori mirror e g central must match mirror id string mirror get layout repositori mirror valu use restrict usag mirror repositori match layout apart match id sinc maven string mirror layout get option name describ mirror string name get url mirror repositori string url set layout mirror repositori sinc maven void layout string set server id repositori mirror e g central must match mirror id void mirror string set layout repositori mirror valu use restrict usag mirror repositori match layout apart match id sinc maven void mirror layout string set option name describ mirror void name string set url mirror repositori void url string
+determin mirror specifi repositori
+
+
+
+
+method method contributor void contributor contributor method develop void develop develop method licens void licens licens method mail list void mail list mail list method profil void profil profil method clone model clone get identifi artifact uniqu within group give group artifact someth either produc use project exampl artifact produc maven project includ ja rs sourc binari distribut wa rs string artifact id get inform requir build project build build get project continu integr inform ci manag ci manag method contributor list contributor contributor get detail descript project use maven whenev need describ project web site element specifi cda enabl use html tag within descript discourag allow plain text represent need modifi index page gener web site abl specifi instead adjust text string descript method develop list develop develop get univers uniqu identifi project normal use packag name distinguish project similar name eg code org apach maven string group id get year project incept specifi digit valu use gener copyright notic well inform string incept year get project issu manag system inform issu manag issu manag method licen list licens licen method mail list list mail list mail list get encod field string model encod get declar version project descriptor pom conform string model version get full name project string name get element describ variou attribut organ project belong attribut util document creat copyright notic link organ organ get type artifact project produc exampl code jar code war code ear code pom plugin creat packag therefor packag type list contain possibl type string packag get locat parent project one exist valu parent project default project leav unspecifi locat give group artifact id version parent parent get pom file correspond project get describ prerequisit build environ project prerequisit prerequisit method profil list profil profil get base directori correspond project get specif scm use project cv subvers etc scm scm get url project homepag default valu parent valu path adjust id code project directori properti string url get current version artifact produc project string version method contributor void contributor contributor method develop void develop develop method licens void licens licens method mail list void mail list mail list method profil void profil profil set identifi artifact uniqu within group give group artifact someth either produc use project exampl artifact produc maven project includ ja rs sourc binari distribut wa rs void artifact id string set inform requir build project void build build set project continu integr inform void ci manag ci manag set describ contributor project yet committ void contributor list set detail descript project use maven whenev need describ project web site element specifi cda enabl use html tag within descript discourag allow plain text represent need modifi index page gener web site abl specifi instead adjust text void descript string set describ committ project void develop list set univers uniqu identifi project normal use packag name distinguish project similar name eg code org apach maven void group id string set year project incept specifi digit valu use gener copyright notic well inform void incept year string set project issu manag system inform void issu manag issu manag set element describ licen project licens describ code licens element describ addit element project list licens appli project licen appli depend multipl licen list assum user select must accept void licen list set contain inform project mail list void mail list list set encod field void model encod string set declar version project descriptor pom conform void model version string set full name project void name string set element describ variou attribut organ project belong attribut util document creat copyright notic link void organ organ set type artifact project produc exampl code jar code war code ear code pom plugin creat packag therefor packag type list contain possibl type void packag string set locat parent project one exist valu parent project default project leav unspecifi locat give group artifact id version void parent parent set describ prerequisit build environ project void prerequisit prerequisit set list build profil modifi build process activ void profil list set specif scm use project cv subvers etc void scm scm set url project homepag default valu parent valu path adjust id code project directori properti void url string set current version artifact produc project void version string
+method method depend void depend depend method modul void modul string method plugin repositori void plugin repositori repositori method properti void properti string string method repositori void repositori repositori method clone model base clone method depend list depend depend get default depend inform project inherit one depend section immedi resolv instead pom deriv one declar depend describ match id id version valu section use depend alreadi specifi depend manag depend manag get distribut inform project enabl deploy site artifact remot web server repositori respect distribut manag distribut manag input locat locat object method modul list string modul method plugin repositori list repositori plugin repositori method properti properti properti get element includ specif report plugin use gener report maven site report run user execut code mvn site report includ navig bar brows report report get deprec ignor maven object report method repositori list repositori repositori method depend void depend depend method modul void modul string method plugin repositori void plugin repositori repositori method repositori void repositori repositori set element describ depend associ project depend use construct classpath project build process automat download repositori defin project see http apach html depend mechan inform void depend list set default depend inform project inherit one depend section immedi resolv instead pom deriv one declar depend describ match id id version valu section use depend alreadi specifi void depend manag depend manag set distribut inform project enabl deploy site artifact remot web server repositori respect void distribut manag distribut manag void locat object input locat set modul sometim call subproject build part project modul list rel path directori contain modul consist way default url calcul parent recommend modul name match artifact id void modul list set list remot repositori discov plugin build report void plugin repositori list set properti use throughout pom substitut use filter resourc enabl format code lt name gt valu lt gt void properti properti set element includ specif report plugin use gener report maven site report run user execut code mvn site report includ navig bar brows void report report set deprec ignor maven void report object set list remot repositori discov depend extens void repositori list
+build effect model specifi po build effect model complet specifi interim result produc previou call link model build request link model build request two phase build code true model build request pass method must one use first phase model build perform part link model builder model build request load raw model
+get model build precis state model depend event fire get contain use collect problem encount process event get model build request process
+assist fire event gener method abstract actual callback method call listen notifi specifi listen give event
+get model could build properli get identifi pom whose effect model could build gener format identifi code id id coordin may still unknown point except throw inform mere mean assist user get problem caus except get interim result model build point fail
+notifi listen model construct extent build extens process
+get identifi profil activ explicit demand get start time build get identifi profil deactiv explicit demand get model build listen notifi build process get model cach use reus previous build model get model resolv use resolut mixin parent local reachabl project directori get sourc pom process get pom file project build get extern profil consid model build get raw model build set model sourc use load raw model get system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl get user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line get level valid perform process model indic whether model track number model sourc pars indic whether plugin execut configur process enabl plugin execut inject model common plugin configur propag individu execut indic whether model build happen two phase enabl initi invoc model builder produc interim result may use analyz depend final invoc model builder perform set identifi profil activ explicit demand set start time build set identifi profil deactiv explicit demand enabl track number model sourc pars default input locat track set model build listen notifi build process set model cach use reus previous build model option compon serv perform optim set model resolv use resolut mixin parent local reachabl project directori set sourc pom process eventu either link model sourc model sourc link pom file file must set set pom file project build note provid path pom file via method make model builder oper project mode mode mean effect model employ build process local project henc effect model support notion project directori build model pom repositori use link model sourc model sourc combin link file model sourc instead control process plugin execut configur set extern profil consid model build set raw model set system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl enabl build enabl initi invoc model builder produc interim result may use analyz depend final invoc model builder perform set user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line set level valid perform process model build project link validatio leve stric use ensur proper build mere retriev depend artifact resolut link validatio leve minima use account model poor qualiti default model valid strict mode
+get extern profil activ model build extern profil contribut link model build request profil get profil specifi model activ model build model identifi collect obtain link model id special case empti string use identifi super po get assembl model get sequenc model identifi denot lineag model effect model construct model identifi form code id id first identifi list denot model model builder origin invok last identifi alway empti string definit denot super po get problem encount model build note problem sever link model problem sever warnin report problem high sever level caus model builder fail link model build except get raw model read input model sourc apart basic valid raw model undergo updat model builder e g reflect neither inherit interpol get specifi raw model read model sourc apart basic valid raw model undergo updat model builder e g reflect neither inherit interpol model identifi collect obtain link model id special case empti string use identifi super po
+get specifi datum cach put specifi datum cach
+creat copi datum suitabl retriev cach retriev datum mutat cach queri state cach must chang need make copi get name tag get type datum associ tag creat copi datum suitabl storag cach origin datum store mutat cach popul state cach must chang need make copi
+get activ profil model get effect artifact identifi model get effect group identifi model get effect identifi model form code id id get model wrap get raw model wrap get effect version model set activ profil model set effect artifact identifi model set effect group identifi model set model wrap set raw model wrap set effect version model
+
+
+interpol express specifi model note implement free either interpol provid model directli creat clone model interpol clone caller alway use return model must reli input model updat
+locat pom file within specifi project directori case give project directori exist contain pom file return valu indic expect path pom file sub directori project directori consid locat pom file return valu absolut path project directori give absolut path
+merg specifi sourc object give target object
+set default valu specifi model technic reason set directli modello definit merg duplic element like multipl declar build plugin specifi model
+get index column contain error get index line contain error
+resolv path specifi model give base directori path within plugin configur process
+get index column contain problem column number refer text file give link sourc get except caus problem get index line contain problem line number refer text file give link sourc get messag describ problem get identifi model problem origin gener form identifi id id return identifi need complet identifi deriv inform avail point problem occur mere serv good effort provid inform user track problem back origin get sever level problem get hint sourc problem syntax hint unspecifi depend creator problem gener expect hint provid suffici inform user track problem back origin concret exampl sourc hint file path url pom read get applic maven level problem
+add specifi problem
+collect problem
+
+creat string locat detail specifi model problem project identifi provid gener locat omit model id sourc inform give inform problem origin directli po creat artifact id specifi coordin creat sourc hint specifi model
+
+read model specifi file read model specifi byte stream stream automat close method return read model specifi charact reader reader automat close method return
+add repositori use subsequ resolut request order repositori add matter repositori add first also search first multipl repositori identifi add first repositori add use add repositori use subsequ resolut request order repositori add matter repositori add first also search first multipl repositori identifi add valu replac argument determin behaviour replac fals exist repositori id remain use replac true new repositori replac origin clone resolv usag fork resolut process gener implementor need provid deep clone requir invoc link repositori repositori clone affect state origin resolv vice versa tri resolv pom specifi coordin tri resolv pom specifi depend coordin possibl updat code depend p unlik link model string string string method method support version rang updat give code depend instanc match return code model sourc code depend declar version rang version correspond return code model sourc set give code depend tri resolv pom specifi parent coordin possibl updat code parent p unlik link model string string string method method support version rang updat give code parent instanc match return code model sourc code parent declar version rang version correspond return code model sourc set give code parent
+
+return locat po never code null return model sourc identifi path rel model sourc po implement mu abl accept path paramet valu ul li use either file path separ li parent directori refer li point either file directori latter case pom file name xml need use request model sourc
+normal ur l specifi model
+result order plugin merg p give pre parent x gt gt b gt gt e child gt gt c gt gt f result pre x gt gt gt b gt c gt gt e gt f
+
+check specifi effect model miss invalid valu effect model fulli assembl undergo inherit interpol model oper check specifi raw model miss invalid valu raw model directli creat pom file subject inherit interpol inject
+write suppli model specifi file parent directori output file creat automat write suppli model specifi byte stream stream automat close method return write suppli model specifi charact writer writer automat close method return
+perform whatev behavior mojo implement br main trigger mojo insid maven system allow mojo commun error furnish access standard maven log mechan manag base class inject standard maven log mechan allow mojo commun event feedback user todo sure may want log
+creat shallow copi mojo descriptor doc doc get scope transit depend collect depend collect refer process calcul complet depend tree term artifact coordin contrast depend resolut includ download file depend artifact mean mojo want analyz set transit depend particular earli lifecycl phase full depend resolut might fail due project build yet doc doc doc blech even intellig method name provid consist method keep code clean depend requir onlin vs offlin requir project requir
+todo take repo man account one may aggreg prefix mani todo collect root repositori read one root fetch remot someth miss user forc issu id
+get sourc execut
+creat mojo execut configur base configur mojo maven project default configur mojo contain plugin plugin xml descriptor
+
+
+
+
+
+
+
+
+
+
+
+
+
+artifact could resolv artifact could resolv
+conflict resolv method see conflict resolv conflict resolut node resolut node
+conflict resolv method see conflict resolv conflict resolut node resolut node
+
+
+method method configur void configur string string method clone notifi clone get deprec send notif eg email address string address method configur properti configur input locat locat object get mechan use deliv notif string type get whether send notif error boolean send error get whether send notif failur boolean send failur get whether send notif success boolean send success get whether send notif warn boolean send warn set deprec send notif eg email address void address string set extend configur specif notifi go void configur properti void locat object input locat set whether send notif error void send error boolean set whether send notif failur void send failur boolean set whether send notif success void send success boolean set whether send notif warn void send warn boolean set mechan use deliv notif void type string
+conflict resolv method see conflict resolv conflict resolut node resolut node
+
+
+method method clone organ clone input locat locat object get full name organ string name get url organ home page string url void locat object input locat set full name organ void name string set url organ home page void url string
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method express express express xml pull parser boolean method express document express document express document xml pull parser boolean method read express document read input stream method read express document read input stream boolean express document read reader express document read reader boolean method read express document read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream express document method write void write writer express document method express void express express string xml serial method express document void express document express document string xml serial
+creat shallow copi paramet
+method method clone parent clone get artifact id parent project inherit string artifact id get group id parent project inherit string group id input locat locat object get rel path parent code pom xml file within check specifi default code xml maven look parent pom first locat filesystem local repositori lastli remot repo path allow select differ locat exampl structur flat deep without intermedi parent po howev group artifact id version still requir must match file locat give revert repositori po featur enhanc develop local checkout project set valu empti string case want disabl featur alway resolv parent pom repositori string rel path get version parent project inherit string version set artifact id parent project inherit void artifact id string set group id parent project inherit void group id string void locat object input locat set rel path parent code pom xml file within check specifi default code xml maven look parent pom first locat filesystem local repositori lastli remot repo path allow select differ locat exampl structur flat deep without intermedi parent po howev group artifact id version still requir must match file locat give revert repositori po featur enhanc develop local checkout project set valu empti string case want disabl featur alway resolv parent pom repositori void rel path string set version parent project inherit void version string
+
+
+method method exclud void exclud string method includ void includ string method clone pattern set clone method exclud list string exclud method includ list string includ input locat locat object method exclud void exclud string method includ void includ string set list pattern exclud e g code xml void exclud list set list pattern includ e g code xml void includ list void locat object input locat
+
+method method toolchain void toolchain toolchain model method clone persist toolchain clone get encod field string model encod method toolchain list toolchain model toolchain method toolchain void toolchain toolchain model set encod field void model encod string set toolchain instanc definit void toolchain list
+method method execut void execut execut get configur pass goal run phase object configur method execut list execut execut get id phase e g code string id method execut void execut execut set configur pass goal run phase void configur object set goal execut within phase void execut list set id phase e g code void id string
+
+
+method method clone plugin clone get plugin id string artifact id get display name plugin string name get plugin invoc prefix e eclips eclips eclips string prefix set plugin id void artifact id string set display name plugin void name string set plugin invoc prefix e eclips eclips eclips void prefix string
+
+regist specifi cach record usag give project integr use inform collect method combin custom cach implement dispos unus record cach
+method method clone plugin configur clone get default plugin inform make avail refer project deriv one plugin configur resolv bind lifecycl unless refer local configur give plugin overrid plugin entir definit plugin manag plugin manag set default plugin inform make avail refer project deriv one plugin configur resolv bind lifecycl unless refer local configur give plugin overrid plugin entir definit void plugin manag plugin manag
+
+merg valu gener build plugin configur individu plugin execut give model
+method method plugin void plugin plugin method clone plugin contain clone reset map field code null input locat locat object method plugin list plugin plugin method plugin void plugin plugin void locat object input locat set list plugin use void plugin list
+
+resolv main artifact specifi plugin resolv runtim depend specifi plugin
+
+creat shallow copi plugin descriptor depend map artifact access key e id id get artifact make plugin class realm exclud artifact shadow maven core realm like code pars todo move default
+
+
+
+method method goal void goal string method clone plugin execut clone method goal list string goal get identifi execut label goal build match execut merg inherit profil inject string id get build lifecycl phase bind goal execut omit goal bind default phase specifi plugin string phase get prioriti execut compar execut bind phase warn intern util properti public technic reason part public ap particular properti chang delet without prior notic int prioriti method goal void goal string set goal execut give configur void goal list set identifi execut label goal build match execut merg inherit profil inject void id string set build lifecycl phase bind goal execut omit goal bind default phase specifi plugin void phase string set prioriti execut compar execut bind phase warn intern util properti public technic reason part public ap particular properti chang delet without prior notic void prioriti int
+
+
+
+method method clone plugin manag clone
+merg default valu plugin manag section give model
+
+
+
+
+
+get list group id scan plugin prefix get pom whose build plugin scan prefix get prefix plugin get remot repositori use get session use repositori access set list group id scan plugin prefix set pom whose build plugin scan prefix set prefix plugin set remot repositori use note creat request project sure use plugin repositori regular project repositori set session use repositori access
+resolv plugin prefix specifi request
+
+resolv artifact id plugin resolv group id plugin repositori plugin prefix resolv
+regist specifi cach record usag give project integr use inform collect method combin custom cach implement dispos unus record cach
+
+
+get artifact id plugin get group id plugin get pom whose build plugin scan version get remot repositori use get session use repositori access set artifact id plugin set group id plugin set pom whose build plugin scan version set remot repositori use note creat request project sure use plugin repositori regular project repositori set session use repositori access
+
+resolv version specifi request
+
+repositori plugin version resolv resolv plugin version
+method method clone prerequisit clone input locat locat object get plugin project packag code minimum version maven requir use result plugin br maven also specifi minimum version maven requir build project usag b deprec maven check use maven version maven enforc plugin maven version rule instead string maven void locat object input locat set plugin project packag code minimum version maven requir use result plugin br maven also specifi minimum version maven requir build project usag b deprec maven check use maven version maven enforc plugin maven version rule instead void maven string
+get index column contain problem column number refer text file give link sourc get except caus problem get index line contain problem line number refer text file give link sourc get locat problem locat combin valu link sourc link line number link column number exact syntax return valu undefin get messag describ problem get sever level problem get hint sourc problem syntax hint unspecifi depend creator problem gener expect hint provid suffici inform user track problem back origin concret exampl sourc hint file path url set read
+add specifi problem either messag except requir next messag bind sourc call method previou messag keep sourc next messag use new sourc
+default implement visibl creat factori
+
+method method plugin repositori void plugin repositori repositori method properti void properti string string method repositori void repositori repositori method clone profil clone get condit logic automat trigger inclus profil activ activ method plugin repositori list repositori plugin repositori method properti properti properti method repositori list repositori repositori method plugin repositori void plugin repositori repositori method repositori void repositori repositori set condit logic automat trigger inclus profil void activ activ set list remot repositori discov plugin void plugin repositori list set extend configur specif profil go content take form code lt properti name gt properti valu lt name gt void properti properti set list remot repositori void repositori list
+get identifi profil activ explicit demand get identifi profil deactiv explicit demand get base directori current project get current calcul project properti get system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl get user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line
+
+determin whether specifi profil activ give activ context determin whether specifi activ method present configur help activ condit need solv mn
+merg valu specifi profil give model implement expect keep profil model complet decoupl inject deep copi rather origin object profil
+
+determin profil activ specifi activ context activ profil eventu inject model
+
+method method activ profil void activ profil string method profil void profil profil method activ profil list string activ profil get encod field string model encod method profil list profil profil method activ profil void activ profil string method profil void profil profil set list build profil specifi order appli void activ profil list set encod field void model encod string set configur build profil adjust build accord environment paramet void profil list
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method activ activ activ xml pull parser boolean method activ file activ file activ file xml pull parser boolean method activ activ os activ xml pull parser boolean method activ properti activ properti activ properti xml pull parser boolean method profil profil profil xml pull parser boolean method profil root profil root profil root xml pull parser boolean method repositori repositori repositori xml pull parser boolean method repositori base repositori base repositori base xml pull parser boolean method repositori polici repositori polici repositori polici xml pull parser boolean method read profil root read input stream method read profil root read input stream boolean profil root read reader profil root read reader boolean method read profil root read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream profil root method write void write writer profil root method activ void activ activ string xml serial method activ file void activ file activ file string xml serial method activ void activ activ string xml serial method activ properti void activ properti activ properti string xml serial method profil void profil profil string xml serial method profil root void profil root profil root string xml serial method repositori void repositori repositori string xml serial method repositori base void repositori base repositori base string xml serial method repositori polici void repositori polici repositori polici string xml serial
+
+
+
+regist specifi cach record usag give project integr use inform collect method combin custom cach implement dispos unus record cach
+
+find first project segment match suppli project todo optim mayb rewrit whole way aggreg mojo run return project build list contain item specifi segment
+build project descriptor specifi pom file build project specifi pom file option child build project descriptor specifi artifact build project descriptor specifi artifact build project descriptor specifi model sourc
+
+
+creat effect artifact repositori specifi pom repositori creat project realm host build extens specifi model updat context class loader contain search project realm model builder inject lifecycl bind packag next step context class loader reset project builder project fulli assembl
+add link profil come extern sourc may custom configur like maven cli set xml file custom dialog ide integr like eclips get start time build get merg mode use combin repositori declar pom repositori specifi request get system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl get user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line get level valid perform process model profil set activ profil link project builder consid construct link maven project set start time build set merg mode use combin repositori declar pom repositori specifi request set system properti use interpol profil activ system properti collect runtim environ like link system properti environ variabl set user properti use interpol profil activ user properti configur directli user discret e g via code dkey paramet command line control level valid perform process model default model valid strict mode
+get result depend resolut project get pom file project build get problem encount project build get project build get identifi project could build gener format identifi code id id coordin may still unknown point except throw inform mere mean assist user
+
+resolv transit depend project
+
+get collect project get downstream project specifi project downstream project project directli indirectli depend give project get project intend build order e topolog sort project accord get upstream project specifi project upstream project project directli indirectli prerequisit give project
+probabl move separ stub
+
+
+
+
+regist specifi cach record usag give project integr use inform collect method combin custom cach implement dispos unus record cach
+
+todo jc check use aggreg task result weird
+
+
+method method clone proxi clone get proxi host string host get list host delimit string non proxi host get proxi password string password get proxi port int port get proxi protocol string protocol get proxi user string usernam get whether proxi configur activ one boolean activ set whether proxi configur activ one void activ boolean set proxi host void host string set list host delimit void non proxi host string set proxi password void password string set proxi port void port int set proxi protocol void protocol string set proxi user void usernam string
+
+
+
+
+
+
+implement tri resolv specifi artifact artifact give project public api determin whether specifi artifact refer test class
+
+
+
+method method clone reloc clone get new artifact id artifact string artifact id get group id artifact move string group id input locat locat object get addit messag show user move reason string messag get new version artifact string version set new artifact id artifact void artifact id string set group id artifact move void group id string void locat object input locat set addit messag show user move reason void messag string set new version artifact void version string
+
+
+merg valu gener report plugin configur individu report set give model
+method method report set void report set report set method clone report plugin clone reset set map field code null get artifact id report plugin repositori string artifact id get group id report plugin repositori string group id method report set list report set report set get version report plugin use string version method report set void report set report set set artifact id report plugin repositori void artifact id string set group id report plugin repositori void group id string set multipl specif set report possibl differ configur report parallel code execut build void report set list set version report plugin use void version string
+method method report void report string method clone report set clone get uniqu id report set use pom inherit profil inject merg report set string id method report list string report method report void report string set uniqu id report set use pom inherit profil inject merg report set void id string set list report plugin gener set void report list
+method method plugin void plugin report plugin method clone report clone reset plugin map field code null get true default report includ site gener includ report project info menu note type field string technic reason semant type actual boolean default valu code fals string exclud default input locat locat object get store gener report default code project build directori string output directori method plugin list report plugin plugin method plugin void plugin report plugin set true default report includ site gener includ report project info menu note type field string technic reason semant type actual boolean default valu code fals void exclud default string void locat object input locat set store gener report default code project build directori void output directori string set report plugin use configur void plugin list
+convert valu model report section configur maven site plugin x
+method method clone repositori clone get handl download releas repositori repositori polici releas get handl download snapshot repositori repositori polici snapshot set handl download releas repositori void releas repositori polici set handl download snapshot repositori void snapshot repositori polici
+method method clone repositori base clone get uniqu identifi repositori string id get type layout repositori use locat store artifact legaci default string layout get human readabl name repositori string name get url repositori string url set uniqu identifi repositori void id string set type layout repositori use locat store artifact legaci default void layout string set human readabl name repositori void name string set url repositori void url string
+get specifi datum cach warn cach directli return save refer cach datum modifi retriev caller respons creat copi return datum use instead cach record put specifi datum cach warn cach directli save provid refer cach datum mutabl e could modifi put cach caller respons creat copi origin datum store copi cach
+get repositori metadata associ marker get artifact qualiti metadata refer one link relea link snapsho link relea snapsho get polici appli metadata regard specifi repositori get repositori metadata locat whether repres snapshot set metadata content set repositori metadata locat
+
+
+deploy metadata remot repositori instal metadata local repositori
+
+
+
+method method clone repositori polici clone get verif artifact checksum fail warn fail etc valid valu fail warn string checksum polici get frequenc download updat alway daili default xx minut never exist local string updat polici get whether use repositori download type artifact boolean enabl set verif artifact checksum fail warn fail etc valid valu fail warn void checksum polici string set whether use repositori download type artifact void enabl boolean set frequenc download updat alway daili default xx minut never exist local void updat polici string
+get local repositori use get remot repositori use indic whether remot repositori updat regardless configur updat polici indic whether network access remot repositori disabl enabl forc check updat remot repositori set local repositori use enabl network access remot repositori set remot repositori use
+return possibl code null aether repositori system session use resolv project depend
+calcul effect repositori give input repositori assum alreadi mirror applic process essenti remov duplic repositori merg one equival repositori worth point merg simpli choos one input repositori discard other actual combin possibl differ polici determin mirror specifi repositori inject authent inform specifi repositori repositori match server credenti updat match valu server specif repositori without match server credenti clear note method must call link mirror list list repositori end wrong credenti inject mirror inform specifi repositori repositori match mirror url id updat match valu mirror specif repositori without match mirror pass unchang note method must call link authent list list repositori end wrong credenti inject proxi inform specifi repositori repositori match proxi proxi datum set accordingli repositori without match proxi proxi clear note method must call link mirror list list repositori end wrong proxi instal deploy map type artifact raw file transfer
+
+creat shallow copi requir
+
+
+
+
+todo use follow two instead artifact todo remov resolut listen dm interfac void artifact version artifact artifact artifact replac void artifact scope artifact artifact artifact replac event mean scope updat far node scope current node first level pom
+
+test whether node direct transit depend
+method method clone resourc clone get whether resourc filter replac token parameteris valu valu take code properti element properti file list code filter element note type field string technic reason semant type actual boolean default valu code fals string filter get intern use onl uniqu identifi assign resourc allow maven merg chang resourc take place execut plugin field must manag gener parser formatt class order allow surviv model interpol string merg id get describ resourc target path path rel directori e directori exampl want resourc appear specif packag code org apach maven messag must specifi element valu code requir simpli put resourc directori structur sourc howev string target path set whether resourc filter replac token parameteris valu valu take code properti element properti file list code filter element note type field string technic reason semant type actual boolean default valu code fals void filter string set intern use onl uniqu identifi assign resourc allow maven merg chang resourc take place execut plugin field must manag gener parser formatt class order allow surviv model interpol void merg id string set describ resourc target path path rel directori e directori exampl want resourc appear specif packag code org apach maven messag must specifi element valu code requir simpli put resourc directori structur sourc howev void target path string
+
+new result consist give result new problem conveni result problem new result includ give error problem describ caus error partial result problem describ caus helper determin problem contain error new result determin whether error success check problem error turn give result singl result combin problem model singl collect success without warn success warn success warn
+
+retriev current maven version exampl check whether current maven runtim match specifi version rang version rang either use usual mathemat syntax use singl version latter short form e denot minimum version requir
+method method clone scm clone get sourc control manag system url describ repositori connect repositori inform see url format http apach html list support sc ms connect default valu parent valu path adjust id code project directori properti string connect get like code connect develop e scm connect read default valu parent valu path adjust id code project directori properti string develop connect input locat locat object get tag current code default set head develop string tag get url project browsabl scm repositori view vc fishey default valu parent valu path adjust id code project directori properti string url set sourc control manag system url describ repositori connect repositori inform see url format http apach html list support sc ms connect default valu parent valu path adjust id code project directori properti void connect string set like code connect develop e scm connect read default valu parent valu path adjust id code project directori properti void develop connect string void locat object input locat set tag current code default set head develop void tag string set url project browsabl scm repositori view vc fishey default valu parent valu path adjust id code project directori properti void url string
+
+method method clone server clone get extra configur transport layer object configur get permiss directori creat string directori permiss get permiss file creat string file permiss get passphras use conjunct key authent string passphras get password use conjunct usernam authent string password get privat key locat use authent string privat key get usernam use authent string usernam set extra configur transport layer void configur object set permiss directori creat void directori permiss string set permiss file creat void file permiss string set passphras use conjunct key authent void passphras string set password use conjunct usernam authent void password string set privat key locat use authent void privat key string set usernam use authent void usernam string
+
+
+
+method method activ profil void activ profil string method mirror void mirror mirror method plugin group void plugin group string method profil void profil profil method proxi void proxi proxi method server void server server method clone set clone reset proxi field code null reset map field code null method activ profil list string activ profil get local default valu tt user home string local repositori method mirror list mirror mirror get encod field string model encod method plugin group list string plugin group method profil list profil profil method proxi list proxi proxi method server list server server get whether maven attempt interact user input boolean interact mode get indic whether maven oper offlin mode boolean offlin get whether maven use xml file manag plugin version boolean use plugin registri method activ profil void activ profil string method mirror void mirror mirror method plugin group void plugin group string method profil void profil profil method proxi void proxi proxi method server void server server set list build profil specifi order appli void activ profil list set whether maven attempt interact user input void interact mode boolean set local default valu tt user home void local repositori string set configur download mirror repositori void mirror list set encod field void model encod string set indic whether maven oper offlin mode void offlin boolean set list id search plugin plugin id explicitli provid void plugin group list set configur build profil adjust build accord environment paramet void profil list set configur differ proxi profil multipl proxi profil might come handi anyon work notebook mobil platform enabl easi switch entir proxi configur simpli specifi profil id either command line default section void proxi list set configur set mainli authent method allow configur authent basi void server list set whether maven use xml file manag plugin version void use plugin registri boolean
+
+build effect set specifi set file
+get problem caus except
+get global set file get global set sourc get system properti use interpol system properti collect runtim environ like link system properti environ variabl get user properti use interpol user properti configur directli user discret e g via code dkey paramet command line get user set file get user set sourc set global set file set file equival empti set user set global set give user set take preced set global set sourc user set global set give user set take preced set system properti use interpol system properti collect runtim environ like link system properti environ variabl set user properti use interpol user properti configur directli user discret e g via code dkey paramet command line set user set file set file equival empti set user set file global set file give user set take preced set user set sourc user set global set give user set take preced
+get assembl set get problem encount set build note problem sever link set problem sever warnin report problem high sever level caus set builder fail link set build except
+
+decrypt password set
+get proxi whose password decrypt get server whose password decrypt set proxi whose password decrypt set server whose password decrypt
+get problem encount set decrypt get decrypt proxi get decrypt proxi conveni method retriev first element link proxi get decrypt server conveni method retriev first element link server get decrypt server
+get index column contain error get index line contain error
+get index column contain problem column number refer text file give link sourc get except caus problem get index line contain problem line number refer text file give link sourc get locat problem locat combin valu link sourc link line number link column number exact syntax return valu undefin get messag describ problem get sever level problem get hint sourc problem syntax hint unspecifi depend creator problem gener expect hint provid suffici inform user track problem back origin concret exampl sourc hint file path url set read
+add specifi problem
+read set specifi file read set specifi byte stream stream automat close method return read set specifi charact reader reader automat close method return
+
+
+valid specifi set
+write suppli set specifi file parent directori output file creat automat write suppli set specifi byte stream stream automat close method return write suppli set specifi charact writer writer automat close method return
+
+method method field duplic boolean field duplic xml pull parser string string set method unknown attribut void unknown attribut xml pull parser string string boolean method unknown element void unknown element xml pull parser boolean return state add default entiti flag boolean add default entiti method boolean valu boolean boolean valu string string xml pull parser method boolean valu boolean boolean valu string string xml pull parser string method byte valu byte byte valu string string xml pull parser boolean method charact valu char charact valu string string xml pull parser method date valu date date valu string string string xml pull parser method date valu date date valu string string xml pull parser method doubl valu doubl doubl valu string string xml pull parser boolean method float valu float float valu string string xml pull parser boolean method integ valu int integ valu string string xml pull parser boolean method long valu long long valu string string xml pull parser boolean method requir attribut valu string requir attribut valu string string xml pull parser boolean method short valu short short valu string string xml pull parser boolean method trim valu string trim valu string method trim string trim string string method tag int tag xml pull parser method activ activ activ xml pull parser boolean method activ file activ file activ file xml pull parser boolean method activ activ os activ xml pull parser boolean method activ properti activ properti activ properti xml pull parser boolean method identifi base identifi base identifi base xml pull parser boolean method mirror mirror mirror xml pull parser boolean method profil profil profil xml pull parser boolean method proxi proxi proxi xml pull parser boolean method repositori repositori repositori xml pull parser boolean method repositori base repositori base repositori base xml pull parser boolean method repositori polici repositori polici repositori polici xml pull parser boolean method server server server xml pull parser boolean method set set set xml pull parser boolean method trackabl base trackabl base trackabl base xml pull parser boolean method read set read input stream method read set read input stream boolean set read reader set read reader boolean method read set read xml pull parser boolean set state add default entiti flag void add default entiti boolean
+method method file comment void file comment string method write void write output stream set method write void write writer set method activ void activ activ string xml serial method activ file void activ file activ file string xml serial method activ void activ activ string xml serial method activ properti void activ properti activ properti string xml serial method identifi base void identifi base identifi base string xml serial method mirror void mirror mirror string xml serial method profil void profil profil string xml serial method proxi void proxi proxi string xml serial method repositori void repositori repositori string xml serial method repositori base void repositori base repositori base string xml serial method repositori polici void repositori polici repositori polici string xml serial method server void server server string xml serial method set void set set string xml serial method trackabl base void trackabl base trackabl base string xml serial
+
+simpl implement log messag level debug accord format outlin perform singl paramet substitut log messag level debug accord format outlin perform doubl paramet substitut log messag level debug accord format outlin perform doubl paramet substitut log messag level debug accord format outlin log messag level debu includ except simpl implement alway log messag level error accord format outlin perform singl paramet substitut log messag level error accord format outlin perform doubl paramet substitut log messag level error accord format outlin perform doubl paramet substitut log messag level error accord format outlin log messag level erro includ except format messag first substitut argument log format messag first substitut argument log simpl implement log messag level info accord format outlin perform singl paramet substitut log messag level info accord format outlin perform doubl paramet substitut log messag level info accord format outlin perform doubl paramet substitut log messag level info accord format outlin log messag level inf includ except code debug messag current enabl code error messag current enabl code info messag current enabl given log level current enabl code trace messag current enabl code warn messag current enabl intern implement log regular log messag simpl implement log messag level trace accord format outlin perform singl paramet substitut log messag level trace accord format outlin perform doubl paramet substitut log messag level trace accord format outlin perform doubl paramet substitut log messag level trace accord format outlin log messag level trac includ except simpl implement alway log messag level warn accord format outlin perform singl paramet substitut log messag level warn accord format outlin perform doubl paramet substitut log messag level warn accord format outlin perform doubl paramet substitut log messag level warn accord format outlin log messag level war includ except
+return appropri link simpl logger instanc name clear intern logger cach method intend call class packag test purpos method intern modifi renam remov time without notic strongli discourag call method product code
+
+
+method method clone site clone get uniqu identifi deploy locat use match site configur code set xml file exampl string id input locat locat object get human readabl name deploy locat string name get url locat websit deploy form code protocol default valu parent valu path adjust id code project directori properti string url set uniqu identifi deploy locat use match site configur code set xml file exampl void id string void locat object input locat set human readabl name deploy locat void name string set url locat websit deploy form code protocol default valu parent valu path adjust id code project directori properti void url string
+activ log implement configur necessari set root log level
+
+warn ignor alway return code null warn ignor alway return code logger leve debu warn ignor
+warn ignor alway return code logger name compon hint code role hint warn conform logger name class name convent code null code default hint equival warn ignor alway return code tri give logger back bad idea ceku say notic self method suppos warn ignor warn ignor warn ignor warn ignor
+
+
+method need primordi logger need
+method method clone snapshot clone get increment build number int build number get time deploy string timestamp get whether use local copi instead filenam includ base version boolean local copi set increment build number void build number int set whether use local copi instead filenam includ base version void local copi boolean set time deploy void timestamp string
+
+
+
+method method clone snapshot version clone get classifi string classifi get file extens string extens get timestamp version inform last updat timestamp express use utc format mdd h hmmss string updat get resolv snapshot version string version set classifi void classifi string set file extens void extens string set timestamp version inform last updat timestamp express use utc format mdd h hmmss void updat string set resolv snapshot version void version string
+get byte stream sourc content close return stream respons caller provid hint locat sourc could local file path uri empti string intent assist user error report
+return singleton class
+current method alway return instanc link static mdc binder return singleton class
+current method alway return instanc link basic marker factori current method return class name link basic marker factori return singleton class
+
+empir datum x actual
+get charact sequenc set sourc
+get content sourc
+
+get super pom specifi model version return model suppos e caller intend make updat model return valu must clone updat ensur modif affect futur retriev super po
+thread system copi implement copi give link properti object new link properti object manner return copi link system properti manner
+
+
+
+
+get platform tool execut get type toolchain
+return default instanc particular type toolchain return code null applic todo keep around creat instanc toolchain
+retriev toolchain specifi type build context expect code contain configur select appropri toolchain execut begin build select toolchain avail user set match type requir independ code
+retriev everi toolchain give type avail user set store toolchain build context later use plugin
+method method provid void provid string string method clone toolchain model clone method equal boolean equal object get toolchain configur inform like locat inform retriev actual content structur complet open toolchain type defin format semant gener properti format code lt name gt valu lt gt defin properti name object configur method provid properti provid get type toolchain ul li code jdk jdk standard toolchain li valu custom toolchain string type method code int code set toolchain configur inform like locat inform retriev actual content structur complet open toolchain type defin format semant gener properti format code lt name gt valu lt gt defin properti name void configur object set toolchain identif inform match project requir maven actual content structur complet open toolchain type would defin format semant gener properti format sinc maven type field chang properti match format toolchain defin properti name semant void provid properti set type toolchain ul li code jdk jdk standard toolchain li valu custom toolchain void type string
+let toolchain decid match requir defin toolchain plugin configur
+build effect toolchain specifi toolchain file
+get problem caus except
+get global toolchain sourc get user toolchain sourc set global toolchain sourc user toolchain global toolchain give user toolchain take preced set user toolchain sourc user toolchain global toolchain give user toolchain take preced
+get assembl toolchain return list problem
+get index column contain error get index line contain error
+read toolchain specifi file read toolchain specifi byte stream stream automat close method return read toolchain specifi charact reader reader automat close method return
+method method clone trackabl base clone
+
+
+
+get artifact id unresolv model get group id unresolv model get version unresolv model
+
+
+
+
+normal specifi ur
+
+get set url model sourc
+get url sourc
+
+
+
+p creat version rang string represent spec exampl ul li code version li code version includ includ li code version includ li code version high li code version includ high creat return new version rang restrict version rang specifi version rang p note preced give recommend version version rang recommend version specifi version rang
+method method snapshot version void snapshot version snapshot version method version void version string method clone version clone get metadata last updat string last updat get late version directori includ snapshot string late get late version directori releas string releas get current snapshot datum use version artifact snapshot snapshot snapshot method snapshot version list snapshot version snapshot version method version list string version method snapshot version void snapshot version snapshot version method version void version string set metadata last updat void last updat string set late version directori includ snapshot void late string set late version directori releas void releas string set current snapshot datum use version artifact snapshot void snapshot snapshot set inform avail artifact snapshot void snapshot version list set version avail artifact releas snapshot void version list
+
+
+
+
+
+
+
+
+method backward compat depend default implement return empti authent info
+
+
+
+
+
+
+
+
+
+

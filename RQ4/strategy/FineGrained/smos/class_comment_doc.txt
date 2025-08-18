@@ -1,0 +1,99 @@
+
+throw problem occur run code ensj
+class use model address
+
+class repres except gener possibl get connect databas
+realiz connect pool implement java interfac sql datum sourc pool period monitor activ connect pool e releas still usabl present e memori releas time activ connect pool repres two paramet present within class pool close timeout max timeout valu well other relat pool default valu parameteriz via file properti connect properti
+connect wrapper class add method class connect set time oper particular connect make inform pool happen
+implement thread abl maintain connect databas mysql activ connect troubleshoot mysql autoreconnect class also respons recal method releas activ connect perform oper certain interv time
+class interfac connect pool particular creat singl connect pool datum sourc object pool connect get configur paramet properti file connect properti
+class default except gener system
+
+class repres except gener user attempt delet admin user databas
+class repres except gener user attempt delet manag user databas
+class repres except gener attempt insert entiti alreadi present databas
+class repres except gener entiti find databas
+class use contain environ variabl gesa
+
+class repres except gener user enter incorrect password authent
+
+address manag class
+
+
+teach manag class
+
+class vote manag
+class repres except gener attempt enter entiti without specifi mandatori field
+except throw warn part code implement yet futur
+class model note log
+class repres except gener user tri perform oper permiss
+
+class use model report card
+class use model user role
+servlet use assign teach teacher
+servlet use assign teach teacher
+
+chang server password user
+servlet modifi student record id father
+servlet use assign one role user
+
+
+servlet use delet address databas
+
+
+
+
+servlet use delet teach
+servlet use delet user
+servlet use initi system paramet
+servlet use enter address databas
+
+
+
+servlet use insert student report card
+servlet use insert cours data base
+servlet use insert user data base
+servlet use view academ year present db
+servlet use upload student report card
+servlet use load list cours associ student class
+servlet use view academ year present db
+servlet use login user
+servlet use log user
+
+
+servlet use remov teach teacher
+servlet use view report teach teacher
+servlet use chang address
+servlet use view address
+
+servlet show detail class
+
+
+
+
+
+
+
+servlet use view teach
+
+servlet use view academ year present db
+servlet use modifi teach
+servlet use view teach
+
+servlet use retriev user detail
+servlet use view user
+servlet use display manag form user role
+
+
+
+
+servlet use updat student report card
+servlet use modifi teach
+servlet use modifi user
+class use model teach
+
+class use model user
+class use model core inform user
+
+class contain set system manag util
+class use model grade

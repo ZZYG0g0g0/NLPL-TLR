@@ -1,0 +1,1316 @@
+input input
+input
+input input
+input
+input
+input1 input2
+b values input input input input
+s failure job location job conf entriesToUnset job job cli opts conf prefix conf tuple conf key value conf first second o type o type o fieldSchema columnStr reader split writer tuple location curDir location curDir o i fieldSchemas o fieldSchema location job location signature location job signature conf entriesToUnset tuple i fieldSchemas tuple i fieldSchemas conf entriesToUnset
+other fieldNum fieldNum t delim
+t b other other stale datainput dataoutput
+tuple tuple
+index
+b
+
+tuple tuple
+
+b input
+
+sparkOperator
+plan pos po po
+b fieldSchema b b b b b b b b b b fieldSchema b fieldSchema b d f val val s bd bi m bag a t dt
+mutation colfam colqual columnValue job tuple key value
+cli args cli o cli o cli
+a b dataType dataType v
+input input
+v lgExpPlan other
+
+
+b input opProvider arg1 arg2 op input op input
+b input opProvider arg1 arg2 op input op input
+b input opProvider expectedType arg1 arg2 op input op input
+b input opProvider arg1 arg2 op input op input
+input base
+
+b input opProvider arg1 arg2 op input op input
+
+b input opProvider arg1 arg2 op input op input
+
+b input opProvider arg1 arg2 op input op input
+op
+e tokenNames alias ps macro idx adaptor
+expr cg cu filter foreach gen load join limit rank sort splitOutput lexpPlans
+b input
+location job location job location job location job location job reader split requiredFieldList location job partitionFilter signature schema location job stats location job
+op op andExpr op cast constant derefenceExpression op equal op greaterThanExpression op op lessThanExpression op op op op op op exp project op op op
+op cg cross cube distinct filter foreach join limit load loNative rank sort split splitOutput store stream union
+amendKey
+v lgExpPlan other
+input inputSchema
+val t checkType t fieldNum i i fieldNum fieldNum type i fieldNum in fieldNum val l t checkType fieldNum val t t fieldNum val type out
+tuple
+adaptor
+count node fieldNames nvc node input e follow input ttype follow adaptor aliases node alias fieldNames node name
+outputConstraint cols inputSchema cast constraint predicate invert schema plan invert t pred invert t op invert t pred invert t op invert t op invert t op invert groupLabel groupCols numFields group groupCols numFields group groupCols0 groupCols numFields v v v type data newTuple input schema cg cs dt filter forEach join lm load s split store u
+isplit tc
+t b o stale d d
+key value key key value m key
+isplit tc
+arg0 writer job s key value
+fieldSchema subFieldSchema schema pigType fieldName in fieldName visitedRecords
+name namespace schema ignoreNameMap schema
+rs location job location job location job p job location job c signature location job location job r s w rfl t location curDir s location job s partitionFilter signature location job signature
+o s input schema db s t s v
+b off len p
+level msg msg msg msg msg l msg
+s allowRecursiveSchema s schemasInStack alreadyDefinedSchemas allowRecursiveSchema in t f schemasInStack alreadyDefinedSchemas allowRecursiveSchema s s s oldSchema rfl oldSchema rfl s name nameSpace type description schema definedRecordNames doubleColonsToDoubleUnderscores rs recordName recordNameSpace definedRecordNames doubleColonsToDoubleUnderscores name doubleColonsToDoubleUnderscores
+s s visitedRecords s s definedRecordNames index s in file conf paths fs basePaths conf index path fs pathString conf failIfNotFound path fs mergedSchema mergedFiles s index in pigSchema s x y x y ss subFieldSchema schema nullable
+o o pos r o arg0 arg0 d in arg0 arg0 arg1 arg0 out out
+
+
+
+input
+input
+input
+input
+input
+input
+tuple
+listOfTuples comp limit comp b
+bag
+input input
+inputTuple inputSchema
+inputTuple bag inputSchema
+input
+op op1 op2 from fromPos to toPos from to from to from to ps format verbose op op op op pred operatorToInsert succ from to other p1 p2 root newPlan from to op operatorToRemove from to oldOperator newOperator op
+input
+b values input dividend divisor input input input
+
+
+
+
+o o in value out
+input
+b values input dividend divisor input input input
+
+
+
+
+o o in value out
+tuple input
+tuple input
+v lgExpPlan other
+in t in type b in type in in in size in in type in in type in type in in type in out bag out bd out bi out val out val type out m out t
+in out
+size datum c list
+s location job location job location job location job location job reader split writer t location curDir location job plan signature location job b d f i l s m bag t dt
+split context
+job
+genericSplit context
+arg0 wc t
+op in out eqClassIndex operandType
+
+op in out eqClassIndex lhs rhs
+command
+
+input p input dba
+key bags readOnce partition bloomFilter serializedSize keyType isCombiner
+alias query pigServer pl propfile prop propfile prop lst stats
+predecessors po
+b off len charset delimiter n
+input input
+b input hashType numElements desiredFalsePositive
+byt pos byt bool pos
+split context
+input
+numBits n f reason limit base perm length minLen maxLen alphaSize searchForMagic blockSize newSize100k readLimit
+numBits c c u f n v i1 i2 code length minLen maxLen alphaSize len freq alphaSize maxLen a b c loSt hiSt dSt lo hi d p1 p2 n bv
+input
+input input
+values first second input input
+input
+input
+b input input input
+b input input input
+values first second input input
+newCrc inCh
+eolTreatmentStr headerTreatmentStr multilineTreatmentStr s delimiter multilineTreatmentStr eolTreatmentStr headerTreatmentStr reader split writer evenQuotesSeen buf recordLen fieldBuffer requiredFieldList tupleToWrite buf fieldID location job signature signature
+reader split requiredFieldList buf fieldID location job signature
+
+v lgExpPlan other spec
+exprPlan
+caster bytes fieldSchema dataType str str str str str
+
+
+b
+content destination content destination overwrite data data overwrite local destination local destination overwrite path destination path local destination local destination
+c s ve
+
+predecessors physicalOperator
+o
+exprPlan
+o2 i startCol type columns type columnChainInfo project
+
+o2
+
+op subplan schema uids
+op load requiredItem op cg cross filter foreach join limit load rank sort split splitOutput store union
+
+phyPlan physicalPlan poPackage postReduceFE algebraicOps pplan reduceOperator lrearrange sparkOp
+cfe op2newpos mapPlan reducePlan combinePlan messageCollector doMapAgg op pplan newplan fe type foreach keyType scope combineFE isGroupAll algeOp pplan feInners proj pplan rearrange rearrange lr mapPlan preCombinerLR mfe mapAgg mlr op plan index
+key bags readOnce numBags keyWritable ntup index keyInfo
+commandline
+
+a b t1 t2 reporter
+operandType
+message messageType message messageType kind i messageType messageType aggMap messageType log log messageCollector log messageString messageType log messageType aggregate log messageCollector messageType aggregate log
+lhs rhs
+lhs rhs
+fePlan inputSchema skewedRightOuterJoin isFirstReduceOfKeyClassName
+name value origConf replaceConf configuration properties properties loadDefaults configuration
+properties key defaultValue properties properties
+reader
+
+v lgExpPlan expr other val
+input input
+
+storeSignature counterName counterNamePrefix storeSignature storeSignature numErrors numRecords storeSignature counterName uniqueSignature e inputTuple uniqueSignature
+predecessors poCounter
+arg0 arg1
+input input
+input input
+tuple tuple input result input index newt
+input
+input input
+s writer tuple signature location job pigDataType
+tuple input
+bag1 bag2 emitTo input
+dotGraph dotState dotGraph dotState dotGraph dotState tm stream stream encoding stream index xla kind pos kind index xla kind s
+
+stream stream lexState matchedToken lexState start end state state1 state2 startState curPos startState curPos startState curPos active0 active0 old0 active0 old0 active0 old0 active0 old0 active0 old0 active0 pos kind state pos active0 pos active0 pos kind pos active0 pos active0 ds
+
+foreach
+t b stale
+ba ba start baLength str b b1 b2 other other buf b s
+args args colspec out out
+in in in in in in in in in type out val
+pattern name parent child container parent child parent child name parent child parent child parent child element name container newConfiguration
+
+castType inputType o1 o2 o1 o2 dt1 dt2 dataType fieldIter fieldNum klass o rcFieldSchema lhs rhs t o t name dt dt o dataType o dataType o t dataType o t m type1 type2 t label o o o type o o type o o type o o type o o type o o type o o type o o type o o type o o o type o
+input
+b input input input
+b input input input
+o o in dt out
+input input
+t iterable c b other other counter counter numRecsSpilled stale in i avgTupleSize numInMem msg warningEnum e out
+listOfTuples comp limit comp
+
+idxTuple splitsToBeRead conf reader split keys indexFile location job
+process
+
+val other fieldNum in fieldNum val out
+
+node seen fifo plan visitor
+node successors seen visitor plan visitor
+v lgExpPlan other columns cols schema rawColumns
+input input
+args
+n printSpace table op foreachAlias bag foreachData output table op bag output op bag d bag t op derivedData OperatorToEqClasses lo lp foreachAlias foreachData logToDataMap output foreach forEachInnerLogToDataMap foreachData output op lp exampleData op lp exampleData forEachInnerLogToDataMap seen output lp exampleData forEachInnerLogToDataMap
+input input input evalFunc
+
+predecessors op
+t
+a b a b dataType a dataType dataType v
+v lgExpPlan other
+
+
+dotContent file
+op op op op plan ps plan
+op op op plan ps verbose
+
+op op op op plan ps
+op plan op plan op1 op2 plan op plan op suc op suc op op1 op2 op op op plans op plans op plans op op op op1 op2 op op op op in op1 op2 in plan ps plan
+op op op plan ps verbose
+input
+b values input input input input
+input input
+input input
+input1 input2 input
+input input
+
+
+input input
+input input
+input input
+input
+input input
+
+input input
+o o in value out
+uri pigServer uri uri
+path path src dst src dst src dst key value key value alias alias alias script isVerbose format target params files cmdTokens withNumbers alias script target params files jobid path dir src dst cmd jar path scriptingEngine namespace path opt cmd script batch params files key value cmdTokens
+context arguments children arguments
+reader split location job
+
+bytes
+bytes
+uid uidSeen foreach foreach
+
+input
+tuple input
+input
+input
+dstName removeSrc dstName dstConfiguration removeSrc configuration configuration newName configuration newConfig
+location location location alias
+location location location alias jobId e
+mr
+v lgExpPlan other
+left right v
+input
+plan parent lp logToPhyMap result poToEqclassesMap logToDataMap forEachInnerLogToPhyMap seen plan lp logToPhyMap logToDataMap forEachInnerLogToPhyMap poToEqclassesMap
+uniqueSignature e inputTuple uniqueSignature
+
+input funcSpec name input input endOfAllInput input pigLogger reporter signature msg warningEnum
+operatorKey sb plan1 plan2 messages plan2Name plan1 plan2 messages
+plan newBaseData plan phyToDataMap plan phyToDataMap loads max
+val o fieldNum fieldNum fieldNum in t fieldNum val out
+item
+
+cookie log error out
+properties pigContext
+execType execType properties
+stream process error binaryOutputQueue res
+lp pc ps format verbose dir suffix jobID lp grpName pc newConfiguration property value
+op exprOp op exprOp pc op op op op op op op op op op op op op op op op op op op op op op op op
+
+child dataType illustrator v
+input input
+b input pind psign input reporter input inputFieldIndex order
+input
+input
+poFRJoin predecessors poFRJoin replicatedInputs
+arg0
+b
+
+name group name
+pp pc ps format pp poStore pp posStore
+pp pc pp pc pc pp
+store
+msg
+name group name name delta group name delta
+
+sto sto conf storePath fs sto conf
+os process
+split
+
+execType fileSpec fileSpec append pigContext fileSpec pigContext container fileSpec pigContext properties filePath properties filePath properties filePath multipleFiles name filename store filename context fileName storage filename pigContext elem fileName fileName properties pigContext pigContext pigContext suffix pigContext elem fs filename pigContext filename store filename context filename store filename context fileSpec offset pigContext fileName execType storage fileSpec pigContext fileName fileName properties elem elem path style pigContext initialized r
+fileName is offset end
+other
+other obj in out
+
+
+predecessors physicalOperator
+op plan a b binExpr op project unaryExpr binOp opType op unaryOp opType binOp unaryOp plan a b op
+
+it tuple in is
+in t
+b off len b
+location job location job location job spec reader split requiredFieldList line field column location job partitionFilter signature
+s location job location job writer t partitionFilter signature location job stats location job field column offset d
+input input
+b values input input input input
+input input
+input input
+
+
+input input
+input input
+input input
+input
+input input
+
+input input
+
+predecessors physicalOperator
+casterForEach innerPlan gen exps index needCaster fs fs originalFS userFS originalSchema userSchema s1 foreach
+input
+
+other funcSpec funcSpec argString className ctorArgs inputArgsSchema
+classesIdentifyingJars classesIdentifyingJars
+item
+func funcType
+input functionClassName functionClassName function index functionClassName
+input
+input digits digits
+input
+left right v
+lhs rhs lhs rhs type lhs rhs type input col pc r lhsVal rhsVal col rhsVal col rhsVal CompType col rhsVal CompType field field sample fields sample fields sample toBeFlattened clsName grpCol sample field sample fields sample fields sample toBeFlattened field grpCol sample index grpCol sample index grpCol sample bag
+r column row r r r num limit r num limit r size r numEnt r num limit r num limit r num limit r num limit r num limit r num limit s value r limit r r column
+input input
+input input
+input input
+in
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+predecessors op rdd op parallelism
+input
+v lgExpPlan other
+left right v
+v lgExpPlan other
+b input
+
+input input
+
+annotation annotation context scriptFile path namespace pigContext
+groovyObject pigObject
+
+
+scriptFile c
+dontPrintOutput script batch loadOnly illustrate params files input sameBatch elem path path src dst src dst src dst key value key value alias alias alias script isVerbose format target params files alias script isVerbose format target params files dontPrintOutput cmdTokens withNumbers alias script target params files jobid path dir src dst cmd jar path scriptingLang namespace path options cmd script batch params files key value cmdTokens scriptPath params paramFiles hcatBin cmd mInteractive explainState isInteractive loadOnly b
+b fieldSchema b b b b b b b b b b fieldSchema b fieldSchema b d f i l s bd bi m bag a t dt
+className classList filter columnInfos columnInfos hbaseConf job op val s location job location job key type timestamp key type split columnInfos bytes job o type columnList delimiter ignoreWhitespace reader split writer requiredFieldList t location curDir location curDir columnInfoList location job signature location job signature requiredFieldList bytes
+context op key option
+
+pattern name parent child container parent child parent child name parent child parent child parent child element name container newConfiguration
+className o keyType className type o keyType
+dstName dstConfiguration removeSrc configuration configuration configuration
+plan properties lp pc ps format verbose file suffix properties plan properties jobID lp grpName pc newConfiguration property value
+configuration configuration configuration
+cookie log error out e
+conf
+other dstName removeSrc dstName dstConfiguration removeSrc configuration obj newName permission newConfig
+readlimit b b off len offset whence n
+input1 input2
+stream partition error limit taskId
+original conf jobId conf taskId jtIdentifier jobId isMap taskId id path conf taskAttemptID
+command command
+input s init s input
+input
+input
+b
+key value numPartitions
+
+location job location job location job location job reader split requiredFieldList buff struct path location job partitionFilter signature table_schema
+s out field t location job
+dateRange split ctx numb jobContext dateFormat dateString
+job columnMetadata conf job conf columnNum
+split ctx
+columnsToRead fileName value hiveType list arr map pattern schema schema
+input funcName input
+input input
+c funcName
+input input endOfAllInput
+obj oi includedColumns info obj obj poi ti fs
+input
+input input
+input1 input2
+input input
+original input input
+input input
+input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+element elements element elements element elements elements dummy
+in out eqClassIndex illustrator
+arg0 group name arg0
+t inputs eqClasses po oriLimit result
+po plan plan po po nEqClasses po eqClasses and binCond cast compFunc counter demux distinct eq fl gte grt isNull lte lt lim ld lr mapLookUp negative not eq or nfe optimizedForEach pkg proj rank re sort spl st stream un userFunc
+b
+op op
+plan plan1 plan2 messages
+conf keys
+o key o secondarySortOrder useSecondaryKey
+conf keys startIndex
+os process t
+store
+input input
+job mapReduceOper ld job conf lds job conf lds job max
+conf
+input input
+b values input input input input
+
+
+
+genericSplit context
+arg0 wc t
+in t in in type out val out val type
+
+s location job location job location job location job location job reader split writer t location curDir location job plan signature location job
+
+
+t
+t bagCount percent
+
+t bagCount percent comp comp
+
+
+
+
+
+
+
+
+dbag klass obj original original input klass t klass
+input
+mv idx mv clazz arguments returnClazz input className method isStatic arguments className method isStatic arguments argumentTypes clazz clazz mv loadIdx storeIdx castName cw input mv clazz
+input input
+input
+input
+
+input input
+input input
+input input
+v lgExpPlan other
+input input
+iter
+input iter
+iter
+iter
+next
+n n condition n num n n
+o pl name pl filename name filename alias definition cmd jarfile udffile namespace var value
+staticCleanupMethods
+clazz
+job classes fs jars classes os name is contents timestamp jarFile pigContext os pigContext contents pigContext my_class
+wrapAround len dstream dstream startline startcolumn dstream startline startcolumn buffersize dstream encoding dstream encoding startline startcolumn dstream encoding startline startcolumn buffersize dstream dstream startline startcolumn dstream startline startcolumn buffersize c newLine newCol amount i c i
+path target sources
+pigContext conf filename prefix uri conf plan mro nwJob mro nwJob plan grpName conf job mapReducerOper conf conf url pigContext conf url collection plan mro config pigContext job completedJobs p rem fs job mro lds pigContext conf url src part job operationID isRowNumber mro keyType job job pigContext conf paths shipToCluster pigContext conf properties key shipToCluster mro pigContext conf pigContext conf url src completeFailedJobs
+
+sparkOperator physicalOperator operatorKeysOfPredecessors physicalOperator sparkOperator allPredRDDs physicalPlan seenJobIDs plan op sparkOperator plan physicalOperator predsFromPreviousSparkOper physicalOperator converter files plan operatorKeysOfAllPreds sparkOperator sparkOp
+jobId jobId applicationEnd applicationStart blockManagerAdded blockManagerRemoved blockUpdated environmentUpdate executorAdded executorMetricsUpdate executorRemoved jobEnd jobStart stageCompleted stageSubmitted taskEnd taskGettingResult taskStart unpersistRDD jobId
+v durations sto conf operator e conf errorMsg isSuccessful
+plans sparkOp lraOps pkgOps sparkOperator from to plan glaOp sparkOp plan glaOp sparkOp
+predecessors op
+key bags readOnce chunkSize illustrator plans flattens
+b input
+
+tuple input
+directory pigContext scriptFile path namespace pigContext
+buffer object depth pigType value schema depth pigType value schema depth value tuple depth array schema depth object schema depth object schema depth input bag schema depth map schema depth tuple schema depth schema schema buffer object
+expr functionName passedParams name scriptReader name script size name value name script pigContext scriptFile path namespace pigContext
+location job location job location job reader split p field fieldnum p tok field location job partitionFilter signature
+e path metaname conf location job location job location job isSchemaOn location job isSchemaOn msg e fieldDel partitionFilter recordDel schema location job stats location job
+s s writer t signature location job schema location job stats location job json field d
+tuple msg input
+path functionName is script scriptFile pigContext pigContext scriptFile path namespace pigContext path loader
+object tuple pyObject
+input input
+mr
+buffer jobConf
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+args
+
+input input
+input input
+v plan exprPlan other plans gt flags
+v other nested
+v plan other plans operations
+v plan other
+v plan other filterPlan
+v alias nestedAlias project other p
+input
+input
+input
+v other flatten s1 outputPlanSchemas plans uidOnlySchemas userDefinedSchema
+v other loc
+v plan inputIndex other inputIndex isInner joinPlans jt
+v plan other limit mlimitPlan
+v other state limit requiredFields schema isTmpLoad conf scriptSchema signature
+v obj nativeMRJar params
+v other ascCols isDenseRank rowNumber rankColPlans
+v sort plan mAscCols2 i other ascCols l sortPlans b func
+v other
+v uid other schema filterPlan
+v other in sortInfo isTmpStore
+v other state
+v inputSchemas inputAliases inputUid uid plan other flag
+input input
+left right v
+input input
+jc taskReports pp pc ps format verbose reports type errNotDbg pigContext stackTrace stackTraceLines startingLineNum line prog jobID conf php grpName pc j throwable
+input input
+v lgExpPlan other
+left right v
+v lgExpPlan other
+mapCol key line delimiter
+mro sortMROp secondMROp firstMROp mr
+predecessors poLimit
+
+t b other comp stale in out
+uid loadFuncSpec relOp f1 f2 funcSpec outFS inputFieldSchemas relOp pred relOp schema funcSpec group relOp relOp filter fe gen innerLoad join loLimit load rank sort relOp split relOp stream relOp expPlan
+t t syntheticMultipler omittableMultiplier t t1 t2 t1 t2
+baseData lineage equivalenceClasses op data newBaseData loadData ld op cg cs dt filter forEach join limOp load s split split store u
+
+key bags readOnce keyWritable ntup index in out eqClassIndex distinct inner
+b fieldSchema b b b b b b b b b b fieldSchema b fieldSchema
+physicalPlan poLoad jobConf predecessorRdds op op
+location curDir commaSeparatedPaths s delimiter reader split location curDir location job signature msg warningEnum
+fileName location location location path extension path fileName fileSystem path path fileName path path
+location job location job location job loadFunc partitionFilter
+depth reader split location curDir loadFunc location job signature
+location job location job location job partitionFilter
+location job predicate
+requiredFieldList
+
+op op op op
+tezOp tezOp
+properties pigContext
+php baseData lineage attacher eg pc
+predecessors physicalOperator
+readlimit b b off len offset whence n
+
+innerFlags scope parallel alias location inputs relationalOp customPartitioner innerFlags innerPlans relationalOp innerPlans pc cg loj plans cg op fePlan joinInput innerFlags cg cross loDistinct filter foreach load loj loLimit loLoad loNative loRank sort loSplit loSplitOutput loStore stream loUnion
+top top o msg warningEnum log headerMessage message logFileName log t logFileName log verbose headerMessage t logFileName log verbose headerMessage displayFooter displayMessage
+lgExpPlan fs
+ps format verbose other lgExpPlan
+op op op op op op op op op op op op op op op op op op op op op op op op op
+ps format verbose alias other pigContext pigContext scope skipInputOutputValidation
+loc filterOp alias inputAlias expr comment exprPlan loc cmd loc cmd shipPaths cachePaths inputHandleSpecs outputHandleSpecs logDir limit loc alias inputAliases partitioner loc op alias inputAlias operations expressionPlans loc alias inputAlias partitioner loc op alias inputAlias expr loc op alias inputAlias innerPlan loc funcName args ft loc foreach gen exprPlans flattenFlags schemas loc op alias inputAliases expressionPlans gt innerFlags partitioner loc plan packageName funcName isStatic args loc op alias inputAliases joinPlans jt innerFlags partitioner loc alias inputAlias limit loc op alias inputAlias expr loc alias filename funcSpec schema loc inputJar cmd paths storeAlias loadAlias input loc plan alias inputOpList loc plan alias inputOp loc op plan alias inputOp expr loc op plan alias inputOp innerPlan loc op plan alias inputOp expr loc plan alias inputOp limit loc plan op alias inputOpList loc plan op alias inputOp loc innerPlan foreach operators expr loc innerPlan foreach operators alias projExpr exprPlans loc op plan alias inputOp plans ascFlags fs loc op alias inputAlias partitioner loc op alias inputAliases partitioner loc plan relOp input colAlias col loc plan op operators exprPlans colAlias col loc plan relOp input startExpr endExpr loc rank alias inputAlias plans ascFlags loc alias inputAlias value valLoc loc filter alias inputAlias samplePlan expr loc sort alias inputAlias plans ascFlags fs loc inputAlias loc op alias inputAlias allowNulls loc op alias inputAlias filterPlan loc alias inputAlias filename funcSpec loc alias inputAlias command schema input objList loc plan funcName args loc alias inputAliases onSchema inputAliases loc opName lExprPlan loc startExpr operations expressionPlans loc op inputAlias operations expressionPlans plan loc innerPlan foreach colAlias plan plan plan plan alias command alias fs loc scope lexpPlanList lro allExprPlan loc op foreach alias alias alias operations expressionPlans startIdx endIdx scope s s hint loc hint loc s expressionPlans operations foreach lp plan inputs alias op op alias sch op parallel op partitioner innerLoad projExpr lp inputs clazz s s loc funcSpec ft
+
+plan plan paths plan plan alias plan plan exprPlan plan plan plan nvc plan ft plan plan alias alias alias alias alias alias alias alias paths plan plan input e follow input ttype follow adaptor paths in plan
+ruleSet rule
+node node lp data
+
+loCogroup loCross cube loDistinct filter foreach gen load join loLimit load nativeMR loRank loSort loSplit loSplitOutput store loStream loUnion
+uids lfs other fss opt schema opt alias customPartitioner parallel schema
+field inSch outSch fs schema schema other relaxInner relaxAlias uid fieldNum alias alias alias other other compareAlias s1 s2 s1 s2 mode alias1 alias2 schema1 schema2 schemas uidOnlySchema verbose
+
+input input
+b values input input input input
+
+
+
+input tuple input
+
+
+op op op mergedPlans mro fSpec fSpec old str indexerMROp baseMROp mapperLRInnerPlans mrJar parameters inpSort prevJob lFile quantFile rp sort prevJob transformPlans lFile sampleFile rp sortKeyPlans udfClassName udfArgs sampleLdrClassName op prevJob lFile sampleFile rp plans sort quantJob lFile quantFile rp fields mro conf compiledInputs finPlan plans op plan fSpec old op op op op op op op op op op poCoGrp joinOp op op op op op op op op op op
+
+
+properties pigContext
+
+mr
+v job maps reduces job fileName index sto stat sb job job type tasks mro conf jobId size max min avg median size max min avg median
+mr
+
+jc ps job job ps mr success ps mr success e ps job job jobClient counterName job e pc client jcc plan display jobMroMap
+verbose mr
+mro conf mrop conf mro mro mro mro mro conf mro conf
+name group name name delta group name delta status
+tezConf mrConf mrToTezConfigMapping tezConf mrConf tezConf isAMConf vertex isMapVertex conf dagAMConf fs inputSplitInfo localResources infoMem inputSplitsDir jobConf fs
+scope nig mro scope nig
+properties pigContext file scriptFile pigContext paramFiles properties canonicalPath stats e pigContext log4jconf args properties startTime args listener pigContext file engine context origPigScript scriptFile createFile logFileName scriptFile
+
+schema schema
+v lgExpPlan other
+
+result fs path inputFilter plan pigContext fromConf toConf files conf oneInputSplits maxCombinedSplitSize conf fs status fs status max splits keyDistFile totalReducers keyType mapConf splits pigContext conf st pigContext conf job
+php pc job aggMap job store php pc ps format verbose spec job errNotDbg pigContext jobID conf php grpName pc prog lastProg job stop_on_failure
+plan endOfAllInputInMap endOfAllInputInReduce globalSort las limitOnly mapDone mapDone mapDone nic quantFile reduceDone secondarySortOrder skJoin file sortOrder spl useSecondaryKey DFStr tab useTypedComparator v
+store name incr
+key
+lo op preds lp
+input input
+b input values reporter input reporter input
+predecessors physicalOperator
+
+
+predecessors poMergeJoin
+reader split location job
+m clazz m1 m2
+op exampleData OperatorToEqClasses overallCompleteness eqClasses op exampleData OperatorToEqClasses overallConciseness op exampleData overallRealness
+input input
+
+args
+execType name value
+input input
+dataType a b dataType v
+v lgExpPlan other
+
+anno retType input
+input input
+input input
+input input
+
+key val key key value key values key value key
+initialIndex onePastEndIndex mpkgr index pkg sameKeyType isCombiner inCombiner splitter mapReducers sameMapKeyType inCombiner splittees mr mr pl mr splittee mappers splitter splitOp mergeList splitter splitOp mr succs from to mapReducers splitter mapReducers splitter splitOp from to initial current mapKeyType mapper splitter pl splitOp index sameKeyType from to initial current mapKeyType mapReducer splitter mapper splitter mapReduce splitter splitOp mapReducers mr newMR initial splitOp sameKeyType splitter mergeList mr
+parentOper subPlanOper physicalPlan size planA planB to plan spliter splittee plan splitter splittee sparkOp
+tezOp predsList parentOper subPlanOper plan splitter splittee tezOp
+lst pkgr pkgr mapKeyType index keyWritable ntup origIndex inCombiner sameMapKeyType
+writer tuple location job
+dataType a b dataType v
+v lgExpPlan other
+
+input
+input
+input input
+input input
+v
+
+jobStatsKey v
+v lgExpPlan other
+
+plan c plan c
+input
+n i i n
+scope scope
+plan1 plan2 messages
+input
+lhs rhs
+listOfTuples comp limit comp
+
+
+t b other obj stale in out
+arg0
+
+sparkOp
+filter plan
+rem mr
+v lgExpPlan other
+left right v
+v lgExpPlan other
+
+
+
+
+
+
+
+
+
+
+o in index k isNull n out
+
+in
+
+type
+key value key registry
+str str bytes obj
+v key val key operator key loc p
+o obj op scope
+op from fromPos to toPos from to from to from to op op op op pred operatorToInsert succ other load store op operatorToRemove from to oldOperator newOperator
+graph clazz node plan attributes dotContent clazz file clazz file clazz
+op from fromPos to toPos from to from to from to op op op op pred operatorToInsert succ other from to op operatorToRemove from to oldOperator newOperator
+op op op op op op bagDerefenceExpression op op op op op op op op op op op op op op op op op op op op loCogroup loCross loDistinct filter foreach gen load join loLimit load loRank loSort loSplit loSplitOutput store loStream loUnion
+
+foreach foreach gen filterPlan
+v lgExpPlan other
+expr builder rs location job location job expr expr location fs filter location job location job requiredColumns schema schema requiredColumns location job value values expr location job location job location job reader split writer requiredFieldList t location curDir location job partitionFilter expr signature location job signature
+t1 t2
+t1 t2
+
+
+split
+tuple
+fileName is offset end
+
+
+bytes conf store records success
+input input inputSch
+store job
+v
+t dataType in out eqClassIndex condOp lhs rhs v
+inputsToSkip inputs conf key oldInputKey newInputKey inputKey
+in out eqClassIndex varName v
+key outputs conf key conf oldOutputKey newOutputKey bloomOutputKey skipNullKeys key
+obj fs in out eqClassIndex is s lf v
+in out eqClassIndex v
+t resLst value in out eqClassIndex isEndOfInput tin keyType plans v
+input sizeBag in out eqClassIndex increment mAscCols counterPlans isDenseRank isRowNumber localCount operationID taskID v
+inputsToSkip inputs conf outputs conf in out eqClassIndex oldInputKey newInputKey oldOutputKey newOutputKey inputKey outputKey v
+outputs conf increment processorContext oldOutputKey newOutputKey statsOutputKey tuplesOutputKey v
+data in out eqClassIndex v
+inPlan res in out eqClassIndex leaf inCombiner v
+in out eqClassIndex customPartitioner v
+old old lr tuple in out eqClassIndex key is fragment replFiles v
+schema schemaTupleFactories index broadcasts
+inputsToSkip inputs conf oldInputKey newInputKey
+in out eqClassIndex plan v
+plan flatten t data in out eqClassIndex in out plans mapSideOnly opsToBeReset flattens isToBeFlattened v
+in out eqClassIndex cross customPartitioner v
+secondarySortOrder useSecondaryKey
+inputsToSkip inputs conf outputs conf oldInputKey newInputKey inputKey
+v
+in out eqClassIndex predecessors v
+in out eqClassIndex limit expressionPlan v
+in out eqClassIndex cf tmp file limit pc sf signature v
+t resLst secondaryResLst value plans resLst type in out eqClassIndex isCross isDistinct index index multiQuery keyType index plans plans plans stripKeyFromValue useSecondaryKey v
+outputs conf key oldOutputKey newOutputKey connectedToPackage outputKey isSkewedJoin
+index type index type plans keyType type
+in out eqClassIndex key v
+inp lrIdx curSplitIdx index i in out eqClassIndex curTopOfHeap prevTopOfHeap is isEndOfInput endOfRecordMark idxFileSpec indexFileName loaderSignatures sideFileSpecs sideLoadFuncs firstRearrangedTup v
+inpPlans keyTypes inp lrIdx index leftKey in out eqClassIndex is firstLeftKey isEndOfInput indexFile rightInputFileName rightLoaderFuncSpec signature rightPipeline withCauseException e v
+i param quote in out eqClassIndex nativeMRjar params v
+in out eqClassIndex v
+v
+cg join
+v
+v
+k inp in out eqClassIndex illustrator numInps pkgr v
+mr pkg plan pkg mr
+map key inpTuple map key inpTuple fromMap toMap numEntriesInTarget checkThresholdForFirst checkThresholdForSecond key value map key inpTuples result key value op in out eqClassIndex keyPlan valuePlans aggregate v
+resLst value pigContext
+resLst value
+sample in out eqClassIndex t v
+isEndOfInput
+t resLst value in out eqClassIndex keyType plans v
+
+objList inpValue i t input tuple in out eqClassIndex lastColIdx col cols overloaded startCol resultSingleTupleBag star v
+input taskId in out eqClassIndex mAscCols operationID rankPlans v
+inputsToSkip inputs conf taskId oldInputKey newInputKey statsInputKey tuplesInputKey v
+in out eqClassIndex v
+customPartitioner secondarySortOrder useSecondaryKey
+rhsConstant impl v
+v
+sample in out eqClassIndex v
+in out eqClassIndex v
+inputKey inputsToSkip inputs conf oldInputKey newInputKey inputKeys isSkewedJoin
+inputKey inputsToSkip inputs conf in out eqClassIndex oldInputKey newInputKey v
+inputsToSkip inputs conf processorContext oldInputKey newInputKey inputKey
+s i in out eqClassIndex joinPlans v
+in out eqClassIndex l sortFunc mSortFunc sortPlans v
+
+inPlan in out eqClassIndex plan leaf splitStore v
+
+in out eqClassIndex cf disableCounter index lFile tmp isMultiStore sFile schema sf signature sortInfo storeFunc sDecorator impl v
+store
+outputs conf processorContext oldOutputKey newOutputKey outputKey
+t in out eqClassIndex specs properties property isFetchable initialized v
+in out eqClassIndex inputs v
+t1 t2 in out eqClassIndex is v
+in out eqClassIndex fSpec input is Function cf signature funcSpec referencedOperator resultType sf signature v
+inputsToSkip inputs conf in out eqClassIndex oldInputKey newInputKey inputKey v
+outputKey outputs conf outputKey in out eqClassIndex processorContext outputKey oldOutputKey newOutputKey scalarOutput taskIndexWithRecordIndexAsKey v
+input1 input2
+predecessors physicalOperator
+key bags readOnce key index keyWritable ntup index in out eqClassIndex in out distinct illustrator inner keyCompound keyInfo keyTuple keyType numInputs type pack useSecondaryKey key val out
+other
+cnst
+sparkOp
+stream stream encoding stream tm index kind pc s
+
+stream stream lexState lexState start end hiByte i1 i2 l1 l2 state start end state1 state2 startState curPos pos active0 pos kind pos active0 ds
+
+pigInput pigOutput pigInput pigOutput params paramFiles in out
+loadMetadata requiredFieldList location job
+storeMetadata location job
+str currentToken expectedTokenSequences tokenImage
+
+
+
+project binOp unaryOp
+
+currentTuple count totalMSize totalTuples in t t1 t2
+in
+inputName inputDescriptor events srcVertexName srcTaskId vmEvent completions stateUpdate
+expressionFactory partitionExpression path location conf expressionFactory partitionExpression fs fileStatus partitionLevel partitionKeys splitPaths location ctx loaderClass signature partitionFilterExpression loaderClass signature location conf loaderClass signature
+location conf location pathName partitionKeys pathName partitionKeys path
+v operator className isLeafNode match isSourceNode
+classList ptList plList ptNode plOp inpPlan ptNodesVisitedIdx
+out
+out name
+op add and binCond cast mg compFunc cnst demux distinct dv eq join fl gte gr grt isNull lte lt lim ld lr mapLookUp mergeCoGrp join mod mul nt negative not eq or nfe optimizedForEach pkg poPartialAgg poissonSample preCombinerLocalRearrange proj rank re reservoirSample join sort spl st stream sub un userFunc
+op add and binCond poBroadcastSpark cast mg compFunc cnst poCounter cross demux distinct dv eq join fl gte gr grt isNull lte lt lim ld lr mapLookUp mergeCoGrp join mod mul nat negative not eq or nfe optimizedForEach pkg poPartialAgg pr poissonSample preCombinerLocalRearrange proj rank re reservoirSample sk sort spl st stream sub un userFunc
+alias originalLocations alias sourceLocation t op origPlans op dataType illustrator inputs physicalPlan logger reporter requestedParallelism resultType v
+t from to out out verbose ps format verbose op oldNode newNode opmap
+pkg
+alias definition path namespace vars vars pl name pl filename name filename alias definition s cmd filename jarfile udffile namespace qstr vars var value cmd
+context event
+array pos e symbol schema old size schema old schema array old in old expected in old expected in old expected in old expected in
+array array record name pos schema datum e s union datum schema datum schema datum out datum out datum out datum out schema datum out datum out datum out schema datum out schema datum out
+split context job
+context job level
+arg0 arg1 tuple map in
+context key value
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+
+command
+buffer cursor candidates c stream candidates s
+buffer cursor candidates s
+
+
+path resource originalPath path path name path path src dst localDst jarFile reader reader params paramFiles in params paramFiles reader outputFilePath reader outputFilePath params paramFiles alias alias alias path importListCommandLineProperties alias funcSpec funcSpec conf classParamKey argParamKey clazz path function functionSpec alias command oldName newName name cl l execType newLocation value p list paramFiles params
+key incr group counterName incr
+
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+errCode errSource errSource errSource errSource detailMsg code src showToUser retry location
+lfunc pigContext data storeFuncSpec pigContext
+job
+stream stream encoding stream tm index xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla kind pos kind index xla kind overwrite pc out s
+
+stream stream lexState lexState matchedToken state start end hiByte i1 i2 l1 l2 state start end state1 state2 startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos active1 active0 active0 active0 active0 active0 active0 old1 active1 old1 active1 old1 active1 old1 active1 old1 active1 old1 active1 pos kind state pos active0 active1 pos active0 pos active0 pos active0 active1 pos active0 pos active0 pos active0 pos active0 pos active0 pos active0 pos active0 pos kind pos active0 active1 pos active0 pos active0 pos active0 active1 pos active0 pos active0 pos active0 pos active0 pos active0 pos active0 pos active0 state ds
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+context oc tuple conf input output split context key inpTuple context leaf keyType plan context
+
+stateUpdate
+aggregate reporter o msg warningEnum
+
+combinedSplits inputIndex targetOps splitIndex conf split context inputIndex conf inputIndex conf oneInputSplits inputIndex targetOps blockSize combinable conf jobcontext loadFunc pigSplit originalConf loadFunc inputIndex conf
+split context jobcontext jobConf
+split context
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+j t field state timeToSleep j
+runtime obj name runtime wrap ruby object ruby object ruby object ruby object ruby object ruby object ruby object ruby object ruby object ruby object ruby object ruby object rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject rbObject
+o msg warningEnum
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+file line header reason inputs outputs t file st mlist comma t macroDefs macroStack pigContext in masks tree file st c next st next st word next ast stack pigContext stack start st inputs outputs line file t nodes nodeType
+conf input output split context
+
+
+
+o arg0 in index isNull out
+context state context context context context context stores context context context store context store context context store conf
+jobcontext stores jobcontext taskattemptcontext taskattemptcontext conf storeLookupKey prop conf1 conf2 jobContext store jobcontext
+taskattemptcontext taskattemptcontext
+stack
+t
+
+sampleVertex logicalInput processorEvents inputs outputs inputs outputs leaf
+scriptId plan scriptId jobStats scriptId jobStats scriptId assignedJobId scriptId numJobsSubmitted scriptId numJobsSucceeded scriptId numJobsToLaunch scriptId outputStats scriptId progress
+msg
+
+pigSplit conf split context
+job mapReduceOper
+args listener
+pigSchema nullable pigSchema nullable pigType pigFields nullable avroSchema pigSchema index avroSchema pigSchema avroSchema pigSchema avroSchema pigFields
+stream stream encoding stream tm kind index kind kind path path src dst src dst src dst key value key value alias alias alias script isVerbose format target params files cmdTokens withNumbers alias script target params files jobid path dir src dst cmd jar path scriptingEngine namespace path opt cmdTokens script batch params files key value cmdTokens c interactive s
+
+stream stream lexState lexState matchedToken state start end hiByte i1 i2 l1 l2 state start end state1 state2 startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos startState curPos old0 active0 old0 active0 old0 active0 active0 active1 active1 active1 active1 active1 active1 active1 old0 active0 old0 active0 old0 active0 old0 active0 old0 active0 old0 active0 old0 active0 old0 active0 pos kind state pos active0 active1 active2 pos active0 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos kind pos active0 active1 active2 pos active0 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 pos active0 active1 state ds
+b1 s1 l1 b2 s2 l2 a b conf
+o1 o2 compoundKey1 compoundKey2 o1 o2 asc
+job
+properties execType path alias filename alias alias nestedAlias parseAndBuild filename alias stream alias format verbose markAsExecute lps eps dir suffix filename alias stats alias lp jobName dir jarName dirs id params withNumbers path scriptingLang namespace function funcSpec name query query startLine in in paramsFiles in params in params paramsFiles fileName fileName paramsFiles fileName params fileName params paramsFiles commandAlias command source target p name priority skipParseInRegisterForBatch validateEachStatement id filename id filename func alias filename func
+idx idx is is conf idx disableCounter b totalSplits os obj os
+location location location alias jobId e errorCode errorMessage t returnCode stats
+sto conf sto conf
+fname index store code uri fileName code msg t statsMap
+name group name name incr group name incr name incr group name incr context status
+tuple buf start end tup s location job location job store job obj other location job location job location job reader split writer requiredFieldList f bytes start end location curDir path job location job partitionFilter signature location job signature schema location job stats location job
+
+
+
+location job location job location job partitionFilter signature
+location job location job
+bytes offset length t
+bytes bytes offset length t t
+bytes offset length fs bytes startIndex endIndex fs buf startIndex endIndex buf startIndex endIndex fs buf startIndex endIndex bytes startIndex endIndex useUtf8 t
+job
+job
+b1 s1 l1 b2 s2 l2 o1 o2 conf
+scriptId dagId success tezDAGStats scriptId dagId dagPlan numVerticesToLaunch scriptId dagId numVerticesCompleted progress scriptId dagId assignedApplicationId
+t
+b1 s1 l1 b2 s2 l2 o1 o2 t1 t2 conf
+b1 s1 l1 b2 s2 l2 o1 o2 t1 t2 conf
+name incr group name incr
+
+
+op suc op plans op plans op plans op op op op sep strings plan ps verbose
+key value pos key value
+
+
+plan opClass plan rearrangeKey plan opClass orig
+listener
+predecessors seen node lep pp printer verbose DFStr TabType op op op op op op op
+fromKey toKey messages planName operatorKey sb operator1 operator2 plan1 plan2 messages plan1Name plan2Name map matcher plan1 plan2 plan1 plan2 messages
+fp tp
+
+walker
+plan plan visitor
+input inputSchema
+predecessors po
+sample reader split t
+node predecessors seen visitor plan visitor
+project binOp unaryOp
+
+cmd params paramFiles key key key value key val key val overwrite key val key val overwrite context line line parentKey preprocessorCmd
+input tuple
+msg rep
+proj proj func proj func exprPlan foreach gen
+v lgExpPlan alias other attachedRelationalOp colNum endAlias endCol inputNum startAlias startCol
+attachRel inputNum colNum plan inputNum expPlan proj inputNum inpExprPlans expPlan oldPos2Rel expPlan cg cu foreach join rank sort
+expPlan proj
+fields changes fields fields
+fp tp
+properties properties fileName properties fileName properties
+
+
+is context scriptFile path namespace pigContext
+ex e tokenNames e
+tree ex e tokenNames t input e follow input ttype follow adaptor
+t recognizer ast ast importFile t header reason fname inlineNodes macroDefs t t seen query tokens input tokens input tokens query source t macroNodes inlineNodes t nodes t nodes ast
+i
+i n p data
+i
+scope lp fileName func input alias pigContext fileName funcSpec tokens tokens lineOffset ex filename pigContext scriptPath absolutePath defaultFSURI conf str oldNode newTree fileName absolutePath pigContext
+input input
+rdd physicalOperator
+input input
+input input
+input input
+input input
+input input
+input
+input input
+input input
+input input
+reader split
+predecessors poRank
+t b o other stale in out
+input inputBuffer
+inputsToSkip inputs conf input oldInputKey newInputKey
+location job location job location job reader split location job partitionFilter signature
+field$ other other field$ value$ value value value value value value value value
+predecessors op rdd op parallelism
+reader split location job
+v lgExpPlan other
+input input
+input input
+input
+lhs rhs
+pattern pattern lhs rhs pattern startIndex rhsConstant
+input input
+uri path scriptingLang namespace uri uri
+location job
+
+input
+i i r2 input column key input column mapKeysInfo i fields input column mapKeysInfo i mapKeysInfo needAllFields needNoFields
+pe
+
+rs1 rs2 fields sortKeyOrders sortKeys version sb rs type printAlias
+anOther sizeInBytes fields numRecords bytes mBytes
+
+input input
+node seen fifo plan visitor
+node fifo plan visitor
+k
+tuple result input input
+key value numPartitions conf
+context args context runtime context block context block arg context args context context context context
+context arg context self arg1 arg2 context arg runtime context arg context arg arg1 arg2 context arg arg context context
+context args context args context self arg context self arg1 arg2 context runtime s alias context arg s context context arg context arg1 arg2 context context arg args context type context self arg context self arg1 arg2 context self context self context self context self context self context self context self context self context self context self context self arg context args name arg arg context context context self arg context self arg1 arg2
+planNode patternNode plan skip
+status perm
+input input
+input input
+input
+input
+input input
+input input
+input
+tuple input
+input input
+input input
+input input
+
+inputs pc reader split location curDir location job n signature
+mr op fileName mr
+v lgExpPlan attachedLogicalOperator implicitReferencedOperator
+userFunc
+filter limit
+exprPlan
+f alias fs cast input fs schema other schema other relaxInner relaxAlias canonicalName topLevelType innerTypes fieldNum alias alias schema alias rSchema alias alias isSubNameMatch alias sb indentLevel other otherTakesAliasPrecedence alias other otherTakesPrecedence fs1 fs2 alias1 alias2 other otherTakesAliasPrecedence other otherTakesAliasPrecedence allowMergeableTypes schema other otherTakesAliasPrecedence schema other otherTakesAliasPrecedence allowDifferentSizeMerge allowIncompatibleTypes schema1 schema2 schemas other s t twoLevelAccess sb schema type sb schema type indentLevel indentLevel
+op group cross distinct filter foreach gen load join limit nativeMR rank sort split splitOutput store stream union
+
+
+fp tp
+op schema loCogroup loCross loCube loDistinct filter foreach gen load join loLimit load loRank loSort loSplit loSplitOutput store loStream loUnion lexpPlans
+val v v v v v v v v v v v t v val themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal usNull usVal themNull themVal val themVal val themVal val themVal val themVal val themVal val themVal val themVal val themVal val themVal val themVal val themVal val t pos usNull themNull usNull t pos t other t t checkType t t checkType t isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos isNull val t pos other isNull type t checkType t fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum in nulls t checkType fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val l fieldNum val fieldNum val t fieldNum val fieldNum val out fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum fieldNum type hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull hash v isNull fieldNum fieldNum o in v in v in v in v in v in v in v in v in v in v in v in t isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val isNull val fieldNum val l t t checkType t t checkType t t fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val fieldNum val t fieldNum val fieldNum val fieldNum val type s v v v v v v t v t v t v t v t v t v t v t v t v t v t v t v t v v v v val val val val val val val val val val val val val out out writeIdentifiers out v out v out v out v out v out v out v out v out v out v out t out v out
+jConf jConf isLocal jConf pigContext id s isAppendable context id trip s isAppendable context
+className generatedCodeString codeDir s appendable id codeDir contexts s appendable codeDir contexts s appendable id contextAnnotations codeDir
+id s s isAppendable s isAppendable context s size
+pigContext conf udfSchema isAppendable type pigContext udfSchema isAppendable context s
+dataTypes names dataTypes dataTypes bagName tupleName fieldNames dataTypes bagName tupleName fieldNames dataTypes names dataTypes dataTypes names dataTypes size dataTypes tupleName fieldNames dataTypes tupleName fieldNames dataTypes names dataTypes dataTypes fieldNames dataTypes
+counts counts mean input input
+firstLine scriptingLang clazz fullFilename loader scriptPath file context scriptFile path namespace pigContext pigContext scriptFile key stats key stats
+pigContext engine
+bs plan jobStats assignedJobId numJobsSubmitted numJobsSucceeded numJobsToLaunch outputStats progress jobStats l listener commandLine fileName pigContext reader file script plan script commandLine pigContext state
+jobId taskId hadoopLogDir functionName fileName instanceCapturingOutput
+input
+tuple url input
+input string
+plan columnChainInfo rearrange plan rearrange secondarySortKeyInfo mr
+mr
+physicalPlan currentLR physicalPlan currentLR sparkOperator
+to
+mapPlan reducePlan plan columnChainInfo root reducePlan rearrange plan rearrange secondarySortKeyInfo
+key value numPartitions conf
+rdd pkgOp
+input input
+conf credentials conf credentials
+in size in type in type in type out v out v extra out buf out s out t
+offset whence
+
+s location job location job location job location job location job reader split writer t location curDir location job partitionFilter signature location job
+t reader split keyClass location job valueClass w dataType
+wrapAround len dstream dstream startline startcolumn dstream startline startcolumn buffersize dstream encoding dstream encoding startline startcolumn dstream encoding startline startcolumn buffersize dstream dstream startline startcolumn dstream startline startcolumn buffersize c newLine newCol amount i i
+
+key value numPartitions
+key value numPartitions
+key value numPartitions
+prefix n i i n value prefix
+job mr pigContext jobClient jcc mrPlan job mro job
+t b o o stale in out
+key value o i
+keyDist defaultParallelism predecessors poSkewedJoin inpPlans skewIndexedJavaPairRDD streamIndexedJavaPairRDD partitioner keyDist keyDist totalReducers partitionFile
+wrappedKey value numPartitions job
+
+obj
+predecessors sortOperator
+obj
+store
+index columnChainInfo asc o2
+
+comp
+
+sampleSparkOp op sampleSparkOp pigKeyDistFile op fSpec indexerSparkOp baseSparkOp mapperLRInnerPlans operatorKey sparkJar parameters sort sampleOperator transformPlans rp udfClassName udfArgs skewedJoin plans sort quantJob lFile quantFile rp fields compiledInputs finPlan plans plan fSpec old operatorKey op op op op op op op op op op poCoGrp joinOp op op op op op op op op op op
+
+incr displayName
+name initValue name groupDisplayName
+counter name incr key groupName key groupName counterName groupName counterName initValue key groupName counterName groupName groupName counterName name incr group name incr key incrValue groupName counterName value
+in sparkUdfImportListStr out
+properties pigContext
+limit taskId
+
+v po success singleInput poStore success jobMetricsListener jobMetricsListener jobMetric sparkOperator conf
+sparkPlan sparkPlan resourcePath resourceName resourceType sparkPlan cacheFiles master sparkConf sparkStats physicalPlan pigContext pp pc ps format verbose sparkPlan ps format verbose cacheFileUrl cacheFileUrl physicalPlan jobID conf physicalPlan grpName pigContext plan pigContext jobConf shipFiles pc sparkPlan
+properties
+
+sparkOperator
+
+physicalOper key to from copyFrom excludeFeatures globalSort requestedParallelism oper file spl useTypedComparator v
+sparkOp
+sparkOperator
+predecessors physicalOperator defaultParallelism
+split context
+idx idx idx disableCounter b
+poStore sparkOperator jobId jobMetricsListener sparkContext e sparkOperator jobStats isSuccess jobMetricsListener conf poStore sparkOperator jobId jobMetricsListener sparkContext sparkOperator jobId isSuccess e pigContext sparkPlan conf
+groupName counterName counters
+verbose sparkOp
+predecessors sortOperator
+plan
+root reducePlan
+jobID poStore sparkOperator sparkPigStats e ps nativeSparkOperator e ps nativeSparkOperator op pp load store jobID sparkContext load store jobID sparkContext jobID poStore sparkOperator jobMetricsListener sparkContext sparkPigStats
+predecessors physicalOperator size predecessors physicalOperator size baseSparkOp scope nig clazz customPartitioner parallelism pigContext physicalPlan sparkEngineConf list
+
+conf memoryThresholdFraction collectionMemoryThresholdFraction unusedMemoryThreshold n o s
+
+predecessors poSplit
+
+
+input inputSch
+tuples s location job location job job location job location job location job location job input reader split writer t location curDir location curDir pigServer context schema location job partitionFilter signature location job signature schema location job stats location job objects
+buf offset length fieldDel delimiter delimiter out field out field includeTypeInformation out field delims includeTypeInformation protoTuple buf start end val fieldDel out bytes dataType includeTypeInformation
+store
+b d f i l s bd bi m bag a t dt
+op jobConf op predecessors op
+s location job location job location job writer t location curDir signature location job msg warningEnum
+tuple
+s location job location job writer t location curDir signature location job
+storeFunc resourceSchema location job resourceStatistics location job
+resourceSchema location job location job depth recordWriter tuple location path storeFunc signature location job
+schema location job stats location job
+
+predecessors poStream
+event args
+bytes
+op op op op
+handle handleSpec path path handle argv executable spec logDir logFilesLimit spec persistStderr shipFiles
+command arg command argv file s command
+val delimiter buf index depth endIndex buf currDepth index
+t
+command fileCachePath input jarPath input input
+
+
+
+
+conf env command env name value pb
+input input
+b input input input
+b input input input
+input input
+f
+
+commaSeparatedPaths s delimiter input
+
+input input
+o input bag1 bag2 o bag
+input input
+v lgExpPlan other
+visitor
+input input
+scriptId plan scriptId jobStats scriptId jobStats scriptId assignedJobId scriptId numJobsSubmitted scriptId numJobsSucceeded scriptId numJobsToLaunch scriptId outputStats scriptId progress
+input
+input
+genericSplit context
+arg0 wc t
+s location job location job location job location job location job reader split writer t location curDir location job plan signature location job
+input currentSchema newSchema inputSch
+input currentSchema newSchema inputSch
+input input
+input input
+split obj in out
+val o o fieldNum fieldNum in t fieldNum val targetOps out
+name group name name delta group name delta status
+
+b schema b b b b b b b b b b schema b schema reader split location job b d f i l s m bag t dt
+op curTezOp plan rp sort oper keyType fields op tezOp splitKey indexerTezOp baseTezOp mapperLRInnerPlans sort keyType fields inpSort rp numOfInputs keyType sort rp sortKeyPlans udfClassName udfArgs plans inputOper partitionerPlan inputOperRearrange sort keyType fields pigContext compiledInputs finPlan plans op plan samplerOper op op op op op op op op op op poCoGrp joinOp op op op op op op op op op op
+
+combinePlan edge dataMovementType plan from to plan from to edge plan tezOp newPredecessor edge oldInputKey plan tezOp newSuccessor edge oldOutputKey project rp scope nig scope nig scope nig inputKey tezOp tezOp oldInputKey newInputKey tezOp oldOutputKey newOutputKey customPartitioner tezOp tezPlan op1 op2 scope nig
+v tezJob tezCounters vertexName dagScriptInfo appId
+combinePlan pkgTezOp conf isMergedInput keyType keyType keyType keyType tezOp pc from to isMergedInput fromOp toOp from to tezOp tezOp payloadConf job keyType conf tezOp isMergedInput conf comparatorClass keyType conf tezOp isConnectedToPackage isMergedInput job tezOp
+combinerInMap combinerInReducer intermediateOutputKeyClass intermediateOutputKeyComparatorClass intermediateOutputValueClass nic secondarySortOrder useSecondaryKey
+tezOp
+properties pigContext
+properties
+inputsToSkip inputs conf oldInputKey newInputKey
+vertexName pigStats
+fileNames tezPlanNode localResources tezPlanNode planContainer script tezPlanNode planContainer
+php pc counterGroups aggMap php pc ps format verbose pc jobID conf php grpName pc tezPlan pc tezPlan pc
+properties
+
+tezOperator
+plan tezOper conf plan tezOper inputKey pc
+fileNames resourceName remoteFsPath url fileNames from to tezPlan op root newPlan op estimatedTotalParallelism
+key unionPredecessor storeKey vertexGroupKey copyFrom excludeFeatures defaultParallelism successor vertexGroupKey closed dontEstimateParallelism estimatedParallelism intermediateReducer needEstimateParallelism overrideIntermediateParallelism requestedParallelism oper sampleOperator sortOperator sortOrder splitParent spl totalInputFilesSize useGraceParallelism useMRMapSettings useSecondaryKey vertexGroup vertexGroupMembers vertexParallelism DFStr tab v
+outputs conf oldOutputKey newOutputKey
+pkgTezOp pkg predTezOp predTezOpVertexGrp pkgTezOp pkg tezOp
+tezOp
+tezOp
+plan tezOper conf pc
+tezJob dagName tezOper success dagName vertexName tezPlanContainer
+plan plan tezOp processedPredecessors splitters stopAtSplit plan tezOp allSuccs plan operToSegment successor processedPlans scope fileSpec scope fileSpec planNode plan succ
+o v
+planContainer verbose tezPlanContainerNode
+tezPlanContainerNode
+tezPlanContainerNode
+verbose tezOper
+resourceName remoteFsPath uri resources resourceNames pigContext conf
+tf
+conf dagName tezOp conf tezPlan conf dagName tezDAGStats dagName dagPlan numVerticesToLaunch dagName numVerticesCompleted progress dagName assignedApplicationId dagName listener tezPlanNode dagName tezOp conf dagName tezOp conf
+amConf tezJobConf amConf requestedAMResources creds tezJobConf session conf requestedAMResources creds tezJobConf session currentSession newSessionConfig currentSession requestedAMResources
+processorContext
+name group name name delta group name delta
+conf tezOp conf tezOp store conf tezOp udfType conf from to udfType tezOperator
+query pc pp pc
+v status parallelism conf
+h t
+dtStr input dtStr dtStr input
+input
+input
+input
+input input
+input input
+input input
+input input
+input input
+ofKind ofKind image
+EOFSeen lexState errorLine errorColumn errorAfter curChar str
+fileName params paramFiles newPlan jobName
+tuple arg input store limit inputBag
+matched matched
+tree indent
+p job
+input input
+val fieldNum fieldNum fieldNum t fieldNum val delim
+size datum c list
+tuple
+size
+
+input input
+words ngrams size query
+idx idx idx idx idx idx idx idx idx idx idx idx idx idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val
+op op op op
+
+binOp isEquality binOp funcSpecs s udfSchemaType funcSpecs s func udfSchemaType func s node originalType toType msgCollector fs funcSpecs s func udfSchemaType funcSpecs s func udfSchemaType ignoreByteArrays funcSpecs s func udfSchemaType s1 s2 s2Type binOp func s exp toType arg node toFs arg binOp func fromSch toSch toSchType fieldSch inputSchema udfSchema udfSchemaType ignoreByteArrays binOp binOp andExp binCond cast deref binOp binOp binOp binOp binOp binOp map binOp binOp negExp binOp notExp orExp rg binOp func boolExp
+allExprPlans join exprPlans op innerPlan relOp toType fromOp toOp coGroup join exprPlans op msg errCode input fe cg cs op filter forEach gen innerLoad join limit load rank sort split op store u explPlan relOp
+type baseClass childClass group name increment input minimumSize klass input minimumSize
+conf udfConfsStr clientSysPropsStr c args c c args conf properties udfContext
+keyClassName signature udfType conf udfConfsToSerialize conf planOpKey store conf planOpKey udfTypes plan planOpKey op ld st userFunc
+userFunc
+userFunc foreach generate
+userFunc
+sparkOp
+input input
+input input
+input input
+input input
+cast ld st udf
+input
+input
+op loCogroup loCross loDistinct filter foreach gen load join loLimit load loRank loSort loSplit loSplitOutput store loStream loUnion
+op in out eqClassIndex operandType
+
+op e plan
+
+predecessors physicalOperator
+union
+unionOp predOp unionOp pred predClonedUnionPlan storeVertexGroupOps outputVertexGroupOps unionOp splitPredOp successors unionOp splitPredOp unionPredecessors unionOp successors unionOutputKeys outputVertexGroupOps pred unionOp plan unionOpKey tezOp tezOp supportedStoreFuncs unsupportedStoreFuncs unionOp successors unionOutputKeys newOutputKeys tezOp
+input input
+input input
+val o fieldNum arg0 fieldNum val arg0
+uri uri conf
+v lgExpPlan other funcSpec
+b schema b b b b b b b b b b fieldSchema b fs b fieldSchema in fieldSchema in complexFieldSchema in fieldSchema in fieldSchema start b simpleFieldSchema number b d f i l s bd bi m bag a t dt
+plan op branch columnsToDrop sch plan opClass fs fs schema schema
+conf classes is entry zos dir jarFile my_class packagedClasses my_class fs packagedClasses dir relativePath zos klass jar packagedClasses dir relativePath zos start
+input input
+input c input
+input input input
+
+input input
+quantilesListAsBag quantilesListAsBag key value numPartitions t values configuration
+key value numPartitions
+plan
+args
+message e e
+
+key value numPartitions
+str reader split location job
+mr
+po node pkgr node parentNode parentNode printer lep parentNode pp parentNode
+so
+input input
+xpathString input input
+
+input input
+input input
+input input
+input input
+input
+input

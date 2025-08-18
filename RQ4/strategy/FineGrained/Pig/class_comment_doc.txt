@@ -1,0 +1,1316 @@
+ab implement bind java function link math math comput absolut valu argument return valu doubl absolut valu input
+aco implement bind java function link math math comput arc cosin valu argument return valu doubl arc cosin valu input
+find number field tupl expect input tupl output integ
+asin implement bind java function link math math comput arc sine valu argument return valu doubl arc sine valu input
+atan implement bind java function link math math comput arc tangent valu argument return valu doubl arc tangent valu input
+ata implement bind java function link math math give tupl two datum atom x return angl theta convers rectangular coordin x polar coordin be theta dl paramet dd code valu tupl contain two doubl return valu doubl return schema schema exampl dd code regist math jar load use pig storag b foreach gener ata
+gener averag set valu class implement link algebra possibl execut perform distribut fashion p avg oper numer type also oper bytearray cast doubl expect bag tupl one record pig know schema function pass bag integ long use special adapt version avg use integ arithmet sum datum return type avg alway doubl regardless input type p avg implement link accumul interfac well never prefer method usag avail case combin use give calcul
+load store func retriev datum store datum accumulo key val pair return tupl key colfam colqual colvi timestamp valu field except timestamp datum byte array timestamp long tupl write form key colfam colqual colvi valu key colfam colqual valu
+class provid conveni base tupl implement make easi provid default implement tupl interfac evolv
+
+class test accumul udf
+interfac use reduc phrase process tupl batch mode use po packag ud fs call accumul mode tupl pull instead time specifi number tupl pull iter put buffer buffer wrap bag pass oper reduc plan purpos reduc memori usag avoid spill
+interfac allow ud f take bag accumul tupl chunk rather take whole set intend ud fs need see tupl togeth use combin lower memori need avoid need spill larg bag thu speed queri exampl someth like session analysi use combin input must first order need see tupl udf implementor might also choos implement interfac ud fs foreach implement use
+annot use groovi method part accumul udf indic act method ud valu annot name accumul udf belong annot method must static must accept singl tupl paramet return valu ignor
+
+annot use groovi method part accumul udf indic act method ud valu annot name accumul udf belong annot method must static must accept paramet return valu ignor
+class use provid free implement eval func exec function give implement accumul interfac instead provid redund implement provid base exec function free give method associ accumul interfac implement inform implement accumul see link accumul
+annot use groovi method part accumul udf indic act valu method ud valu annot name accumul udf belong annot method must static must accept paramet return valu accumul ud
+visitor optim plan determin vertex plan run accumul mode
+
+load store caster implement store type implement byte gener string represent ut charset pull implement accumulo lexicod implement
+basic pig storag implement use accumulo back store p write datum first entri link tupl treat row accumulo key subsequ entri tupl handl column row link map expand place map key column famili map valu accumulo valu scalar place directli valu empti column qualifi column argument constructor omit null empti string column famili provid key creat accumulo p read datum colfam true element row column famili aggreg singl link map result link tupl length give row colfam fals column famili column qualifi concaten separ colon place link map result link tupl two entri latter element number element equal number column give row
+
+
+add durat return result date time object plu durat object ul jodatim http sourceforg durat format durat br pre exampl usag oin load tsv use pig storag dt datetim dr chararray describ oin oin dt datetim dr chararray dump oin p p dtadd foreach oin gener add durat dr describ dtadd dtadd datetim dump dtadd
+add oper
+
+interfac declar eval func calcul decompos intiti intermedi final step formal suppos comput function f bag x gener need know entir x make progress f howev function algebra e g su case appli initit function subset x get partial result combin partial result differ subset x use intermedi function get final answer sever partial result combin invok final function function su su see code builtin avg get good idea algebra work eval function implement interfac pig attempt use map reduc combin initi funciton call map phase pass singl tupl intermedi function call time combin phase final function call reduc phase import result whether intermedi function call time hadoop make guarante mani time combin call job
+core logic appli sum function bag big decim modifi version algebra doubl math base
+core logic appli sum function bag big integ modifi version algebra doubl math base
+core logic appli math function bag doubl
+core logic appli math function bag doubl
+class use provid free implement accumul interfac eval func class case algebra function instead provid redund implement accumul eval func implement initi interm final method impli implement static class refer give implement free br br one key thing note subclass algebra eval func wish use constructor argument must call super arg br br importan implement accumul interfac class provid good simul maximum effici import manual implement accumul interfac see link accumul inform
+annot use groovi method part algebra udf indic act exec method final class ud valu annot name algebra udf belong annot method must accept paramet return valu algebra ud
+core logic appli math function bag float
+annot use groovi method part algebra udf indic act exec method initi class ud valu annot name algebra udf belong annot method must accept singl tupl paramet must return tupl object
+core logic appli math function bag doubl
+annot use groovi method part algebra udf indic act exec method interm class ud valu annot name algebra udf belong annot method must accept singl tupl paramet must return tupl object
+core logic appli math function bag long
+purpos class hold common code share among type basic func basic doubl func basic integ func etc
+grammar file pig tree parser visitor default datum type insert file base queri parser chang fil probabl need make correspond chang file wel
+visitor walk logic plan appli give logic express visitor express encount
+
+loader provid abil point pig folder contain file multipl format e g plain text gz bz lzo hive rc etc load func automat select base file extens work file extens map pig properti via properti file extens loader b file extens loader format ul li file extens loader func spec li option path tag loader func spec li option path tag sequenc file key valu writer class name loader func spec file extens loader properti associ pig loader file extens file extens loader look first three byte file tri guess format bass ul li lzo li gz li li seq loader associ extens use path partit loader support hive style path partit e g daydat consid partit key filter write note filter go loader contructor e g load use loader path tag loader support configur differ loader extens base file path e g path directori like use differ loader use setup loader type loader type loader sequenc file sequenc file also support use path tag loader select extra configur option relat key class use write sequenc file e g hive rc valu rc file setup sequenc file format rc file hive rc loader default sequenc file loader schema jsone metadata schema loader support schema load use loader case fail schema load use default schema provid
+
+visitor walk logic plan call method everi type node subclass extend implement execut method method call everi node graph
+
+boolean express
+
+
+
+grammar file pig tree parser visitor print pig script ast file base queri parser chang fil probabl need make correspond chang file wel
+grammar file pig tree parser visitor default datum type insert file base queri parser chang fil probabl need make correspond chang file wel
+use gener synthet datum synthet datum gener do make constraint tupl oper travers plan tri replac constraint valu far possibl deal simpl condit right
+record reader avro file
+class implement pig bag interfac wrap avro array design reduc datum copi
+wrapper map object translat ut object string encount
+record reader avro file
+record writer avro object
+class convert avro schema pig schema
+class creat two map give avro schema support look avro schema use either type name field name map type name avro schema map field name avro schema
+pig udf read write avro datum
+util class avro storag contain static method convert avro pig object
+adapt link f datum input stream link seekabl input
+simpl log util packag
+static method convert avro schema object pig schema object vice versa
+util class packag
+object wrap avro object tupl
+
+base class compress decompress class hold common array static datum
+
+
+
+
+
+
+
+
+factori construct differ type bag class abstract user overrid bag factori desir provid return implement bag properti pig datum bag factori name set class name pig datum bag factori jar set url point jar contain name class instanc creat instanc name class use indic jar otherwis creat instanc default bag factori
+
+method never use directli use link siz
+flatten bag string udf use charact default delimit one provid exampl bag b c bag string bag string bag b c e f bag string input bag null utf return null
+flatten bag tupl udf perform flatten first level recurs flatten nest bag exampl b c b c b c e f b c e f input bag null udf return null
+base class math udf
+
+
+method never use directli use link av
+method never use directli use link
+method never use directli use link mi
+method never use directli use link su
+max min seed defin big decim valu could go larg comput allow wrapper use provid seed min max function algrebra big decim math base
+
+
+method never use directli use link av
+method never use directli use link
+method never use directli use link mi
+method never use directli use link su
+max min seed defin big integ valu could go larg comput allow wrapper use provid seed min max function algrebra big integ math base
+
+dl syntax string bin stringn sentineln logic dd code return br br els return stringn br els return br br numer type
+dl syntax string bin cond logic dd code return br br els return br els return br br
+
+class handl read write intermedi result datum type serial format use class effici use datum reader writer format use function class subject chang use store intermedi result within pig queri
+tupl fast de serial mechan use store intermedi datum map reduc mr job intern pig use serial format chang use store persist datum ie function
+default implement tupl factori
+load store datum binari format class use pig move datum map reduc job use function store user datum support
+
+
+treat key offset file valu line
+
+base class binari comparison oper support use operand type instead result type result type alway boolean comparison oper fetch lh rh operand compar type use differ comparison method base comparison implement
+superclass binari express
+base class binari express oper support lh rh oper use fetch input appli appropri oper appropri type
+filter handl black whitelist pig command
+valid walk list oper defin link pig configur pi blackli link pig configur pi white check whether oper permit case properti defin default let everyth pass usual
+use bloom filter build previous build bloom would first build bloom filter group job exampl group job exampl defin bb build bloom load x b group c foreach b gener bb x store c bloom filter multipl key pass one field entir bag build bloom result file use bloom filter defin bloom bloom load x b load z c filter b bloom z join c z x use link bloom filter also pass bloom filter build bloom directli bloom udf scalar instead store file load simpl bloom filter reus need discard run script defin bb build bloom load x b group c foreach b gener bb x bloomfilt load z e filter bloom z f join e z x
+
+repres instanc bind pipelin
+
+
+build bloom filter use later bloom udf intend run group job exampl defin bb build bloom load x b group c foreach b gener bb x store c bloom filter multipl key pass one field entir bag build bloom result file use bloom filter defin bloom bloom load x b load z c filter b bloom z join c z x use link bloom filter
+base class build bloom algebra implement
+
+
+cbrt implement bind java function link math math comput cube root argument return valu doubl cube root valu input
+input stream decompress b zip format without file header char read stream
+output stream compress b zip format without file header char anoth stream
+ceil implement bind java function link math math give singl datum atom return small close neg infin doubl valu great equal argument equal mathemat integ
+gener concaten two argument use two bytearray two chararray mixtur two
+comput correl set datum return valu bag contain tupl combin input schema insid tupl two schema name correl two schema load xml use pig storag b group foreach b gener co
+co implement bind java function link math math give singl datum atom return cosin valu input
+cosh implement bind java function link math math give singl datum atom return hyperbol cosin valu input
+gener count number valu bag count includ null valu thu match sql semant coun field coun sql indic p class implement link algebra possibl execut perform distribut fashion p restrict datum type insid bag count p count implement link accumul interfac well never prefer method usag avail case combin use give calcul
+gener count valu first field tupl class differ count count null valu implement sql coun semant gener count number valu bag count includ null valu thu match sql semant coun sql indic coun field p class implement link algebra possibl execut perform distribut fashion p restrict datum type insid bag count p coun star implement link accumul interfac well never prefer method usag avail case combin use give calcul
+comput covari set datum return valu bag contain tupl combin input schema insid tupl two schema name covari two schema load xml use pig storag b group foreach b gener co
+simpl class hold calcul crc saniti check datum
+csv load store support field escap delimit doubl quot within field use csv convent excel argument allow control field delimit use default whether line break allow insid field ye multilin ye n multilin default line break write store unix l window crl nochang system default default system default header row first line file load rea inpu header read header row ski inpu header read header row default read header row store writ outpu header write header row ski outpu header write header row default write header row usag store x file name use csv excel storag delimit ye multilin n multilin unix window nochang rea inpu head ski inpu head writ outpu head ski outpu head linebreak set use store load convers perform warnin danger enabl multilin field load unbalanc doubl quot caus slurp input balanc doubl quot find someth break expect newlin within field therefor robust use n multilin default reason adrea paepck paepck cs stanford edu csv excel storag modif
+load function base pig storag implement part csv standard loader properli support field contain comma escap backslash follow field pars one tupl per line man say hello one two three version support pig
+visitor walk logic plan give canon name field
+
+find uid lineag inform set load function cast express need convert bytearray anoth type
+
+dummi class ensur pig context classload regist jar
+
+
+encapsul file system oper mainli use copi datum test cluster
+
+interfac implement link load func implement indic pig capabl load datum instanc key occur split
+
+extract necessari inform user provid column specif colf colq remov trail asterisk colfam colqual appropri set link column type
+logic plan visitor convert column alia refer column index use underli anonym express plan visitor
+repres one sort key sort key may compound sort multipl column case sort key contain multipl column chain info
+super class column express includ project constant defer
+repres one column insid order key direct map po project
+rule prune column map key set loader rule depend map key prune helper calcul key requir loader column prune helper calcul requir column loader combin map key column info set loader
+helper class use column map key prune figur column prune make chang oper plan
+
+combin log loader use load log base apach combin log format base format like log format h l u b refer user agent combin log filenam end line like custom log combin exampl raw load use combin log loader addr lognam user time method uri proto statu byte refer agent
+class go physic plan replac global rearrang reduc algebra oper
+
+packag oper packag global rearrang tupl output format combin stage differ po packag use index nullabl tupl find bag put tupl instead input put bag correspond offset tupl
+
+common log loader use load log base apach common log format base format like log format h l u b common log filenam end line like custom log common exampl raw load use commong log loader addr lognam user time method uri proto byte
+interfac custom order compar function
+interfac comparison oper support use operand type instead result type result type alway boolean
+class use collect messag error warn compil process messag report back user end compil iter call compil messag collector fulli popul otherwis state undefin
+
+
+class add util function get use log phi translat mr compil
+
+
+borrow consol reader input stream howev use consol reader input stream directli sinc consol reader input stream public consol reader input stream bug deal ut correctli
+
+constant
+method never use directli use link siz
+
+
+
+
+
+
+produc datum bag combin argument tupl member datum cube mean b c produc follow bag pre b c null null null b null null c null null null b c null null c null b null p marker null default set arbitrari string invok constructor via defin constructor take singl argument string want repres p usag go someth like pre code event load use event loader lang event cube foreach x gener flatt cube dimens event lang event measur cube foreach group cube lang event parallel p gener flatten group lang event coun sta su store cube p note aggreg larg datum result slow reduc sinc one group go get record relat
+
+custom format iso convert arbitrari date format iso format ul jodatim http sourceforg date format jodatim custom date format date time format br pre exampl usag regist user regist user defin custom format iso custom format custom load tsv use pig storag dt chararray describ custom custom dt chararray dump custom iso foreach custom gener custom format yyy iso time describ iso time chararray dump
+
+dl syntax string decod valuen logic dd code return br br els return br els return br br express simpl type
+diff take two bag argument compar tupl one bag return field bag return match empti bag return two record match p implement assum bag pass function fit entir memori simultan case udf still function strong slow
+bgen jjtree
+token liter valu constant gener file gen
+token manag
+
+
+collect tupl datum bag may may fit memori datum bag extend spillabl mean regist memori manag default attempt keep content memori ask memori manag spill disk call spill take whatev memori open spill file write content may happen multipl time bag track file spill p datum bag provid iter interfac allow caller read content iter awar datum spill abl handl read file well fact datum read memori may spill disk underneath p datum bag interfac assum datum write read datum bag use queue datum write datum read result undefin condit check add read reason speed caveat emptor p sinc spill asynchron memori manag request spill run separ thread oper deal content collect collect tupl contain bag synchron mean read datum bag current serial ok moment pig execut current singl thread read write lock experi find slow use synchron keyword pig chang execut model multithread may need return issu synchron read like defeat purpos execut p datum bag come sever type default sort distinct type must choos front way convert bag fli default datum bag guarante particular order retriev tupl may contain duplic tupl sort datum bag guarante tupl retriev order order defin either default compar tupl compar provid caller bag creat sort bag may contain duplic distinct bag guarante particular order retriev guarante contain duplic tupl
+implement byte array do object need abl implement string code method
+tool gener datum perform test
+class use handl read write intermedi result datum type function link bin inter sede class could also use store perman result use bin storag default tupl class
+datum storag provid abstract gener contain special instanc file system
+
+class static final valu use encod datum type number static helper function manipul datum object datum type valu could do enumer do byte code instead save creat object
+date extractor four differ constructor allow differ function date format mm h z default use match date string get pass log date format default use format return string differ constructor exist combin pleas use appropri respect constructor note datum exist simpl date format schema support exampl start default incom format want extract year would use singl string constructor date extractor pig latin need use alia use format like defin date extractor date extractor foreach row gener date extractor time string pars null return error messag print stderr default date extractor use gmt timezon use constructor overrid timezon
+method never use directli use link
+method never use directli use link
+writabl date time valu
+day return number day two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+default implement datum bag abstract class use parent three type datum bag
+default implement bag factori
+unord collect tupl possibl multipl tupl store list sinc concern order distinct
+use merg join take index sort datum consist sort tupl form index input key give near tupl find index contain key initi read end loader read index onward sequenc split index
+default input handler handl input pig stream execut synchron manner feed input via code stdin
+file output handler handl output pig stream execut synchron manner read output via code stdout
+default implement tupl class creat default tupl factori
+class use creat new tupl instanc udf place pig code even though tuplefactori creation function instanc static tupl factori ie default tupl could overrid typic call default tupl factori instanc tupl extern udf break default tupl factori present use code use tupl factori directli instead
+walker walk graph depend order guarante node visit predecessor visit equival topilog sort graph visit node order
+depth first travers graph
+get one element tupl bag case tupl int b bag int float c int number repres uid derefer int derefer singl column tupl give field derefer tupl c int derefer one column give tupl derefer derefer b bag float derefer bag give bag
+dl syntax dd code int diff date string string input dd code date string yyyymmdd format output dd code day neg
+
+class contain gener print method print exampl datum form
+find distinct set tupl bag block oper input put hashset implement distinct datum bag also provid datum bag interfac
+special implement combin use distinct combin even pars record throw away duplic valu key order minim datum send reduc
+
+unord collect tupl multipl datum store without duplic come time spill datum sort write disk must also sort upon first read otherwis spill happen iter would way find place new file datum store hash set time sort place array list sort dispit machin find fast store tree set
+
+divid oper
+repres edg dot format edg dot attribut interest
+repres graph structur dot format
+class respons load textual dot graph object represent
+class print logic plan dot format use cluster illustr nest verbos skip nest
+class print mr plan dot format use cluster illustr nest verbos skip nest associ physic plan
+repres node dot format
+class print physic plan dot format use cluster illustr nest verbos skip nest
+class put everyth need dump plan format readabl graphviz dot algorithm box print nest plan
+class print spark plan dot format use cluster illustr nest verbos skip nest associ physic plan
+
+method never use directli use link av
+base class math udf return doubl valu
+sign implement bind java function link math sign math sign give tupl two datum atom return first argument sign second argument dl paramet dd code valu tupl contain two doubl return valu dd code doubl return schema sign schema exampl dd code regist math jar load use pig storag b foreach gener sign
+base class math udf return doubl valu
+expon implement bind java function link math expon math expon give singl datum atom return unbias expon use represent doubl dl paramet dd code valu code doubl return valu dd code int return schema expon schema exampl dd code regist math jar load use pig storag b foreach gener expon
+method never use directli use link
+method never use directli use link mi
+implement bind java function link math math give tupl two datum atom return number adjac first argument direct second argument dl paramet dd code valu tupl contain two doubl return valu dd code doubl return schema schema exampl dd code regist math jar load use pig storag b foreach gener
+nextup implement bind java function link math math give singl data atom return valu adjac input direct posit infin dl paramet dd code valu doubl return valu doubl return schema nextu schema exampl dd code regist math jar load use pig storag b foreach gener nextu
+give singl datum atom return close long argument
+roun safe round number give precis use intermedi big decim see trick roun hard read also fail produc numer accur result give singl datum atom number digit return doubl extend give number decim place result multipl ten power give digit argument neg valu zero correspondingli mani place leav decim point roun roun roun option mode argument specifi link round mode round mode default link round mode hal even hal eve use
+signum implement bind java function link math math give singl datum atom return signum function argument dl paramet dd code valu doubl return valu doubl return schema signu schema exampl dd code regist math jar load use pig storag b foreach gener signu
+method never use directli use link su
+ulp implement bind java function link math math give singl datum atom return size ulp argument dl paramet dd code valu doubl return valu doubl return schema ul schema exampl dd code regist math jar load use pig storag b foreach gener ul
+writabl doubl valu
+
+
+
+loader datum produc dump store line format fieldn
+loader datum produc dump store line format fieldn class use neg test base dump loader need provid special implement
+loader datum produc dump store line format fieldn
+loader datum produc dump store line format fieldn
+
+
+
+pig udf test input code tupl get code tupl get determin first argument end string second
+give singl datum atom return eul number e rais power input
+exp implement bind java function link math math give singl datum atom return exp input dl paramet dd code valu doubl return valu doubl return schema schema exampl dd code regist math jar load use pig storag b foreach gener math
+datum storag element descriptor provid method necessari manag element datum storag
+class encapsul statist collect emb pig script includ collect link simpl pig stat correspond instanc pig script run give emb script
+empti pig stat encapsul dummi statist fetch task sinc fetch mr job execut
+visitor visit mr plan follow mr oper map plan reduc plan mr oper end input flag present mark mr oper whether map end input flag set reduc end input flag set
+equal test express
+
+compar two string ignor case consider
+method use gener equival class give oper name output oper exampl give eq class filter one pass filter one
+interfac handl error throw link store func interfac next tupl
+link store func implement interfac enabl handl error code store func next tupl
+class use implement function appli field dataset function appli tupl set programm make assumpt state maintain invoc exec method sinc pig runtim schedul local invoc base inform provid runtim programm also make assumpt mani time class instanti sinc may instanti multipl time front back end
+matcher exact key match
+class use gener exampl tupl illustr purpos
+exampl tupl add boolean tupl synthet say whether tupl gener synthet omitt futur use case want attach weight tupl display earli
+interfac captur unit work item except might throw
+
+abstract job execut engin run allow retriev inform job statu manag run job
+type queri execut pig cycl implement exec type choos first one match properti pass exec type dictat execut engin use process behaviour throughout pig implement class note meet folder titl exec type per java servic loader specif
+
+link execut manag manag extern execut process datum pig queri execut manag respons extern process also manag feed input record execut via code stdin collect output record code stdout also diagnost inform code stdout
+main interfac bridg front end back end pig allow pig run multipl execut engin limit hadoop map reduc execut engin must support follow method access point pig frontend process tradit one execut engin creat per process job necessari execut engin instanc come exec type choos reus execut engin instanc specif method list well expect behavior execut engin must conform
+
+class commun filter express load func
+base class type express express oper must extend class
+excit queri log timestamp format yymmddhhmmss function extract hour hh
+class similar max tupl field except allow specifi field use instead use field specifi ascend descend first paramet constructor specifi field use second paramet constructor specifi extrem retriev string prefix min least desc small irrespect capit lead white space specifi comput minimum string mean maximum exampl invok ud e g use udf br code defin min extrem tupl nth field group g al be foreach gener min equival br code order g asc be limit g note indic field index tupl field compar type use float int string even tupl default constructor udf behav max tupl field choos max tupl compar first field exampl default behavior class also one paramet constructor specifi index take max tupl bag code defin max extrem tupl nth field group g al be foreach gener max equival br code order g desc be limit g exampl choos larg bag tupl anoth possibl use case choos larg small pig bag tupl compar comparison base size code defin bag extrem tupl nth field max r group tabl g cogroup l r group v foreach g gener l bag result l eft bag associ larg bag r ight tabl bag be equal size compar continu perform comparison case complet tie comparison result return nondeterminist class abl compar compar abl specifi secondari key exampl secondari sort key code defin bag extrem tupl nth field max g cogroup l r v foreach g gener flatt bag bag bag gener two set result misc datum base two separ criterion sinc tupl bag size respect tupl compar continu compar member tupl find one order member tupl within group tie break second third field final note udf implement algebra accumul rel effici algorithm
+defin filter set filterfromfil load use pig storag b b filter filter set
+floor implement bind java function link math math give singl datum atom return larg close posit infin doubl valu less equal argument equal mathemat integ
+
+
+
+
+dummi counter handl context fetch task
+class respons execut fetch task save result disk necessari cleanup afterward
+fetch optim determin whether entir physic plan fetchabl mean task result directli read fetch underli storag rather creat mr job check link fetchabl plan visitor use walk plan
+class use po store write output underli storag via output writer case fetch task set dummi context object otherwis would initi hadoop job
+dummi progress report use fetch task
+
+
+class comput size output system
+file input handler handl input pig stream execut asynchron manner feed input via extern file specifi user
+class provid implement order load func interfac option load func use file input format super class sinc do outer join merg join yet
+class extend array list file add final call delet file help get rid final class default abstract bag free without wait final call class spill disk class need final cautio assign new valu variabl type file old object point schedul delet avoid call clear assign new valu
+
+file output handler handl output pig stream execut asynchron manner read extern file specifi user
+simpl class specifi file name storag function use
+class repres rel posit file record filenam offset allow pig order file split sinc do outer join merg join yet
+rule move filter foreach check uid filter work present predecessor foreach transform
+
+convert convert rdd filter rrd use po filter
+extract filter predic interfac implement code load predic pushdown
+
+
+
+use fix length array grow size dynam like link byte array output stream
+file loader take string argument specifi rang column unix format ex rang eas use text editor inclus field posit n may specifi either simpli second option argument specifi whether skip first row input file assum header pig may combin multipl input file header singl split fix width loader make sure skip duplic header ski head skip row anyth els default behavior we head skip third option argument specifi pig schema load datum automat trim whitespac numer field note few field specifi schema specifi column spec field schema use warn field load array trim lead trail whitespac field valu indistiguish space separ differ field datetim convert utc load column spec idea syntax parser borrow russ lankenau implement http
+store pig record file format take string argument specifi rang column unix format ex rang eas use text editor inclus field posit n may specifi either simpli second option argument specifi whether write header record name field writ head write header record n head default write one datetim store ut column spec idea syntax parser borrow russ lankenau fix width loader implement http
+
+method never use directli use link av
+sign implement bind java function link math sign math sign give tupl two datum atom return first argument sign second argument dl paramet dd code valu tupl contain two float return valu dd code float return schema sign schema exampl dd code regist math jar load use pig storag b foreach gener sign
+expon implement bind java function link math expon math expon give singl datum atom return unbias expon use represent doubl dl paramet dd code valu code float return valu dd code int return schema expon schema exampl dd code regist math jar load use pig storag b foreach gener expon
+method never use directli use link
+method never use directli use link mi
+implement bind java function link math math give tupl two datum atom return number adjac first argument direct second argument dl paramet dd code valu tupl contain float doubl return valu dd code float return schema schema exampl dd code regist math jar load use pig storag b foreach gener
+nextup implement bind java function link math math give singl data atom return valu adjac input direct posit infin dl paramet dd code valu float return valu float return schema nextu schema exampl dd code regist math jar load use pig storag b foreach gener nextu
+round implement bind java function link math math give singl datum atom return close long argument
+roun safe round number give precis use intermedi big decim see trick roun hard read also fail produc numer accur result give singl datum atom number digit return float extend give number decim place result multipl ten power give digit argument neg valu zero correspondingli mani place leav decim point roun roun roun option mode argument specifi link round mode round mode default link round mode hal even hal eve use
+signum implement bind java function link math math give singl datum atom return signum function argument dl paramet dd code valu float return valu float return schema signu schema exampl dd code regist math jar load use pig storag b foreach gener signu
+method never use directli use link su
+ulp implement bind java function link math math give singl datum atom return size ulp argument dl paramet dd code valu float return valu float return schema ul schema exampl dd code regist math jar load use pig storag b foreach gener ul
+
+convert abl convert rrd anoth rrd use po
+
+
+
+class repres udf specif encapsul class name argument constructor
+
+conveni typedef tie googl code function code except function
+
+eval func wrap implement function interfac pass string constructor resolv function class pig udf packag import list use p function must default constructor use function take arg constructor initi function subclass one call code super function p exampl defin udf function wrapper eval func function
+group function permit system choos group
+
+
+
+
+
+gener invok class common grunt work set invok class extens class need pig know type return expect exec find appropri class reflect implement constructor call super note constructor b requir seemingli nonsens pig work p invok famili udf understand follow class name string long float doubl int p invok also work array argument repres pig datum bag element simpli refer code string exampl p udf allow one dynam invok java method return code p usag invok famili ud f adjust appropri p pre code invok static method defin string long invok long long string long foreach string gener string long invok method object defin string concat invok string string string string concaten foreach string gener string concat p first argument constructor full path desir method br second argument list class method paramet br method static first element list object invok method br second argument option static method assum suppli br third argument keyword static true signifi method static br third argument option true default br p
+get day extract day month date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get hour extract hour day date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+udf get memori size tupl extract number row valu special tupl creat poisson sampl loader use skew join
+get second extract millisecond second date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get minut extract minut hour date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get month extract month year date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get second extract second minut date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get month extract week week year date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get month extract week year date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+get year extract year date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag dt datetim describ oin oin dt datetim dump oin truncat foreach iso gener get year year get month month get week week get week year weekyear get day day get hour hour get minut min get second sec get mill second milli describ truncat truncat year int month int week int weekyear int day int hour int min int sec int milli int dump truncat
+
+
+
+
+
+
+
+
+
+
+
+rule lo cogroup set parallel gener express constant set parallel logic express simplifi could use convert express constant singl constant express
+interfac implement class group datum memori
+
+
+
+h base implement load func store func p exampl show load datum h base pre code raw load sampl tabl use h base storag info friend info key true id bytearray chararray chararray map map exampl load datum redundantli info column famili illustr usag note row key insert first result schema load column name start give prefix specifi column name trail exampl pass code friend constructor exampl would caus column start load p note use prefix like code friend explicit h base filter set column prefix specifi queri h base mani filter caus perform degred typic see mix one prefix descriptor larg list column case good perfom see either load entir famili via code friend specifi explicit column descriptor name p exampl show store datum h base pre code copi store raw sampl tabl copi use h base storag info friend info note store expect first valu tupl row key scalar valu need map explicit column descriptor map need map column famili name exampl code friend column famili datum sampl tabl write code buddi column famili sampl tabl copi tabl
+
+
+
+class helper method convert pig datum type hadoop datum type vice versa
+
+
+
+
+support log use kerbero keytab file kerbero authent system use ticket limit valit time consequ run pig script kerbero secur hadoop cluster limit run time remain valid time kerbero ticket realli complex analyt may becom problem job may need run long time ticket time allow kerbero keytab file essenti kerbero specif form password user possibl enabl hadoop job request new ticket expir creat keytab file make part job run cluster extend maximum job durat beyond maximum renew time kerbero ticket usag ol creat keytab file requir princip use ktutil tool creat keytab use roughli command addent exampl nl addent exampl nl wkt niel keytab set follow properti either via pigrc file command line via p file ul li java secur conf path local conf file usual conf li hadoop secur princip pricip want login usual would look like exampl n li hadoop secur keytab path local keytab file must use authent usual would look like keytab path variabl local client system start actual pig script run without special access cluster node
+
+
+hypot implement bind java function link math math give tupl two datum atom return sum squar two argument dl paramet dd code valu tupl contain two doubl return valu doubl return schema hypo schema exampl dd code regist math jar load use pig storag b foreach gener hypo
+link hadoop execut manag special link execut manag provid hdf support secondari output etc hadoop execut manag provid support secondari output manag process also persist log task hdf
+
+factori creat link input handler link output handler depend specif link stream command
+dl syntax dd code long hash fn string int mod
+dl implement hash fnv take paramet
+dl implement hash fnv take paramet
+
+
+
+loader hive rc columnar file support follow type tabl tr hive type pig type datum type tr td string chararra tr td int integ tr td bigint long lon tr td float td float tr td doubl doubl tr td boolean boolea tr td byte byt tr td array tupl tr td map partit input path scan loader partit name valu pattern subdirectori detect partit append tabl schema exampl directori structur pre mytabl schema id int name string final schema return pig id int name chararray year chararray month chararray day chararray usag load hive tabl uid bigint t long arr arra string string code pre load use hive columnar loader bigint t long arr array string string map string string refer field b foreach gener uid t arr usag load hive tabl uid bigint t long arr arra string string process date date partit hive tabl old usag note partit filter use pig filter oper code pre load use hive columnar loader bigint t long arr array string string map string string refer field b foreach gener uid t arr new usag code pre load use hive columnar loader bigint t long arr array string string map string string f filter daydat daydat usag load hive tabl uid bigint t long arr arra string string read column uid t date old usag note behaviour support pig load push add column need load like ignor pig automat send column use script loader code pre load use hive columnar loader bigint t long arr array string string map string string f filter daydat daydat refer field b foreach gener uid t arr issu tabl schema definit schema definit must column name follow space comma space next column name string string work must string string partit partit must format partit name partit valu string support partit partit must follow name convent sub directori tabl exampl follow valid pre
+
+hive rc input format use hive columnar loader input format reason implement new input format sub class ul current rc file input format use old input format mapr interfac pig load store design use new input format mapreduc class split calcul input format hive columnar loader support date partit filter do
+
+class deleg work rc file record reader
+implement helper method ul pars hive tabl schema string convert hive pig type convert pig hive type
+use hive udaf gener uda exampl defin avg hive uda load name chararray num doubl b group name c foreach b gener group avg num
+use hive udf gener ud exampl defin sin hive ud load num doubl b foreach gener sin num hive udf take option second paramet hive udf requir constant paramet defin hive ud null name txt
+
+use hive gener udt exampl defin explod hive udt load chararray b foreach gener flatten explod
+
+host extractor take url return host exampl id lead sport espn go com pig latin usag look like host foreach row gener host extractor
+hour return number hour two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+iee eremaind implement bind java function link math iee eremaind math iee eremaind give tupl two datum atom return remaind oper two argument prescrib ieee standard dl paramet dd code valu tupl contain two doubl return valu doubl return schema iee eremaind schema exampl dd code regist math jar load use pig storag b foreach gener iee eremaind
+indexof implement eval function search string exampl load name b foreach gener indexo
+udf accept map input valu primit datum type br udf swap key valu return new invers map br note case origin valu result map would br contain string key datum bag valu bag valu compos br origin key valu br pre note udf accept map valu primit datum type udf return map string datum bag code grunt cat open apach br grunt load int grunt b foreach gener inversema grunt dump b apach open hadoop apach
+iso day return number day two datetim long ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin diff foreach oin gener iso year year iso month month iso day day iso hour hour iso minut min iso second sec describ diff diff year long month long day long hour long min long sec long dump diff
+iso helper provid helper method class packag ul jodatim http sourceforg date format class public test test truncat date time otherwis would packag visibl
+iso hour return number hour two datetim long ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin diff foreach oin gener iso year year iso month month iso day day iso hour hour iso minut min iso second sec describ diff diff year long month long day long hour long min long sec long dump diff
+iso minut return number minut two datetim long ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin diff foreach oin gener iso year year iso month month iso day day iso hour hour iso minut min iso second sec describ diff diff year long month long day long hour long min long sec long dump diff
+iso month return number month two datetim long ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin diff foreach oin gener iso year year iso month month iso day day iso hour hour iso minut min iso second sec describ diff diff year long month long day long hour long min long sec long dump diff
+iso second return number second two datetim long ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin diff foreach oin gener iso year year iso month month iso day day iso hour hour iso minut min iso second sec describ diff diff year long month long day long hour long min long sec long dump diff
+iso day truncat datetim string precis day field ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+iso hour truncat datetim string precis hour field ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+iso minut truncat datetim string precis minut field ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+iso month truncat datetim string precis month field ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+iso second truncat datetim string precis second field ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+iso unix convert datetim string unix time long ul jodatim http sourceforg date format unix time unix br pre exampl usag regist user regist user defin iso unix iso unix oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin unix foreach oin gener iso unix time describ unix unix time long dump unix
+iso week truncat datetim string precis day field first day week datetim week monday see http sourceforg html ul jodatim http sourceforg date format br pre exampl usag regist user regist user defin iso year iso year defin iso month iso month defin iso week iso week defin iso day iso day defin iso hour iso hour defin iso minut iso minut defin iso second iso second oin load tsv use pig storag dt chararray chararray describ oin oin dt chararray chararray dump oin truncat foreach oin gener iso year year iso month month iso week week iso day day iso hour hour iso minut min iso second sec describ truncat truncat year chararray month chararray week chararray day chararray hour chararray min chararray sec chararray dump truncat
+
+
+return input
+return input use duplic column rewrit rewrit duplic column intend extern use
+
+
+dummi implement statu report illustr mode
+class use physic oper gener exampl tupl illustr purpos
+class use attach illustr physic oper
+
+
+matcher allow match differ key key set increas order exampl plan load distinct split split output split output union plan load distinct split split output split output union note key scope
+class intend use load func implement intern index sort datum use index support merg join pig interact index abstract away method interfac pig runtim call particular sequenc get record need perform merg base join sequenc call make pig runtim ol li link load func udf context signatur string li link index load func configur li link load func locat string job li link index load func near tupl li link load func next call multipl time retriev datum perform join li link index load func set evolv work outer join yet may need chang
+index key record index key info use key joi ns address case key either empti tupl one empti field case must respect sql standard document equal method
+index storag form pig storag support per record seek index storag creat separ hidden index file everi data file write format index file pre header index bodi footer header contain list record index field number repres index key index bodi contain tupl record datum field tupl ul li index key tupl li number record share index key li offset datum file read first match record footer contain sequenti ul li small key tupl index li larg key tupl index li offset byte start footer index storag implement index load func use tabl pig join index storag requir datum global partit sort index key partit separ index must local sort also note index storag loader demonstr join
+link input handler respons handl input pig stream extern command manag execut could feed input link input type synchron manner via code stdin link input type asynchron manner via extern file subsequ read execut
+
+
+class estim number reduc base input size number reduc base two properti ul li pig exec reduc byte per reduc mani byte input per reduc default li pig exec reduc max constrain maximum number reduc task default use loader implement load metadata report input size use otherwis attempt determin size filesystem p e g follow pig script pre load b load c join b store c size size estim number reduc use
+class encapsul runtim statist user specifi input
+ab implement bind java function link math math comput absolut valu argument return valu int absolut valu input
+method never use directli use link av
+method never use directli use link
+method never use directli use link mi
+method never use directli use link su
+record reader use read datum write use link inter record writer use default inter sede object deseri
+record reader use write datum compat link inter record writer use default inter sede object serial
+class handl read write intermedi result datum type serial format use class effici use datum reader writer format use function class subject chang use store intermedi result within pig queri
+use get hold singl instanc inter sede futur subclass inter sede get instanti would configur
+load function pig intern use onl load function use store intermedi datum mr job pig queri serial format load function chang new version pig use store persist datum
+annot inform user packag class method intend audienc
+annot inform user much reli particular packag class method chang time
+
+unord collect tupl multipl datum store without duplic come time spill datum sort write disk datum store hash set time sort place array list sort dispit machin find fast store tree set bag spill number tupl memori reach limit
+class empti extens map object object exist datum type type distinguish intern map type map object object extern map type string object
+order collect tupl possibl multipl datum store unsort come sort time dump file first iter request experement find fast store sort begin allow user defin compar provid default compar case user specifi one bag regist spillabl memori manag calcul number tupl hold memori spill file
+
+
+
+
+
+
+
+
+
+
+todo need add support pig type todo static cach gener code base input string
+udf use check whether string input doubl note function check doubl rang rang import use numer instead would like check string numer also numer perform slightli good compar function
+determin whether bag map empti
+
+
+udf use check whether string input float note function check float rang rang import use numer instead would like check string numer also numer perform slightli good compar function
+udf use check whether string input integ note function check integ rang rang import use numer instead would like check string numer also numer perform slightli good compar function
+udf use check whether string input long note function check long rang rang import use numer instead would like check string numer also numer perform slightli good compar function
+
+udf use check string numer note udf differ int way check integ rang run fast udf use regex match integ int string udf expect perform slightli good int long float doubl howev primari goal udf perform rather check numer string use udf care type int long float doubl would like check numer natur check rang int long doubl pars function return true string larg rang numer datum type int long doubl float use specif function int float long doubl rang import
+
+class provid much intuit way write accumul ud fs exampl could express empti follow pre code public class empti extend iter accumul eval func boolean public boolean iter tupl iter throw io except return next count could implement follow pre code public class count extend iter accumul eval func long public long iter tupl iter throw io except long ct next iter next return ct
+
+
+
+
+pig entri point javascript
+
+class use manag jvm reus case execut engin like tez spark static datum member ud load func store func class need reset object refer make null reiniti jvm contain reus new task exampl usag perform static datum cleanup udf follow public class udf extend eval func tupl privat static int invoc privat static report report static regist class static datum cleanup jvm reus manag instanc static datum cleanup ud write public static method perform cleanup annot static datum cleanup
+
+implement interfac char stream stream assum contain ascii charact unicod escap process
+
+compil class take mr oper plan convert job control object relev depend info maintain job control object make job job conf map reduc oper correspond job job cong method return job conf configur per map reduc oper compar design p word compar choos almost case use raw compar one except user provid comparison function order order queri pig type raw compar function use type int long etc compar null awar awar first byte nullabl type writabl class contain info whether valu null asc write array job conf key order read compar part conf call p queri pig type writabl compar class use type specif instanc writabl compar
+
+
+
+class encapsul runtim statist map reduc job job statist collect job complet
+collaps local rearrang global rearrang packag po join group spark reduc unnecessari map oper optim detail see pi
+
+
+class provid bridg rubi class extend accumul pig udf execut pig class pass bag datum rubi exec function ultim get valu call get class instanc receiv method
+class provid bridg rubi class extend algebra pig udf interfac implement initi interm final method unlik eval func accumul type must know compil time ie can return object pig inspect type ensur valid class specif shell provid bottom class leverag algebra eval func provid accumul eval func implement
+class serv bridg rubi method regist extend pig udf execut pig instanc contain class creat method name call instanc schema function associ schema call function give input schema output give pig
+implement script engin jrubi facilit registr script ud f also provid inform via nest class rubi function regist function
+
+link script engin implement java script
+loader datum store use link json storag gener json loader depend schema store datum conceiv could write loader determin schema jso
+read write metadata use json metafil next datum
+json pig store function pig tupl store one line one valu text output format read easili use text input format pig tupl map json object pig bag map json array pig map also map json object map assum string string schema store side file deal map json pig type schema file share format one use pig storag
+python implement pig udf perform map python pig datum structur
+implement script engin jython
+
+udf take map return bag contain keyset br pre code grunt cat datum open apach hadoop grunt load grunt b foreach gener keys grunt dump b open apach
+visitor figur type key map plan need key null creat appropri nullabl xxx writabl object
+pull class hive spark
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+instr implement eval function search last occurr string br return null error br exampl code regist pigudf jar load name b foreach gener lastindexo dump b
+instr implement eval function search last occurr string return null error exampl code load name b foreach gener lastindexo
+length implement eval function find length string exampl regist piggybank jar load name b foreach gener lengt dump b
+
+
+cube oper implement datum cube comput p cube oper syntax pre code alia cube rel cube rollu cube rollup alia output alia cube oper rel input relat oper cube rollup cube rollup oper column refer rang schema refer rel p cube comput rollup comput use ud fs link cube dimens link rollup dimens repres like pre code event load use event loader lang event total eventcub cube event cub event rollu result foreach eventcub gener flatt lang event coun sta su store result exampl cub event gener combin aggreg lang event lang event n dimens combin aggreg gener similarli rollu gener aggreg detail gener grandtot level hierarch order like n dimens combin aggreg gener output exampl queri follow combin aggreg lang event lang event lang event lang event lang event lang event total number combin sinc cube rollup claus use null repres valu dimens dimens valu contain null valu convert unknown comput cube rollup
+
+
+
+log implement bind java function link math math give singl datum atom return natur logarithm base e doubl
+lo implement bind java function link math math give singl datum atom return base logarithm doubl
+lo p implement bind java function link math math give singl datum atom return natur logarithm sum argument dl paramet dd code valu doubl return valu doubl return schema lo schema exampl dd code regist math jar load use pig storag b foreach gener lo
+
+oper map datum inner plan lo use inner plan lo
+
+
+
+return load public lo load load return load param load load set public void load lo load load load load return store public lo store store return store param store store set public void store lo store store store store
+rank oper implement oper syntax pre code alia rank rel de dens alia output alia rank oper rel input relat oper star column refer rang schema rel dens dens rank mean sequenti valu without gasp among differ tupl valu
+
+
+
+
+
+
+low implement eval function convert string low case exampl load name b foreach gener low
+
+return string lead whitespac omit implement bind java function link string string
+provid core process implement backend pig execut engin choos decid deleg work class also contain set util method includ one center around hadoop
+first charact string
+
+
+
+collect static function use pigmix map reduc task
+
+
+
+order collect tupl possibl multipl datum store prioriti queue come sort iter request limit sort datum bag spillabl allow user defin compar provid default compar case user specifi one
+creat map uid load func spec logic express associ know hold unmodifi element datum return load function inform use find load caster use cast bytearray type
+
+
+
+packag oper special po packag oper use specif case order queri see jira detail
+interfac provid cast implement load function cast bytearray object intern type pig reli load function load datum provid cast pig understand binari represent datum thu cast interfac provid function cast bytearray pig intern type still map cast quit right
+convert load datum via po load convert rr tupl abus interfac bit input rrd convert case instead input sourc path po load
+load func load datum pig read hdf file sourc load func tightli coupl hadoop link input format load func sit atop input format translat key valu hadoop pig tupl p load func contain basic featur need major load function advanc function separ interfac load function implement see link load caster link load metadata link load push link order load func link collect load func link index load func
+contain logic find load func base definit ul li file extens loader li file format loader
+conveni class extend decor class extend load func implement load metadata
+conveni class extend decor load func subclass must call load func instanc load func method call result illeg argument except method call
+interfac defin retriev metadata relat datum load give loader implement interfac assum unabl provid metadata associ datum
+interfac defin loader support predic pushdown give loader implement interfac pig pushdown predic base type oper support loader give set field interfac privat pig make public pig pi use builtin load func implement till make public pi caus api chang interfac make backward incompat
+interfac defin commun pig function push loader give loader implement interfac assum unabl accept function push
+union interfac load caster store caster make avail simplic
+
+
+local exec type exec type local mode hadoop mapreduc
+main class launch pig map reduc
+
+
+pig loader load apach httpd access log write almost apach httpd log format basic usag simpli feed loader custom logformat specif tell field extract logformat exampl pre specifi exist file long exist will read loader field request exampl load pig use log format loader h l u r b refer user agent dump exampl output command huge exampl ye actual pig code demonstr possibl field extract normal use case exampl trim request field applic realli need loader implement pushdown project need worri much field leav loader support extract thing like individu cooki queri string paramet regardless posit actual log line addit logformat specif use custom config parser also understand standard format pre common combin combinedio refer agent work also pre exampl load pig use log format loader dump exampl class simpli wrapper around http http detail document find
+
+
+logic represent express oper express oper datum type uid uid uniqu id express
+plan contain logic express oper
+visitor express plan
+logic plan logic view relat oper pig execut give script note contain relat oper express contain logic express plan insid relat oper
+
+class provid inform regard logic plan make sure avoid expos logic plan datum regard logic plan could expos none pig intern plan oper etc
+grammar file pig tree parser schema alia valid file base queri parser chang fil probabl need make correspond chang file wel
+
+visitor mechan print logic plan
+implementor interfac would defin valid base logic oper within pig script valid could call link h execut engin logic plan properti
+visitor logic plan
+logic represent relat oper relat oper schema
+schema logic perspect
+
+
+method never use directli use link av
+method never use directli use link
+method never use directli use link mi
+method never use directli use link su
+dl syntax dd code int file string express comma separ filelist input dd code file text file df output dd code file contain express return otherwis
+gener maximum set valu class implement link algebra possibl execut perform distribut fashion p max oper numer type chararray also oper bytearray cast doubl expect bag tupl one record pig know schema function pass bag integ long use special adapt version max use integ arithmet compar datum return type max match input type p max implement link accumul interfac well never prefer method usag avail case combin use give calcul
+gener minimum set valu class implement link algebra possibl execut perform distribut fashion p min oper numer type chararray also oper bytearray cast doubl expect bag tupl one record pig know schema function pass bag integ long use special adapt version min use integ arithmet compar datum return type min match input type p min implement link accumul interfac well never prefer method usag avail case combin use give calcul
+compil compil give physic plan dag map reduc oper convert job control structur implement visitor physic plan compil current support oper except mr sort oper use predecessor base depth first travers compil oper first compil predecessor map reduc oper tri merg current oper one goal keep number mr oper minimum also merg multipl map job creat compil input individu singl job new map job creat content previou map plan add howev state previou map plan manual move add someth new take care ex parallel case block oper split new map reduc oper start use combin connect two oper whenev happen care take add mr oper mr plan connect appropri
+
+
+mr exec type exec type distribut mode hadoop mapreduc
+
+link mr op plan visitor gather path intermedi datum link mr oper plan
+class encapsul runtim statist map reduc job job statist collect job complet
+visitor mr oper plan class
+plan use creat plan map reduc oper convert job control object necessari captur depend among job
+util class pig statist
+visitor mechan print logic plan
+script state encapsul set pig script run hadoop cluster set add mr job spawn script turn persist hadoop job xml properti alreadi job xml user want know relat script mr job deriv job xml
+
+
+
+main class pig engin
+
+filter mark everi load oper map mark annotatio annot valu map integ set string integ column number field set set key field field map field top level schema load algorithm travers plan revers depend order ie sink sourc logic relat oper map lookup express plan collect uid key relat retain visitor nest logic plan use visitor henc distinct requir sourc find uid provid sourc annot logic relat oper load map integ set string contain column number logic relat oper gener simpl map pruner map key mention script pruner assum need key pruner optim column pruner remov column mention never use
+
+
+class util static method use hadoop map reduc backend verif code debug purpos public string split string array list compar split split throw io except interrupt except string builder st new string builder number split split size long len compar split split split len split length total length len int split size input split length split length locat string locat split locat st append st append return string
+main class launch pig map reduc
+oper model map reduc job act host plan execut map reduc option combin phase emb mr oper plan order captur depend amongst job
+class use po store write df via output writer set modifi job configur forc write specif subdirectori main output directori do multipl output directori use job
+spark partition wrap custom partition implement partition interfac sinc spark shuffl api take differ paritition class see partition compar map reduc need wrap custom partition write map reduc insid spark partition mr custom partition expect implement partit specif argument public int partit pig nullabl writabl key writabl valu int partit exampl partition
+
+method never use directli use link siz
+max tupl field udf return tupl max valu first field give bag caveat first field assum type may need enforec via schema load datum sow sampl usag sampl usag load tsv first long second third b group second c foreach b gener group max tupl field
+
+
+
+
+merg join index use gener fli index merg join effici sampl first record everi block right side input return tupl follow format index tupl sort write index file hdf
+
+evalu variou metric
+milli second return number millisecond two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+class build singl instanc singleton design pattern build singl instanc set mini cluster actual consist mini df cluster mini map reduc cluster local machin also set environ pig run top mini cluster
+start mini cluster requir set use want restart cluster run test want set real cluster classpath need contain pig jar piggybank jar pre export classpat java mini cluster runner possibl improv ul li add main mini cluster li make mini cluster configur number map li make mini cluster use default properti chose hadoop conf dir e g miniclust conf dir instead alway use system properti li use cli option li make shell wrapper
+class build singl instanc singleton design pattern build singl instanc set mini cluster actual consist mini df cluster mini map reduc cluster local machin also set environ pig run top mini cluster class base class mini cluster slightli differ among differ version hadoop mini cluster implement locat pi hom
+minut return number minut two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+
+mod oper
+describ execut udf monitor time p work ud fs implement accumul interfac p set default valu caus use instead null udf time appropri valu among long string etc use default field annot array java reason will bear p set primit monitor ud default p current way provid default byte array tupl map bag null alway use p current annot ignor accumul interfac use
+monitor udf use watch execut ud kill udf take exceedingli long time null return udf time option ud f implement provid interfac provid custom logic handl error default valu
+month return number month two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+
+
+
+implement can use apach common multi valu map serializ want use multi hash map mark deprec class can extend map need chang semant put give one key one valu either creat new entri key new collect valu yet map add valu exist collect key key alreadi map
+optim merg part splitte map reduc oper splitter map reduc oper p merg produc mr oper plan few map reduc oper map reduc oper origin mr oper plan p mr compler gener multipl map reduc oper whenev encount split oper connect singl splitter map reduc oper one splitte map reduc oper use oper p po store splitter po load po load po load splitte p optim merg map reduc oper replac po load po store combin po split oper
+multi queri optim spark
+
+packag oper packag global rearrang tupl output format requir p oper use merg multipl map reduc splitte map splitter optim packag oper reduc plan splitte form index packag list insid oper oper receiv input extract index key call correspond packag get output datum p due recurs natur optim oper may contain anoth packag p successor oper must po demux oper know consum output oper
+udf use split output datum bunch directori file dynam base user specifi key field output tupl sampl usag code load use pig storag b c store use multi storag paramet detail b requir df path output directori file creat b requir index field whose valu use creat directori file field case b option compress type default support type b option output field separ let uniqu valu field output may look like prefix task execut store case user group field follow multi storag imper tupl particular group go exactli reduc case e g file directori output compress sub directori output file extens say exampl case use one file look like key field also comma separ list index e g case storag also option leav key valu storag see remov key
+
+multipli oper
+reg ex loader extend reg ex loader allow regular express pass argument pig latin via line like load test txt use reg ex loader would pars line like array like one two ii three iii
+
+
+nextup implement bind java function link math math give singl data atom return valu adjac input direct posit infin dl paramet dd code valu doubl return valu doubl return schema nextu schema exampl dd code regist math jar load use pig storag b foreach gener nextu
+function divid search queri string wrod extract size limit length exampl queri real nice queri size limit queri split real nice queri real real nice nice queri exampl record pig hadoop size limit record split pig hadoop pig hadoop
+
+nativ spark oper
+
+
+
+addit util function new logic plan
+
+ast node must implement interfac provid basic machineri construct parent child relationship node
+gener d long valu thread safe manner thread gener d
+common interfac graph vertex map logic though call matcher person get confus mapper map reduc
+
+
+test datum bag factori test properli provid non default bag factori
+marker interfac distinguish load func implement use file system sourc
+
+unord collect tupl possibl multipl tupl store array list sinc concern order distinct implicit assumpt user class store mani tupl fit memori spill do bag disk
+function remov search queri ur l defin pattern function also remov empti queri
+udf one produc differ result invok input exampl behavior might exampl current time random certain pig optim depend ud fs determinist therefor import correct ud f annot
+histor reason split alway produc filter pass everyth unchang optim remov condit look po filter constant boolean true express plan
+
+optim remov unnecessari temp store store gener mr compil bridg differ job even though real store produc datum pattern look like split store inter storag store store func follow load tmp store depend map reduc oper optmiz remov store collaps split one branch remain adjust load load real store situat produc someth logic plan pig server chang pre op store load post op pre op post op store job boundari pre post end case
+equal test express
+
+
+
+
+
+
+
+
+
+
+
+
+nullabl partit writabl adaptor class around pig nullabl writabl add partit index class
+
+
+class use datum type unknown need pig nullabl writabl object
+
+
+
+
+
+interfac defin graph oper plan plan model graph restrict type connect oper allow
+
+class repres view plan view contain subset plan oper return view object oper base plan use repres match result
+class transform logic plan textual represent
+
+
+boolean express
+load function store function orc file option constructor argument provid allow one custom advanc behavior list avail option ul li code size set stripe size file li code index stride set distanc entri row index li code size size memori buffer use compress store stripe memori li code pad set whether hdf block pad prevent stripe straddl block li code compress set gener compress use compress datum valid codec non zli snapp lzo li code version set version file write
+
+
+
+
+implement interfac indic pig give loader use merg join mean datum order rather split return underli input format order match order datum load exampl file split natur order file split rdbm sinc tabl inher order posit repres writabl compar object store index creat merg join sampl map reduc job get order sequenc split necessari read split order merg join assur datum read accord sort order sinc do outer join merg join yet
+
+link output handler respons handl output pig stream extern command output manag execut could fetch link output type synchron manner via code stdout link output type asynchron manner via extern file process write output
+eval func annot output schema tell pig expect output use place link eval func schema schema p default implement link eval func schema schema look annot return interpret schema annot present p implement custom link eval func schema schema overrid annot unless deal explicitli call schema p exampl complex schema declar annot output schema
+
+class encapsul runtim statist user specifi output
+give aggreg function bag possibl window definit produc output match sql ove repons caller alreadi order bag requir oper aggreg window definit pass constructor bag pass exec time usag function specif arg p bag bag call function assum bag tupl singl field p one follow ul li count li sum doubl li sum float li sum int li sum long li sum bytearray li sum bigdecim li avg doubl li avg float li avg long li avg int li avg bytearray li avg bigdecim li min doubl li min float li min long li min int li min chararray li min bytearray li min bigdecim li max doubl li max float li max long li max int li max chararray li max bytearray li max bigdecim li li li li lead li lag li rank li li ntile li li p option record start window function indic preced e begin bag posit integ indic number record current record indic current record specifi default p option record end window function indic follow e end bag posit integ indic number record current record indic teh current record specifi default p mayb option follow function accept requir addit argument ul li lead two option argument first number record ahead current lead second default valu lead extend beyond end window frame li lag two option argument first number record behind current lag second default valu lag extend beyond begin window frame li rank one requir number field bag order li one requir number field bag order li ntile one requir number bucket split datum li one requir number field bag order li one requir number field bag order exampl usag cumul sum p pre load si chararray int long f float chararray c foreach group si aord order gener stitch aord aord float foreach c gener p equival sql statement p tt select sum f partit si order find record ahead current record use window current row record ahead default valu p pre load si chararray int long f float chararray c foreach group si aord order gener stitch aord aord foreach c gener p equival sql statement p tt select lead partit si order row current row follow accept constructor argument specifi name type return schema argument option use take name type bag return schema type p pre defin citi load citi chararray state chararray pop int decor citi popul rank within state belong rank foreac group citi state order citi pop de gener flatt stitch begin end third field describ rank rank stitch chararray stitch chararray stitch int stitch int dump rank nashvil tennesse houston texa san antonio texa dalla texa austin texa
+link store func implement interfac enabl overwrit locat alreadi exist
+boolean oper
+
+
+
+oper write key valu hash join reduc oper similar po local rearrang tez addit also write bloom filter construct join key case bloomjoin map strategi join key case reduc strategi use multipl bloom filter partit hash key allow parallel also allow we low fals posit small vector size
+cast convert datum byte array either string integ add test po union need full oper implement
+cast convert datum byte array either string integ add test po union need full oper implement
+collect group oper special oper use user give hint collect group claus implement group collect record give key buffer see key chang emit key bag record buffer assum key give record collect togeth thu need buffer across key
+oper part rank oper implement add local counter uniqu task id tupl mode oper regular dens local counter depend mode oper regular rank consid duplic row assign number distinct valu group dens rank count number distinct valu without consid duplic row depend consid entir tupl row number set column rank physic oper reli specif mr class avail pig map reduc counter
+po counter stat tez use group counter previou vertex po counter tez task
+
+recov class nest cross oper
+map reduc demultiplex oper p oper use merg multipl map reduc splitte map splitter optim reduc physic plan splitte becom inner plan oper p due recurs natur optim oper may contain anoth demux oper p predecessor oper must po multi queri packag oper pass index indic inner reduc plan run along datum oper
+find distinct set tupl bag block oper input put hashset implement distinct datum bag also provid datum bag interfac
+oper model join key use local rearrang oper configur plan specifi user also set one hashtabl per replic input map key store tupl datum bag hold valu input key k next read input predecessor separ key valu configur foreach oper databag obtain hashtabl key also valu fragment input return tupl return foreach oper intent skip type check backend perform reason
+
+pofr join tez use backend load replic tabl tez shuffl unord kv input load fragment tabl datum pipelin
+implement filter oper express plan decid whether input tupl filter pass avoid mani function call filter oper store comparison oper root express plan use next directli sinc filter suppos return tupl next support datum type
+intent skip type check backend perform reason
+dummi oper test mr compil local oper next method implement intent skip type check backend perform reason
+po global rearrang spark mode
+po ident tez use pass tupl next vertex previou vertex po local rearrang tez eg case order partit vertex appli weight rang partition previou vertex datum use po ident tez
+
+collaps po local rearrang po global rearrang po packag po join group spark reduc unnecessari map oper
+
+load oper use two way local oper use load file map reduc set use creat job map reduc oper keep load store map reduc plan till job creat
+local rearrang oper part implement emb physic plan gener tupl form key inp tupl
+po local rearrang tez use write tez order partit kv output shuffl unord kv output broadcast
+
+
+
+oper implement merg join algorithm map side join current join support one input join identifi leav identifi right leav input tupl input record map right tupl read hdf open right stream join support outer join datum assum sort ascend order fail datum sort descend order
+
+
+boolean oper
+
+special version po foreach differ next know input alreadi attach input oper po join packag intent skip type check backend perform reason
+boolean oper
+packag oper packag global rearrang tupl output format requir last stage process oper slightli differ format oper take two thing input key work iter bag contain index tupl need packag appropri output bag base index
+visitor visit mr plan follow mr oper visit po packag reduc plan find correspond po local rearrang either map plan oper reduc plan predecessor mr oper annot po packag inform column valu present key need stitch valu
+partial aggreg map plan input buffer hashmap threshold reach combin function feed buffer input result store secondari map map fill input see result pipe next oper caller next
+partit rearrang oper part skew join implement emb physic plan gener tupl form key index inp tupl
+partit rearrang oper part skew join implement emb physic plan gener tupl form key index inp tupl
+
+
+special local rearrang oper behav like regular local rearrang next far get input construct key input return tupl two field key first posit valu insid bag second posit output format resembl format packag output feed foreach expect format
+todo fix privat print stream stream null public po printer map oper key exec physic oper tabl print stream ps tabl stream ps public void mapreduc po mapreduc mr stream mapreduc header stream map spec map combin null stream combin spec combin combin eval spec printer stream reduc null stream reduc reduc eval spec printer stream func null stream group func spec func stream input file iter file spec file spec next stream file name next stream stream file spec null stream output file file spec file name function null stream partit function function name mapreduc public void load po load load stream loa header load public void sort po sort stream sor header sort public void store po store stream stor header store privat void spec list eval spec spec iter eval spec j spec iter next j next visit new eval spec printer stream privat void header physic oper po stream object id code stream input int po input length stream stream code stream
+implement overload form project oper project specifi column input tupl howev ask tupl input bag overload form invok project stream tupl instead bag
+oper part rank oper implement read output tupl po counter cumul sum previous calcul read task identifi order get correspond cumul sum local counter tupl valu sum prepend tupl
+
+oper use read tupl databag memori use mostli test also use exampl gener
+reduc oper map spark reduc extend add packag secondari sort partition support
+
+implement special form po project use onl follow case project project introduc relat oper suppli bag output express project either provid bag input successor express oper leaf inner plan predecessor relat oper send eop send empti bag first signal empti output send eop project return type bag whose predecessor outsid plan e inner plan project lead we queri like load txt b bag tupl b foreach gener dump b go regular project without follow flag
+
+
+
+po shuffl valu input tez use read tupl tez intermedi output shuffl edg use po valu output tez tod remov pi te
+po simpl tez load use backend read tupl tez mr input
+physic oper repres skew join must two input oper actual work place holder translat mr plan po skew join translat sampl job join job
+implement applic physic plan local backend convers physic mapreduc would see sort oper take necessari step convert quantil sort job block oper datum bag accumul tupl sort iter start tupl input oper accumul fill bag input method applic intent skip type check backend perform reason
+oper variat po distinct input oper must sort alreadi
+map reduc split oper p assumpt logic physic translat creat dummi oper filenam use input branch store use load also translat make sure appropri filter oper configur output oper use condit specifi lo split lo split convert filter filter filter po split differ exist implement po split write sidefil filter load appropri file p approach follow good old approach better mani case avail input optim ensu multipl load load file merg one oper take input load store use plan execut read file attach result tupl input oper take input load case condit exclus output ignor approach bad lead easi manag split also allow reus datum store split job whenev necessari
+po statu set flag use commun statu pig oper pipelin consum
+store oper use two way local oper use store file map reduc set use creat job map reduc oper keep load store map reduc plan till job creat
+class use specifi actual behavior store oper readi start execut
+po store tez use write tez mr output
+
+union oper combin two input singl stream note elimin duplic tupl oper also add everi map plan process one input pull datum pieplin use propos singl thread share execut model share execut mean one input union oper call execut move next input till input drain
+intent skip type check backend perform reason
+
+po valu input tez use read tupl tez intermedi output edg
+
+pow implement bind java function link math math give tupl two datum atom return valu first argument rais power second argument dl paramet dd code valu tupl contain two doubl return valu doubl return schema po schema exampl dd code regist math jar load use pig storag b foreach gener po
+
+
+copi stl pair contain
+
+
+warn code gener javacc fix suppress warn class help supress warn class gener jj file
+token liter valu constant gener file gen
+token manag
+
+
+wrapper class deleg call parquet loader
+wrapper class deleg call parquet storer
+except throw pars error encount explicitli creat object except type call method pars except gener parser modifi class custom error report mechan long retain public field
+
+
+
+rewrit code p col filter extractor extract partit filter interfac implement load meta datum
+
+partit reduc skew key use skew join sampl process figur mani reduc requir process skew key without caus spill alloc number reduc key udf output map contain key li quot totalreduc quot valu integ wich indic number total reduc join job li quot partit list quot valu bag contain list tupl tupl repres partit skew key tupl format lt join key gt lt min index reduc gt lt max index reduc gt exampl join job configur reduc sampl process find skew key quot swpv quot need reduc quot swp quot need reduc output file would like follow partit name file set next mr job actual join job use inform partit skew key properli
+
+vertex manag plugin use sort job order skew join set parallel sort vertex accord parallel specifi predecessor vertex complex part pig order edg manag specifi partit previou set rout new vertex set
+implement logic ul list partit key valu use hdf path filter partit pig filter oper express restrict function call support partit helper handl string valu normal problem give partit valu part hdf folder path give determin valu would need pars extern process
+conveni sometim partit log date valu e g countri citi etc daydat partit hdf directori might look someth like pre class accept path like return map partit key
+use pattern plan class repres node pattern
+use pattern plan class repres pattern find singl match pattern find repres pattern graph plan
+
+
+set parent plan physic oper note plan bit misnom actual want oper point plan necessarili one member
+visitor class physic plan use creat visitor plan visit call visit method travers plan depth first fashion class also visit nest plan insid oper one extend class modifi natur visit maintain relev state inform visit two differ oper
+base class oper support gener way process input overrid oper extend class input model assum either take oper attach directli oper also assum input oper alway form tupl pipelin rework assum pull base model e root oper go call next appropri type initi cascad next call unrol creat input root oper work oper extend physic oper support next differ type paramet type concret implement use result type input oper decid type next paramet do avoid base type much possibl default assum return erroneu result correspond unsupport oper type oper need implement type support
+base class type physic plan extend oper plan
+visitor visit physic plan reset next mr compil
+class use script interact pig
+
+avro gener datum reader read avro datum convert pig datum tupl bag etc
+avro gener datum writer write pig datum avro datum
+input format avro datum
+output format avro datum
+implement record reader read avro datum convert null writabl writabl pair
+record writer use output pig result avro datum
+
+
+
+
+
+interfac defin pig command link pig command filter command method oper
+
+
+contain static configur string default etc intend key set user key gener use within pig
+
+
+helper class deal hadoop counter pig store within singleton pig statu report instanc null period time job startup even pig invok class buffer counter tri time get valid report flush store counter time
+follow enum contain gener counter pig use
+
+
+except pig encapsul pig except class detail sourc error error messag error code etc contain class default valu attribut sourc bug code retriabl fals messag null locat null
+
+
+warn code gener javacc fix suppress warn class help supress warn class gener jj file
+token liter valu constant gener file gen
+token manag
+
+class base class pig map base slightli differ among differ version hadoop pig map base implement locat pi hom
+class static mapper amp reduc class use pig execut pig map reduc job sinc reduc phase leaf bind po local rearrang map phase separ key tupl collect output collector shuffl sort phase sort key amp tupl creat key list tupl pass key iter list deseri po packag oper use packag key list tupl key bag tupl key appropri pig type result packag attach reduc plan execut empti either result reduc plan packag re collect output collector index tupl bag place packag pack key do hadoop sort key order index join class base class pig map reduc slightli differ among differ version hadoop pig map reduc implement locat pi hom
+
+singleton class implement pig logger interfac use map reduc context provid abil aggreg warn messag
+privat intern constant use pig pleas see link pig constant look public constant
+
+
+
+
+extend hadoop job control remov hardcod sleep privat use reflect see link job control
+class provid abil present rubi librari write java j rubi two way present librari rubi one implement rubi modul class implement java regist runtim pig datatyp provid rubi implement easi implement java provid rubi interfac via annot jrubi provid addit class provid static object convers function pig j rubi
+interfac allow aggreg messag
+
+
+
+class static mapper class use pig execut pig map job get target tupl input map function use target attach tupl input target oper map plan execut result collect output collector provid hadoop configur write store file report run separ thread keep report progress let job tracker know aliv sleep time report thread configur per job via pig report sleep time default use sec sleep time
+
+
+base class type pig use move datum map reduc implement writabl compar etc call also wrap writabl compar set differ type object specif type also provid index index call use get set index use local rearrang partition packag determin index index null indic pack one byte save space put make compil complain writabl compar gener type
+special default file output committ allow pig inturn deleg call output commit store func output format
+better half pig input format respons store function exact mirror imag pig input format record writer instead record reader
+
+
+
+load function perform test
+
+implement object want receiv notif link pig runner
+pig progress indic implemen interfac pass ud fs allow send heartbeat default hadoop kill task receiv heartbeat everi second oper may take call progress regular basi
+subclass antlr recognit except parent class parser relat except class need layer line number problem tree parser antlr need token except occur order instanti instanc class
+wrapper around actual record reader loadfunc need two reason intercept initi call hadoop initi underli actual record reader right context object achiev look context correspond input split reader suppos process need give hadoop consist type text tupl respect pig record reader call underli loader next get tupl valu key null text sinc key use input map pig
+interfac implement want use custom approach estim number reduc job
+util help run pig script within java program
+class contain function convert pig schema avro consist two set method convert pig schema avro schema valid whether pig schema compat give avro schema notic avro schema need cover field pig schema miss field convert use method set
+
+token liter valu constant gener file gen
+token manag
+
+util class handl secondari key sort
+
+class java program connect pig typic program creat pig server instanc programm regist queri use queri retriev result use iter store shutdown method call free resourc use current pig server instanc could result memori leak
+main split class maintain import inform input split reason class implement configur hadoop call link configur conf configur backend use configur creat serial factori deseri wrap input split
+pig stat encapsul statist collect run script includ statu execut dag hadoop job well inform output input script
+interfac implement want custom way comput size output pig stat sinc everi storag e g h base storag output size alway comput total size output file
+util class pig statist
+
+load function pars line input field use charact delimit default delimit tab specifi charact liter know escap charact dec hex valu p option second constructor argument provid allow one custom advanc behavior list avail option ul li code read store schema relat use hidden json file li code ignor store schema load file append input sourc file name begin tupl path append input sourc file path begin tupl p schema code specifi hidden file creat output directori store datum use pig storag without load determin field name type datum without need user explicitli provid schema code claus unless code specifi attempt merg conflict schema make load first schema encount file system scan use schema file present option use load result error p addit use code drop file output directori file simpli list delimit alia intend make export tool read file header line easi cat header datum p sourc tag file specifi pig storag prepend input split name tupl usag load use pig storag file b foreach gener first field index tupl contain input file name path specifi pig storag prepend input split path tupl usag load use pig storag path b foreach gener first field index tupl contain input file path p note regardless whether store schema b alway need specifi correct delimit read datum store read delimit load use default delimit datum pars correctli compress store directori whose name end gz lzo instal support lzo compress hadoop automat use correspond compress codec br code output compress enabl code output compress codec job properti also work p load directori end bz work automat compress format load
+pig storag default constructor use test po cast loader function default constructor
+load store func metafil allow schema alia determin load time save one manual enter schema dataset also creat file simpli list delimit alia intend make export tool read file header line easi cat header datum
+
+
+
+default implement link pig stream base convert tupl del separ line del separ line tupl
+interfac use custom map link tupl byte array byte array feed stdin stream process byte array receiv stdout stream process link tupl interfac design provid common protocol datum exchang pig runtim stream execut typic user implement interfac particular type stream command specifi implement class pig defin statement
+
+
+
+
+implement object want receiv notif link pig runner
+interfac use custom map link tupl byte array byte array feed stdin stream process interfac togeth link stream pig design provid common protocol datum exchang pig runtim stream execut typic user implement interfac particular type stream command specifi implement class pig defin statement
+
+
+interfac increment warn counter
+enum enumer warn type pig custom udf warn see pi
+
+class dump nest plan print stream walk graph particular fashion mere iter oper edg call correspond dump function node plan nest plan dump node handl
+
+
+
+util class helper function deal physic plan
+core class optim basic design class provid list rule set rule set repres optim rule run togeth rule rule set run repeatedli either rule rule set pass check call transform iter iter default make rule set next rule set move finish give rule set never return rule two part pattern associ transform transform two import function check transform pattern describ pattern node type optim look match match find anywher plan check call check allow rule look depth match pattern decid whether rule run exampl one might design rule push filter join would look pattern filter join mean filter follow join certain type filter push check function would need decid whether filter find pushabl check return true rule say match transform call function respons make chang logic plan transform complet plan patcher call necessari cleanup plan reset schema etc
+
+abstract class base plan equal compar
+interfac describ listen notifi plan modifi purpos listen make modif annot plan plan modifi exampl plan gt join gt filter gt transform push filter join input schema filter mostli like chang schema listen use make chang
+
+visitor mechan navig oper plan oper class contain logic travers plan visit individu node leav implement class lo visitor
+
+udf allow user specifi string prefix filter column relat begin prefix exampl prefix load x b load b x c join x b x defin pluck pluck tupl foreach c gener flatt describ c c bytearray bytearray b bytearray b bytearray describ pluck bytearray pluck bytearray regex load x b load b x c join x b x defin pluck pluck tupl foreach c gener flatt describ c c bytearray bytearray b bytearray b bytearray describ pluck bytearray pluck bytearray
+
+see skew join sampler pig sampler
+
+travers express plan bottom separ two plan expr plan plan push loader expr plan remain plan need evalu pig predic remov expr plan expr plan remov
+
+
+base class simpl pig ud fs function primit type ou handl marshal object basic error check etc extend class implement input method writ udf oper first input expect type tupl
+
+expand use udf argument differ link project star expand case project star get expand new link logic express plan case within udf get expand multipl input udf addtion link logic express plan creat expans happen input schema null
+project column express
+visitor walk oper contain nest plan translat project oper list project oper e project project project project project input schema null project expand also expand project rang eg will expand eg input schema null
+util function expans
+struct detail project alter oper
+plan transform listen patch refer project
+
+gener good idea flatten late possibl tend gener row optim swap order sor t cro se joi ns come foreac generat flatt n filt rs link filter foreach rule ignor
+
+
+lexer file pig parser
+parser file pig parser file base tree parser file ast valid chang fil probabl need make correspond chang file wel
+
+pig implement class file stream use make antlr case insensit preserv case
+
+pig implement class string stream use make antlr case insensit preserv case
+
+return random doubl valu whatev argument pass udf ignor
+give rdd physic operat implement class convert rdd anoth rd
+dl syntax string regex extract string express string regex int input dd code express code sourc string dd code regex code regular express dd code code index group extract output dd code extract group fail return null match strategi tri match first sequenc use link matcher instead link matcher default match defin greed extract rege extrac
+dl syntax string regex extract string express string regex input dd code express code sourc string dd code regex code regular express output tupl match string match strategi tri match entir input use link matcher instead link matcher default match defin greed extract rege extrac al
+search find match charact string give regular express exampl load name chararray b foreach gener rege searc ex input tupl first field string perform regular express match second field regular express
+replac implement eval function replac part string exampl load name b foreach gener replac first argument string perform oper second argument treat regular express third argument replac string wrapper around java string string string
+replac multi implement eval function replac occurr search key replac valu search replac valu specifi map exampl load name name hello world foreach gener replac multi name e halloo woorld first argument sourc string replac multi oper perform second argument map search key replac valu pair
+rint implement bind java function link math math give singl datum atom return doubl valu close valu argument equal mathemat integ dl paramet dd code valu doubl return valu doubl return schema rin schema exampl dd code regist math jar load use pig storag b foreach gener rin
+round implement bind java function link math math give singl datum atom return close long argument
+roun safe round number give precis use intermedi big decim see trick roun hard read also fail produc numer accur result give singl datum atom number digit return doubl extend give number decim place result multipl ten power give digit argument neg valu zero correspondingli mani place leav decim point roun roun roun option mode argument specifi link round mode round mode default link round mode hal even hal eve use
+return string tail whitespac omit implement bind java function link string string
+loader sampl datum randomli sampl tupl input number tupl sampl set first call next see document next call
+
+bag store tupl memori access iter typic provid hadoop use alreadi iter tupl want copi new bag
+read scalar read line file return valu file read line return use incorpor result agreg anoth evalu
+
+wrapper loader wrap real load func underneath allow read file complet start give split indic split index use look list input split return underli input format split method suppli split index loader read entir file non zero read partial file begin split last split call sequenc use construct object use constructor call next loop till return null
+test gener avro java class
+
+reg ex loader abstract class use pars log base regular express singl abstract method pattern need return pattern group return differ datum atom look common log loader exampl usag
+regex oper
+dl syntax string regex extract string express string regex int input dd code express code sourc string dd code regex code regular express dd code code index group extract output dd code extract group fail return null
+dl syntax string regex extract string express string regex input dd code express code sourc string dd code regex code regular express output tupl match string
+
+gener interfac comparison
+
+dl syntax dd code int regex match string express string regex output dd code return express contain regex otherwis
+
+pleas see link test regist jar visibl inform class
+pleas see link test regist jar visibl inform class
+
+struct detail project alter oper
+
+
+represen schema use commun load store function separ link schema intern pig represent schema
+class repres statist datum load store mark unstabl pig littl statist collect point function add expect interfac chang
+
+revers string
+visit plan revers depend order everi node everi node depend visit thu equival revers topilog sort graph visit order
+visit plan revers depend order everi node everi node depend visit thu equival revers topilog sort graph visit order
+
+produc datum bag hierarchi valu detail level aggreg gener level aggreg specifi dimens exampl b c produc follow bag pre b c b null null null null null null
+partition use extrem caution case order output record guarante order output record vari retri mostli case map rerun due shuffl fetch failur lead datum partit differ result incorrect output due loss duplic datum refer pi detail remov next releas riski use case
+tod need fix enumer piec tod need fix flatten semant provid rubi way interact datum bag object encapsul bag object provid easi use interfac one differ rubi java api datum bag rubi iter bag directli p rubi datum bag class use j rubi api defint rubi class use java code comment class extens explain annot familiar j rubi p j rubi annot provid conveni detect use annot method method j rubi class annot set class name see rubi runtim alow includ modul case rubi datum bag within rubi want call datum bag want enumer
+class present nativ rubi object interact manipul datum byte array object inform annot mean see link rubi datum bag
+todo implement merg function class encapsul nativ schema object provid conveni interfac manipul schema hide schema field schema distinct user tri present clean rubi api user gener inform j rubi api definit annot see link rubi datum bag
+rule describ pattern oper also refer transform pattern oper find one time provid plan optim use associ transform transform plan note pattern match logic implement limit assum leaf pattern sibl see detail descript pi new rule use pattern work limit pattern match logic need updat
+
+scalb implement bind java function link math math give tupl two datum atom x return x pow round perform singl correctli round multipli member doubl valu set dl paramet dd code valu tupl contain two numer valu doubl integ return valu doubl return schema scal schema exampl dd code regist math jar load use pig storag b foreach gener scal
+signum implement bind java function link math math give singl datum atom return signum function argument dl paramet dd code valu doubl return valu doubl return schema signu schema exampl dd code regist math jar load use pig storag b foreach gener signu
+sin implement bind java function link math math give singl datum atom return sine argument
+sinh implement bind java function link math math give singl datum atom return hyperbol sine argument
+gener size argument pass bytearray mean number byte charray number charact bag number tupl tupl number field map number keyvalu pair type valu alway return
+format string use formatt see formatt ex sprint tf citi float long new york
+sqrt implement bind java function link math math give singl datum atom return squar root argument
+pig udf test input code tupl get code tupl get determin first argument start string second
+wrapper around java string input tupl first column assum string split br option second column assum delimit regex split br provid assum space br option third column may provid limit number result br limit provid assum per java split
+wrapper around java string input tupl first column assum string split br option second column assum delimit regex split br provid assum space br option third column may provid limit number result br limit provid assum per java split
+substr implement eval function get part string exampl load name b foreach gener substrin first argument string take substr br second argument index first charact substr br third argument index last charact substr br last argument past end string substr index length str return
+gener sum set valu class implement link algebra possibl execut perform distribut fashion p sum oper numer type also oper bytearray cast doubl expect bag tupl one record pig know schema function pass bag integ long use special adapt version sum use integ arithmet sum datum return type sum doubl float doubl bytearray argument long int long argument p sum implement link accumul interfac well never prefer method usag avail case combin use give calcul
+abstract class specifi interfac sampl loader
+visitor optim plan sampl job immedi follow mr job kind plan gener order by soon gener join need sampl datum first chang random sampl loader subsum loader use first job remov first job
+
+
+valid check correct use scalar variabl logic oper assess valid express make sure project current work limit sampl see pi
+logic plan visitor handl scalar project find creat lo store soft link store oper scalar express also sync file name store scalar express
+schema class encapsul notion schema relat oper schema list column describ output relat oper column relat repres field schema static class insid schema column definit alia type possibl schema column bag tupl addit column schema uniqu auto gener name use track lineag column sequenc statement lineag column track use map predecessor column oper gener predecessor column predecessor column column requir order gener column consider similarli revers lookup oper gener predecessor column predecessor column maintain
+
+
+
+plan transform listen logic optim patch schema plan transform
+
+schema tupl type awar tupl much fast memori effici implement give schema code gener use extend class class provid broad rang function minim complex code must gener odd look gener signatur allow certain optim specif allow we much fast set comparison type match sinc code gener way know
+
+class encapsul gener schema tupl well logic around ship code distribut cach
+implement tupl factori instanti schema tupl class noth actual gener code instead simpli encapsul class allow effici creat schema tupl
+class use job creation time provid api let code regist schema pig gener necessari regist schema reduc
+util class simplifi schema creation especi bag tupl schema current support simpl schema creation nest tupl bag support
+set hour count pair function read set retain hour mean count calcul score retain hour multipli count hour standard deviat score great indic frequenc particular hour least one standard deviat away averag frequenc among hour
+base class variou script implement
+context emb pig script
+script state encapsul set pig script run hadoop cluster set add mr job spawn script turn persist hadoop job xml properti alreadi job xml user want know relat script mr job deriv job xml
+class help script udf captur user output manag captur output output write illustr captur output last run final set datum need keep track file contain output return illustr result run standard output write user log
+search engin extractor take url string extract search engin exampl give ggl ggl ggl search googl would extract pig latin usag look someth like engin foreach row gener search engin extractor support search engin includ abacho com alic alltheweb com altavista com aolsearch aol com starwar com ask com blog icerocket com blogsearch googl com blueyond co uk busca orang e buscador lyco e buscador terra es buscar ozu es categorico cuil com excit com excit fastweb feedster com godado com godado googl ad googl ae googl af googl ag googl googl googl googl az googl ba googl googl bg googl bi googl biz googl bo googl bs googl bz googl can googl cc googl cd googl cg googl ch googl ci googl cl googl cn googl co googl co bi googl co bw googl co ci googl co ck googl co cr googl co gg googl co gl googl co gy googl co hu googl co id googl co il googl co im googl co googl co googl co je googl co jp googl co ke googl co kr googl co ls googl co googl co mu googl co mw googl co nz googl co pn googl co th googl co tt googl co ug googl co uk googl co uz googl co googl co vi googl co za googl co zm googl co zw googl com googl com af googl com ag googl com be googl com ar googl com au googl com az googl com bd googl com bh googl com bi googl com bn googl com bo googl com br googl com bs googl com bz googl com cn googl com co googl com cu googl com googl com ec googl com eg googl com et googl com fj googl com ge googl com gh googl com gi googl com gl googl com gp googl com gr googl com gt googl com gy googl com hk googl com hn googl com hr googl com jm googl com jo googl com kg googl com kh googl com ki googl com kz googl com lk googl com lv googl com ly googl com mt googl com mu googl com mw googl com mx googl com googl com to googl com nf googl com ng googl com ni googl com np googl com nr googl com om googl com pa googl com pe googl com ph googl com pk googl com pl googl com pr googl com pt googl com py googl com qa googl com ru googl com sa googl com sb googl com sc googl com sg googl com sv googl com tj googl com tr googl com tt googl com tw googl com uy googl com uz googl com googl com vi googl com vn googl com ws googl cz googl de googl dj googl dk googl dm googl ec googl ee googl es googl fi googl fm googl fr googl gd googl ge googl gf googl gg googl gl googl gm googl gp googl gr googl gy googl hk googl hn googl hr googl ht googl hu googl ie googl im googl googl info googl googl googl je googl jo googl job googl jp googl kg googl ki googl kz googl la googl li googl lk googl lt googl lu googl lv googl googl md googl mn googl mobi googl ms googl mu googl mv googl mw googl net googl nf googl nl googl googl nr googl nu googl ai googl ph googl pk googl pl googl pn googl pr googl pt googl ro googl ru googl rw googl sc googl se googl sg googl sh googl si googl sk googl sm googl sn googl sr googl st googl tk googl tm googl googl tp googl tt googl tv googl tw googl ug googl we googl uz googl vg googl vn googl vu googl ws gp virgin net hotbot com ilmotor com ithaki net kataweb libero lyco mamma com megasearch net mirago co uk netscap com search aol co uk search arabia msn com search bbc co uk search conduit com search icq com search live com search lyco co uk search lyco com search msn co uk search msn com search myway com search mywebsearch com search ntlworld com search orang co uk search prodigi msn com search sweetim com search virginmedia com search yahoo co jp search yahoo com search yahoo jp simpatico w soso com such firebal de such de such web de technorati com tesco net thespid tiscali co uk uk altavista com uk ask com uk search yahoo com thank spiro denaxa ur pars search string basi lookup
+small udf take search engin url googl yahoo ao live contain search queri extract url assum encod queri normal convert remov punctuat remov extra space
+search term extractor take url string extract search term exampl give ggl ggl ggl search purpos life would extract pig latin usag look someth like term foreach row gener search term extractor support search engin includ alltheweb com altavista com aolsearch aol com arianna libero starwar com ask com blog icerocket com blueyond co uk busca orang e buscador lyco e buscador terra es buscar ozu es categorico cerca lyco cuil com excit godado com godado gp virgin net hotbot com ilmotor com altavista com ithaki net libero lyco es lyco mamma com megasearch net mirago co uk netscap com ozu es ricerca alic search aol co uk search bbc co uk search conduit com search icq com search live com search lyco co uk search lyco com search msn co uk search msn com search myway com search mywebsearch com search ntlworld com search orang co uk search sweetim com search virginmedia com simpatico w soso com such firebal de such web de terra es tesco net thespid tiscali co uk uk altavista com uk ask com thank spiro denaxa ur pars search string basi lookup
+
+
+secondari key sort optim spark mode
+
+
+
+provid util function use reduc convert join group spark convert
+second return number second two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+class duplic secur relat privat method job submitt tez
+
+unix api input stream support random access
+class hold code common self spill bag intern cach bag
+store tupl bin sede tupl specif use sequenc file leverag sequenc file compress featur replac previou use code file storag edg case properli handl
+loader hadoop standard sequenc file abl work follow type key valu text int writabl long writabl float writabl doubl writabl boolean writabl byte writabl
+implement interfac char stream stream assum contain ascii charact without unicod process
+
+
+
+
+
+simpl pig stat encapsul statist collect run script includ statu execut dag mr job well inform output input script
+simpl perform implement datum bag interfac hold singl tupl use po pre combin local rearrang wherev els singl tupl datum bag requir
+util function estim size object pig type
+
+class use skew join partit tabl skewedpartition read key distribut datum sampler file return reduc index round robin fashion ex key distribut file contain entri reduc return round robin manner
+
+class repres inform sort column link sort info
+
+class commun sort column inform base order statment sort column schema
+
+repres set sort key sort key equival eg c cogroup b queri two sort key b b
+order collect tupl possibl multipl datum store unsort come sort time dump file first iter request experement find fast store sort begin allow user defin compar provid default compar case user specifi one
+common function proactiv spill bag need keep datum sort
+
+compil compil give physic plan dag spark oper
+creat new spark compil except null error messag
+
+
+
+object spark engin conf solv initi problem pig context udf context conf udf context sy prop spark mode variabl serial thread local variabl mr mode serial job configur job control compil job deseri job configur pig gener map base setup spark like mr variabl correctli deseri spark program call use follow solut solv variabl save spark engin conf object avail initi spark engin conf object spark executor thread
+
+
+
+
+main class launch pig spark
+spark local exec type exec type local mode spark
+
+visitor spark oper plan class
+plan use creat plan spark oper
+oper model spark job act host plan execut spark
+visitor visit spark plan follow spark oper visit po packag plan find correspond po local rearrang annot po packag inform column valu present key need stitch valu
+
+singleton class like pig context
+record reader spark mode handl spark pig split
+wrapper class pig split spark mode spark count hdf byte read provid file split wrap pig split wrapper class extend file split
+
+like pig statu report hadoop counter spark pig statu report spark counter note suitabl make spark counter singleton give pig script dump store action grunt mode
+visitor mechan print logic plan
+sort sampl datum convert sampl datum format ele ele
+script state encapsul set pig script run hadoop cluster set add spark job spawn script turn persist hadoop job xml properti alreadi job xml user want know relat script spark job deriv job xml
+
+
+
+
+class track tenur pool list spillabl object memori get low class start request spillabl object free memori p low memori defin tenur pool alloc spillabl object track use weak refer object g ced even though class refer
+wrapper around java string input tupl first column assum string split br option second column assum delimit regex split br provid assum space br option third column may provid limit number result br limit provid assum per java split
+
+
+
+give set bag stitch togeth tupl tupl assum bag row number join row number give two bag p p result p gener assum bag number tupl implement use first bag determin number tupl place output bag beyond first few tupl result tupl few field null fill number bag pass function
+conveni mock storag unit test pre pig server server new pig server exec type loca datum datum datum server datum set foo tupl tupl b tupl c tupl map e f g tupl bag tupl h tupl server queri load use storag server queri store use storag list tupl datum get bar equal get equal get equal get equal g e get equal get schema pre pig server server new pig server exec type loca datum datum datum server datum set foo blah chararray tupl tupl b tupl c server queri load use storag server queri b foreach gener blah blah b server queri store b use storag equal schema list tupl datum get bar equal get equal b get equal c get
+util class provid method share storag class link pig storag stream class link pig stream
+
+interfac provid method convert pig intern type byte intend use store func implement still map cast quit right
+convert take po store store content
+store func take record pig process store datum store frequent hdf file could also h base instanc rdbm etc
+class use decor code store func next tupl handl error call code output error handler string long throwabl link store func implement link error handl
+store func take record pig process store datum store frequent hdf file could also h base instanc rdbm etc
+conveni class extend decor class implement store func store metadata abstract fail compil new method get add either interfac
+conveni class extend decor store func abstract fail compil new method get add store func interfac subclass must call store func instanc store func interfac method call result illeg argument except method call
+interfac defin write metadata relat datum store give store function implement interfac assum unabl record metadata associ datum
+interfac allow store func specifi resourc need distribut cach resourc df cach file local ship file
+
+
+interfac use custom map byte array receiv stdout stream process link tupl interfac togeth link pig stream design provid common protocol datum exchang pig runtim stream execut method load caster call pig convert field byte array type field tupl base give schema typic user implement interfac particular type stream command specifi implement class pig defin statement
+
+link stream command repres specif extern command execut pig queri stream command encapsul relev detail command specifi user either directli via strea oper indirectli via defin oper includ detail specif also file ship cluster file cach
+check set file automat ship give stream command auto rule command begin either perl python assum binari first string encount start dash subject restrict otherwis attempt ship first string command line long come determin scan path absolut path provid execut path make configur via set stream skippath path option
+
+
+
+
+
+
+
+
+method never use directli use link conca
+method never use directli use link
+method never use directli use link mi
+method never use directli use link siz
+
+class use neg test base string store need provid special implement
+
+
+give string udf replac substr give start index length give replac string last argument null specifi part string get delet b foreach gener stuff pie chocol cake udf return chocol pie
+subtract take two bag argument return new bag compos tupl first bag second bag br null bag argument replac empti bag p implement assum bag pass function fit entir memori simultan case udf still function strong slow
+subtract durat return result date time object plu durat object ul jodatim http sourceforg durat format durat br pre exampl usag oin load tsv use pig storag dt datetim dr chararray describ oin oin dt datetim dr chararray dump oin p p dtsubtract foreach oin gener subtract durat dr describ dtsubtract dtsubtract datetim dump dtsubtract
+subtract oper
+
+
+
+tan implement bind java function link math math give singl datum atom return tangent argument
+tanh implement bind java function link math math give singl datum atom return hyperbol tangent argument
+record reader use read datum write use link inter record writer use default inter sede object deseri
+record reader use write datum compat link inter record writer use default inter sede object serial
+load function pig intern use onl load function use store intermedi datum mr job pig queri serial format load function chang new version pig use store persist datum
+class take list item put bag foreach u gener toba like say foreach u gener argument tupl type insert tupl add bag bag alway bag tupl output schema output schema udf depend schema argument argument type inner schema column udf output schema would bag tupl column type argument argument type inner schema match though schema field alia may differ condit meet output schema bag null inner schema exampl grunt describ int int grunt b foreach gener toba grunt describ b b int exampl grunt describ x int x int grunt b foreach gener toba grunt describ b b x int exampl grunt describ x int int note inner schema match type differ field alia alias first argument use output schema grunt b foreach gener toba grunt describ b b x int exampl grunt describ x int x chararray inner schema match output schema well defin grunt b foreach gener toba grunt describ b b nul
+class take list item put bag foreach u gener toba like say foreach u gener argument tupl type insert tupl add bag bag alway bag tupl output schema output schema udf depend schema argument argument type inner schema column udf output schema would bag tupl column type argument argument type innerschmea includ alia name match condit meet output schema bag null inner schema exampl grunt describ int int grunt b foreach gener toba grunt describ b b int exampl grunt describ x int x int grunt b foreach gener toba grunt describ b b x int exampl grunt describ x int int note inner schema differ alis x differ grunt b foreach gener toba grunt describ b b nul
+give chararray argument method split chararray return bag tupl chararray result split string split space doubl quot comma open parend close parend asterisk star
+class make map paramet pass foreach u gener toma gener map udf also accept bag tupl e tupl
+
+tupl compos oper need attach
+
+interfac implement allow accumul function signal termin earli certain class udf need access entir set datum order finish process model exampl empti empti accumul receiv even one line know empti anoth exampl might udf stream analysi give stream match criterion termin without need analysi
+load function simpli creat tupl line text singl chararray field contain line text
+compil compil give physic plan dag tez oper convert job control structur
+
+
+tez dag stat encapsul statist collect tez da includ statu execut tez vertex well inform output input da
+visitor construct dag tez plan
+descriptor tez edg hold combin plan well edg properti
+
+tez exec type exec type distribut mode tez
+
+interfac implement physic oper tez input attach directli oper
+wrapper class encapsul tez da class mediat tez da gs job control
+compil class take tez oper plan convert job control object relev depend info maintain job control object make tez job job conf
+main class launch pig tez
+tez exec type exec type distribut mode tez
+
+visitor tez oper plan class
+estim parallel vertex use parallel predecessor bloat factor physic plan predecessor sinc current possibl reduc parallel estim exagger reli tez runtim decreas parallel
+plan use creat plan tez oper convert job control object necessari captur depend among job
+oper model tez job act host plan execut tez vertex
+interfac implement physic oper tez output attach directli oper
+port po packag annot mr tez
+
+
+
+tez pig script stat encapsul statist collect run script execut tez mode includ statu execut tez da gs launch script well inform output input script tez pig script stat encapsul multipl tez dag stat tez dag stat encapsul multipl tez vertex stat
+
+
+
+
+
+visitor print tez plan
+
+
+script state encapsul set pig script run hadoop cluster set add tez job spawn script turn persist hadoop job xml properti alreadi job xml user want know relat script tez job deriv job xml
+
+interfac implement physic oper need access tez processor context tez task
+
+
+
+tez vertex stat encapsul statist collect tez vertex includ statu execut well inform output input vertex
+
+date convert iso custom string unix timestamp date time object date overload dl syntax date time date long milli input dd code millisecond output dd code date time object dl syntax date time date string str input dd code iso format date time string output dd code date time object dl syntax date time date string str string format input str string repres date time dd code format format string output dd code date time object dl syntax date time date string str string format string timezon input str string repres date time dd code format format string dd code timezon timezon string output dd code date time object
+method never use directli use link date
+method never use directli use link date
+method never use directli use link date
+function convert input lowercas remov lead trail white space
+p milli second convert date time number millisecond pass sinc januari gm ul jodatim http sourceforg date format unix time unix br pre exampl usag oin load tsv use pig storag dt datetim datetim describ oin oin dt datetim datetim dump oin milli second foreach oin gener milli second time describ milli second milli second time long dump milli second
+string convert date time object iso custom string
+class make tupl paramet foreach u gener totupl gener tupl contain
+unix time convert date time unix time long ul jodatim http sourceforg date format unix time unix br pre exampl usag oin load tsv use pig storag dt datetim datetim describ oin oin dt datetim datetim dump oin unix foreach oin gener unix time time describ unix unix time long dump unix
+describ input token stream
+token manag error
+tool pig server subclass pig server intend pig tool user use interfac make promis stabil continu exist
+top udf accept bag tupl return tupl depend upon tupl field valu type long n field number need provid ud udf iter input bag retain tupl store prioriti queue size prioriti long field effici prioriti queue provid constant time remov least element log n time heap restructur udf especi help turn nest group oper insid retain nest group assum tupl bag contain element type compar column sampl usag defin asc defin desc de load tsv first chararray second chararray b group first second c foreach b gener flatt coun count group c first group first result foreach result c retain top occurr first gener flatt desc result foreach result de c retain top occurr first gener flatt
+
+
+pig store load function trevni
+return string lead trail whitespac omit implement bind java function link string string
+order list datum tupl field number number field entri field datatyp null p tupl construct link tupl factori link default tupl factori provid system user wish use type tupl also provid implement link tupl factori construct type tupl put make compil complain writabl compar gener type
+factori construct tupl class abstract user overrid tupl factori desir provid return implement tupl properti pig datum tupl factori name set class name pig datum tupl factori jar set url point jar contain name class link instanc creat instanc name class use indic jar otherwis creat instanc link default tupl factori
+default implement format tupl dump pig dump use default implement
+
+interfac intend compar tupl semant tupl comparison must take account null valu differ way accord sql semant null equal pig latin statement null must group togeth interfac allow check null field tupl compar use compar method meaning tupl determin equal link compar byte int int byte int int method
+method never use directli use link siz
+
+
+
+
+
+type oper alway return ba check type input express plan comput output schema type inform moment parser return get schema correct alia insert cast necessari
+base class pig ud fs function tupl gener type ou handl marshal object basic error check etc also infer schema provid function verifi input tupl p extend class implement tupl input method writ udf oper multipl input tupl
+
+
+
+
+
+find udf jar download spark job everi node
+ulp implement bind java function link math math give singl datum atom return size ulp argument dl paramet dd code valu doubl return valu doubl return schema ul schema exampl dd code regist math jar load use pig storag b foreach gener ul
+upper implement eval function convert string upper case exampl load name b foreach gener upp
+
+first charact string
+
+
+
+
+base class unari comparison oper support use operand type instead result type result type alway boolean
+superclass unari express
+
+
+
+visitor modifi logic plan necessari function run logic plan valid correct schema input avail insert foreach statement input input oper schema match schema creat merg input schema migrat old union schema setter class
+optim union remov intermedi union vertex make successor get input predecessor vertex directli use vertex group run multi queri optim handl case like union follow split store eg union follow store vertex load vertex load vertex union store optim vertex load store vertex load store vertex write output store locat directli support tez union follow groupbi vertex load vertex load vertex union po local rearrang vertex group optim vertex load pol vertex load pol vertex group
+uniqu id gener uniqu id record job uniqu id stabl task retri argument function ignor exampl load name b foreach gener name uniqu uniqu id take form
+unix iso convert unix time long datetim datetim string ul jodatim http sourceforg date format unix time unix br pre exampl usag regist user regist user defin unix iso unix unix load tsv use pig storag dt long describ unix unix dt long dump unix iso foreach unix gener unix iso time describ iso time chararray dump
+
+
+
+abstract class provid standard convers encod datum pig datum type intend extend load store function link pig storag
+
+
+udf take map return bag contain valu map br note output tupl contain valu uniqu one br obtain uniqu valu map use valueset instead br pre code grunt cat datum open apach hadoop grunt load grunt b foreach gener valu grunt dump b apach hadoop hadoop
+udf take map return tupl contain valu set br note udf return uniqu valu valu use br valuelist instead br pre code grunt cat datum open apach hadoop grunt load grunt b foreach gener valu apach hadoop
+
+
+week return number week two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+
+
+super class rule oper whole plan look specif pattern exampl kind rule column prune
+
+
+reusabl byte buffer implement save memori creat new byte byte array output stream time datum write typic usag someth like follow pre writabl byte array buffer new writabl byte array loop condit buffer reset write buffer byte datum datum int length length write datum ultim destin
+
+pars xml input file give specifi identifi tag load output bag xml element element return chararray contain text match xml element includ start tag well datum case nest element match tag top level one return
+visitor mechan print logic plan
+
+
+x path function allow text extract xml
+x path function allow tupl extract xml
+
+year return number year two date time object ul jodatim http sourceforg date format br pre exampl usag oin load tsv use pig storag datetim datetim describ oin oin dt datetim datetim dump oin diff foreach oin gener year year month month week week day day hour hour minut min second sec milli second milli describ diff diff year long month long week long day long hour long min long sec long milli long dump diff
+sign implement bind java function link math sign math sign give tupl two datum atom return first argument sign second argument dl paramet dd code valu tupl contain two doubl return valu dd code doubl return schema sign schema exampl dd code regist math jar load use pig storag b foreach gener sign
+expon implement bind java function link math expon math expon give singl datum atom return unbias expon use represent doubl dl paramet dd code valu code doubl return valu dd code int return schema expon schema exampl dd code regist math jar load use pig storag b foreach gener expon
+implement bind java function link math math give tupl two datum atom return number adjac first argument direct second argument dl paramet dd code valu tupl contain two doubl return valu dd code doubl return schema schema exampl dd code regist math jar load use pig storag b foreach gener
+degre implement bind java function link math degre math degre give singl datum atom convert angl measur radian approxim equival angl measur degre dl paramet dd code valu doubl return valu doubl return schema degre schema exampl dd code regist math jar load use pig storag b foreach gener degre
+radian implement bind java function link math radian math radian give singl datum atom convert angl measur degre approxim equival angl measur radian dl paramet dd code valu doubl return valu doubl return schema radian schema exampl dd code regist math jar load use pig storag b foreach gener radian

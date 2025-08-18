@@ -1,0 +1,786 @@
+
+groupId artifactId version type classifier artifact remoteRepositories originalMessage path LS
+
+
+
+out
+
+log pluginContext
+source longMessage
+metadata
+compileScope runtimeScope testScope providedScope systemScope
+SHA1_PROPERTY CHANGELIST_PROPERTY REVISION_PROPERTY PROJECT_PREFIXES TRANSLATED_PATH_EXPRESSIONS pathTranslator urlNormalizer interpolator recursionInterceptor
+repositoryMetadataManager wagonManager
+activeByDefault jdk os property file
+missing exists
+name family arch version
+name value
+artifact project
+filters
+
+RELEASE_VERSION LATEST_VERSION SNAPSHOT_VERSION VERSION_FILE_PATTERN SCOPE_COMPILE SCOPE_COMPILE_PLUS_RUNTIME SCOPE_TEST SCOPE_RUNTIME SCOPE_RUNTIME_PLUS_SYSTEM SCOPE_PROVIDED SCOPE_SYSTEM SCOPE_IMPORT
+artifact
+
+ROLE
+
+
+
+
+ROLE
+
+
+
+ROLE
+ROLE
+extension directory classifier packaging language includesDependencies addedToClasspath
+
+ROLE
+
+
+
+downloadUrl
+
+ROLE DEFAULT_LAYOUT_ID LOCAL_REPOSITORY_ID
+ROLE
+
+artifact
+UPDATE_POLICY_NEVER UPDATE_POLICY_ALWAYS UPDATE_POLICY_DAILY UPDATE_POLICY_INTERVAL CHECKSUM_POLICY_FAIL CHECKSUM_POLICY_WARN CHECKSUM_POLICY_IGNORE enabled updatePolicy checksumPolicy
+
+artifact artifactDependencies localRepository remoteRepositories collectionFilter resolutionFilter listeners managedVersionMap resolveRoot resolveTransitively offline forceUpdate servers mirrors proxies
+originatingArtifact missingArtifacts exceptions versionRangeViolations metadataResolutionExceptions circularDependencyExceptions errorArtifactExceptions repositories artifacts resolutionNodes
+ROLE
+compile test runtime provided system runtime_plus_system DEFAULT_SCOPE id COMPLIANCY_SETS
+NONE GENERATED CONVERTED PARTNER DEPLOYED VERIFIED rank key map
+TRANSFER_INITIATED TRANSFER_STARTED TRANSFER_COMPLETED TRANSFER_PROGRESS TRANSFER_ERROR REQUEST_GET REQUEST_PUT eventType requestType exception localFile artifact transferredBytes dataBuffer dataOffset dataLength
+
+
+
+ROLE
+ROLE
+
+
+
+parent
+privateKey passphrase username password
+logger
+basedir
+
+
+
+
+
+
+log pluginDependenciesResolver repositorySystemSessionFactory classWorld parentRealm
+sourceDirectory scriptSourceDirectory testSourceDirectory outputDirectory testOutputDirectory extensions
+
+defaultGoal resources testResources directory finalName filters
+cause
+
+
+
+
+
+project time
+id PREFIX
+mavenBuildTimestamp
+
+lifecycleDebugLogger lifeCycleExecutionPlanCalculator eventCatapult logger
+
+ALTERNATE_POM_FILE BATCH_MODE SET_SYSTEM_PROPERTY OFFLINE QUIET DEBUG ERRORS HELP VERSION SHOW_VERSION NON_RECURSIVE UPDATE_SNAPSHOTS ACTIVATE_PROFILES SUPRESS_SNAPSHOT_UPDATES CHECKSUM_FAILURE_POLICY CHECKSUM_WARNING_POLICY ALTERNATE_USER_SETTINGS ALTERNATE_GLOBAL_SETTINGS ALTERNATE_USER_TOOLCHAINS ALTERNATE_GLOBAL_TOOLCHAINS FAIL_FAST FAIL_AT_END FAIL_NEVER RESUME_FROM PROJECT_LIST ALSO_MAKE ALSO_MAKE_DEPENDENTS LOG_FILE ENCRYPT_MASTER_PASSWORD ENCRYPT_PASSWORD THREADS LEGACY_LOCAL_REPOSITORY BUILDER options
+MB ONE_SECOND ONE_MINUTE ONE_HOUR ONE_DAY BUILD_VERSION_PROPERTY
+
+
+system url notifiers locations
+
+
+
+
+
+classpath scope
+ROLE
+
+args commandLine classWorld workingDirectory multiModuleProjectDirectory debug quiet showErrors userProperties systemProperties request
+value canonical items
+projectBuildFutureTasks finishImmediately
+two
+one
+listeners
+listeners
+projectBuilds projectDependencyGraph finishedProjects
+inherited configuration locations inheritanceApplied
+
+ROLE
+ROLE
+serialVersionUID
+transfers printResourceNames lastLength
+out
+out downloads lastLength
+
+name email url organization organizationUrl roles timezone properties locations
+artifacts packages
+exports
+groupId artifactId version
+realm artifacts packages builder
+extensions modelEncoding
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+scopes
+plugin
+artifact
+logger
+logger indent ignoredArtifacts
+groupId artifactId baseVersion type classifier scope file repository downloadUrl dependencyFilter artifactHandler dependencyTrail version versionRange resolved release availableVersions metadataMap optional
+
+repoSystem legacySupport relatedMetadata
+logger remoteRepositoryManager versionResolver versionRangeResolver artifactResolver repositoryEventDispatcher modelBuilder
+artifactHandlerManager
+delegates excludedArtifacts coreArtifacts
+extension type classifier directory packaging includesDependencies language addedToClasspath
+artifactHandlers unmanagedHandlers
+repoSystem legacySupport
+layout snapshots releases blacklisted authentication proxy mirroredRepositories
+factory legacySupport repositorySystem
+logger artifactFactory artifactCollector resolutionErrorHandler source container legacySupport repoSystem executor
+artifactTransformations
+majorVersion minorVersion incrementalVersion buildNumber qualifier comparable
+bean configuration configurationElement classLoader valuePreprocessor pathTranslator
+converterLookup
+mavenPluginManager legacySupport scope mojoExecutionListener mojoExecutionListeners
+API_REALMID PARENT_CLASSLOADER logger world containerRealm delegates mavenApiRealm providedArtifacts
+type parent parentImports foreignImports constituents
+conflictResolver
+
+container
+
+merger
+project filter session
+root dependencies resolvedDependencies unresolvedDependencies collectionErrors resolutionErrors
+data
+
+type session mojoExecution exception
+
+cache
+logger projectBuilder
+closerFirst newerFirst
+policy
+merger CHILD_DIRECTORY CHILD_DIRECTORY_PROPERTY
+KEY_JAVAHOME
+defaultConflictResolver logger legacySupport
+SESSION
+merger lifecycle
+pluginVersionResolver pluginManager defaultLifeCycles mojoDescriptorCreator lifecyclePluginResolver standardDelegate delegates mojoExecutionConfigurators
+lifeCyclePluginAnalyzer defaultLifeCycles lifecycleTaskSegmentCalculator lifecycleExecutionPlanCalculator mojoExecutor lifecycleStarter mojoDescriptorCreator
+lifecycles lifecycleMap phases
+HINT pluginManager
+lifecycleMappings defaultLifeCycles logger
+mojoDescriptorCreator lifecyclePluginResolver
+STANDARD_LIFECYCLES lifecycles logger
+
+logger
+logger projectBuilder lifecycleStarter container eventCatapult legacySupport sessionScope repositorySessionFactory graphBuilder
+repositoryCache workspaceReader localRepository eventSpyDispatcher localRepositoryPath offline interactiveMode cacheTransferError cacheNotFound proxies servers mirrors profiles pluginGroups isProjectPresent userSettingsFile globalSettingsFile userToolchainsFile globalToolchainsFile multiModuleProjectDirectory basedir goals useReactor recursive pom reactorFailureBehavior selectedProjects excludedProjects resumeFrom makeBehavior systemProperties userProperties startTime showErrors activeProfiles inactiveProfiles transferListener loggingLevel globalChecksumPolicy updateSnapshots remoteRepositories pluginArtifactRepositories executionListener degreeOfConcurrency builderId toolchains noSnapshotUpdates useLegacyLocalRepositoryManager data projectBuildingRequest
+repositorySystem
+project topologicallySortedProjects dependencyResolutionResult exceptions buildSummaries
+cache
+KEY_EXTENSIONS_REALMS logger loggerManager container classRealmManager pluginDescriptorCache pluginRealmCache pluginDependenciesResolver runtimeInformation extensionRealmCache pluginVersionResolver pluginArtifactsCache extensionDescriptorBuilder builder
+PROFILES_XML_FILE
+projectBuilder repositorySystem legacySupport
+artifactHandlerManager
+settingsBuilder
+
+artifact resolveManagedVersions repositoryRequest
+
+WILDCARD EXTERNAL_WILDCARD
+modelProcessor modelValidator modelNormalizer modelInterpolator modelPathTranslator modelUrlNormalizer superPomProvider inheritanceAssembler profileSelector profileInjector pluginManagementInjector dependencyManagementInjector dependencyManagementImporter lifecycleBindingsInjector pluginConfigurationExpander reportConfigurationExpander reportingConverter
+
+model request problems
+project projectBuildingHelper projectBuildingRequest remoteRepositories pluginRepositories
+rawModel pomFile modelSource validationLevel processPlugins twoPhaseBuilding locationTracking profiles activeProfileIds inactiveProfileIds systemProperties userProperties buildStartTime modelResolver modelBuildingListener modelCache workspaceResolver
+effectiveModel modelIds rawModels activePomProfiles activeExternalProfiles problems
+session cache
+
+
+merger
+pathTranslator
+source lineNumber columnNumber modelId message exception severity version
+result problems source sourceModel rootModel severities
+locator reader
+
+session trace context repositories externalRepositories resolver versionRangeResolver remoteRepositoryManager repositoryIds
+urlNormalizer
+ID_REGEX ID_WITH_WILDCARDS_REGEX ILLEGAL_FS_CHARS ILLEGAL_VERSION_CHARS ILLEGAL_REPO_ID_CHARS
+
+
+
+cache
+
+REPOSITORY_CONTEXT logger repoSystem
+descriptors
+merger
+container pluginManager pluginVersionResolver pluginPrefixResolver legacySupport
+prefix pluginGroups pom repositories session
+REPOSITORY_CONTEXT logger pluginManager repositorySystem metadataReader
+groupId artifactId repository
+cache
+groupId artifactId pom repositories session
+REPOSITORY_CONTEXT logger repositorySystem metadataReader pluginManager
+version repository
+source lineNumber columnNumber message exception severity
+problems source
+activeProfileIds inactiveProfileIds systemProperties userProperties projectProperties projectDirectory
+merger
+logger profileSelector activatedIds deactivatedIds defaultIds profilesById requestProperties
+activators
+artifactFactory
+cache
+logger modelBuilder modelProcessor projectBuildingHelper repositorySystem repoSystem repositoryManager dependencyResolver
+globalProfileManager localRepository userProperties executionProperties buildStartTime
+logger container classRealmManager projectRealmCache repositorySystem pluginManager
+repositorySession localRepository remoteRepositories pluginArtifactRepositories project validationLevel processPlugins profiles activeProfileIds inactiveProfileIds systemProperties userProperties buildStartTime resolveDependencies resolveVersionRanges repositoryMerging
+projectId pomFile project problems dependencyResolutionResult
+repositorySystem resolutionErrorHandler
+sorter allProjects
+cache
+
+
+PATH_SEPARATOR GROUP_SEPARATOR ARTIFACT_SEPARATOR
+wagonManager updateCheckManager
+offline forceUpdate localRepository remoteRepositories
+logger artifactHandlerManager repoSystem simpleLocalRepoMgrFactory workspaceRepository settingsDecrypter eventSpyDispatcher mavenRepositorySystem
+
+logger mavenVersion
+settingsReader settingsWriter settingsValidator settingsMerger
+
+globalSettingsFile userSettingsFile globalSettingsSource userSettingsSource systemProperties userProperties
+effectiveSettings problems
+securityDispatcher
+servers proxies
+servers proxies problems
+source lineNumber columnNumber message exception severity
+problems source
+
+ID_REGEX ILLEGAL_FS_CHARS ILLEGAL_REPO_ID_CHARS
+
+superModel modelProcessor
+type provides KEY_TYPE model logger
+logger factories
+
+toolchainsMerger toolchainsReader
+globalToolchainsSource userToolchainsSource
+effectiveToolchains problems
+
+ERROR_KEY_SUFFIX LAST_UPDATE_TAG TOUCHFILE_NAME
+
+MAVEN_METADATA_XML logger metadataResolver syncContextFactory repositoryEventDispatcher
+MAVEN_METADATA_XML RELEASE LATEST SNAPSHOT logger metadataResolver syncContextFactory repositoryEventDispatcher
+log legacySupport settingsDecrypter mirrorSelector artifactRepositoryFactory
+buildReactor ideWorkspace userLocalArtifactRepository
+listeners
+listeners
+groupId artifactId version type classifier scope systemPath exclusions optional locations managementKey
+UNRESOLVED project scopesToCollectForCurrentProject scopesToResolveForCurrentProject scopesToCollectForAggregatedProjects scopesToResolveForAggregatedProjects lastDependencyArtifacts lastDependencyArtifactCount
+dependencies locations
+
+
+result
+
+
+
+uniqueVersion
+
+id
+repository snapshotRepository site downloadUrl relocation status locations
+DEFAULT_MESSAGE artifact project
+
+
+collisions
+
+
+
+envVars
+
+
+
+logger eventSpies
+dispatcher delegate
+dispatcher delegate
+
+exception message reference children
+
+artifactId groupId locations
+excludes
+configuration goals
+
+
+
+logger LINE_LENGTH MAX_PADDED_BUILD_TIME_DURATION_LENGTH MAX_PROJECT_NAME_LENGTH
+
+mojoExecution
+syntax description configuration cliOptions apiMethods deprecation ban editable
+expressions modelEncoding expressionsBySyntax
+serialVersionUID
+EXPRESSION_ROOTS EXPRESSION_DOCO_ROOTPATH expressionDocumentation
+groupId artifactId version locations
+exportedPackages exportedArtifacts
+
+
+
+
+pathTranslator
+directory
+
+file
+request
+projectDependencyGraph whiteList sortedProjects
+ARTIFACT_SEPARATOR GROUP_SEPARATOR
+pluginGoal
+HINT
+serialVersionUID
+ROLE
+ROLE
+groupId
+id
+patterns
+
+lineNumber columnNumber source locations
+
+modelId location
+
+groupId artifactId version type baseMessage
+dependency
+
+
+
+validationResult
+locationInPom offendingVersion
+repositoryId
+
+toInvert
+system url locations
+
+logger
+javaHome KEY_JAVAHOME
+JDK_VERSION
+
+
+
+delegate repo realLocalRepo
+PATH_SEPARATOR
+logger artifactFactory artifactResolver artifactRepositoryFactory layouts wagonManager plexus mirrorSelector settingsDecrypter
+
+name url distribution comments locations
+
+
+id phases defaultPhases
+
+lifecycles modelEncoding
+logger
+dependenciesResolver logger artifactFactory eventSpyDispatcher projectArtifactsCache
+project
+
+PRE_CLEAN CLEAN POST_CLEAN VALIDATE INITIALIZE TEST_COMPILE PROCESS_TEST_RESOURCES PROCESS_RESOURCES COMPILE TEST PACKAGE INSTALL PRE_SITE SITE POST_SITE SITE_DEPLOY
+ROLE
+ROLE
+
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+mojoExecutor builderCommon eventCatapult projectExecutionListener projectExecutionListeners sessionScope
+goal configuration dependencies
+lifecycleId
+mojos
+lifecyclePhase
+pluginVersionResolver
+eventCatapult defaultLifeCycles logger buildListCalculator lifecycleDebugLogger lifecycleTaskSegmentCalculator builders sessionScope
+lifecyclePhase
+
+clean aggr install
+IDE_WORKSPACE
+
+artifacts legacyFormat
+snapshots legacyFormat
+
+
+
+
+logger
+name subscribe unsubscribe post archive otherArchives locations
+
+POMv4
+
+repositoryUrl resource transferStartTime
+DEFAULT_TYPE groupId artifactId version classifier type scope datum
+id url basedir protocol layout snapshots releases authentication proxy mirroredRepositories
+DEFAULT_BUILD_TIMESTAMP_FORMAT BUILD_TIMESTAMP_FORMAT_PROPERTY DEFAULT_BUILD_TIME_ZONE formattedTimestamp
+LOCAL_REPO_PROPERTY THREADS_DEPRECATED MULTIMODULE_PROJECT_DIRECTORY USER_HOME USER_MAVEN_CONFIGURATION_HOME DEFAULT_USER_TOOLCHAINS_FILE DEFAULT_GLOBAL_TOOLCHAINS_FILE EXT_CLASS_PATH EXTENSIONS_FILENAME MVN_MAVEN_CONFIG STYLE_COLOR_PROPERTY classWorld plexusLoggerManager slf4jLoggerFactory slf4jLogger eventSpyDispatcher modelProcessor maven executionRequestPopulator toolchainsBuilder dispatcher configurationProcessors LAST_ANSI_SEQUENCE ANSI_RESET
+pomFile
+planItem lastMojoExecutionForAllPhases phasesInExecutionPlan
+LOGGING_LEVEL_DEBUG LOGGING_LEVEL_INFO LOGGING_LEVEL_WARN LOGGING_LEVEL_ERROR LOGGING_LEVEL_FATAL LOGGING_LEVEL_DISABLED REACTOR_FAIL_FAST REACTOR_FAIL_AT_END REACTOR_FAIL_NEVER REACTOR_MAKE_UPSTREAM REACTOR_MAKE_DOWNSTREAM REACTOR_MAKE_BOTH CHECKSUM_POLICY_FAIL CHECKSUM_POLICY_WARN
+
+
+
+MAVEN_METADATA_XML file metadata merged
+
+repositoryMetadataManager repositorySystem projectBuilder container logger cache legacySupport
+CHILD_PATH_ADJUSTMENT ARTIFACT_ID
+
+pluginArtifact errors firstDescriptor
+ROLE
+EMPTY_PROJECT_GROUP_ID EMPTY_PROJECT_ARTIFACT_ID EMPTY_PROJECT_VERSION model parent file basedir resolvedArtifacts artifactFilter artifacts parentArtifact pluginArtifacts remoteArtifactRepositories pluginArtifactRepositories remoteProjectRepositories remotePluginRepositories attachedArtifacts executionProject collectedProjects compileSourceRoots testCompileSourceRoots scriptSourceRoots releaseArtifactRepository snapshotArtifactRepository activeProfiles injectedProfileIds dependencyArtifacts artifact artifactMap originalModel pluginArtifactMap reportArtifacts reportArtifactMap extensionArtifacts extensionArtifactMap managedVersionMap projectReferences executionRoot parentFile context classRealm extensionDependencyFilter lifecyclePhases projectBuilderConfiguration moduleAdjustments
+
+ROLE
+
+artifactHandlerManager layouts WILDCARD EXTERNAL_WILDCARD
+
+
+request result repositorySession executionProperties currentProject projects allProjects topLevelProject projectDependencyGraph parallel pluginContextsByProjectAndPluginKey projectMap container settings
+ROLE ALT_USER_SETTINGS_XML_LOCATION ALT_GLOBAL_SETTINGS_XML_LOCATION ALT_LOCAL_REPOSITORY_LOCATION
+
+
+
+
+
+SNAPSHOT artifacts legacyFormat
+
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+
+addDefaultEntities contentTransformer
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+modelVersion groupId artifactId version versioning plugins modelEncoding
+metadata merged
+DEFAULT_VERTICES DEFAULT_EDGES versionedVertices scopedVertices entry vertices incidentEdges excidentEdges scope
+version scope depth pomOrder resolved artifactUri source target
+metadata inNodes exNodes
+serialVersionUID
+md compareVersion compareScope
+lineNumber columnNumber
+IS_STRICT
+artifactMetadata metadataRepositories
+
+
+tree graph classpathCompile classpathTest classpathRuntime versionedGraph scopedGraph id
+treeRoot classpathTransformation conflictResolver
+artifact
+ROLE
+md parent nChildren children
+
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+mirrorOf name url layout mirrorOfLayouts
+
+
+moduleFile moduleName
+
+
+modelVersion parent groupId artifactId version packaging name description url inceptionYear organization licenses developers contributors mailingLists prerequisites scm issueManagement ciManagement build profiles modelEncoding pomFile
+modules distributionManagement properties dependencyManagement dependencies repositories pluginRepositories reports reporting locations
+
+
+BUILD_EXTENSIONS_ASSEMBLED
+result
+
+VALIDATION_LEVEL_MINIMAL VALIDATION_LEVEL_MAVEN_2_0 VALIDATION_LEVEL_MAVEN_3_0 VALIDATION_LEVEL_MAVEN_3_1 VALIDATION_LEVEL_STRICT
+
+
+RAW IMPORT
+source model rawModel activeProfiles groupId artifactId version
+ROLE
+expression originalMessage
+
+
+
+
+lineNumber columnNumber
+
+
+
+
+severity version exception message location
+
+SOURCE
+IS_STRICT INPUT_SOURCE
+
+
+
+
+
+NEWLINE messages
+
+
+ROLE
+MAVEN_PLUGIN SINGLE_PASS_EXEC_STRATEGY MULTI_PASS_EXEC_STRATEGY DEFAULT_INSTANTIATION_STRATEGY DEFAULT_LANGUAGE parameters parameterMap executionStrategy goal phase since executePhase executeGoal executeLifecycle deprecated aggregator dependencyResolutionRequired dependencyCollectionRequired projectRequired onlineRequired mojoConfiguration pluginDescriptor inheritedByDefault directInvocationOnly requiresReports threadSafe
+logger pluginVersionResolver pluginManager pluginPrefixResolver lifecyclePluginResolver
+plugin goal executionId mojoDescriptor configuration source lifecyclePhase forkedExecutions
+
+session project mojoExecution mojo cause
+
+
+SEEDED_KEY_PROVIDER values
+
+scope
+
+context
+pluginManager mavenPluginManager lifeCycleDependencyResolver eventCatapult
+executions
+
+goal pluginDescriptor
+logger lifecycleModuleBuilder
+resolvedArtifacts missingArtifacts
+
+
+
+
+type sendOnError sendOnFailure sendOnSuccess sendOnWarning address configuration locations
+
+
+filters
+name url locations
+
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+alias name type required editable description expression deprecated defaultValue implementation requirement since
+groupId artifactId version relativePath locations
+unprefixedPathKeys projectDir pathTranslator expressionPrefixes
+ROLE
+includes excludes locations
+
+toolchains modelEncoding
+id executions configuration
+lastLifecyclePhase project
+GID AID VER EXT
+name prefix artifactId
+plugin
+
+pluginManagement
+pluginDescriptor originalMessage
+
+plugins locations pluginMap
+pluginRealm
+
+coreFilter coreArtifacts wagonProvider bannedArtifacts
+LIFECYCLE_DESCRIPTOR groupId artifactId version goalPrefix source inheritedByDefault artifacts classRealm artifactMap introducedDependencyArtifacts name description requiredMavenVersion plugin pluginArtifact lifecycleMappings
+
+
+
+id phase priority goals DEFAULT_EXECUTION_ID
+mojoExecution
+
+pluginKey
+
+
+ROLE
+pluginGroupId pluginArtifactId pluginVersion goal project
+plugin
+parameters mojo
+session mojoExecution project basedir properties
+
+
+
+
+
+plugin
+groupId artifactId
+
+groupId artifactId baseMessage
+
+
+
+maven locations
+
+
+
+valueSource bannedPrefix newPrefix problems
+activation properties repositories pluginRepositories
+
+serialVersionUID
+
+
+
+
+
+profiles activeProfiles modelEncoding
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+project
+
+file
+
+projectId
+items
+
+
+projectId pomFile results
+
+
+
+
+
+
+
+A B C X Y Z UNKNOWN
+session project executionPlan cause
+
+projects indices
+session trace context repositories pomRepositories externalRepositories resolver remoteRepositoryManager repositoryIds modelPool repositoryMerging
+
+project taskSegment session nonTransitiveUpstreamProjects transitiveUpstreamProjects
+dag sortedProjects projectMap topLevelProject
+
+
+active protocol username password port host nonProxyHosts
+
+projectDependencyGraph blackListedProjects halted
+result projectIndex originalContextClassLoader reactorBuildStatus sessionScope
+FAIL_FAST FAIL_AT_END FAIL_NEVER MAKE_MODE MAKE_DEPENDENTS_MODE MAKE_BOTH_MODE blackList buildFailuresByProject pluginContextsByProjectAndPluginKey failureBehavior sorter buildSuccessesByProject
+models
+pomFiles
+HINT COMPILE_PHASE_TYPES projectsByGAV projectsByGA repository
+
+
+artifact groupId artifactId version
+groupId artifactId version message locations
+DEFAULT_SNAPSHOT_TIMESTAMP_FORMAT DEFAULT_SNAPSHOT_TIME_ZONE versions
+snapshots legacyFormat
+
+groupId artifactId version reportSets reportSetMap
+id reports
+excludeDefaults outputDirectory plugins locations reportPluginMap
+
+releases snapshots
+id name url layout
+
+RELEASE SNAPSHOT RELEASE_OR_SNAPSHOT
+
+
+
+
+
+
+enabled updatePolicy checksumPolicy
+
+
+DEFAULT_LOCAL_REPO_ID userHome userMavenConfigurationHome defaultUserLocalRepository DEFAULT_REMOTE_REPO_ID DEFAULT_REMOTE_REPO_URL
+
+role roleHint
+
+
+
+
+ROLE TEST_ARTIFACT PROCESS_CHILDREN FINISH_PROCESSING_CHILDREN INCLUDE_ARTIFACT OMIT_FOR_NEARER UPDATE_SCOPE MANAGE_ARTIFACT OMIT_FOR_CYCLE UPDATE_SCOPE_CURRENT_POM SELECT_VERSION_FROM_RANGE RESTRICT_RANGE MANAGE_ARTIFACT_VERSION MANAGE_ARTIFACT_SCOPE MANAGE_ARTIFACT_SYSTEM_PATH
+
+artifact children parents depth parent remoteRepositories active trail
+targetPath filtering mergeId mergeIdCounter
+lowerBound lowerBoundInclusive upperBound upperBoundInclusive EVERYTHING
+errors value problems GET_PROBLEMS
+userHome userMavenConfigurationHome DEFAULT_USER_SETTINGS_FILE settings
+
+connection developerConnection tag url locations
+scope
+username password privateKey passphrase filePermissions directoryPermissions configuration
+SEEDED_KEY_PROVIDER values
+scope
+
+localRepository interactiveMode usePluginRegistry offline proxies servers mirrors profiles activeProfiles pluginGroups modelEncoding activeProxy profileMap
+request runtimeInfo
+
+problems
+
+
+lineNumber columnNumber
+
+
+
+lineNumber columnNumber
+
+
+IS_STRICT
+
+
+
+
+HINT USER_HOME USER_MAVEN_CONFIGURATION_HOME DEFAULT_USER_SETTINGS_FILE DEFAULT_GLOBAL_SETTINGS_FILE logger settingsBuilder settingsDecrypter
+addDefaultEntities contentTransformer
+NAMESPACE fileComment
+
+serialVersionUID CONFIGURATION_FILE START_TIME SIMPLE_LOGGER_PROPS LOG_LEVEL_TRACE LOG_LEVEL_DEBUG LOG_LEVEL_INFO LOG_LEVEL_WARN LOG_LEVEL_ERROR LOG_LEVEL_OFF INITIALIZED DEFAULT_LOG_LEVEL SHOW_DATE_TIME DATE_TIME_FORMAT_STR DATE_FORMATTER SHOW_THREAD_NAME SHOW_LOG_NAME SHOW_SHORT_LOG_NAME LOG_FILE TARGET_STREAM LEVEL_IN_BRACKETS WARN_LEVEL_STRING SYSTEM_PREFIX DEFAULT_LOG_LEVEL_KEY SHOW_DATE_TIME_KEY DATE_TIME_FORMAT_KEY SHOW_THREAD_NAME_KEY SHOW_LOG_NAME_KEY SHOW_SHORT_LOG_NAME_KEY LOG_FILE_KEY LEVEL_IN_BRACKETS_KEY WARN_LEVEL_STRING_KEY LOG_KEY_PREFIX currentLogLevel shortLogName
+loggerMap
+model warnings errors fatals
+lifecycleModuleBuilder
+id name url locations
+
+RESOURCE
+logger
+loggerFactory
+out
+
+ERROR out
+timestamp buildNumber localCopy
+artifact
+
+DEFAULT_SNAPSHOT_TIMESTAMP_FORMAT DEFAULT_SNAPSHOT_TIME_ZONE deploymentTimestamp
+classifier extension version updated
+
+SINGLETON REQUESTED_API_VERSION loggerFactoryClassStr loggerFactory
+SINGLETON
+SINGLETON markerFactory
+
+CACHED_ENTRIES
+
+content location
+expectedContent
+
+
+properties
+
+tasks aggregating
+projects projectBuildThreadLocal streams printStreams defaultOutputStreamForUnknownData defaultPrintStream completedBuilds currentBuild originalSystemOUtStream printer
+
+
+ROLE
+
+type provides configuration
+
+
+problems
+
+
+lineNumber columnNumber
+IS_STRICT
+USER_LEVEL GLOBAL_LEVEL sourceLevel sourceLevelSet
+listener artifacts transfers
+type
+layoutId
+groupId artifactId version
+originatingArtifact artifacts remoteRepositories
+logger slf4jBinding supported
+
+
+
+URL_EXPRESSIONS normalizer
+
+url
+localRepository
+mojo delegate missingParameters
+dependency projectId pomFile cause
+recommendedVersion restrictions
+latest release snapshot versions lastUpdated snapshotVersions
+artifact
+versions processedVersions
+
+
+
+
+
+coreArtifact
+
+configurableField
+logger
+
+
+parent node attributes attribute position
+attrib
+parent test node children filteredChildren filteredIndex child position
+node
+
+

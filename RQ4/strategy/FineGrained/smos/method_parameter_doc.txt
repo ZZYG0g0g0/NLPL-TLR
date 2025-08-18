@@ -1,0 +1,99 @@
+academ year date absenc id absenc id justifi id user
+
+id address name
+academ year id address id classroom name
+
+connect arg arg pool index connect time connect arg arg
+prep st statement result set type result set concurr result set type result set concurr result set holdabl sql sql statement sql result set type result set concurr statement sql result set type result set concurr result set holdabl statement sql statement sql auto gener key statement sql result set type result set concurr statement sql result set type result set concurr result set holdabl statement sql index statement sql column name savepoint savepoint auto commit catalog holdabl read name level
+
+connect
+
+academ year date delay id delay id user time delay
+
+
+
+
+properti path
+academ year date justifi id justifi id user
+
+sender receiv subject text
+address teach address address id address address id address id address teach address address rs rs rs address teach
+classroom classroom id user academ year academ year user user user academ year classroom rs rs rs classroom
+absenc delay id justifi note absenc delay justifi id user academ year id user date id absenc id justifi id user date id delay absenc id justifi id user academ year id note class id date regist line regist line absenc absenc delay justifi absenc note rs rs rs rs absenc delay justifi note
+teach teach id teach id id name user class id id teacher id class teach teach rs rs teach
+
+vote id year turn vote teach year turn user id id id id year turn vote rs rs vote
+
+
+year date note descript id note id user teacher
+
+absenc delay student
+vote ind id
+
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+config
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+request respons request respons
+id name
+arg
+cell mail first name id id parent last name login password
+mail id name
+arg
+bol date hour int str str str str str str date str string date hour today date connect sql field tabl int str date connect sql activ timeout driver sql full path databas imag header path imag leav column imag header logo path max day exam max pool size need day exam password pdf path pool timeout server smtp text footer upload path user name wait timeout
+accadem year id id laboratori oral teach turn write

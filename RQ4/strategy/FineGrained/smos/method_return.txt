@@ -1,0 +1,99 @@
+int Date int Integer int void void void void void
+String
+int String void void
+int int int String void void void void String
+
+int void void void void Connection Connection Connection PrintWriter int int Connection int void void void void void String
+PreparedStatement Statement void void void void void Statement Statement Statement void boolean String int DatabaseMetaData int Map SQLWarning boolean boolean String CallableStatement CallableStatement CallableStatement PreparedStatement PreparedStatement PreparedStatement PreparedStatement PreparedStatement PreparedStatement void void void void void void void Savepoint Savepoint void void String
+void
+Connection void void
+
+int Date int int String void void void void void
+
+
+
+
+String void
+int Date int int void void void void
+
+void
+void void boolean Address int Collection String Collection ManagerAddress boolean void Collection Address Collection void
+void boolean Collection Classroom Classroom Collection Collection Collection Collection ManagerClassroom void Collection Classroom Collection void
+void void void void boolean boolean boolean Collection Absence Absence Absence Delay Delay ManagerRegister Justify Justify Collection Note Collection boolean boolean boolean void void void void Absence Delay Justify Note void void void void
+void boolean ManagerTeaching Teaching int String Collection Collection Collection Collection Collection Collection boolean void Teaching Collection void
+
+void void boolean int ManagerVotes String Collection Votes Collection Collection void Votes Collection void
+
+
+int Date String int int String void void void void void void
+
+Absence Delay UserListItem void void void
+String void Votes void
+
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+void void
+
+void void
+void void
+void void
+void void
+
+void void
+void void
+void void
+void void
+void void
+int String void void
+void
+String String String int int String String String String void void void void void void void void String
+String int String void void void
+void
+int String boolean void String String String String Date Integer String String int int int String String String String String String int int int int String String int String String String String int String String String ResultSet void void void void void void void void void void void void void void void void void Date
+int int int int int int int int void void void void void void void void String

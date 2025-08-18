@@ -1,0 +1,1316 @@
+
+
+
+
+
+
+tupl factori sum count
+log colon comma asterisk inpu prefix outpu prefix strin caster byt caster cast properti option line reader writer inst zookeep user password tabl name author column start end write thread mutat buffer size latenc separ whitespac caster schema signatur
+
+version uid buffer index
+sb
+
+
+
+count
+
+
+
+
+log
+siz int siz long
+log colon empti empt text empt that byt array holder holder
+cast option author option star ro option en ro option mutatio buff siz option writ thread option latenc option colum separato option colum ignor whitespac option option parser
+version uid
+
+
+
+
+val
+val
+val
+val
+eval func eval func eval func bag factori tupl factori db db db tupl tup combin threshold factor counter helper combin arg init
+
+val
+
+val
+
+val
+provid
+name eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w ba type ba typ cast ba val bi expr bool boo cond ca cond ca expr ca exp lh ca exp rh ca expr co rang exp paren fiel def fiel de withou identifi foreac pla complex foreac pla simpl func fun eval fun ref invok fun eval lh rh joi item ke va pair macr bodi macr def macr inlin type val neg nest cmd nest cm assi nest proj param queri realia retur val spli branch statement tobag tomap totupl tupl type tupl typ cast tupl val eval match adaptor param see name index gen claus follo quer follo follo follo follo follo follo follo follo follo statemen follo follo follo follo realia follo follo identifi follo paral follo integ follo identifi follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo defin follo identifi follo follo follo execcomman follo follo follo follo follo follo shi follo follo quotedstrin follo cach follo follo inpu follo follo stdi follo follo stdou follo follo quotedstrin follo follo outpu follo follo stderro follo quotedstrin follo integ follo loa follo follo follo follo quotedstrin follo follo follo fiel de follo identifi follo follo fiel de withou identifi follo follo follo follo follo follo follo tupl typ follo follo ba typ follo identifi follo follo typ follo identifi follo follo fun follo follo fun follo follo follo follo follo follo quotedstrin follo cub follo follo follo follo b follo follo follo follo follo follo follo follo sta follo follo follo follo follo quotedstrin follo follo follo al follo follo follo follo follo follo follo follo sta follo follo flatt follo follo stor follo follo follo follo asser follo follo follo follo quotedstrin follo filt follo follo follo follo follo follo follo follo follo follo follo nul follo follo follo follo follo follo follo follo boo con follo follo follo lh follo follo rh follo follo fun eva follo follo follo follo sta follo plu follo follo follo minu follo follo follo sta follo follo follo di follo follo follo percen follo follo follo ca exp follo follo follo follo follo ne follo follo ca exp follo follo follo exp pare follo follo follo follo follo follo tupl typ ca follo follo ba typ ca follo follo follo follo follo follo follo follo follo follo perio follo follo follo follo dollarva follo co ring follo follo doubl perio follo follo poun follo follo bi exp follo follo follo follo ca exp follo ca exp lh follo follo ca exp rh follo follo ca con follo whe follo follo follo follo limi follo follo integ follo longinteg follo follo sampl follo follo doublenumb follo follo run follo follo follo b follo follo den follo sta follo follo follo follo ord follo follo follo follo sta follo follo follo follo distinc follo follo follo partitio follo follo cro follo follo follo follo joi follo follo follo follo quotedstrin follo follo follo out follo follo follo joi ite follo follo follo b follo follo follo follo sta follo unio follo onschem follo follo foreac follo follo follo foreac pla simpl follo follo foreac pla compl follo follo follo follo generat follo follo nest cm follo identifi follo follo nest cm ass follo identifi follo follo follo follo follo follo follo follo follo nest pro follo follo follo filt follo follo follo ord follo follo follo follo distinc follo follo limi follo follo integ follo follo cro follo follo foreac follo follo follo follo follo follo strea follo follo follo follo mapreduc follo quotedstrin follo follo follo follo execcomman follo spli follo follo follo follo spli branc follo follo follo otherwi follo follo follo follo grou follo cub follo identifi follo dollarva follo follo follo follo follo follo follo quotedstrin follo nul follo tru follo fal follo minu follo follo va follo follo ke va pai follo follo follo quotedstrin follo ba va follo follo tupl va follo follo follo impor follo return follo defin follo loa follo filt follo foreac follo cub follo rollu follo match follo ord follo run follo distinc follo cogrou follo joi follo cro follo unio follo spli follo int follo follo al follo follo b follo usin follo inn follo out follo paral follo partitio follo grou follo follo follo follo generat follo flatt follo eva follo follo de follo boolea follo follo lon follo floa follo doubl follo datetim follo chararra follo biginteg follo bigdecima follo bytearra follo ba follo tupl follo follo follo nul follo tru follo fal follo strea follo throug follo stor follo mapreduc follo shi follo cach follo inpu follo outpu follo stderro follo stdi follo stdou follo limi follo sampl follo lef follo righ follo ful follo identifi follo toba follo toma follo totupl follo asser follo follo follo follo follo follo follo st match follo minu alia masker follo alia masker follo alia masker follo ca exp alia masker follo alia masker follo alia masker follo alia masker follo ca exp alia masker follo alia masker follo alia masker follo integ alia masker follo longinteg alia masker follo doublenumb alia masker follo alia masker follo alia masker follo out alia masker follo alia masker follo integ alia masker
+op
+result
+log projectio id load func push project field list field hash set factori schema signatur partition helper path partit key map column metadata key set func helper conf path pass partit filter
+
+
+version uid key
+
+tupl factori bag factori bag ct
+version uid field tupl factori
+
+name eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w ba type ba typ cast ba val bi expr bool boo cond ca cond ca expr ca exp lh ca exp rh ca expr co rang exp paren fiel def fiel de withou identifi foreac pla complex foreac pla simpl func fun eval fun ref invok fun eval lh rh joi item ke va pair macr bodi macr def macr inlin type val neg nest cmd nest cm assi nest proj param queri realia retur val spli branch statement tobag tomap totupl tupl type tupl typ cast tupl val eval match adaptor sb df df df df df df df df df df df df df df follo quer follo follo follo follo follo follo follo follo follo follo impor follo quotedstrin follo regist follo quotedstrin follo follo follo follo follo usin follo identifi follo follo identifi follo statemen follo follo follo follo realia follo follo identifi follo paral follo integ follo identifi follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo defin follo identifi follo follo follo execcomman follo follo follo follo follo follo shi follo follo quotedstrin follo quotedstrin follo cach follo follo inpu follo follo follo stdi follo follo stdou follo follo quotedstrin follo follo outpu follo follo follo stderro follo quotedstrin follo integ follo loa follo follo follo follo quotedstrin follo follo follo fiel de follo identifi follo follo fiel de follo follo follo follo follo follo follo follo follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo tupl typ follo follo ba typ follo identifi follo follo typ follo identifi follo follo fun follo follo fun follo follo follo follo perio follo dolla follo follo follo follo quotedstrin follo multilin quotedstrin follo quotedstrin follo multilin quotedstrin follo cub follo follo follo follo b follo follo follo follo cub follo rollu follo follo follo follo follo follo sta follo grou follo cogrou follo follo follo follo follo quotedstrin follo follo follo al follo follo inn follo out follo follo follo follo follo follo follo sta follo follo flatt follo follo stor follo follo follo follo quotedstrin follo asser follo follo follo follo filt follo follo follo follo follo follo follo follo follo follo follo nul follo follo follo follo follo follo follo follo boo con follo follo follo lh follo follo rh follo follo lh follo follo rh follo follo fun eva follo follo follo follo fun eva follo follo follo sta follo follo plu follo follo follo minu follo follo follo sta follo follo follo di follo follo follo percen follo follo follo ca exp follo follo follo follo follo ne follo follo ca exp follo follo follo exp pare follo follo follo follo follo follo tupl typ ca follo follo follo tupl typ ca follo follo ba typ ca follo follo follo follo follo follo follo follo follo follo perio follo follo follo follo follo grou follo cub follo identifi follo dollarva follo co ring follo follo doubl perio follo follo poun follo quotedstrin follo nul follo bi exp follo follo follo follo ca exp follo ca exp lh follo follo ca exp rh follo follo ca exp lh follo follo ca exp rh follo follo ca con follo whe follo follo follo follo follo follo limi follo follo integ follo longinteg follo follo sampl follo follo doublenumb follo follo run follo follo follo b follo follo den follo sta follo follo de follo follo follo follo follo follo de follo ord follo follo follo follo sta follo follo de follo follo follo follo follo follo de follo distinc follo follo follo partitio follo follo cro follo follo follo follo follo joi follo follo follo follo quotedstrin follo follo lef follo righ follo ful follo out follo follo follo follo joi ite follo follo follo b follo follo follo follo follo sta follo unio follo onschem follo follo foreac follo follo follo foreac pla simpl follo follo foreac pla compl follo follo follo follo generat follo follo follo nest cm follo identifi follo follo nest cm ass follo identifi follo follo follo follo follo follo follo follo follo nest pro follo follo follo follo filt follo follo follo ord follo follo follo follo distinc follo follo limi follo follo integ follo follo cro follo follo foreac follo follo follo follo follo follo follo strea follo follo execcomman follo identifi follo follo mapreduc follo quotedstrin follo follo follo follo execcomman follo spli follo follo follo follo follo spli branc follo follo follo otherwi follo follo al follo follo follo grou follo cub follo identifi follo dollarva follo follo follo follo follo follo follo quotedstrin follo nul follo tru follo fal follo minu follo integ follo longinteg follo floatnumb follo doublenumb follo bigintegernumb follo bigdecimalnumb follo va follo follo follo va follo ke va pai follo follo follo quotedstrin follo ba va follo follo follo ba va follo tupl va follo follo follo tupl va follo follo impor follo return follo defin follo loa follo filt follo foreac follo cub follo rollu follo match follo ord follo run follo distinc follo cogrou follo joi follo cro follo unio follo spli follo int follo follo al follo follo b follo usin follo inn follo out follo paral follo partitio follo grou follo follo follo follo generat follo flatt follo eva follo follo de follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo ba follo tupl follo follo follo nul follo tru follo fal follo strea follo throug follo stor follo mapreduc follo shi follo cach follo inpu follo outpu follo stderro follo stdi follo stdou follo limi follo sampl follo lef follo righ follo ful follo identifi follo toba follo toma follo totupl follo follo ca follo asser follo follo follo follo follo follo follo st match follo st e follo nu e follo st n follo nu n follo st g follo nu g follo st gt follo nu gt follo st l follo nu l follo st lt follo nu lt follo st e follo st n follo st g follo st l follo st gt follo st lt follo st match follo ast printer follo ast printer follo minu ast printer follo ast printer follo ast printer follo ca exp ast printer follo ast printer follo ast printer follo ast printer follo ca exp ast printer follo ast printer follo ast printer follo tupl typ ca ast printer follo ast printer follo ast printer follo integ ast printer follo longinteg ast printer follo doublenumb ast printer follo ast printer follo ast printer follo out ast printer follo ast printer follo integ ast printer
+name eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w ba type ba typ cast ba val bi expr bool boo cond ca cond ca expr ca exp lh ca exp rh ca expr co rang exp paren fiel def fiel de withou identifi foreac pla complex foreac pla simpl func fun eval fun ref invok fun eval lh rh joi item ke va pair macr bodi macr def macr inlin type val neg nest cmd nest cm assi nest proj param queri realia retur val spli branch statement tobag tomap totupl tupl type tupl typ cast tupl val eval match adaptor log rel alias follo quer follo follo follo follo follo follo follo follo follo regist follo quotedstrin follo usin follo identifi follo follo identifi follo follo statemen follo follo follo follo realia follo follo identifi follo paral follo integ follo identifi follo arrob follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo defin follo follo follo follo execcomman follo follo follo follo follo follo shi follo follo quotedstrin follo cach follo follo inpu follo follo stdi follo follo stdou follo follo quotedstrin follo follo outpu follo follo stderro follo quotedstrin follo integ follo loa follo follo follo follo quotedstrin follo follo follo fiel de follo identifi follo follo fiel de withou identifi follo follo follo follo follo follo follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo tupl typ follo follo ba typ follo identifi follo follo typ follo identifi follo follo fun follo follo fun follo follo follo follo follo follo follo cub follo follo follo follo b follo follo follo follo follo follo follo follo sta follo follo follo follo follo quotedstrin follo follo follo al follo follo follo follo follo follo follo follo follo sta follo follo flatt follo follo stor follo follo follo follo asser follo follo follo follo quotedstrin follo filt follo follo follo follo follo follo follo follo follo follo follo nul follo follo follo follo follo follo follo follo boo con follo follo follo lh follo follo rh follo follo fun eva follo follo follo invok fun eva follo follo identifi follo follo follo sta follo follo plu follo follo follo minu follo follo follo sta follo follo follo di follo follo follo percen follo follo follo ca exp follo follo follo follo follo ne follo follo ca exp follo follo follo exp pare follo follo follo follo follo follo tupl typ ca follo follo ba typ ca follo follo follo follo follo follo follo follo follo follo perio follo follo follo follo dollarva follo co ring follo follo doubl perio follo follo poun follo follo bi exp follo follo follo follo ca exp follo ca exp lh follo follo ca exp rh follo follo ca con follo whe follo follo follo follo limi follo follo integ follo longinteg follo follo sampl follo follo doublenumb follo follo run follo follo follo b follo follo den follo sta follo follo follo follo ord follo follo follo follo sta follo follo follo follo distinc follo follo follo partitio follo follo cro follo follo follo follo joi follo follo follo follo quotedstrin follo follo follo out follo follo follo joi ite follo follo follo b follo follo follo follo sta follo unio follo onschem follo follo foreac follo follo follo foreac pla simpl follo follo foreac pla compl follo follo follo follo generat follo follo nest cm follo identifi follo follo nest cm ass follo identifi follo follo follo follo follo follo follo follo follo nest pro follo follo follo filt follo follo follo ord follo follo follo follo distinc follo follo limi follo follo integ follo follo cro follo follo foreac follo follo follo follo follo follo strea follo follo follo follo mapreduc follo quotedstrin follo follo follo follo execcomman follo spli follo follo follo follo spli branc follo follo follo otherwi follo follo al follo follo follo dollarva follo follo follo follo follo follo follo quotedstrin follo nul follo tru follo fal follo minu follo follo va follo follo ke va pai follo follo follo quotedstrin follo ba va follo follo tupl va follo follo follo impor follo return follo defin follo loa follo filt follo foreac follo cub follo rollu follo match follo ord follo run follo distinc follo cogrou follo joi follo cro follo unio follo spli follo int follo follo al follo follo b follo usin follo inn follo out follo paral follo partitio follo grou follo follo follo follo generat follo flatt follo eva follo follo de follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo ba follo tupl follo follo follo nul follo tru follo fal follo strea follo throug follo stor follo mapreduc follo shi follo cach follo inpu follo outpu follo stderro follo stdi follo stdou follo limi follo sampl follo lef follo righ follo ful follo identifi follo toba follo toma follo totupl follo asser follo follo follo follo follo follo follo st match follo minu ast valid follo ast valid follo ast valid follo ca exp ast valid follo ast valid follo ast valid follo ast valid follo ca exp ast valid follo ast valid follo ast valid follo integ ast valid follo longinteg ast valid follo doublenumb ast valid follo ast valid follo ast valid follo out ast valid follo ast valid follo integ ast valid
+datum base datum datum limit phi map limit map constraint map log
+reader start end schema array
+version uid array
+map utf
+reader start end schema record
+schema writer conf
+record field arra field valu field
+schema name schema
+name name space recurs colon doubl underscor schema log context signatur outpu avr schema writer inpu avr schema reader split field list
+
+stream len
+level info fun call detail
+log
+boolean schema long schema float schema doubl schema int schema string schema byte schema null schema nonam pi tupl wrapper pat filter
+log tupl factori object
+
+block size alph size cod len runa runb group size iter selector nu overshoo byte num
+version uid
+
+
+
+
+
+
+
+self mem mgr
+
+
+usag string defaul delimit
+
+
+op edg edg edg edg root leav log
+
+tupl factori sum count
+
+
+
+version uid infin
+bi valu
+
+tupl factori sum count
+
+
+
+version uid infin
+bi valu
+param
+param
+
+minut boolea true boolea fals byte integ integ integ integ inshort integ inbyt long float doubl bytearray smallbytearray tinybytearray chararray smallchararray map smallmap tinymap tupl smalltupl tinytupl bag smallbag tinybag generi writablecompar internalmap null schem tupl byt index schem tupl shor index schem tupl lon inbyt lon inshort lon inint lon lon tupl tupl tupl tupl tupl tupl tupl tupl tupl tupl biginteg bigdecim datetim tupl factori bag factori unsign shor max unsign byt max ut
+version uid sede
+
+log end string caster reader writer
+
+
+start po end valu recor recor recor datum
+recor recor recor
+version uid type
+
+version uid lh rh child
+blackandwhit erro code splitter context whitelist blacklist
+context plan
+tupl factori file filter
+version uid creat map size byte hash type key type combin bao key iter
+log queri name context
+sc
+po size barray bbuff carray cbuff
+
+size hash type filter
+mask mask
+
+
+last ptr size randomis buff live crc use use unseq seq selector mtf tt unzftab limit base perm len bs stream limit count end char star bloc state run par state run par state run par state n run par state n run par state n run par state state block crc combin crc block crc combin crc comput combin crc count prev po n go po z po offset split stop read mask eob eo
+log setmask clearmask great icost less icost smal thresh dept thresh qsor stac size last ptr size randomis buff live crc use use unseq seq selector mtf block quadrant zptr szptr ftab mtf freq factor do limit attempt block randomis char length write close file array crc crc block size stream inc
+
+
+name flag
+
+
+tupl factori count
+tupl factori count
+name flag
+tabl crc
+linefe carriag return doubl quot recor del fiel delimit defaul str multilin defaul str eo defaul str head defaul str end delimit treatment treatment treatment proto tupl tupl factori context signatur locat requir column requir column initi logger lf detector pattern lf detector crlf detector pattern crlf detector maker next quot field next field id tupl skip char first record first record header index schem signatur schema
+log doubl quot fiel del recor del end proto tupl tupl factori signatur locat requir column requir column initi
+nid scope
+func schema
+collector load func map
+max int max long log
+
+close
+close
+configur
+end opt arg short long arg num val
+
+
+type famili qualifi
+
+info
+
+column type col rang project
+run
+inputuid outputuid requiredcol plan plan
+log item prune
+log pattern
+log
+distinc ud classnam log
+version uid bag lookup bag initi default bag
+
+log pattern
+report
+
+list
+runauto
+
+
+
+log
+
+oper pc
+val type
+
+
+store erro handl count group store erro count store recor count error threshold
+log
+version uid count
+
+
+bf tf marker unknown
+time initi
+
+log ps con url user pass size count queri schema signatur schem signatur
+param
+tupl factori bag factori
+jjtree token
+eof lparen rparen lsqbracket rsqbracket equal comma semicolon direct edg edg node graph digraph letter digit specia char name quotedstr default mult comment singl comment imag
+stream vec state liter imag state name lex state token skip special jjround set jjimag imag len match char lex state lex state state cnt jjround po kind
+jjtpars jjtattributestat jjtnodestat jjtedgestat jjtattributelist jjtattribut node name
+
+
+version uid datum
+spec seed row mapper file file separ rand mapkey
+tupl factori bag factori unsign shor max ut minut
+use byte key ra capacit key ra use key
+version uid
+unknown null boolean byte integ long float doubl datetim bytearray chararray biginteg bigdecim bigchararray map tupl bag generi writablecompar internalmap error
+defaul incomin that format defaul outgoin that format defaul id date format date format
+max
+min
+zone d valu
+
+log spil regist threshold logger sede content spill file size spil sampl size spil sampl frequenc sampl tupl size sampl regist bag bag spil file
+
+version uid log sede
+log file file load func spec loader index loader func spec scope tupl tupl factori locat
+
+
+version uid field
+
+
+
+column column
+df
+gen vec epsilon log
+dataato length
+factori initi default bag
+
+log
+version uid log sede
+version uid bigdecima minima scale log
+
+node node
+name edg node attribut
+
+
+counter verbos nest
+name attribut
+
+subgraph multi input subgraph multi output subgraph sub graph
+counter verbos nest
+
+tupl factori sum count
+
+
+
+
+
+
+
+
+
+
+
+
+
+valu
+iv fil name log resolv
+sb context tree sourc skip do macro
+context result
+
+
+
+
+
+version uid alia
+
+
+
+
+bloc siz key bloc replicatio key lengt key modificatio tim key
+map
+stat list stat list job plan
+
+
+version uid log
+
+
+
+
+report log logger schema id type schema intern
+
+plan plan datum context plan plan reset engin mr runner log record phi map load log map log map eqclass map lineag datum map inner log datum map inner log phi map limit map load schema map
+version uid synthet omitt expr
+
+version uid
+progr key
+local mapreduc
+log
+log success eo result command process code stdin thread thread stdout thread stderr handler handler record byte record byte thread error stream input thread
+
+op phi map plan plan gen pc
+type
+log version uid
+
+progr frequenc index sign intermedi db extrem
+filter file name tabl
+
+log input
+datum
+datum
+datum
+counter
+context conf
+log
+pc writer context committ
+log
+context
+
+log
+stream
+
+version uid log
+log loca prefix styl unix styl window own onl perm be root path temp dir
+name
+version uid name spec
+version uid filenam offset
+
+
+
+log plan plan expr plan expr expr
+
+quantil list weight part bag factori tupl factori asc state quantil sampl compar user comparison func spec user comparison func
+log tf
+
+factori reader column schema field first record header header index field requir field context signatur schem signatur requir field signatur log
+factori writer column schema field first record header context signatur schem signatur log
+
+tupl factori sum count
+
+
+
+
+
+
+
+
+
+
+
+
+conf
+
+
+version uid
+version uid name arg arg schema
+
+
+unknownfunc evalfunc comparisonfunc loadfunc storefunc pigtostreamfunc streamtopigfunc
+type function group
+num group group be
+log input number group per input group go bag factori tupl factori parallel be key defaul parallel
+tupl factori bag factori group
+version uid log
+r gte gt lte lt pc
+
+
+
+
+factori
+
+
+
+
+
+
+
+log tf
+
+
+version uid
+
+accumul get valu cleanup
+
+schema function method class target
+
+log gse initi
+factori factori
+log
+
+log pig parser
+log filter pig server df lf conf do load explain num fail job num succeed job shell script illustr
+
+log strin caster byt caster cast properti asterisk colon hba securit con key hba confi set hba toke set info reader writer format scan signatur option option row key whitespac block wa timestamp timestamp timestamp tombston field list
+log
+version uid
+f configur properti uri
+writ writ writ writ writ writ writ int writ dec writ writ db tup name type map
+
+log hadoo site cor site yar site cor defaul site mapr defaul site yar defaul site local context d launcher physic key log phi map
+
+log statu context file spec except alia store stat
+log
+path f
+input length
+
+numb format job output dir log dir id stream
+log
+
+fn init fn prime
+
+mod
+hasher
+
+
+projectio id that rang pcol log factori signatur rang reader serd conf schema key set buff prop conf column column partition helper path path partit key map
+ut li delimit delimit column stream writabl val ref
+helper signatur
+log compressio code conf defaul extens extensio overrid conf
+key valu file record reader path
+factori ptype
+init name param udaf evalu info info
+init udf info info
+
+init udtf input info info bf collector
+tf
+
+
+
+log
+tupl factori ba factori
+
+defaul that tim zone
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+map
+
+gen
+lineag class input datum record counter attach exp result exp result class share limit schema
+context lineag eqclass map datum map record revisit exp result schema map
+destin
+
+
+
+log index key secondari key sort order
+reader reader index start delimit index key compar
+serial serial close
+ctx
+
+log
+name locat byte record success type conf
+
+tupl factori sum count
+
+
+
+start po end valu recor recor recor datum sede
+recor recor recor sede
+
+instanc
+log log reader writer
+
+
+version uid log do factori tupl spill sede
+version uid log tupl factori read start
+version uid
+version uid tupl factori log comp read start
+version uid cmd
+version uid ex
+version uid expr msg
+
+
+
+
+
+log doubl arra class arra class floa arra class strin arra class lon arra class arra class class static class type
+
+name name type initi function schema id type map type map signatur class object map
+
+
+tf map
+
+
+
+
+
+
+
+initi dqi queue finish valu throw valu thread thread except tupl factori wai offer wai poll wai join
+
+
+deleg
+node mark sp mk
+pig
+log
+log method instanc
+log
+flag bufpo bufsiz avail begin buflin bufcolumn column line char cr char lf stream char buf buffer next char ind char ind buf size
+log path
+plan conf conf context distribut cach archiv matcher log lo dir en map pi counter pi run name pi separ counter smal jo lo msg bi jo lo msg pi store pi reduc store store map mro map
+version uid
+log nullpar jo id map stat context metric listen group id job d plan op rdd op rdd conf pc
+log id stage id id job id job metric job id
+log alia alia locat featur succ header failur header state output input conf byte read byte write msg except
+log
+log
+version uid key re result defaul chun size size result db bag index bag iter
+receiv object initi path name engin rubi
+bag factori tupl factori engin rubi
+name requir arg option arg name name initi piec receiv info encapsul engin rubi
+log engin initi
+log name script engin schema
+log instanc cx scope path sourc
+reader schema signatur factori factori factori schem signatur
+log file name file name file name header del del cach
+writer schema signatur factori bu size schem signatur
+function schema file path schema func
+log p
+factori factori
+tupl factori
+
+log
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+inner express plan group type key uid schema input uid grou co name optio grouptyp
+version uid nest
+express plan oper
+version uid
+version uid plan sampl
+version uid plan
+
+
+
+plan flag user defin schema plan schema schema schema
+prj foreach bag
+version uid join plan inner flag join type optio join
+version uid nul limit limit plan
+schema f func conf schema field state schema file signatur limit tmp load
+mr jar param
+run co name separ col plan col dens rank row number column uid
+asc col sort func star limit sort col plan
+
+plan map
+output input spec signatur tmp store info func enabl
+schema version uid command manag schema state
+schema map
+
+version uid log
+
+log oo err except memori line control except stack trace control except hadoop time spend map jc
+
+
+version uid log
+
+
+adjust context nig scope
+
+
+log version uid comp q limit
+load func map input func map map
+parent count rank
+plan datum datum map log phi map plan complet log affin group lineag trim pc eg
+version uid
+version uid writabl
+
+log context plan context conf engin conf
+
+fil extensio loader number extens map conf system function extens tag map tag map
+metadata
+func
+
+
+
+
+
+log oper plan conf pc
+mode
+launcher mr map
+log
+file mark
+
+log phi map plan plan gen pc
+
+uid schema field schema
+
+
+
+plan rel oper name map context scope stream index index filter id gen
+lp logic relat oper sourc sink
+name eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w ba type ba typ cast ba val bi expr bool boo cond ca cond ca expr ca exp lh ca exp rh ca expr co rang exp paren fiel def fiel de withou identifi foreac pla complex foreac pla simpl func fun eval fun ref invok fun eval lh rh joi item ke va pair macr bodi macr def macr inlin type val neg nest cmd nest cm assi nest proj param queri realia retur val spli branch statement tobag tomap totupl tupl type tupl typ cast tupl val eval match g scope adaptor log builder foreach plan nest command follo quer follo follo follo follo follo follo follo follo follo follo regist follo quotedstrin follo usin follo identifi follo follo identifi follo statemen follo follo follo follo realia follo follo identifi follo paral follo integ follo identifi follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo defin follo follo follo defin follo follo follo execcomman follo follo follo follo follo follo shi follo follo quotedstrin follo cach follo follo inpu follo follo stdi follo follo stdou follo follo quotedstrin follo follo outpu follo follo stderro follo quotedstrin follo integ follo loa follo follo follo follo quotedstrin follo follo follo fiel de follo identifi follo follo fiel de withou identifi follo follo follo follo follo follo follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo tupl typ follo follo ba typ follo identifi follo follo typ follo identifi follo follo fun follo follo fun follo follo follo follo perio follo dolla follo follo quotedstrin follo multilin quotedstrin follo cub follo follo follo follo b follo follo follo cub follo rollu follo follo follo follo follo sta follo grou follo follo follo follo cogrou follo follo follo follo quotedstrin follo follo follo al follo follo inn follo out follo follo follo follo arrob follo follo follo follo follo follo sta follo follo flatt follo follo stor follo follo follo follo asser follo follo follo follo quotedstrin follo filt follo follo follo follo follo follo follo follo follo follo follo nul follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo st match follo follo follo follo follo boo con follo follo follo lh follo follo rh follo follo fun eva follo follo follo invok fun eva follo identifi follo identifi follo identifi follo follo follo sta follo follo plu follo follo follo minu follo follo follo sta follo follo follo di follo follo follo percen follo follo follo follo follo ne follo follo ca exp follo follo follo exp pare follo follo follo follo follo follo tupl typ ca follo follo ba typ ca follo follo follo follo follo follo follo follo follo follo perio follo follo follo follo grou follo cub follo identifi follo dollarva follo co ring follo follo doubl perio follo follo poun follo quotedstrin follo nul follo bi exp follo follo follo follo ca exp follo ca exp lh follo follo ca exp rh follo follo ca con follo whe follo follo follo follo limi follo follo integ follo longinteg follo follo sampl follo follo doublenumb follo follo run follo follo follo b follo follo den follo sta follo follo de follo follo follo follo de follo follo follo de follo ord follo follo follo follo sta follo follo de follo follo follo follo de follo follo follo de follo distinc follo follo follo partitio follo follo cro follo follo follo follo joi follo follo follo follo quotedstrin follo follo lef follo righ follo ful follo out follo follo follo joi ite follo follo follo b follo follo follo follo sta follo unio follo onschem follo follo foreac follo follo follo foreac pla simpl follo follo foreac pla compl follo follo follo follo nest cm follo identifi follo follo nest cm ass follo identifi follo follo follo follo follo follo follo follo follo nest pro follo follo follo filt follo follo follo ord follo follo follo follo distinc follo follo limi follo follo integ follo follo cro follo follo foreac follo follo follo generat follo follo follo follo follo strea follo follo execcomman follo identifi follo follo mapreduc follo quotedstrin follo follo follo follo execcomman follo spli follo follo follo follo spli branc follo follo follo otherwi follo follo al follo follo follo grou follo cub follo identifi follo dollarva follo follo follo follo follo follo follo quotedstrin follo nul follo tru follo fal follo minu follo integ follo longinteg follo floatnumb follo doublenumb follo bigintegernumb follo bigdecimalnumb follo va follo follo ke va pai follo follo follo quotedstrin follo ba va follo follo tupl va follo follo follo impor follo return follo defin follo loa follo filt follo foreac follo match follo ord follo distinc follo cogrou follo cub follo rollu follo joi follo cro follo unio follo spli follo int follo follo al follo follo b follo usin follo inn follo out follo paral follo partitio follo grou follo follo follo follo generat follo flatt follo eva follo follo de follo boolea follo follo lon follo floa follo doubl follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo ba follo tupl follo follo follo nul follo tru follo fal follo strea follo throug follo stor follo mapreduc follo shi follo cach follo inpu follo outpu follo stderro follo stdi follo stdou follo limi follo sampl follo lef follo righ follo ful follo identifi follo toba follo toma follo totupl follo asser follo follo follo follo follo follo follo st match follo st e follo st n follo st g follo st l follo st gt follo st lt follo st match follo integ logic plan gener follo longinteg logic plan gener follo doublenumb logic plan gener follo logic plan gener follo logic plan gener follo out logic plan gener follo logic plan gener follo integ logic plan gener
+log rule rule disabl report pc
+stream ta tab bar l sep u sep seper tab revers
+
+
+schema parallel alia num custom partition pin option
+field
+version uid
+
+tupl factori sum count
+
+
+
+initi file key tabl
+
+
+context plan mr plan mr op input see nig scope finder collector mr op map use comparato marker log fil concatenatio threshold optimisti fil concaten concaten threshold file concaten
+version uid
+chil jav opt fileoutputcommitt marksuccessfuljob framewor name inpu dir inpu di recurs inputforma class sor mb jar jo applicatio attemp id jo cach file jo credenti binari jo credenti json jo en notificatio retr interv jo hdf server jo id jo name jo prioriti jo queu name jo reduc markres buff percent jo tracker jo track htt address jo reduc linerecordread maxlength attempt task mapp ne api spli size outpu basenam outpu compress outpu compressio codec outpu dir reduc attempt reduc task reduc ne api sumi replic ta id ta map ta partit ta timeout textoutputforma separ wor oupu dir
+version uid mode
+
+intermedi
+succ header failur header log store store load counter id map time map time map time map time reduc time reduc time reduc time reduc time map reduc input record output record input record output record count spill count obj spill count rec store counter input counter counter
+
+version uid
+ta count group f count group log
+stream verbos
+log map map locat map
+context
+log jo spli resourc name jo spli metainf resourc name param tez param map map param tez vertex param map reduc param tez vertex param map set retain set remov
+
+log lo conf brief debug verbos version version version version revis time progr notificatio listen key progr notificatio listen ar key
+key key
+requir mapkey plan subplan
+map key
+file spec request
+log tf fil syst name file filter compar
+succeed fil name log warn
+version uid plan plan plan key type key type splitte do do input map input reduc sort sort featur distinct combin secondari key file order sort order ud fs scalar udf compar use nig scope parallel parallel parallel partition limit plan splitter join join partit file type compar small split mr map
+context report writer
+log partit name partition partit method
+
+
+progr frequenc intermedi
+
+
+plan
+
+rec tupl factori lr phi plan cnt pipelin leaf pipelin root loader split null key
+
+
+
+con dir con file
+
+sy instanc setup exectyp mr exectyp tez exectyp spark
+
+version uid
+
+
+exec unit durat valu func closur callback handler handler
+
+
+
+
+version uid map
+log nig scope illustr
+log scope nig
+optim support store func unsupport store func
+version uid part packag key wrap map key type combin writabl
+keyfiel delimet path field index del comp remov key writer
+version uid
+
+pattern
+map
+count
+
+size limit
+version uid job mr jar param
+version uid job spark jar param id
+version uid job tez jar param id
+
+
+
+
+
+id map gener
+
+c
+pattern string matcher
+
+
+version uid expr
+version uid content
+pattern
+
+log
+log
+log map q q
+
+version uid log
+
+factori
+
+
+
+tupl factori
+
+
+
+
+
+index key
+
+factori bi
+
+str
+log cach registri
+
+locat name plan annot prime
+version uid scope id
+
+
+plan root leav oper
+sb sb
+version uid
+
+
+sar pushdown writer info oi serd signatur size index stride size pad compress version option parser log requir column schema signatur suffix requir column suffix search arg suffix
+
+
+
+class name test method custom order
+
+input result return do
+en output defaul recor delim deseri deseri valu istream delim str delim length close
+
+
+name locat byte record success store conf log
+tupl factori agg initi func arg type name inner type
+
+version uid
+version uid cond lh rh child
+version uid log key reader key bloom filter filter
+version uid variabl name
+version uid log defaul bloo strategi defaul nu bloo filter reduc defaul nu bloo function defaul bloo type defaul bloo vecto siz byte output key null key bloom map bloom filter size byte hash type filter writer key valu nullabl tupl
+log byte array error messag spec caster need type child schema version uid
+version uid
+empt pla list version uid tupl factori plan op type output bag key default bag input
+version uid one plan asc col dens rank row number count id id
+version uid log key key reader writer finish next
+version uid log output key output key writer writer task record
+version uid bag datum last bag
+version uid part empti eop plan next eop leaf plan combin set
+log version uid accumul bag initi default bag partition
+log version uid fragment plan list type l rs file exp fe leav outer join bag schema schema replic plan tup
+log broadcast
+log version uid key input reader input cach key
+version uid plan op
+version uid unlimit nul result plan reset leaf op type flatten array item plan bag datum termin buffer tupl input process side input process schema earli termin maker size
+version uid partition cross
+secondari key sort order
+version uid log key reader reader input finish next
+version uid
+op op op predecessor
+version uid limit plan far
+log version uid loader file pc do signatur tmp load limit file file
+log version uid er result plan plan op leaf op index type key type key type distinct cross project col map secondari project col map fake tupl project star secondari project star key tupl key compound secondari key tupl project col map size secondari project col map size secondari key key valu inp
+version uid log key packag skew join writer
+scope nig
+version uid key
+version uid loader func spec file spec l rs time key next split cnt tupl factori file name func spec bag top heap signatur new bag heap time new key record mark input counter
+log version uid order remind time l rs loader key leav key left inp right key right inp join loader func spec input file name file tupl plan pipelin leaf pipelin root inner plan right side join key join right tup counter tup size tup size list size type signatur record mark input input consum spark tupl factori tupl maker tupl maker input schema input schema
+version uid rjar param
+version uid
+version uid re re
+
+version uid
+version uid
+version uid iter key input bag read pkgr writabl initi default bag batch size
+
+log version uid eo result nu rec sampl li size size threshold defaul mi reduct fir tie threshold secon tie threshold al popart plan leaf plan leav group rec raw map rec process map input map input map initi map agg reduct check exhaust mem threshold spill conting spill conting spill lock output reduct usag record sampl tier threshold tier threshold reduct tupl size iter
+version uid reduc map init context
+version uid log map reduc init
+version uid defaul sampl rate rate perc memori initi skip row sampl tupl mem sz num interv skip per sampl row spl tupl return sampl
+log input
+log version uid er result plan op type
+
+version uid singl tupl bag column bag tupl iter overload project end col
+log version uid plan asc col expr output type id count illustr
+version uid log input key input key input cach reader offset conf finish first record
+version uid bag
+partition lr pkg secondari key sort order
+version uid impl
+version uid empti bag eop
+version uid sampl sampl idx process collect do sampl sampl
+
+version uid log key skew join input reader tez input finish compar compar conf batch size one bag
+version uid log key finish reader reader conf first record
+version uid key context input reader conf finish record counter initi tupl copi
+version uid inner flag schema join plan
+log version uid plan expr output type asc col sort func compar limit udf compar use accumul bag initi default bag
+version uid tupl
+version uid store plan set eop
+statu ok statu null statu err statu eop statu eo statu batc ok statu earl termin
+version uid storer decor impl name file schema tmp store multi store counter index file info signatur file file
+
+version uid key context output writer record counter
+version uid manag str command properti output queue input queue manag initi input predecessor consum output binari process fetchabl
+version uid do return eop result ind
+log version uid spec func
+version uid log tf group func file file spec f spec initi intermedi final initi executor oper accumul do signatur check termin accumul invoc frequenc time tupl maker schema tupl factori earli termin termin
+version uid log key finish conf reader reader input next first record
+version uid log output valu index record index key key writer key index count empt key
+
+log
+version uid bag illustr key key tupl key compound type input secondari key inner distinct info type initi default bag parent bag factori tupl factori
+version uid first second
+rp replac
+conf
+pc token
+eof letter digit specialchar identifi liter shellcmd equal comment default imag
+stream vec vec state liter imag state name token skip jjround set char lex state lex state state cnt jjround po kind
+version uid
+pc log parser
+
+
+version uid token token sequenc imag eol
+version uid code
+version uid caus ex
+version uid class
+col
+log key metadata func load filter name map col name map
+partitio list tota reduc defaul percen memusag log bag factori tupl factori index memori sampl count percentag reduc count
+log
+log set parallel configur sourc sourc configur start schedul
+partitio column parititio filt express log partition
+
+version uid leaf node sourc node name match
+node visit plan
+state nanosec start start name
+self timer
+parent
+
+log version uid resul empti resul eop tupl factori bag factori parallel input output type plan attach input re alia report logger tracer illustr accum start locat
+version uid input opmap
+
+log cach udf cach script context name
+entit type entit callerid call context audi length log instanc executor client
+
+
+schema multipl schema bad file merg schema map
+ext deflat leve key defaul deflat level outpu codec deflat codec syn interva key schema
+log reader start end path bad file factori proto tupl multipl schema merg schema map
+writer
+log asc wrap comp
+log asc wrap comp
+log asc wrap comp
+log asc wrap comp
+
+
+log candid autocomplet filenam
+log keyword pig
+pi aut loca enabl pi aut loca inpu maxbyt pi op fetch pi op multiqueri pi op accumul pi accumulativ batchsiz pi te op union pi te op unio support storefunc pi te op unio unsupport storefunc pi sor readonc loadfunc pi exe partagg pi exe partag minreduct pi exe n combin pi exe n combin reduc pi exe n secondar key pi cachedba memusag pi skewedjoi reduc memusag pi skewedjoi reduc mem pi bloomjoi strategi pi bloomjoi nu filter pi bloomjoi vectorsiz byte pi bloomjoi type pi bloomjoi function pi joi replic byte pi cachedba type pi cachedba distinc type pi cachedba sor type pi exe reduc estim pi exe reduc estimato constructo ar key pi te aut parallel pi te grac parallel pi te aut paral disabl da recoveri pi compr inpu split pi compr inpu split default pi te inpu split threshold pi te inpu split threshol default pi ud profil pi ud profil frequenc pi schem tupl enabl pi schem tupl we udf pi schem tupl we foreach pi schem tupl we frjoin pi schem tupl we mergejoin pi schem tupl allo forc pi streamin environ pi streamin ud pytho command pi spli combin pi n spli combin pi combin spli size pi outpu lazi pi outpu committ recoveri pi tem dir pi enabl tem fil compress pi tem fil compressio storag pi tem fil compressio codec pi delet tem file pi poisso sampl sampl rate pi rando sampl sampl size pi defaul loa func pi defaul stor func pi scrip inf enabl pi scrip size pi use cach enabl pi use cach locat pi use cach replic pi erro handlin enabl pi erro handlin mi erro record pi erro handlin threshol percent pi blacklist pi whitelist pi n ta report pi datetim defaul timezon pi bzi we hadoo inputformat pi artifact downloa locat pi te sessio reus pi te da statu repor interv pi spil memor usag threshol fraction pi spil collectio threshol fraction pi spil unus memor threshol size pi lo trac id pi spar we nett fileserv call id pi enabl enabl at pi te configur memori pi stor schem disambigu pi stor schem disambiguat default pi prin exe plan op fetch pro cachedba memusag pro exe partagg partag minreduct pro n combin shoul we schem tupl schem tupl shoul we udf schem tupl shoul we foreach schem tupl shoul we frjoin schem tupl shoul we mergejoin schem tupl shoul allo forc inser enabl scrip size
+gener class key loca cod dir schem tupl b default pi optim rule disabl key pi loca con prefix tim udf invocatio counter tim udf elaps tim counter ta index
+version uid log lock jo name jo nam prefix jo prioriti pi cm arg remaind type df lf engin properti jar jar origin path jar jar file script file ud fs macro function command import list cach properti log level parallel explain dump schema illustr ship path classload param file context
+string map enum map
+spillabl memor manag spil count proactiv spil coun bag proactiv spil coun rec
+log asc wrap comp
+log asc wrap comp
+version uid input bug use environ remot environ error code sourc retriabl messag show user locat
+file append
+
+pc token
+eof pig newlin space w comment letter digit specialchar dollar declar pigdefault regist identifi liter shellcmd oth char path default pi start singl lin comment mult lin comment string command gener schem definit ba constant block doubl quot string pi end regist imag
+block level block level schema level schema level constant level state stack stream vec vec state liter imag state name lex state token jjround set jjimag imag len match char lex state lex state state cnt jjround po kind
+log asc wrap comp
+log type mp store tf illustr collector report map root leaf initi
+job context job conf job conf intern
+plan parent grand parent per task conf pc parallel set log
+log logger report aggreg
+pi optim rule key pi exectyp mod local convert local convert fetch pi spli index reduc defaul parallel reduc request parallel reduc estim parallel pi cro parallel pi context pi lo properti pi audi id pi datetim zone list shutdow hoo jo kil prioriti shutdow hoo tm file cleanu prioriti shutdow hoo clien prioriti
+log pi input pi inpu target pi inpu signatur pi inpu limit
+
+
+log asc
+log state progress job job job state submit succes sleep
+factori method
+
+log asc wrap comp
+log name name bodi param ret see stack context idx line
+
+
+
+
+flag space null valu index
+output committ output committ support
+pi mapr outpu dir pi tm path store store conf
+
+name line stack
+sourc offset
+factori factori
+log plan combin plan estimat parallel estim nu parallel sampl vertex sor vertex plan output leaf conf hadoop logger vertex map
+
+
+version uid locat
+log group frequenc time valu reader loadfunc name inputformat split idx progress context report limit count specif conf
+byte pe reduc param reduc coun param defaul byte pe reduc defaul reduc coun param
+
+tupl name fiel name index
+interact consol reader token
+eof cat clear f sh cd copi copyfromloc copytoloc dump dum short describ describ short alia explain explai short help histori kill l move mkdir pwd quit qui short regist use remov removeforc set illustr illustrat short run exec param para file script dot xml brief n pigdefault declar scrip do sql pig eol quot semicolon letter digit specialchar fsspecialchar float integ number prevrel identifi path quotedstr shellcmd default sq start sq end pi start singl lin comment mult lin comment string command gener schem definit ba constant block doubl quot string pi end imag
+block level block level schema level schema level constant level state interact reader stack stream vec vec state liter imag state name lex state token skip jjround set jjimag imag len match char lex state lex state state cnt jjround po kind
+compar
+log version uid sort order
+file filter
+log prett prin schem properti pi locatio chec strict graph dag context name prioriti counter scope statement pars regist batch filter
+filespli classnam op index split index idx multi input counter conf split length locat locat info
+log tp that format time time id plan context ouput map code messag throwabl code
+outpu siz read key outpu siz read unsupport
+inpu record outpu record reduc inpu record reduc outpu record hdf byte write hdf byte read fil byte write fil byte read mult input recor counter mult input count group mult stor recor counter mult stor count group ta count group f count group pattern count nam limit separ semicolon
+report context
+writer log signatur del proto tupl tupl factori locat schema load schema output schema caster requir column requir column initi file ta sourc file path ta sourc path path
+
+
+
+signatur
+loc
+del del
+
+pr wra delim po wra delim delim level f factori factori
+
+del
+log asc wrap comp
+
+
+log asc whole tupl null field bi
+log asc whole tupl compar
+
+accessin existen field di fin loa onl plan divid b zero fiel discard typ conversio fail grou b incompatibl type implici ca bag implici ca chararray implici ca doubl implici ca float implici ca int implici ca long implici ca biginteg implici ca bigdecim implici ca boolean implici ca datetim implici ca map implici ca tupl larg fo int mult lea map mult roo reduc packag reduc pla root empt combin plan progr report provid reduc pla empt whil pla und process ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin ud warnin unabl creat fil spill unabl spill unabl clo spil file unreachabl cod bot reduc plan process usin overload function reduc coun low nul count count delet fail projectio invali rang n loa functio fo castin bytearray ski ud cal fo null spar warn spar custo warn
+
+ps plan verbos
+version uid
+version uid
+version uid ex
+log
+set plan listen iter iter
+ta tab l sep u sep cntr stream verbos
+plan plan matcher
+
+version uid
+defaul scope plan walker walker
+plan
+tupl factori pattern initi includ prefix match
+
+numrow tupl marker row sampl tupl mem sz num interv skip per sampl row spl tupl return defaul sampl rate rate memori perc sampl
+flag
+col op type
+log
+tableinits context log id pattern
+type class
+rep
+gen rel plan po rel inp rel foreach load
+input col alia oper relat op rang project col col alia alia
+
+
+chang map field remov field add field
+
+defaul properti file properti file log
+
+
+log schema def
+eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w df df df df df df df df df df df df df df df df df df df df df df df df df df df df
+name eof ampersand arroba asc assert bag bigdecim bigdecimalnumb biginteg bigintegernumb boolean bytearray cach case chararray cogroup colon comma cross cube datetim dcolon defin dens desc digit distinct div dollar dollarvar doubl doublenumb doubl period els end equal execcommand fals fa arrow filter flatten float floatingpoint floatnumb foreach full gener group id identifi import inner input int integ invok join leav lef bracket lef curli lef paren letter limit load long longinteg map mapreduc minu comment multilin quotedstr null nu eq nu gt nu gte nu lt nu lte nu ne onschema order otherwis outer output parallel partit percent period plu pound qmark quotedstr rank regist return right righ bracket righ curli righ paren rollup sampl sem colon ship comment specialchar split star stderror stdin stdout store stream st eq st gt st gte st lt st lte st match st ne true tupl union use void w ba type ba typ cast ba val bi expr bool boo cond ca cond ca expr ca exp lh ca exp rh ca expr co rang exp paren fiel def fiel de withou identifi foreac pla complex foreac pla simpl func fun eval fun ref invok fun eval lh rh joi item ke va pair macr bodi macr def macr inlin type val neg nest cmd nest cm assi nest proj param queri realia retur val spli branch statement tobag tomap totupl tupl type tupl typ cast tupl val adaptor log memori fun liter boolea token litera token df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df df follo follo eo follo follo eo follo sem colo follo follo sem colo follo follo sem colo follo follo sem colo follo follo sem colo follo follo sem colo follo follo sem colo follo follo sem colo follo follo lef pare follo follo follo righ pare follo lef pare follo foreac follo follo follo follo follo righ pare follo fa arro follo follo follo follo follo equa follo follo follo follo fa arro follo foreac follo follo follo follo follo sem colo follo follo equa follo foreac follo follo follo follo follo sem colo follo lef curl follo follo righ curl follo generat follo follo comm follo follo lef curl follo follo follo righ curl follo lef pare follo follo comm follo follo righ pare follo return follo follo comm follo follo voi follo follo follo follo follo follo equa follo follo comm follo follo equa follo lef pare follo follo comm follo follo righ pare follo follo follo follo lef pare follo follo righ pare follo tupl follo follo tupl follo lef pare follo follo comm follo follo righ pare follo follo follo lef curl follo nul follo colo follo follo righ curl follo lef curl follo follo colo follo follo righ curl follo ba follo follo ba follo lef curl follo follo righ curl follo lef brack follo follo colo follo follo righ brack follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo impor follo quotedstrin follo regist follo quotedstrin follo usin follo follo follo follo defin follo identifi follo follo follo follo follo equa follo follo paral follo integ follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo follo shi follo lef pare follo follo righ pare follo quotedstrin follo comm follo quotedstrin follo cach follo lef pare follo follo righ pare follo inpu follo lef pare follo follo righ pare follo outpu follo lef pare follo follo righ pare follo stderro follo lef pare follo quotedstrin follo limi follo integ follo righ pare follo loa follo quotedstrin follo usin follo follo follo follo follo lef pare follo follo righ pare follo follo follo follo follo follo follo follo comm follo follo follo follo usin follo quotedstrin follo follo follo comm follo follo follo follo al follo follo identifi follo follo follo colo follo follo follo follo follo follo comm follo follo follo follo lef pare follo follo righ pare follo follo comm follo follo follo usin follo follo execcomman follo follo follo follo follo follo follo follo follo arrob follo stor follo follo int follo quotedstrin follo usin follo follo asser follo follo b follo follo comm follo quotedstrin follo filt follo follo b follo follo strea follo follo throug follo execcomman follo follo follo mapreduc follo quotedstrin follo lef pare follo follo righ pare follo follo follo execcomman follo spli follo follo int follo follo follo follo follo follo follo otherwi follo al follo comm follo follo follo comm follo follo limi follo follo follo sampl follo follo follo run follo follo follo b follo follo den follo sta follo follo follo comm follo follo follo follo ord follo follo b follo follo usin follo follo sta follo follo follo comm follo follo follo follo lef pare follo follo righ pare follo distinc follo follo follo partitio follo b follo follo follo comm follo follo cro follo follo follo joi follo follo usin follo follo follo quotedstrin follo follo follo out follo comm follo follo comm follo follo follo follo b follo follo unio follo onschem follo follo cub follo follo b follo follo comm follo follo follo lef pare follo follo comm follo follo righ pare follo flatt follo lef pare follo follo righ pare follo follo lef pare follo follo righ pare follo follo follo follo follo follo follo sta follo follo follo follo follo follo follo follo follo follo follo follo follo nul follo follo lef pare follo follo comm follo follo righ pare follo follo follo follo follo follo follo follo follo follo follo follo follo minu follo follo follo follo follo follo follo follo follo follo lef pare follo follo comm follo follo righ pare follo follo follo lef pare follo follo comm follo follo righ pare follo follo ca follo whe follo follo follo follo whe follo follo follo follo el follo follo en follo follo follo whe follo follo follo follo whe follo follo follo follo el follo follo en follo follo follo follo follo invok follo ampersan follo lef pare follo follo righ pare follo follo perio follo follo lef pare follo follo comm follo follo righ pare follo lef pare follo follo follo righ pare follo follo follo follo righ pare follo follo righ pare follo follo sta follo comm follo follo righ pare follo follo follo comm follo follo righ pare follo follo follo comm follo follo righ pare follo follo righ pare follo qmar follo follo colo follo follo righ pare follo lef curl follo follo comm follo follo righ curl follo follo lef curl follo righ curl follo follo lef brack follo follo comm follo follo righ brack follo follo lef brack follo follo comm follo follo righ brack follo follo lef brack follo righ brack follo follo perio follo follo lef pare follo follo comm follo follo righ pare follo poun follo follo follo follo follo doubl perio follo follo doubl perio follo follo quotedstrin follo poun follo follo lef brack follo follo comm follo follo righ brack follo lef brack follo righ brack follo lef curl follo follo comm follo follo righ curl follo lef curl follo righ curl follo lef pare follo follo comm follo follo righ pare follo lef pare follo righ pare follo follo follo follo follo follo sem colo follo generat follo follo comm follo follo sem colo follo follo equa follo follo follo equa follo follo follo equa follo follo follo follo follo follo follo follo follo perio follo follo follo lef pare follo follo comm follo follo righ pare follo filt follo follo b follo follo ord follo follo b follo follo usin follo follo distinc follo follo limi follo follo integ follo follo cro follo follo foreac follo follo generat follo follo comm follo follo follo follo follo comm follo follo follo impor follo regist follo return follo defin follo loa follo filt follo foreac follo rollu follo ord follo distinc follo cogrou follo joi follo cro follo unio follo spli follo int follo follo al follo follo b follo usin follo inn follo out follo paral follo partitio follo follo follo generat follo follo de follo boo follo biginteg follo bigdecima follo datetim follo chararra follo bytearra follo follo strea follo throug follo stor follo mapreduc follo shi follo cach follo inpu follo outpu follo stderro follo stdi follo stdou follo limi follo sampl follo lef follo righ follo ful follo realia follo boo con follo asser follo follo identifi follo grou follo cub follo tru follo fal follo follo lon follo floa follo doubl follo nul follo follo flatt follo ba follo tupl follo follo follo nu e follo nu n follo nu g follo nu gt follo nu l follo nu lt follo whe queri parser follo queri parser follo righ pare queri parser follo queri parser follo queri parser follo equa queri parser follo queri parser follo perio queri parser follo queri parser follo integ queri parser follo sem colo queri parser
+log macr def macr inlin impor def regist def context server scope name map oper rel see see map
+
+
+
+
+r uniquifi
+
+express pattern use match
+factori use match express pattern
+factori factori express pattern
+pattern
+
+
+
+
+
+sampl sampl idx
+log
+pkgr iter writabl version uid
+scalarfilenam valu buffer load
+log key input
+load func conf locat read split read split idx split index split reader format context signatur
+schem key valu valu valu valu valu valu valu
+log tf
+
+
+express pattern
+factori express pattern
+
+
+version uid regex regexop side constant
+express pattern
+server
+log register ja visibilit schema
+
+
+need field need field field map key info list
+relat op
+version uid name
+version uid log field key key order version
+version uid record record size field byte
+version uid statu result
+
+
+
+buf po rewind
+bf tf marker
+pi roun robi partition batc size num size batch count conf
+version uid tupl factori bag factori db alloc
+version uid alloc dba
+version uid pattern schema alloc
+name pattern plan log node mandatori listen
+invok code manag intern
+
+
+
+
+
+
+
+
+factori
+factori factori
+
+
+sampl loader reader
+log context remov
+refer oper logic oper spec
+scalar
+er ms scalar
+context scope
+version uid field alias field schema log level access requir list
+
+version uid
+version uid
+
+duplic uid check
+log version uid minut bi
+log resolv loader tupl factori tripl tupl factori id conf dir local abort stb
+log global class identifi
+log gener clazz size
+log stf gener context reset
+support typ set
+
+pattern namespac separ map
+tss context engin
+log tss id script script line name version version featur context listen
+log file name id output captur output type
+engin
+pattern
+ter matcher ter matcher host
+oper plan log mr use secondari key distinct chang sort remov
+log info
+log sort remov distinct chang use secondari key
+log sort remov distinct chang use secondari key
+log
+kt
+log
+
+log
+serial tupl factori
+
+version uid limit
+log log ke reader writer
+reader key valu proto tupl log tupl factori factori type type
+flag bufsiz avail begin bufpo buflin bufcolumn column line char cr char lf stream buffer next char ind buf size
+
+
+map
+
+parent child id valu parser
+log client jcc mro map job map see
+version uid item
+pe entri
+log l rs skew join join partit file
+tf map reduc init index map conf
+
+version uid name index order
+log valu function
+version uid global sort col info list
+
+chain asc
+version uid sede log comp read start
+version uid
+file line offset node
+log context properti plan plan spark op scope input see nig spark op map finder
+version uid
+name name accumul
+name display name counter spark context
+version uid log counter group spark context
+log spar ud impor list spar udfcontex udfconf spar udfcontex clientsysprop properti
+version uid mode
+
+
+id stat counter counter f count group counter
+log context metric listen group id context conf directori path engin conf pi warnin fqcn
+version uid mode
+log spark
+
+
+plan ud fs partition scalar parallel featur splitter join partit file type compar small split key queri optim connect map udf compar use file sort
+log
+file file
+context parallel var
+
+
+spark oper map log oper set script state conf
+report counter
+stream verbos
+log tf bf
+info
+log
+spar stor count group spar stor recor counter spar inpu count group spar inpu recor counter
+
+
+log unus memor threshol default memor threshol fractio default collectio threshol fractio default spillabl sr lock activ size file size threshold free size threshold size threshold size usag thresh exceed log collect thresh exceed log gc threshold fraction gc spill size threshold regist spill heap manag
+
+
+
+
+
+pi contex key log datum tf id locat datum schema read record writer
+typ indic defaul delimit
+
+
+log conf
+
+storer signatur handl error handler
+
+metadata
+func
+
+
+
+frame panel field field field label label label button format random
+
+
+version uid execut argv spec spec spec stderr dir file limit task file context
+perl python singl quot doubl quot cach context
+recor end para delim nul byte tupl begin tupl end ba begin ba end begin end fiel delim ke valu delim wrap delim wrap delim begin end begin end begin end delim byte delim end
+delimit
+log pytho control ja path pytho pi uti path ud languag pat control file ud fil name ud fil path ud name pat fil cach st ou outpu path st er outpu path control lo fil path illustr languag path name schema type illustr initi soc process thread thread thread handler handler queue queue stdin stdout stderr erro output nul object thread error tur outpu captur wai fo erro length wai fo erro attempt
+version uid messag languag number
+
+
+version uid number
+log bash path
+
+max
+min
+
+
+
+
+
+
+
+
+
+node
+
+log listen
+
+
+start end reader scanner valu sede
+ke sede writer
+log log reader writer
+
+
+tupl factori bag factori
+
+tsplit
+version uid op null
+
+
+tupl factori locat log
+log context properti plan plan tez op input see nig scope finder tez op map map use comparato marker fil concatenatio threshold optimisti fil concaten concaten threshold file concaten load func conf rearrang factori
+version uid
+tupl class
+log da count group f count group ta count group pi count group succ header failur header vertex stat map id dag plan task byte read byte write counter map reduc input record output record input record output record count spill count obj spill count rec store counter locat
+log shuffl byte pe reduc groupb default shuffl byte pe reduc default dag resourc pc conf context conf vertex manag base conf f task input size split disk vertex context separ tez plan pig context udf import list task resourc task resourc task env task env task launch cmd opt task launch cmd opt dag recoveri
+plan distinct combin map reduc class name class name type sourc type movement type class secondari key sort order output key class output valu class output key compar class
+
+log version uid mode po properti version
+
+
+log conf get opt resourc id dag client statu client session counter timer job conf stat
+log context conf dag recoveri
+log thread factori executor warn script state stat job
+version uid mode
+te li dir te con file tez
+
+defaul flatt factor defaul filt factor defaul limi factor defaul distinc factor defaul aggregatio factor pc task count per reduc
+version uid resourc total parallel cred
+version uid plan edg edg ud fs scalar parallel parallel estim parallel intermedi parallel parallel splitter parent close order small split oper oper estim parallel secondari key key mr map set grace parallel factor per successor reduc featur group member group info group store vertex group info input file size
+
+
+file file
+file file
+
+log script state dag stat map
+version uid context name id id
+version uid plan
+stream verbos
+udf
+
+stream verbos
+instanc init dir f conf context resourc
+log
+log listen script info
+log pool lock shutdown pool
+
+context
+context separ
+
+log map opt parallel state counter store load task input record reduc input record output record byte read byte write count spill count obj spill count rec input counter store counter
+version uid log delimit timestamp heartbeat
+date time formatt
+
+
+
+
+
+
+
+
+version uid kind line column line column imag next token
+version uid lexica error stati lex error invali lexica state loo detect code
+plan
+log bag factori tupl factori random desc store
+
+
+
+
+null notnul
+self
+log
+
+
+
+
+
+
+version uid
+collector rel op inf lookup
+collector
+type class
+log jconf conf sy prop clien sy prop ud context tss
+op key dfw context per plan context key key know key udf key
+need
+udf list udf list
+
+context jar
+
+
+
+
+file file
+
+file
+
+type
+
+expr child
+version uid alia
+sc
+
+log plan support store func store func store func
+sequenc
+
+
+
+func spec ef signatur seq defin initi invok function arg later static name name
+bag factori tupl factori log max int min int max long min long buff size
+
+log
+tupl factori ba factori
+tupl factori ba factori
+col name col name type
+version uid
+
+part quantil compar job init
+log num partit
+
+sto word file
+
+
+
+locat identifi
+stream doc root
+doc parent
+stream doc root
+xpath xml document cach namespac
+path xml document cach namespac factori empt string
+con dir cor con file hdf con file mapr con file yar con file
+
+
+
+
+
+

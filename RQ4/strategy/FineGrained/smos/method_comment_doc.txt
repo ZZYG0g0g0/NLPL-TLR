@@ -1,0 +1,99 @@
+method return academ year rel absenc method return date absenc method return id absenc method return id justif rel absenc method return student id rel absenc method set academ year rel absenc method set date absenc method set id absenc method set id justif rel absenc method set student id rel absenc
+
+set address id set address name
+method return academ year method get class address id method return class id method return class name method set academ year method set class address id method set class id method set class name
+
+return size list activ connect empti pool connect activ one long run oper max timeout millisecond close connect pool activ pool close connect indic connect list close pool connect pool list method use connect creat new connect pool list return connect pool full check do first list pool connect avoid creation useless otherwis new connect creat method implement method implement method implement return maximum number activ connect method use connect determin whether list pool connect reus return size pool connect list releas connect delet activ one insert pool reus later set lifetim activ connect millisecond rearrang lifetim connect due run oper connect activ without perform oper max timeout millisecond method implement method implement convert object connect pool datum sourc class string
+close wrap connect close wrap connect
+thread noth sleep activ user keep connect sql open otherwis
+return connect pool actual creation connect pool return connect pool includ list pool connect e reus later
+
+method return academ year rel absenc method return date delay method return delay id method return id late student method return student time entri method set academ year rel absenc method set date delay method set delay id method set student id rel delay method set time entri student
+
+
+
+
+
+method return academ year rel justifi method return date absenc justifi method return id justifi method return student id rel justifi method set academ year relat justif method set date absenc justifi method set id justifi method set student id rel justifi
+
+
+delet address address tabl return address correspond id pass paramet return id address pass paramet return set address databas return name address correspond id pass paramet return collect id teach associ id pass paramet return instanc exist class verifi exist address databas insert new address address tabl let read record result set allow read record result set
+delet class databas check input give class databas return class past id return collect class academ year return instanc exist class insert class object databas consist read integ recod set allow read one record result set let read multipl record result set updat statist class
+delet absenc databas delet delay databas delet note databas delet note databas check input give class databas check input give class databas check input give class databas method return absenc take give school year user input method return absenc give student give day method return absenc give id method return absenc give id justifca associ absenc method return delay give student give day method return delay give id return instanc exist class method return justif link give absenc method return absenc give id method return collect note give user give school year method return note give id note method check absenc registri line method check delay log line method return true absenc give input assign justif insert absenc databas insert delay databas insert justif databas prepar sql string allow read one record result set allow read one record result set allow read one record result set allow read one record result set updat statist absenc updat statist delay updat statist justifi method updat statist note
+delet teach teach tabl verifi exist teach databas instanc exist teach return return instruct correspond past id paramet return id past teach paramet return name teach correspond past id paramet return set teach databas return set teach associ specifi class return set teach associ specifi class return set lesson associ correspond user past id paramet return set teach teacher teach class check teach assign professor insert new teach teach tabl let read record result set allow read record result set updat teach teach tabl
+
+delet vote vote tabl check vote databas check student pass paramet grade assign past teach paramet past year paramet past quarter paramet instanc exist vote return return set vote databas return teach id correspond id past grade paramet return instruct correspond past id paramet return set vote associ correspond user id pass paramet return set vote associ correspond user id pass paramet insert new vote vote tabl let read record result set allow read record result set updat vote vote tabl
+
+
+method return current academ year method return string repres date note give method return note text method return note id method return id student receiv note method return id teacher give note medoto set current academ year assign note method set string repres date note give method set descript note method set note id method set id student receiv note method set id teacher give note
+
+method return student absenc log line method return student delay log line method return student log line method set student absenc log line method set student delay log line method set student log line
+method add vote array method return vote index input array method delet vote array
+
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+initi paramet
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+
+definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+
+definit get method definit post method
+definit get method definit post method
+definit get method definit post method
+definit post method
+
+definit get method definit post method
+
+definit get method definit post method
+definizion del metodo get definit post method
+definit get method definit post method
+return teach id name cours return set teach id set name cours
+wrong databas unabl insert null field absenc
+return return user id set user name set user id set user last name set user login param login login set set user password return string contain user first last name
+set user id set user name
+
+convert boolean datum integ return input date string format convert give integ boolean replac charact string pass paramet previou function loop replac use two variabl first consum occurr pattern replac string string pass paramet return date contain input string convert string integ convert date format string databas calcul distanc day past date perform databas oper use sql string return give field tabl maximum valu field tabl check give integ null check string pass paramet null check date null execut sql queri databas return current date
+method return academ year grade method return id user connect vote method return id vote method return laboratori grade method return grade oral method return code teach vote method return quarter vote method return grade write method set academ year grade method set user id relat vote method set id vote method set laboratori grade check method set grade oral check method set teach code relat grade method set quarter vote method set grade write check

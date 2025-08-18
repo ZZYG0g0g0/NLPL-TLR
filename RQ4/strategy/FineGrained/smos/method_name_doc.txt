@@ -1,0 +1,99 @@
+academ year date absenc id absenc id justifi id user academ year date absenc id absenc id justifi id user
+label
+id address name id address name
+academ year id address id classroom name academ year id address id classroom name string
+
+size activ connect connect pool connect new connect connect connect log writer login timeout max pool size pool connect size releas activ timeout last time log writer login timeout string
+prepar statement statement warn close releas statement wrap connect commit statement statement statement final auto commit catalog holdabl meta datum transact isol type map warn close read sql call call call statement statement statement statement statement statement savepoint rollback rollback auto commit catalog holdabl read savepoint savepoint transact isol type map string
+run
+connect pool connect
+
+academ year date delay id delay id user time delay academ year date delay id delay id user time delay
+
+
+
+
+pool properti path pool properti path
+academ year date justifi id justifi id user academ year date justifi id justifi id user
+
+mail
+teach address delet exist address id address id address list address name id address tech instanc teach insert integ rs record rs record rs teach address
+delet exist academ year list classroom id classroom user academ year classroom academ year classroom student classroom teacher classroom teacher academ year instanc insert integ rs record rs record rs updat
+absenc delay justifi note exist exist exist absenc id user academ year absenc id user date absenc id absenc absenc id justifi delay id user date delay id instanc justifi absenc justifi id justifi note id user academ year note id regist class id date absenc delay justifi absenc delay justifi note absenc rs delay rs justifi rs note rs absenc delay justifi note
+delet exist instanc teach id teach id teach name id teach teach classroom id teach classroom name teach id user id classroom teach user id teach user id class id teacher insert record rs record rs updat
+
+delet vote user id year turn exist id vote instanc teach id vote id vote vote id vote user id vote user id year turn insert record rs record rs updat
+
+
+academ year date note descript id note id user teacher academ year date note descript id note id user teacher
+
+absenc delay student absenc delay student
+string vote vote remov
+
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+init
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+get post
+
+get post
+get post
+get post
+get post
+
+get post
+get post
+get post
+get post
+get post
+id name id name
+main
+cell e mail first name id id parent last name login name password cell e mail first name id id parent last name login password string
+e mail id name e mail id name
+main
+boolean int date string int boolean remov replac replac replac string replac quot string date string integ clear sql string oper activ timeout actual date driver sql full path databas imag header path imag leav column imag logo header path max day exam max pool size max valu need day exam password pdf path pool timeout server smtp text footer upload path user name wait timeout null null null oper activ timeout driver sql full path databas imag header path imag leav column imag logo header path max day exam max pool size need day exam password pdf path pool timeout server smtp text footer upload path user name wait timeout today
+accadem year id id laboratori oral teach turn write accadem year id id laboratori oral teach turn write string

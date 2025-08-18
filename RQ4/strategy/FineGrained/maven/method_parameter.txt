@@ -1,0 +1,786 @@
+
+path indentation message groupId artifactId version type remoteRepositories path message indentation groupId artifactId version type classifier downloadUrl path
+context event
+event event event event event event event event event event event event event event event event event
+session session session
+event event event
+event
+log pluginContext
+
+artifact versioning snapshot repository repository metadata metadata metadata localRepository remoteRepository localRepository remoteRepository
+scope artifact
+model projectDir config model projectDir config problems src valueSources postProcessors problems pathTranslator recursionInterceptor urlNormalizer
+versioning baseVersion artifact localRepository remoteRepositories artifact request artifact remoteRepositories localRepository
+activeByDefault file jdk os property
+exists missing
+arch family name version
+name value
+metadata a o version handler artifactId versions baseVersion artifactFilter dependencyTrail downloadUrl destination groupId optional release remoteRepository resolved version scope version newRange version localRepository
+artifactFilter obj artifact
+args
+metadata version handler artifactId versions baseVersion artifactFilter dependencyTrail downloadUrl destination groupId optional release remoteRepository resolved version scope version newRange version localRepository
+
+artifacts originatingArtifact localRepository remoteRepositories source filter listeners
+source artifact deploymentRepository localRepository basedir finalName artifact deploymentRepository localRepository
+
+dependency stereotypes exclusion session result model result model
+artifact repository policy
+
+groupId artifactId version scope type groupId artifactId version type classifier groupId artifactId version packaging groupId artifactId versionRange type classifier scope groupId artifactId versionRange type classifier scope optional groupId artifactId versionRange type classifier scope inheritedScope groupId artifactId versionRange type classifier scope inheritedScope optional groupId artifactId versionRange groupId artifactId version groupId artifactId versionRange groupId artifactId version groupId artifactId version scope
+artifact
+artifactId
+excludes excludes
+
+handlers type
+addedToClasspath classifier directory extension includesDependencies language packaging
+
+source artifact localRepository basedir finalName artifact localRepository
+metadata
+
+artifact localRepository remoteRepositories request artifact localRepository remoteRepositories request artifact localRepository remoteRepository
+
+artifact artifact artifact metadata repository artifactMetadata authentication blackListed id layout mirroredRepositories proxy policy policy url
+id url layoutId snapshots releases id url repositoryLayout snapshots releases id url layoutId uniqueVersion id url layout uniqueVersion layoutId checksumPolicy snapshotPolicy
+artifact metadata repository metadata
+id url snapshots releases
+version remoteRepository
+lastModified policy policy policy checksumPolicy enabled updatePolicy
+
+listener artifact artifactDependencies cache filter forceUpdate listeners localRepository managedVersionMap mirrors offline proxies remoteRepositories filter resolveRoot resolveDependencies servers
+artifact e e e artifact e i i i l resolutionNodes artifacts originatingArtifact repositories unresolvedArtifacts
+artifact remoteRepositories localRepository artifact remoteRepositories localRepository downloadMonitor request artifact remoteRepositories localRepository artifacts originatingArtifact remoteRepositories localRepository source artifacts originatingArtifact remoteRepositories localRepository source listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners artifacts originatingArtifact localRepository remoteRepositories source filter
+scope scope
+s o status
+obj dataBuffer dataLength dataOffset eventType localFile requestType transferredBytes
+
+showChecksumEvents transferEvent transferEvent transferEvent transferEvent
+
+artifact remoteRepository localRepository artifact localRepository artifact remoteRepositories localRepository artifact request
+artifact remoteRepository localRepository artifact localRepository artifact remoteRepositories localRepository artifact request
+artifacts artifact artifact from to from to original version groupId artifactId version artifact version groupId artifactId artifact
+version
+
+metadata artifactId availableVersions baseVersion downloadUrl groupId release repository scope version range
+passphrase password privateKey userName
+level
+path
+
+
+path
+bean classLoader configuration configuration element pathTranslator valuePreprocessor
+value type
+request
+extension artifacts request providedArtifacts extensions repoSession repositories providedArtifacts configuration extension repoSession repositories dependencyFilter
+extension extension extensions outputDirectory scriptSourceDirectory sourceDirectory testOutputDirectory testSourceDirectory
+
+string resource resource string resource resource defaultGoal directory filters finalName resources testResources
+
+
+session taskSegments
+session execution plugin goal repositories session session pluginDescriptor plugin repositories session
+session execution plugin goal repositories session session pluginDescriptor plugin repositories session
+
+
+r
+expression
+session reactorContext projectBuilds taskSegments reactorBuildStatus
+currentProject project buildContext rootSession currentSession mavenProject t buildStartTime session project taskSegment projectArtifacts
+
+stdout args
+buildProperties duration timestamp s logger message e showStackTrace
+a b s1 s2 a b session obj a b plugin p1 p2 r1 r2 repositories r1 r2 repository
+
+notifier key notifier key location notifiers system url
+
+extension artifacts plugin parent parentImports foreignImports artifacts model artifacts
+classRealm request
+
+session request session requests
+md classpath scope
+dirtyGraph scope resolve
+args
+properties
+o o args isDigit buf version
+timeout unit task result task
+
+
+event event event
+event event event event
+p p finishedProject mavenProject
+key configuration inherited inherited key location
+request
+node1 node2
+type
+
+resourceName complete total event buffer spaces event event event event event
+event event event event event event event event event event event event event event event event event event message
+complete total buffer spaces event message event message bytes event event event event event event
+pluginContext
+key value string key string email key location name organization organizationUrl properties roles timezone url
+
+
+artifactId groupId version
+loader loader classpath
+coreExtension coreExtension extensions modelEncoding
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream coreExtensions writer coreExtensions coreExtension tagName serializer coreExtensions tagName serializer
+scope scopes obj
+
+
+fieldName value target fieldName value target obj
+artifact artifact artifact replacement artifact replacement artifact replacement artifact replacement omitted omitted kept artifact replacement newRange artifact artifact node artifact scope artifact ignoredScope
+metadata sb a value o version artifactHandler artifactId availableVersions baseVersion baseVersion artifactFilter dependencyTrail downloadUrl file groupId optional release repository resolved version scope version versionRange version localRepository
+
+source artifact deploymentRepository localRepository basedir finalName artifact deploymentRepository localRepository
+session a request model locator session trace artifact exception session request result session trace artifact exception session request artifactResolver loggerFactory loggerFactory modelBuilder remoteRepositoryManager repositoryEventDispatcher versionRangeResolver versionResolver dominant recessive
+groupId artifactId version scope type groupId artifactId version scope type classifier inheritedScope groupId artifactId versionRange type classifier scope inheritedScope groupId artifactId versionRange type classifier scope inheritedScope optional groupId artifactId version type classifier groupId artifactId version packaging groupId artifactId versionRange type classifier scope groupId artifactId versionRange type classifier scope optional groupId artifactId versionRange type classifier scope inheritedScope groupId artifactId versionRange type classifier scope inheritedScope optional groupId artifactId versionRange groupId artifactId version groupId artifactId versionRange groupId artifactId version groupId artifactId version scope
+artifactId
+addedToClasspath extension includesDependencies language
+handlers type
+source artifact localRepository basedir finalName artifact localRepository
+artifact artifact artifact metadata repository artifactMetadata authentication blacklisted layout mirroredRepositories proxy releases snapshots
+id url layoutId snapshots releases id url repositoryLayout snapshots releases id url layoutId uniqueVersion id url repositoryLayout uniqueVersion layoutId repository mirrors repository checksumPolicy updatePolicy
+localRepository request session request session artifact remoteRepositories localRepository artifact remoteRepositories localRepository resolutionListener artifact remoteRepositories session request artifact remoteRepositories localRepository artifacts originatingArtifact remoteRepositories localRepository source artifacts originatingArtifact remoteRepositories localRepository source listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners conflictResolvers artifacts originatingArtifact localRepository remoteRepositories source filter request
+artifact remoteRepository localRepository artifact localRepository artifact remoteRepositories localRepository artifact request
+otherVersion other tok version
+model groupId artifactId bean classLoader configuration configuration element model pluginGroupId pluginArtifactId pluginExecutionId pathTranslator valuePreprocessor
+request
+session mojoExecution plugin goal repositories session session pluginDescriptor plugin repositories session listeners
+classRealm type parent parentImports foreignImports constituents plugin artifacts plugin parent parentImports foreignImports artifacts model artifacts baseRealmId type parent parentImports foreignImports artifacts classLoader gid aid type cls ver constituent artifact model plugin extension artifact id classRealm constituents classRealm parentImports foreignImports
+
+dirtyGraph scope resolve
+
+context type
+target sources request problems
+model request problems
+project repositorySession filter
+dependency dependency exceptions root dependency errors
+
+message exception exception message exception problem projectId result exception exception message1 message2
+
+eventType session mojoExecution eventType session mojoExecution exception
+extensionArtifacts key key extensionRealm extensionDescriptor artifacts project key record
+session projects files request session project selector reactorDirectory session projects session projects request projects request projects graph request projects
+e1 e2
+v edges scope g graph scope from visited graph
+child parent request problems child parent childDirectory
+javaHome
+farthest nearest listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners conflictResolvers artifacts originatingArtifact managedVersions repositoryRequest source filter listeners conflictResolvers artifacts originatingArtifact localRepository remoteRepositories source filter listeners event listeners node event listeners node replacement event listeners node replacement newRange originatingArtifact managedVersions request node managedVersions listeners result node resolvedArtifacts managedVersions request source filter listeners conflictResolvers
+session
+model request problems
+session project tasks session project tasks setup mojoExecution session mojoExecution session project alreadyForkedExecutions mojoExecution session project alreadyForkedExecutions mojoExecution session project alreadyForkedExecutions session project lifecyclePhase session project tasks mojoExecution mojoDescriptor lifecycleMappings mojoExecution session project mojoExecution session project mojoExecution session project mojoExecutions
+session setup tasks session tasks mojoExecution session session mojoExecution session task session project invokedVia canUsePrefix isOptionalMojo packaging
+lifecycle lifecycle lifecycle
+phaseBindings mojoExecution priority session project lifecycle lifecyclePhase
+plugin goal packaging goalSpec plugins phase goals
+session session tasks task session
+key
+
+content content error error content content error error content content error error content content content error error
+result e projects session session result request request session result repoSession request projects projects request projects activeProfileIds request projects
+profile profiles profile profiles mirror repository pluginGroup pluginGroups profile proxy repository server original activeProfiles basedir builderId cacheNotFound cacheTransferError degreeOfConcurrency eventSpyDispatcher excludedProjects executionListener globalChecksumPolicy globalSettingsFile globalToolchainsFile goals inactiveProfiles interactive localRepository localRepository localRepository loggingLevel makeBehavior mirrors directory noSnapshotUpdates offline pluginArtifactRepositories pluginGroups pom pomFilename profiles projectBuildingConfiguration projectPresent proxies failureBehavior recursive remoteRepositories repositoryCache project selectedProjects servers showErrors startTime properties toolchains transferListener updateSnapshots useLegacyLocalRepositoryManager reactorActive userProperties userSettingsFile userToolchainsFile workspaceReader
+request request request request request request request request settings request toolchains
+summary t project dependencyResolutionResult project topologicallySortedProjects
+a1 a2 a s1 s2 artifact resolveManagedVersions localRepository remoteRepositories artifact resolveManagedVersions localRepository remoteRepositories artifact resolveManagedVersions localRepository remoteRepositories result cacheKey result r1 r2 repositories r1 r2 repository p1 p2
+project parent imports pluginDescriptor pluginDescriptor session parent foreignImports filter pluginRealm plugin pluginDescriptor pluginArtifact plugin mojoInterface session mojoExecution plugin goal repositories session plugin repositories session is plugin descriptorLocation mojo mojoDescriptor pluginRealm configuration expressionEvaluator mojo mojoExecution extensionPlugin repositories session project plugin session pluginDescriptor session parent imports filter pluginArtifacts root nlg mojoDescriptor configuration expressionEvaluator
+basedir
+pom localRepository profileManager pom configuration artifact remoteRepositories localRepository artifact remoteRepositories localRepository allowStubModel artifact remoteRepositories configuration allowStubModel localRepository localRepository profileManager configuration pom localRepository profileManager pom localRepository profileManager transferListener request repositories request configuration e
+project resourceDirectory includes excludes project resourceDirectory includes excludes project artifactFile artifactClassifier project artifactType artifactFile project artifactType artifactClassifier artifactFile project artifact
+request useCachedSettings userSettingsFile userSettingsFile useCachedSettings request pathPattern basedirSysProp altLocationSysProp
+options input options input options input options
+artifact forceUpdate localRepository offline remoteRepositories resolveManagedVersions
+
+repository mirrors originalRepository originalRepository pattern repoLayout mirrorLayout repository mirror
+lineage request problems request request result request result imports pomFile validationLevel locationTracking lineage request problems modelResolver model problems modelResolver model problems replaceRepositories message groupId artifactId version model request problems catapult modelCache groupId artifactId version tag childModel source request model clone problems problems model request problems importIds model activations model request problems modelCache groupId artifactId version tag data modelSource pomFile request problems childModel childSource request problems childModel request problems childModel childSource request problems depMgmtImporter depMgmtInjector inheritanceAssembler lifecycleBindingsInjector modelInterpolator modelNormalizer modelPathTranslator modelProcessor modelUrlNormalizer modelValidator pluginConfigurationExpander pluginManagementInjector profileInjector profileSelector reportConfigurationExpander reportingConverter superPomProvider
+
+
+event
+activeProfileIds buildStartTime inactiveProfileIds locationTracking modelBuildingListener modelCache modelResolver modelSource pomFile processPlugins profiles rawModel systemProperties twoPhaseBuilding userProperties validationLevel workspaceResolver
+modelId modelId modelId activeProfiles modelId activeProfiles model problems modelId rawModel
+groupId artifactId version tag session groupId artifactId version tag data
+parentPath childPath pathAdjustment appendPaths childBuild parentBuild handleAsInheritance child parent child parent child parent child parent childPathAdjustment appendPaths child parent child parent childPathAdjustment child parent childPathAdjustment appendPaths child parent child parent childPathAdjustment appendPaths parentRepository dest source childBuild parentBuild child parent handleAsInheritance child parent handleAsInheritance child parent uncleanPath
+projectDirectory
+model request problems dependencies model request problems
+path basedir model basedir request pathTranslator
+
+problem req problems rootModel source source
+projectDirectory input options input options input options locator reader
+options options input options input options reader strict source input options
+repository repository replace repositories id groupId artifactId version dependency parent
+url model request urlNormalizer
+problems severity version fieldName sourceHint message tracker s1 s2 fieldName tracker validationLevel errorThreshold request errorThreshold value value problems plugin request problems repository prefix request fieldName problems string sourceHint tracker request fieldName problems severity version string sourceHint tracker problems dependencies prefix request problems m dependencies prefix request problems plugins prefix request problems resources prefix request problems activation sourceHint prefix request fieldName problems severity version string sourceHint tracker banned fieldName problems severity version string sourceHint tracker problems d prefix problems m dependencies management request problems d management prefix request m request problems prefix problems m d request fieldName problems severity version string sourceHint tracker validValues fieldName problems id tracker fieldName problems severity version id sourceHint tracker fieldName problems severity version id sourceHint tracker fieldName problems severity version object sourceHint tracker m request problems problems repositories prefix request fieldName problems severity version string tracker fieldName problems severity version string sourceHint tracker fieldName problems severity version string tracker fieldName problems severity version string sourceHint tracker fieldName problems severity version string tracker
+output options model output options model output options model
+project mojoExecution allowPluginLevelConfig groupId artifactId plugins executionId executions
+path basedir
+key plugin extensionFilter repositories session key a b plugin key pluginArtifacts key exception project cacheKey record
+plugins model request problems
+plugin repositories session plugin pluginArtifact dependencyFilter repositories session plugin dependencyFilter repositories session plugin pluginArtifact dependencyFilter transformer repositories session plugin session
+mojos pluginDescriptor original plugin repositories session cacheKey cacheKey pluginDescriptor
+model request problems
+project execution session plugin role roleHint plugin role prefix session project prefix plugin project session plugin project session plugin project settings localRepository
+pluginGroups pom prefix repositories session
+session trace metadata repository exception request trace results requests request request request plugins request request trace pluginGroup metadata repository
+artifactId groupId repository
+plugin parentRealm foreignImports dependencyFilter repositories session key a b plugin key pluginRealm pluginArtifacts project key record
+artifactId groupId pom repositories session
+session trace metadata repository exception request version versions source repository session trace versions metadata repository request request request plugins request result request versions
+repository version
+
+severity message line column cause source
+activeProfileIds inactiveProfileIds projectDirectory projectProperties systemProperties systemProperties userProperties userProperties properties
+model profile request problems
+profileId profile profiles profileId profileIds profileId profileIds
+profileActivator profiles context problems profile context problems profile
+project
+key project scopesToCollect scopesToResolve aggregating session key a b plugin key projectArtifacts key exception project cacheKey record
+pomFile modelSource config pomFile request pomFiles recursive request results interimResults projectIndex pomFile aggregatorFiles isRoot recursive config results interimResults projectIndex pomFiles aggregatorFiles isRoot recursive config results projects projectIndex interimResults request profilesXmls artifact allowStubModel request artifact request modelSource request artifact result profilesXmls config profiles result modelIndex result modelIndex project projects result profilesXmls projectBuildingRequest reactorModelPool interimResults project session
+buildStartTime executionProperties globalProfileManager localRepository userProperties
+pomRepositories externalRepositories request project model request project pluginArtifacts
+profile activeProfileIds buildStartTime inactiveProfileIds localRepository pluginArtifactRepositories processPlugins profiles mavenProject remoteRepositories repositoryMerging repositorySession resolveDependencies value systemProperties userProperties validationLevel
+
+artifactIterable projects projects scopesToResolve session project scopesToCollect scopesToResolve session project scopesToCollect scopesToResolve session ignoreableArtifacts project scopesToResolve session projects scopesToCollect scopesToResolve session projectIds
+projectId projectIds transitive project transitive projectIds projectId projectIds transitive project transitive
+extensionRealms key key projectRealm extensionArtifactFilter project key record
+model request problems
+parent childName childValue plugin reportSet model request problems build plugin name value
+directory artifact metadata repository metadata metadata filename
+metadata localRepository deploymentRepository metadataFile metadata reference metadata localRepo remoteRepository localRepository metadata metadata localRepository repoMetadata remoteRepository localRepository previousMetadata metadata remoteRepositories localRepository mappingFile metadata remoteRepositories localRepository metadata request metadata localRepository remoteRepository metadata previousMetadata selected localRepository
+session project forceUpdate localRepository offline remoteRepositories
+request
+request result items
+versionRange
+request settingsFile settingsSource problems settings request problems settingsSource request problems settingsReader settingsValidator settingsWriter
+
+globalSettingsFile globalSettingsSource systemProperties userProperties userSettingsFile userSettingsSource
+
+str request
+proxies servers
+
+
+severity message line column cause source
+options input options input options input options
+problems severity fieldName sourceHint message settings problems problems fieldName severity string sourceHint banned problems fieldName object sourceHint problems repositories prefix problems fieldName string sourceHint
+output options settings output options settings output options settings
+version modelProcessor
+type matcher obj requirements
+type type session session type requirements session models type requirements
+type context toolchain session
+request problems toolchainsSource request problems
+globalToolchainsSource userToolchainsSource
+
+options input options input options input options
+touchFile key artifact repository repository file repository artifact metadata file artifact repository metadata repository file touchfile touchfile key metadata repository file artifact repository error metadata repository file touchfile key error
+url
+session result request locator session trace metadata repository exception session trace metadata repository result session request loggerFactory loggerFactory metadataResolver repositoryEventDispatcher syncContextFactory
+classifier extension locator session trace metadata repository exception session artifact key infos timestamp version repository infos srcKey dstKey artifact infos versioning repository session trace metadata repository result result infos key session request loggerFactory loggerFactory metadataResolver repositoryEventDispatcher syncContextFactory
+artifact remoteRepositories artifact repository id repository protocol
+obj artifact artifact artifact metadata repository localRepository localRepository
+listener event event event listener
+listener event event event event listener
+exclusion key exclusion artifactId classifier exclusions groupId key location optional optional scope systemPath type version
+scopesToCollect scopesToResolve
+dependency key dependency dependencies key location
+target sources request problems
+model request problems
+
+project repositorySession filter
+
+dependency
+uniqueVersion
+profile profile
+id
+key downloadUrl key location relocation repository site snapshotRepository status
+project artifact
+
+
+
+session setup tasks session tasks mojoExecution session session mojoExecution session packaging artifactId goals
+packaging artifactId goals
+pomRepositories externalRepositories request project model request project
+props
+monitor event target event target cause event target
+eventName target timestamp eventName target timestamp cause eventName target timestamp
+context event
+listener listener context action e spy event eventSpies
+event event event event event event event event event event event event event event event event event
+event event event event event event event event event event event event event event event event event event event
+e
+
+artifact
+key artifactId groupId key location
+obj artifact
+string string configuration goals
+
+eventType session mojoExecution eventType session mojoExecution exception
+eventType session mojoExecution eventType session mojoExecution exception
+buffer me buffer project buffer md c count event event event c msg session session session event event event event event event event
+event event event event event event event event event event event event event event event event event
+mavenProject executions
+key value key value apiMethods ban cliOptions configuration deprecation description editable syntax
+expression expression expressions modelEncoding
+
+docStream
+obj1 obj2 o key artifactId groupId key location version
+exportedArtifacts exportedPackages
+extensionJar is dom
+extensionArtifacts key key extensionRealm extensionDescriptor artifacts project key record
+node1 node2
+relPath
+profile context problems profile context problems pathTranslator
+directory
+
+
+activeProfileIds buildStartTime inactiveProfileIds locationTracking modelBuildingListener modelCache modelResolver modelSource pomFile processPlugins profiles rawModel systemProperties twoPhaseBuilding userProperties validationLevel workspaceResolver
+projects project transitive project transitive
+artifact metadata repository metadata filename
+
+session
+
+e1 e2
+graph scope
+goalPrefix artifactId goalPrefix artifactId name remoteRepository
+id
+obj artifact
+child parent request problems
+key target source sourceDominant target source indices key location locations
+field field location
+location modelId
+
+
+dependency
+
+message errors
+
+
+projectId locationInPom offendingVersion cause
+
+
+obj artifact
+key key location system url
+
+model
+toolName toolName installFolder javaHome
+profile jdk profile jdk
+tokens max range value rangeValue isLeft profile context problems value range value profile context problems
+versioning baseVersion artifact remoteRepository localRepository artifact localRepository artifact request
+artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners artifacts originatingArtifact managedVersions localRepository remoteRepositories source filter listeners conflictResolvers artifacts originatingArtifact managedVersions repositoryRequest source filter listeners conflictResolvers
+session request session request session request session request artifact metadata artifact repository context metadata repository context repository session system
+artifact metadata repository metadata metadata filename
+repo policy url groupId artifactId version packaging groupId artifactId version scope type repositoryId url repositoryLayout snapshots releases groupId artifactId version type classifier d groupId artifactId version localRepository url repositoryId groupId artifactId version plugin groupId artifactId metaVersionId url repositoryId releases releaseUpdates snapshots snapshotUpdates checksumPolicy session repository policies repositories id error def repository mirrors session repository repository proxies session repository repositories servers session repositories repositories mirrors repository mirror session repositories repositories proxies session repositories repository source remotePath transferListener request repository destination remotePath transferListener
+session
+key comments distribution key location name url
+packaging
+packaging artifactId goals
+
+model request problems
+lifecycle lifecycle lifecycles modelEncoding
+s mojoExecutions mojoExecution currentProject executionPlan projectBuilds s
+projects dependencies project scopesToCollect scopesToResolve session aggregating projectArtifacts project session aggregator projects scopes project scopesToCollect scopesToResolve session aggregating projectArtifacts
+execution project cause
+session project tasks session project tasks setup mojoExecution session session project mojoExecution
+session project tasks session project tasks setup mojoExecution session project mojoExecutions phaseName phaseName threadSafe goal executionId mojoDescriptor projectBuildList projectBuildList session project mojoExecution
+session setup tasks session tasks mojoExecution session session mojoExecution session packaging
+lifecycle lifecycle
+session project lifecycle lifecyclePhase
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream lifecycleConfiguration writer lifecycleConfiguration execution tagName serializer lifecycle tagName serializer lifecycleConfiguration tagName serializer phase tagName serializer
+session rootSession reactorContext currentProject taskSegment session reactorContext currentProject taskSegment listeners
+configuration dependencies goal
+
+goals mojos lifecyclePhases
+
+project session
+session session session
+
+session session tasks session
+session tasks session
+artifact
+
+artifact artifact legacyFormat classifier extension artifact recessive file
+artifacts artifacts artifact
+content content error error content content error error content content error error content content error error
+level
+level
+s s throwable s s throwable s s throwable s s s throwable i s s throwable
+event event event event event event
+string key string archive key location name otherArchives post subscribe unsubscribe
+
+request
+snapshot versions
+
+artifactId classifier datum groupId scope type version
+url url s1 s2 obj artifact artifact artifact metadata repository artifactMetadata url authentication blackListed id layout mirroredRepositories proxy releases snapshots url
+
+threadConfiguration cliRequest mavenArgs mavenConfig cliRequest cliRequest cliRequest container container args workingDirectory stdout stderr args classWorld cliRequest cliRequest cliRequest printResourceNames source defaultLocation cliRequest cliRequest containerRealm providedArtifacts summary references indent showErrors cliRequest args args classWorld cliRequest commandLine systemProperties userProperties cliRequest cliRequest request cliRequest extensionsFile cliRequest file workingDirectory list property properties classWorld coreRealm extClassPath extensions cliRequest cliRequest
+
+requestedPhase planItems
+profile profiles profile profiles mirror repository pluginGroup pluginGroups profile proxy repository server profiles basedir builderId cacheNotFound cacheTransferError degreeOfConcurrency eventSpyDispatcher projects executionListener globalChecksumPolicy globalSettingsFile globalToolchainsFile goals profiles interactive repository localRepository localRepository loggingLevel makeBehavior mirrors file noSnapshotUpdates offline repositories pluginGroups pom profiles isProjectPresent proxies failureBehavior recursive repositories repositoryCache project projects servers showErrors start systemProperties toolchains transferListener updateSnapshots useLegacyLocalRepository userProperties userSettingsFile userToolchainsFile workspaceReader
+
+request request settings request toolchains
+summary e project result project projects
+existing result recessive metadataFile properties metadataFile metadata
+artifact resolveManagedVersions localRepository remoteRepositories artifact resolveManagedVersions localRepository remoteRepositories result
+requestRepositories pomRepositories artifactFactory dependencies inheritedScope dependencyFilter project factory dependency inheritedScope inheritedFilter dependency owner pom dependency inheritedFilter originalScope inheritedScope artifact e request e e artifact localRepository remoteRepositories artifact localRepository remoteRepositories resolveManagedVersions request artifact localRepository remoteRepositories request artifact localRepository deploymentRepository repoMetadata availableVersions artifact repositoryRequest
+parentUrl context dependency exclusion extension pluginExecution plugin reportPlugin reportSet repositoryBase target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context
+pluginDescriptor mojoInterface session mojoExecution plugin goal repositories session plugin repositories session mojo mojoExecution project plugin session pluginDescriptor session parent imports filter
+pluginDescriptor
+basedir
+artifact classpath artifact path contributor developer license lifecyclePhase mailingList paths path project resource path path testResource type classifier file artifactFactory inheritedScope filter project s1 s2 other key pluginGroupId pluginArtifactId executionId goalId moduleProject pluginKey groupId artifactId version pluginGroupId pluginArtifactId reportSetId phase pluginArtifact activeProfiles artifact artifactFilter artifactId artifacts attachedArtifacts build ciManagement classRealm collectedProjects compileSourceRoots key value contributors dependencies dependencyArtifacts description developers distributionManagement executionProject executionRoot extensionArtifacts extensionDependencyFilter file groupId inceptionYear source injectedProfileIds issueManagement licenses mailingLists map model pomVersion name organization originalModel packaging parent parentArtifact parentFile pluginArtifactRepositories pluginArtifacts file projectBuildingRequest releaseArtifactRepository remoteArtifactRepositories reportArtifacts reporting artifacts scm scriptSourceRoots snapshotArtifactRepository testCompileSourceRoots url version writer writer
+pom localRepository profileManager pom configuration artifact remoteRepositories localRepository artifact remoteRepositories localRepository allowStubModel localRepository localRepository profileManager configuration pom localRepository globalProfileManager pom localRepository globalProfileManager transferListener
+project resourceDirectory includes excludes project resourceDirectory includes excludes project artifactFile artifactClassifier project artifactType artifactFile project artifactType artifactClassifier artifactFile
+
+groupId artifactId version scope type groupId artifactId version scope type classifier inheritedScope groupId artifactId versionRange type classifier scope inheritedScope groupId artifactId versionRange type classifier scope inheritedScope optional groupId artifactId versionRange type classifier scope optional groupId artifactId versionRange groupId artifactId version groupId artifactId versionRange groupId artifactId version groupId artifactId version scope repo repo policy repositoryId layoutId layout groupId artifactId version scope type id url layoutId snapshots releases id url repositoryLayout snapshots releases request d groupId artifactId version request localRepository groupId artifactId version plugin groupId artifactId metaVersionId url repositoryId releases releaseUpdates snapshots snapshotUpdates checksumPolicy settingsRepository settingsRepositoryPolicy session repository id repository mirrors session repository session repository repositories session repositories repositories mirrors repository mirror session repositories session repositories originalRepository originalRepository pattern repoLayout mirrorLayout repository mirror
+
+snapshot versions
+plugin project role role roleHint role role allProjects currentProject parallel projectDependencyGraph projectMap projects
+useCachedSettings userSettingsFile userSettingsFile useCachedSettings request
+identifiables dominant recessive recessiveSourceLevel dominant recessive recessiveSourceLevel
+e level t stream
+name
+
+
+artifact artifact legacyFormat classifier extension artifact
+model dominant recessive recessiveSourceLevel target source dominant recessive recessiveSourceLevel
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream persistedToolchains writer persistedToolchains persistedToolchains tagName serializer toolchainModel tagName serializer trackableBase tagName serializer
+artifact
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source parser strict source in strict source reader strict source parser strict source addDefaultEntities
+fileComment stream model writer model activation tagName serializer activationFile tagName serializer activationOS tagName serializer activationProperty tagName serializer build tagName serializer buildBase tagName serializer ciManagement tagName serializer configurationContainer tagName serializer contributor tagName serializer dependency tagName serializer dependencyManagement tagName serializer deploymentRepository tagName serializer developer tagName serializer distributionManagement tagName serializer exclusion tagName serializer extension tagName serializer fileSet tagName serializer issueManagement tagName serializer license tagName serializer mailingList tagName serializer model tagName serializer modelBase tagName serializer notifier tagName serializer organization tagName serializer parent tagName serializer patternSet tagName serializer plugin tagName serializer pluginConfiguration tagName serializer pluginContainer tagName serializer pluginExecution tagName serializer pluginManagement tagName serializer prerequisites tagName serializer profile tagName serializer relocation tagName serializer reportPlugin tagName serializer reportSet tagName serializer reporting tagName serializer repository tagName serializer repositoryBase tagName serializer repositoryPolicy tagName serializer resource tagName serializer scm tagName serializer site tagName serializer
+plugin sourceMetadata plugin artifactId groupId modelEncoding modelVersion plugins version versioning
+string current result file properties
+vFrom vTo e md e nEdges v nVertices tree md vFrom vTo vertex vertex nVertices nEdges parentVertex node depth pomOrder v entry scope scopedVertices versionedVertices
+o o1 o2 artifactUri depth pomOrder resolved scope source target version
+node node obj
+
+s1 s2 vertex vo compareScope compareVersion md
+
+input options input options input options
+artifactMetadata metadataRepositories
+
+artifact localRepository offline remoteRepositories resolveManagedVersions
+
+scope scope scope requestType plexus root
+
+artifact localRepository remoteRepositories
+index kid children md children parent
+src
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream metadata writer metadata metadata tagName serializer plugin tagName serializer snapshot tagName serializer snapshotVersion tagName serializer versioning tagName serializer
+layout mirrorOf mirrorOfLayouts name url
+repository mirrors
+
+
+
+
+contributor developer license mailingList profile copy contributor developer license mailingList profile artifactId build ciManagement contributors description developers groupId inceptionYear issueManagement licenses mailingLists modelEncoding modelVersion name organization packaging parent pomFile prerequisites profiles scm url version
+dependency string repository key value repository key dependency string repository repository dependencies dependencyManagement distributionManagement key location modules pluginRepositories properties reporting reports repositories
+request request result pomFile validationLevel locationTracking
+
+listener event
+modelId problems result
+event
+activeProfileIds buildStartTime inactiveProfileIds locationTracking modelBuildingListener modelCache modelResolver modelSource pomFile processPlugins profiles rawModel systemProperties twoPhaseBuilding userProperties validationLevel workspaceResolver
+modelId modelId
+groupId artifactId version tag groupId artifactId version tag data
+data data
+activeProfiles artifactId groupId model rawModel version
+childBuild parentBuild handleAsInheritance child parent child parent childPathAdjustment dest source
+
+model projectDir request problems
+projectDirectory
+contributor dependency developer exclusion extension license mailingList notifier pluginExecution plugin profile reportPlugin reportSet repositoryBase repository resource target source sourceDominant hints target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context target source sourceDominant context
+model request problems model request problems
+
+model basedir request
+
+req
+
+exception location message
+problem projectId groupId artifactId version model model model
+
+input options input options input options
+repository repository replace groupId artifactId version dependency parent
+
+relPath
+model request
+child parent childFilters parentFilters child parent handleAsInheritance child parent childContainer parentContainer handleAsInheritance dominant recessive merged highPrioritySource lowPrioritySource
+message i indentation
+model request problems model request problems
+output options model output options model output options model
+log
+parameter first second object aggregator requiresDependencyCollection requiresDependencyResolution deprecated directInvocationOnly executeGoal executeLifecycle executePhase executionStrategy goal inheritedByDefault language mojoConfiguration requiresOnline parameters phase pluginDescriptor requiresProject requiresReports since threadSafe
+mojoDescriptor groupId artifactId plugins plugin plugins prefix session task session project plugin project plugin session project
+configuration projectKey forkedExecutions lifecyclePhase mojoDescriptor
+project mojoExecution allowPluginLevelConfig
+
+
+event event event
+event event event key unscoped clazz value clazz value
+
+
+
+expression expression expression expression value
+scopesToResolve scopesToCollect mojoExecutions mojoDescriptor session dependencyContext session mojoExecutions projectIndex session mojoExecution projectIndex dependencyContext session mojoExecution projectIndex dependencyContext phaseRecorder mojoExecution session projectIndex mojoDescriptor session mojoExecutions classpath
+mojoDescription session mojoExecutions projectIndex session mojoExecution projectIndex dependencyContext phaseRecorder
+
+goal pluginDescriptor
+session reactorContext projectBuilds taskSegments reactorBuildStatus rootSession projectBuild reactorContext taskSegment muxer analyzer reactorContext rootSession service taskSegment projectBuildList muxer
+artifacts
+node1 node2
+node1 node2
+
+localRepository remoteRepositories
+key value key address configuration key location sendOnError sendOnFailure sendOnSuccess sendOnWarning type
+node1 node2
+arch family name version os profile context problems profile context problems
+artifactFilter obj artifact
+key key location name url
+
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream expressionDocumentation writer expressionDocumentation expression tagName serializer expressionDocumentation tagName serializer
+other alias defaultValue deprecated description editable expression implementation name required requirement since type
+key artifactId groupId key location relativePath version
+expression value
+path basedir model basedir directory basedir model basedir
+string string key string string excludes includes key location
+
+toolchainModel toolchainModel modelEncoding toolchains
+execution execution configuration executions id
+nextMojoExecution mojoExecution
+node node context
+artifactId name prefix
+
+plugin extensionFilter repositories session key key pluginArtifacts key e project cacheKey record
+pluginManagement
+
+model request problems
+plugin key plugin key location plugins
+
+plugin repositories session plugin pluginArtifact dependencyFilter repositories session
+artifact artifact artifact artifact artifact replacement artifact omitted kept artifacts artifact replacement newRange artifact artifact node artifact scope artifact ignoredScope
+mojoDescriptor groupId artifactId version object id descriptor artifactId lifecycleId goal artifactId artifacts classRealm description goalPrefix groupId inheritedByDefault introducedDependencyArtifacts name plugin pluginArtifact requiredMavenVersion source version
+reader reader source c pluginDescriptor configuration
+plugin repositories session key key pluginDescriptor
+plugin descriptorLocation e
+string string goals id phase priority
+mojoExecution cause
+
+
+
+model request problems
+project execution session plugin role roleHint plugin role prefix session project prefix plugin project session plugin project session plugin project settings localRepository
+
+
+mojo param messageBuffer parameters
+file expr expr type type value expr
+pluginGroups pom prefix repositories repositorySession
+request
+request
+
+plugin parentRealm foreignImports dependencyFilter repositories session key key pluginRealm pluginArtifacts project key record
+
+
+artifactId groupId pom repositories repositorySession
+localRepository remoteRepositories
+request
+request
+
+key key location maven
+
+severity message line column cause source
+problems
+expression
+repository key value repository repository repository activation pluginRepositories properties repositories
+
+
+profile context problems profile context problems
+model profile request problems
+profile profiles profileId profileIds profileId profileIds
+profiles context problems
+profileXmlProfile profileXmlRepo profileXmlRepo
+string profile string profile activeProfiles modelEncoding profiles
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream profilesRoot writer profilesRoot activation tagName serializer activationFile tagName serializer activationOS tagName serializer activationProperty tagName serializer profile tagName serializer profilesRoot tagName serializer repository tagName serializer repositoryBase tagName serializer repositoryPolicy tagName serializer
+
+project
+repository metadata metadata localRepository remoteRepository
+project scopesToCollect scopesToResolve aggregating session key key pluginArtifacts key e project cacheKey record
+
+mavenProject index taskSegment taskSegment
+projectFile request pomFiles recursive request projectArtifact allowStubModel request projectArtifact request modelSource request
+buildStartTime executionProperties globalProfileManager localRepository userProperties
+message projectId pomFile results
+pomRepositories externalRepositories request project model request project
+profile activeProfileIds buildStartTime inactiveProfileIds localRepository pluginArtifactRepositories processPlugins profiles mavenProject remoteRepositories mode repositorySession resolveDependencies value systemProperties userProperties validationLevel
+
+
+request
+projects scopes session request project scopesToCollect scopesToResolve session project scopesToCollect scopesToResolve session ignoreableArtifacts project scopesToResolve session
+project transitive project transitive
+project session taskSegment project transitive mavenProject session session project transitive
+
+event event event event
+
+repository repository replace repositories id groupId artifactId version dependency parent
+extensionRealms key key projectRealm extensionArtifactFilter project key record
+
+projectMap vertexMap project projectVertex groupId artifactId version force safe fromVertex toVertex fromProject projectMap force safe id id project version
+repositories artifactRepositoryFactory c repo artifactRepositoryFactory c repo artifactRepositoryFactory c c c
+profile context problems profile context problems
+active host nonProxyHosts password port protocol username
+
+project project mavenProject
+
+id project project project plugin project project project project project project error task time project time failureBehavior
+groupId artifactId version tag groupId artifactId version tag data
+groupId artifactId version groupId artifactId version pomFile
+requested attached project artifact artifact project requestedArtifact artifact artifact projectArtifact project artifact
+
+versioning baseVersion artifact artifact remoteRepository localRepository artifact localRepository artifact request
+key defaultValue
+key artifactId groupId key location message version
+metadata artifact recessive file
+artifacts artifacts artifact
+model request problems
+reportSet groupId artifactId reportSet artifactId groupId reportSets version
+string string id reports
+reportPlugin key reportPlugin excludeDefaults excludeDefaults key location outputDirectory plugins
+model request problems
+obj releases snapshots
+obj id layout name url
+request key request key data
+repository metadata remoteRepository
+
+
+metadata localRepository deploymentRepository metadata localRepository repositoryMetadata repositories localRepository repositoryMetadata repositoryRequest metadata localRepository remoteRepository
+
+
+
+checksumPolicy enabled updatePolicy
+forceUpdate localRepository offline remoteRepositories
+project session
+repository groupId artifactId version packaging groupId artifactId version scope type id url repositoryLayout snapshots releases groupId artifactId version type classifier dependency localRepository plugin groupId artifactId version repositories repository mirrors repositories servers session repositories repositories mirrors session repositories repositories proxies session repositories repository source remotePath transferListener request repository destination remotePath transferListener
+repo id handler handlerManager artifact string artifact artifact dependency artifactsToConvert artifacts nodes trail filter auth artifact exclusions dependency stereotypes exclusion policy proxy repo repos
+
+requirement
+provideValue provideValue
+request result
+
+artifact artifact artifact replacement artifact omitted kept artifact replacement newRange artifact artifact node artifact scope artifact ignoredScope
+artifact replacement artifact replacement artifact replacement
+artifacts remoteRepositories filter filter artifact
+filtering filtering mergeId targetPath
+version other
+result problem result problems result results problems model model problems result results problems model problems results model model problems model results
+
+versionRange
+key connection developerConnection key location tag url
+obj str1 str2
+configuration directoryPermissions filePermissions passphrase password privateKey username
+memento key unscoped clazz value clazz value
+
+
+string mirror string profile proxy server repositoryId serverId string mirror string profile proxy server activeProfiles interactiveMode localRepository mirrors modelEncoding offline pluginGroups profiles proxies servers usePluginRegistry
+
+request
+problems
+globalSettingsFile globalSettingsSource systemProperties userProperties userSettingsFile userSettingsSource
+
+
+request
+proxies servers
+
+
+
+severity message line column cause
+input options input options input options
+
+settingsProfile settingsRepo modelPolicy settingsPolicy modelProfile modelRepo settings dominant recessive recessiveSourceLevel
+settings problems
+output options settings output options settings output options settings
+source defaultLocation request settings cliRequest file workingDirectory
+parser tagName alias parsed parser attribute tagName strict parser strict s attribute parser s attribute parser defaultValue s attribute parser strict s attribute parser s attribute dateFormat parser s attribute parser s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s attribute parser strict s value context parser parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict parser strict in in strict reader reader strict parser strict addDefaultEntities
+fileComment stream settings writer settings activation tagName serializer activationFile tagName serializer activationOS tagName serializer activationProperty tagName serializer identifiableBase tagName serializer mirror tagName serializer profile tagName serializer proxy tagName serializer repository tagName serializer repositoryBase tagName serializer repositoryPolicy tagName serializer server tagName serializer settings tagName serializer trackableBase tagName serializer
+artifact localRepository remoteRepositories request artifact localRepository remoteRepositories artifact localRepository remoteRepository
+logFile msg format param1 format param1 param2 format argArray msg t msg format arg format arg1 arg2 format argArray msg t level format arg1 arg2 level format arguments name defaultValue name name defaultValue msg format arg format arg1 arg2 format argArray msg t logLevel level message t event level t stream levelStr msg format param1 format param1 param2 format argArray msg t msg format arg format arg1 arg2 format argArray msg t buf t
+name
+req
+session reactorContext projectBuilds taskSegments reactorBuildStatus
+key id key location name url
+level
+loggerFactory
+message message throwable message message throwable message message throwable name message message throwable threshold message message throwable
+role role hint role role hint threshold threshold
+event event event
+level
+msg format arg format arg1 arg2 format arguments msg t marker msg marker format arg marker format arg1 arg2 marker format arguments marker msg t msg format arg format arg1 arg2 format arguments msg t marker msg marker format arg marker format arg1 arg2 marker format arguments marker msg t msg format arg format arg1 arg2 format arguments msg t marker msg marker format arg marker format arg1 arg2 marker format arguments marker msg t marker marker marker marker marker msg format arg format arg1 arg2 format arguments msg t marker msg marker format arg marker format arg1 arg2 marker format argArray marker msg t msg format arg format arg1 arg2 format arguments msg t marker msg marker format arg marker format arg1 arg2 marker format arguments marker msg t
+buildNumber localCopy timestamp
+remoteRepository
+session request session request
+versioning baseVersion artifact localRepository remoteRepository artifact remoteRepository localRepository artifact localRepository artifact request
+classifier extension updated version
+
+
+
+
+
+model projectDir config problems obj model projectDir config problems
+
+
+resourceName expectedContent inputData outputData
+version
+props properties
+profile context profile
+content content error error content content error error content content error error prefix content prefix content error prefix error content content error error
+
+projectBuild projectBuild projectBuild
+toolName
+model
+type context session type requirements
+type context toolchain context
+key value other configuration provides type
+requirements
+request
+problems
+globalToolchainsSource userToolchainsSource
+
+
+input options input options input options
+sourceLevel
+message listener transferEvent transferEvent transferEvent transferEvent buffer length transferEvent event repository resource
+obj artifact
+
+
+
+
+artifact repository artifact repository metadata repository file artifact repository error metadata repository file
+
+url
+expression value
+
+
+artifact artifact metadata repository
+fieldName value fieldName value target fieldName value target
+dependency
+version version spec obj artifact r1 r2 artifact versions spec restriction
+snapshotVersion string snapshotVersion string lastUpdated date latest release snapshot snapshotVersions versions
+artifact artifact recessive file
+artifacts artifacts artifact
+session request session request
+
+
+
+
+context obj artifact artifact dependency
+artifact remoteRepositories artifact repository id repository protocol
+configurableField
+artifact artifact artifact replacement omitted omitted kept artifact replacement newRange artifact artifact node artifact scope artifact scope
+event event event
+groupId artifactId versionConstraint groupId artifactId versionConstraint
+position
+pointer1 pointer2 value
+position position node
+qname test reverse startWith pointer1 pointer2 node value
+name object locale parent name object
+

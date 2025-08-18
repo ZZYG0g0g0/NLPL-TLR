@@ -1,0 +1,99 @@
+getAcademicYear getDateAbsence getIdAbsence getIdJustify getIdUser setAcademicYear setDateAbsence setIdAbsence setIdJustify setIdUser
+buildLabel
+getIdAddress getName setIdAddress setName
+getAcademicYear getIdAddress getIdClassroom getName setAcademicYear setIdAddress setIdClassroom setName toString
+
+activeSize clearActive closeAllConnections closeAllConnections closeAllPooledConnections createNewConnection getConnection getConnection getLogWriter getLoginTimeout getMaxPoolSize getPooledConnection poolSize release setActivedTimeout setLastTime setLogWriter setLoginTimeout toString
+cachePreparedStatement cacheStatement clearWarnings close closeAndReleaseStatements closeWrappedConnection commit createStatement createStatement createStatement finalize getAutoCommit getCatalog getHoldability getMetaData getTransactionIsolation getTypeMap getWarnings isClosed isReadOnly nativeSQL prepareCall prepareCall prepareCall prepareStatement prepareStatement prepareStatement prepareStatement prepareStatement prepareStatement releaseSavepoint rollback rollback setAutoCommit setCatalog setHoldability setReadOnly setSavepoint setSavepoint setTransactionIsolation setTypeMap toString
+run
+getConnection loadPool releaseConnection
+
+getAcademicYear getDateDelay getIdDelay getIdUser getTimeDelay setAcademicYear setDateDelay setIdDelay setIdUser setTimeDelay
+
+
+
+
+getPoolPropertiesPath setPoolPropertiesPath
+getAcademicYear getDateJustify getIdJustify getIdUser setAcademicYear setDateJustify setIdJustify setIdUser
+
+sendMail
+assignTeachingAsAddress delete exists getAddressById getAddressId getAddressList getAddressNameById getAddressTechings getInstance hasTeaching insert loadIntegersFromRs loadRecordFromRs loadRecordsFromRs removeTeachingAsAddress
+delete exists getAcademicYearList getClassroomByID getClassroomByUserAcademicYear getClassroomsByAcademicYear getClassroomsByStudent getClassroomsByTeacher getClassroomsByTeacherAcademicYear getInstance insert loadIntegersFromRs loadRecordFromRs loadRecordsFromRs update
+deleteAbsence deleteDelay deleteJustify deleteNote exists exists exists getAbsenceByIDUserAndAcademicYear getAbsenceByIDUserAndDate getAbsenceByIdAbsence getAbsenceByIdJustify getDelayByIDUserAndDate getDelayById getInstance getJustifyByAbsence getJustifyByIdJustify getNoteByIDUserAndAcademicYear getNoteById getRegisterByClassIDAndDate hasAbsence hasDelay hasJustify insertAbsence insertDelay insertJustify insertNote loadAbsenceFromRs loadDelayFromRs loadJustifyFromRs loadNoteFromRs updateAbsence updateDelay updateJustify updateNote
+delete exists getInstance getTeachingById getTeachingId getTeachingNameById getTeachings getTeachingsByClassroomId getTeachingsByClassroomName getTeachingsByIdUserIdClassroom getTeachingsByUserId getTeachingsByUserIdClassID hasTeacher insert loadRecordFromRs loadRecordsFromRs update
+
+delete deleteVotesByUserIdYearTurn exists getIdVotes getInstance getTeachingIdByVotesId getVotes getVotesById getVotesByUserId getVotesByUserIdYearTurn insert loadRecordFromRs loadRecordsFromRs update
+
+
+getAcademicYear getDateNote getDescription getIdNote getIdUser getTeacher setAcademicYear setDateNote setDescription setIdNote setIdUser setTeacher
+
+getAbsence getDelay getStudent setAbsence setDelay setStudent
+ToString addVotes getVotes remove
+
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+init
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+doGet doPost
+getId getName setId setName
+main
+getCell getEMail getFirstName getId getIdParent getLastName getLogin getName getPassword setCell setEMail setFirstName setId setIdParent setLastName setLogin setPassword toString
+getEMail getId getName setEMail setId setName
+main
+BooleanToInt Date2String IntToBoolean RemoveAll Replace ReplaceAll ReplaceAllStrings ReplaceQuote String2Date String2Integer clear date2SQLString daysBetween executeOperation getActiveTimeout getActualDate getDriverMySql getFullPathDatabase getImageHeaderPath getImageLeftColumn getImageLogoHeaderPath getMaxDayBeforeExam getMaxPoolSize getMaxValue getNeedDayBeforeExam getPassword getPdfPath getPoolTimeout getServerSmtp getTextFooter getUploadPath getUserName getWaitTimeout isNull isNull isNull queryOperation setActiveTimeout setDriverMySql setFullPathDatabase setImageHeaderPath setImageLeftColumn setImageLogoHeaderPath setMaxDayBeforeExam setMaxPoolSize setNeedDayBeforeExam setPassword setPdfPath setPoolTimeout setServerSmtp setTextFooter setUploadPath setUserName setWaitTimeout today
+getAccademicYear getId_user getId_votes getLaboratory getOral getTeaching getTurn getWritten setAccademicYear setId_user setId_votes setLaboratory setOral setTeaching setTurn setWritten toString

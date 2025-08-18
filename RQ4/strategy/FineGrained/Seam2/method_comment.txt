@@ -1,0 +1,1156 @@
+
+
+
+
+
+Load and return the entity stored Store an entity id/clazz
+Pattern matching code, adapted from Tomcat. This method checks to see if the specified path matches the specified pattern.
+
+
+
+Set the dirty flag. Set the dirty flag if the value has changed. Call whenever a subclass attribute is updated.
+Enable a Filter. This is here just especially for Hibernate, since we well know that other products don't have such cool features. Returns the class of an entity bean instance Get the value of the entity identifier attribute. Get the name of the entity Get the value of the entity version attribute. Does the persistence context have unflushed changes? If it does not, persistence context replication can be optimized. Wrap the delegate before returning it to the application Wrap the entityManager before returning it to the application Register a Synchronization with the current transaction. Set the flush mode to manual-only flushing. Called when an atomic persistence context is required.
+Retrieve entity class. If not set, type parameters of a superclass are examined. Retrieve a suffix of this resource's URI. See {@link #setPath(String path)} Check if media type passed as parameter is supported by this resource. Select a media type that will be used for marshalling entity. Media type is selected from the intersection of media types supported by this resource and media types accepted by client. Set the path this resource will operate on. This method is intended to be used only by Seam to create a resource configured in component descriptor. To specify the path in other cases, use @Path annotation. See
+Get a Javassist {@link ClassFile} for a given class name from the classLoader
+
+
+
+
+
+
+
+
+
+the email address part of the address get an InternetAddress object based upon name, address the name part of the address
+
+
+
+
+Creates a new agent ID string. The identifier is of the form <tt>&lt;ip.address&gt;/&lt;creation time in ms&gt;/&lt;VMID+(random int 0-100)&gt;/&lt;sequence #&gt;</tt>.<P> This AgentID string is globally unique. Returns the agent identifier string of a given MBean server instance. test
+
+
+
+
+Get annotated classes
+
+
+
+
+
+
+
+
+
+
+Methods from ArtistHomeImpl Methods from EntityHome and Home
+Utility method for EJB3 to cleanup, don't do anything here, so no need for Seam to intercept.
+Now lets actually go to the server, using a callback - its called Ajax for a reason ! This gets the async service client stub.
+
+
+
+
+
+
+
+
+
+Returns the amount required to outbid the specified bid amount.
+Allows the auction duration to be overidden from the default
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Very low-level access to decoding ASCII characters in the form of a byte array. Does not support automatically gunzipping or any other "fancy" features. end decode Decodes data from Base64 notation, automatically detecting gzip-compressed data and decompressing it. Decodes data from Base64 notation, automatically detecting gzip-compressed data and decompressing it. end decode ********  D E C O D I N G   M E T H O D S  ******** Decodes four bytes from array <var>source</var> and writes the resulting bytes (up to three of them) to <var>destination</var>. The source and destination arrays can be manipulated anywhere along their length by specifying <var>srcOffset</var> and <var>destOffset</var>. This method does not check to make sure your arrays are large enough to accomodate <var>srcOffset</var> + 4 for the <var>source</var> array or <var>destOffset</var> + 3 for the <var>destination</var> array. This method returns the actual number of bytes that were converted from the Base64 encoding. <p>This is the lowest level of the decoding methods with all possible parameters.</p> end decodeToBytes Reads <tt>infile</tt> and decodes it to <tt>outfile</tt>. end decodeFileToFile Convenience method for reading a base64-encoded file and decoding it. end decodeFromFile Convenience method for decoding data to a file. end decodeToFile Attempts to decode Base64 data and deserialize a Java Object within. Returns <tt>null</tt> if there was an error. end decodeObject ********  E N C O D I N G   M E T H O D S  ******** Encodes up to the first three bytes of array <var>threeBytes</var> and returns a four-byte array in Base64 notation. The actual number of significant bytes in your array is given by <var>numSigBytes</var>. The array <var>threeBytes</var> needs only be as big as <var>numSigBytes</var>. Code can reuse a byte array by passing a four-byte array as <var>b4</var>. end encode3to4 <p>Encodes up to three bytes of the array <var>source</var> and writes the resulting four Base64 bytes to <var>destination</var>. The source and destination arrays can be manipulated anywhere along their length by specifying <var>srcOffset</var> and <var>destOffset</var>. This method does not check to make sure your arrays are large enough to accomodate <var>srcOffset</var> + 3 for the <var>source</var> array or <var>destOffset</var> + 4 for the <var>destination</var> array. The actual number of significant bytes in your array is given by <var>numSigBytes</var>.</p> <p>This is the lowest level of the encoding methods with all possible parameters.</p> end encode3to4 Encodes a byte array into Base64 notation. Does not GZip-compress data. end encodeBytes Encodes a byte array into Base64 notation. <p> Valid options:<pre> GZIP: gzip-compresses object before encoding it. DONT_BREAK_LINES: don't break lines at 76 characters <i>Note: Technically, this makes your encoding non-compliant.</i> </pre> <p> Example: <code>encodeBytes( myData, Base64.GZIP )</code> or <p> Example: <code>encodeBytes( myData, Base64.GZIP | Base64.DONT_BREAK_LINES )</code> end encodeBytes Encodes a byte array into Base64 notation. Does not GZip-compress data. end encodeBytes Encodes a byte array into Base64 notation. <p> Valid options:<pre> GZIP: gzip-compresses object before encoding it. DONT_BREAK_LINES: don't break lines at 76 characters <i>Note: Technically, this makes your encoding non-compliant.</i> </pre> <p> Example: <code>encodeBytes( myData, Base64.GZIP )</code> or <p> Example: <code>encodeBytes( myData, Base64.GZIP | Base64.DONT_BREAK_LINES )</code> end encodeBytes Reads <tt>infile</tt> and encodes it to <tt>outfile</tt>. end encodeFileToFile Convenience method for reading a binary file and base64-encoding it. end encodeFromFile Serializes an object and returns the Base64-encoded version of that serialized object. If the object cannot be serialized or there is another error, the method will return <tt>null</tt>. The object is not GZip-compressed before being encoded. end encodeObject Serializes an object and returns the Base64-encoded version of that serialized object. If the object cannot be serialized or there is another error, the method will return <tt>null</tt>. <p> Valid options:<pre> GZIP: gzip-compresses object before encoding it. DONT_BREAK_LINES: don't break lines at 76 characters <i>Note: Technically, this makes your encoding non-compliant.</i> </pre> <p> Example: <code>encodeObject( myObj, Base64.GZIP )</code> or <p> Example: <code>encodeObject( myObj, Base64.GZIP | Base64.DONT_BREAK_LINES )</code> end encode Convenience method for encoding data to a file. end encodeToFile ********  D E T E R M I N E   W H I C H   A L H A B E T  ******** Returns one of the _SOMETHING_ALPHABET byte arrays depending on the options specified. It's possible, though silly, to specify ORDERED and URLSAFE in which case one of them will be picked, though there is no guarantee as to which one will be picked. end getAlphabet Returns one of the _SOMETHING_DECODABET byte arrays depending on the options specified. It's possible, though silly, to specify ORDERED and URL_SAFE in which case one of them will be picked, though there is no guarantee as to which one will be picked. end getAlphabet Encodes or decodes two files from the command line; <strong>feel free to delete this method (in fact you probably should) if you're embedding this code into a larger program.</strong> end main Prints command line usage. end usage
+
+Returns the wrapped value Default implementation does nothing Sets the call context Extracts a value from a DOM4J Element Sets the path. Sets the wrapped value Default implementation does nothing
+
+
+
+
+Set the FlushMode for any EntityManager used in this conversation. If false (the default), invocation of the begin method in the scope of an existing conversation will cause an exception to be thrown. If enabled, and if a conversation is already active, begin a nested conversation, instead of continuing in the context of the existing conversation.
+Set the FlushMode for any EntityManager used in this conversation. An EL expression for the conversation id. If a conversation with the same id aready exists, Seam will redirect to that conversation. The name of the jBPM process definition defining the page flow for this conversation. An EL expression that evaluates to the task id. The name of the request parameter under which we should locate the the id of task to be resumed.
+
+
+
+
+
+
+
+Simple binary-to-hexadecimal conversion. Convert hex digit to numerical value. Convert hex string to array of bytes.
+
+Used to read a single blog entry for a member
+
+
+
+
+
+
+
+
+
+
+
+
+Create a process instance and associate it with the current conversation. Create a process instance and associate it with the current conversation. Create a process instance and associate it with the current conversation. End the current task, via the given transition. If no transition name is given, check the Transition component for a transition, or use the default transition. The jBPM process instance id associated with the current conversation. The jBPM task instance id associated with the current conversation. Is there a process instance that has not ended associated with the current conversation? Is there a process instance associated with the current conversation? Is there a task instance associated with the current conversation? Associate the process instance with the given id with the current conversation. Associate the process instance with the given business key with the current conversation. Associate the task instance with the given id with the current conversation. Set the process instance id, without validating that the process instance actually exists. Set the task instance id, without validating that the task instance actually exists. Start the current task, using the current actor id Signal the given transition for the current process instance. Check that the task currently associated with the conversation exists and has not ended.
+Propagate all additions and removals to the jBPM database if there is a current process instance, or do nothing if there is no current process instance.
+
+
+
+
+
+
+
+
+Cascades on parents, collecting them into list Gets the cascaded style map for a component. Recurses on parents, collecting style maps. The reverses the list and merges the styles Gets style from a component Gets style class from a component Gets a style map for a component (from cache if available) Reads a property from a component Registers the property builders Loads stylesheets (merging by class name) Parses a style sheet. Really crude. Assumes data is nicely formatted on one line per entry Reads data from an URL to a String private StyleMap parseStyleString(String styleString) { StyleMap styleMap = new StyleMap();  String[] styles = trimArray(styleString.split(STYLES_SEPARATOR)); for (String style : styles) { int breakpoint = style.indexOf(STYLE_NAME_VALUE_SEPARATOR); if (breakpoint < 0) { log.warn("Style component #0 should be of form <key>#1<value>", style, STYLE_NAME_VALUE_SEPARATOR); continue; } String styleName = style.substring(0, breakpoint).toLowerCase().trim(); if (!propertyBuilders.containsKey(styleName)) { log.warn("No property builder (unknown style) for property #0", styleName); continue; } PropertyBuilder propertyBuilder = propertyBuilders.get(styleName); String styleValue = style.substring(breakpoint + 1); String[] styleValues = trimArray(styleValue.trim().split(STYLE_SHORTHAND_SEPARATOR)); styleMap.putAll(propertyBuilder.parseProperty(styleName, styleValues)); }  return styleMap; } Setter for stylesheets. Loads them also.
+
+Removes all objects from all cache regions Fetches an object for the given key from the cache and returns it if found. Only the default cache region will be searched. Fetches an object for the given key from the cache and returns it if found. Only the default cache region will be searched. Fetches an object for the given key from the cache and returns it if found. Only the specified cache region will be searched. Fetches an object for the given key from the cache and returns it if found. Only the specified cache region will be searched. Get the configuration file used by the cache  Put an object into the cache. The object is placed in the default cache region under the given key. Puts an object into the cache. The object is placed in the specified cache region under the given key. Removes an object from the cache. The object is removed from the default cache region under the given key. Removes an object from the cache. The object is removed from the specified cache region under the given key. Set the configuration file to be used by the cache
+
+Add a parameter to this call. Convert our parameter values to an Object array of the specified target types. Execute this call Find the best matching method within the specified class according to the parameter types that were provided to the Call. Returns the object graph constraints annotated on the method that is called. Return the call context. Returns the exception thrown by the invoked method.  If no exception was thrown, will return null. Returns the id of this call. Returns the result of this call. Required for unit tests Required for unit tests
+Add an outbound object reference   Returns the inbound object references Returns the outbound object references
+
+Get the challenge question May be overridden by subclasses May be overridden by subclasses May be overridden by subclasses Initialize the challenge and correct response. May be overridden and customized by a subclass. Render the challenge question as an image. May be overridden by subclasses to achieve a stronger CAPTCHA. Set the challenge question Set the correct response Validate that the entered response is the correct response
+
+
+
+
+On the "Buy" screen the list of categories are split into two columns, the left column and the right column.  This procedure loads the categories and separates them into two lists to populate these columns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An array of class annotations this deployment handler is interested in All classes with any of these annotations should be considered part of the match
+Convert a path to a class file to a class name
+
+
+TODO: copy/paste from JavaBean interceptor
+
+
+
+
+
+
+
+
+
+Null out any @In attributes of a component instance. For use with Seam debug page. For use with Seam debug page. Inject context variable values into @In attributes of a component instance. Outject context variable values from @Out attributes of a component instance. Wrap a Javassist interceptor around an instance of the component
+
+
+
+
+
+
+
+Generates a (globally) unique identifier of the current state of the resource. The bytes will be hashed with MD5 and the hash result is then formatted before it is returned. If <tt>null</tt>, a <tt>null</tt> will be returned. Generates a (globally) unique identifier of the current state of the resource. The string will be hashed with MD5 and the hash result is then formatted before it is returned. If <tt>null</tt>, a <tt>null</tt> will be returned. Tries to get last modification timestamp of the resource by obtaining a <tt>URLConnection</tt> to the file in the filesystem or JAR. Validates the request headers <tt>If-Modified-Since</tt> and <tt>If-None-Match</tt> to determine if a <tt>304 NOT MODIFIED</tt> response can be send. If that is the case, this method will automatically send the response and return <tt>true</tt>. If condition validation fails, it will not change the response and return <tt>false</tt>. <p/> Note that both <tt>entityTag</tt> and <tt>lastModified</tt> arguments can be <tt>null</tt>. The validation procedure and the outcome depends on what the client requested. If the client requires that both entity tags and modification timestamps be validated, both arguments must be supplied to the method and they must match, for a 304 response to be send. <p/> In addition to responding with <tt>304 NOT MODIFIED</tt> when conditions match, this method will also, if arguments are not <tt>null</tt>, send the right entity tag and last modification timestamps with the response, so that future requests from the client can be made conditional. <p/>
+
+
+
+
+
+
+
+
+Force synchronization to the underlying state store. Some implementations of Context "persist" state back to the underlying store synchronously, others asynchronously. This method is usually called by Seam, when necessary. Get a component instance, by its component name, as determined by the @Name annotation value. Get a value by name. Get all names defined in the context. Get the scope that this context object is associated with, Is the value set? Unset a value. Set a value.
+
+
+
+
+Decrements ThreadLocal counter value Getter for ThreadLocal counter value Increments ThreadLocal counter value Removes ThreadLocal counter
+
+
+
+
+
+
+
+Determines which conversation in the stack is holding the instance of this component. A nested conversation can see context variables in all ancestor conversations. In this case, we are interesting in knowing where that instance was found. We are assuming that if the reference is not in an ancestor conversation, then it must be in the current conversation. The goal here is not to locate the instance, but rather to determine which conversation is contributing the instance that we already know exists. The low-level interaction with the session context should be refactored out. The problem is that it is defined in private areas of ServerConversationContext and cannot be reused. Actually, what we really need is a general purpose utility for analyzing the contents of each conversation in the stack (at least the keys). not synchronized! not synchronized! not synchronized!
+
+Performs any necessary conversions on the specified conversation ID to get the actual parameter value
+
+
+
+
+Retrieve a parameter value from the request Specifies that a redirect will occur if there is no conversation found on the server. Initialize the request conversation id, taking into account conversation propagation style, and any conversation id passed as a request parameter or in the PAGE context.
+
+
+
+
+
+
+
+If specified, register this component as the default converter for a type. The JSF converter id. Default to the component name.
+Add a converter to the end of the chain Add a converter to the chain with a defined priority Add a converter to the end of the chain Add a converter to the chain with a defined priority
+
+
+
+
+The name of the {@link org.jbpm.graph.def.ProcessDefinition} from which to create the {@link org.jbpm.graph.exe.ProcessInstance} An EL expression that evaluates to the process business key.
+Creates a callback handler that can handle a standard username/password callback, using the username and password properties.
+
+
+
+
+
+{validator.zip}
+
+Records this invocation's component name and method to be displayed in {@link #getMessage()}, unless this invocation is not part of the detected cycle. This method will be successively called as the exception is propagated up the stack. returns e.g. "foo.doSomething()"
+
+
+
+
+
+Specifies the scope to outject the DataModel to. If no scope is explicitly specified, the scope of the component with the @DataModel attribute is used. But if the component scope is STATELESS, the EVENT scope is used. The context variable name. Defaults to the name of the annotated field or getter method.
+
+
+The context variable name of the DataModel. Defaults to the name for the outjected @DataModel if there is exactly one @DataModel for the component.
+The context variable name of the DataModel. Defaults to the name for the outjected @DataModel if there is exactly one @DataModel for the component.
+
+Wrap the value in a DataModel This implementation supports {@link List}, {@link Map}, {@link Set} and arrays Wrap the the Seam Framework {@link Query} in a JSF DataModel
+
+
+
+
+
+
+
+
+
+Restores the state of the event context. If the value is stored away, it is restored It it was not in the map, it was not in the context in the first place so clean up what we have placed there during this run. Store away the attribute from the event context (if it is set)
+A depth-first search for an EditableValueHolder
+
+InstanceNotFound, AttributeNotFound and InvalidAttributeValue are not exceptions declared in the mgmt interface and therefore must be rethrown as runtime exceptions to avoid UndeclaredThrowable exceptions on the client
+
+
+Return the underlying source stream (never <code>null</code>).
+Return the underlying target stream (never <code>null</code>).
+
+install set is already installed or the current working set
+
+Get DeploymentHandlerMetadata for resources this deployment handler is interested in processing. If a deployment handler is interested in a number of files it should define multiple pieces of metadata A key used to identify the deployment handler
+A file name suffixes that this deployment handler is interested in
+
+Get the classloader to use Get (or modify) any registered {@link DeploymentHandler}s Implementations of {@link DeploymentStrategy} may add default {@link DeploymentHandler}s Get the scanner being used Get the ServletContext to use Do the scan for resources Should only be called by Seam
+Deployment that use the proper SeamListener instead of the MockSeamListener
+
+
+
+
+
+
+Schedule an immediate asynchronous event Schedule an asynchronous method call, examining annotations upon the method to determine the schedule Schedule a timed (delayed and/or periodic) event Schedule an event to be processed when the current transaction ends Schedule an event to be processed if and when the current transaction completes successfully
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Should the conversation be destroyed before any redirect? (The default behavior is to propagate the conversation across the redirect and then destroy it at the end of the redirected request.) An empty outcome list is interpreted to mean any outcome except for the null (redisplay) outcome. If the conversation is nested, should the root of the conversation be destroyed?  (The default behavior is to simply pop the conversation stack.)
+Should the conversation be destroyed before any redirect? (The default behavior is to propagate the conversation across the redirect and then destroy it at the end of the redirected request.) An empty outcome list is interpreted to mean any outcome except for the null (redisplay) outcome. Specifies the transition that should be triggered by completing the task. If the transition needs to be specified dynamically, use the Seam <tt>transition</tt> component, calling <tt>Transition.setName()<tt>.
+Add a header entry for the given name. <p>If there was no entry for that header name before, the value will be used as-is. In case of an existing entry, a String array will be created, adding the given value (more specifically, its toString representation) as further element. <p>Multiple values can only be stored as list of Strings, following the Servlet spec (see <code>getHeaders</code> accessor). As alternative to repeated <code>addHeader</code> calls for individual elements, you can use a single call with an entire array or Collection of values as parameter. Add a single value for the specified HTTP parameter. <p>If there are already one or more values registered for the given parameter name, the given value will be added to the end of the list. Add an array of values for the specified HTTP parameter. <p>If there are already one or more values registered for the given parameter name, the given values will be added to the end of the list. Adds all provided parameters <emphasis>without</emphasis> replacing any existing values. To replace existing values, use {@link #setParameters(java.util.Map)}. Add a new preferred locale, before any existing locales. Add a query parameter that will be appended to the URI query string.  Check whether this request is still active (that is, not completed yet), throwing an IllegalStateException if not active anymore. Clear all of this request's attributes. Mark this request as completed, keeping its state. --------------------------------------------------------------------- ServletRequest interface --------------------------------------------------------------------- Old mock --------------------------------------------------------------------- Lifecycle methods --------------------------------------------------------------------- Return the ServletContext that this request is associated with. (Not available in the standard HttpServletRequest interface for some reason.) Invalidate this request, clearing its state. Return whether this request is still active (that is, not completed yet). Removes all existing parameters. Remove already registered values for the specified HTTP parameter, if any. --------------------------------------------------------------------- HttpServletRequest interface --------------------------------------------------------------------- Set a single value for the specified HTTP parameter. <p>If there are already one or more values registered for the given parameter name, they will be replaced. Set an array of values for the specified HTTP parameter. <p>If there are already one or more values registered for the given parameter name, they will be replaced. Sets all provided parameters <emphasis>replacing</emphasis> any existing values for the provided parameter names. To add without replacing existing values, use {@link #addParameters(java.util.Map)}.
+--------------------------------------------------------------------- HttpServletResponse interface --------------------------------------------------------------------- The default implementation delegates to {@link #encodeURL}, returning the given URL String as-is. <p>Can be overridden in subclasses, appending a session id or the like in a redirect-specific fashion. For general URL encoding rules, override the common {@link #encodeURL} method instead, appyling to redirect URLs as well as to general URLs. The default implementation returns the given URL String as-is. <p>Can be overridden in subclasses, appending a session id or the like. Return the primary value for the given header, if any. <p>Will return the first value in case of multiple values. Return the names of all specified headers as a Set of Strings. Return all values for the given header as a List of value objects. Return whether {@link #getOutputStream()} access is allowed. Return whether {@link #getOutputStream()} access is allowed. --------------------------------------------------------------------- Methods for MockRequestDispatcher --------------------------------------------------------------------- --------------------------------------------------------------------- ServletResponse interface --------------------------------------------------------------------- Set whether {@link #getOutputStream()} access is allowed. <p>Default is <code>true</code>. Set whether {@link #getWriter()} access is allowed. <p>Default is <code>true</code>.
+
+
+TODO: use @Unwrap
+
+
+
+
+
+
+
+Merge the state of the given entity with the current persistence context. Return the underlying EntityHome or HibernateEntityHome instance.
+
+
+
+
+
+The persistence unit name Properties to pass to Persistence.createEntityManagerFactory()
+
+
+
+
+
+Get the number of results this query returns Any changed restriction values will be applied Get the list of results this query returns Any changed restriction values will be applied Get a single result from the query Any changed restriction values will be applied The refresh method will cause the result to be cleared.  The next access to the result set will cause the query to be executed. This method <b>does not</b> cause the ejbql or restrictions to reread. If you want to update the ejbql or restrictions you must call {@link #setEjbql(String)} or {@link #setRestrictions(List)} Validate the query
+
+
+
+
+
+
+private boolean isNextEnumerationAvailable() { return loc < enumerations.length-1; }
+
+
+
+
+
+
+
+
+Add a new listener for a given event type  Raise an event that is to be processed asynchronously Raise an event that is to be processed synchronously Raise an event that is to be processed according to a "schedule" Raise an event that is to be processed after the current transaction ends Raise an event that is to be processed after successful completion of the current transaction
+Helper method for rendering a component (usually on a facescontext with a caching reponsewriter) Helper class that returns all children of a certain type (implements interface) Returns all commands from a child list Returns all worksheet items (cells, images, hyperlinks) from a child list Gets a parent of a certain class Fetches the parent workbook from a component Helper method for fetching value through binding
+Helper method to call the exporter and use the default excel workbook implementation Exports the UIData object to Excel workbook. Looks up the component, parse the templates, iterates the columns and the UIOutput elements within Parses column widths from a worksheet tag Processes a datatable column Processes all output type elements (in column) Puts document in store and redirects
+
+Adds an item (cell, image, hyperlink) to add to the worksheet Places an item in the worksheet footer Places an item in the worksheet header Applies column settings to the current column Creates a new worksheet in the workbook (or selects one if it exists). Will require a rework for auto-renaming when support for auto-adding of new worksheets if there are more than 65k rows. Initializes a new workbook. Must be called first Executes a command for a worksheet Returns the binary data from the internal representation of the workbook Moves the internal column pointer to the next column, called by the tag to indicate that a new column has been started. If the pointer exceeds the maximum allowed, throws an exception Sets stylesheets for the workbook
+
+
+
+
+The entry point for handling a request. Write the results to the output stream. Unmarshal the request into a list of Calls. Unmarshals the context from the request envelope header.
+
+Create a method expression. Create a method expression. Create a value expression. Create a value expression. Get an appropriate ELContext. If there is an active JSF request, use JSF's ELContext. Otherwise, use one that we create. Get the JBoss EL ExpressionFactory Gets the validator from the Component object (if this is a Seam component, we need to use the validator for the bean class, not the proxy class) or from a Model object (if it is not a Seam component, there isn't any proxy). @param instance the object to be validated @param componentName the name of the context variable, which might be a component name @return a ClassValidator object private static ClassValidator getValidator(Object instance, String componentName) { if (instance==null || componentName==null ) { throw new IllegalArgumentException(); } Component component = Component.forName(componentName); return ( component==null ? Model.forClass( instance.getClass() ) : component ).getValidator(); }
+
+Render the viewId, anything written to the JSF ResponseWriter is returned
+
+
+Get an appropriate ELContext. If there is an active JSF request, use JSF's ELContext. Otherwise, use one that we created.
+Invalidate the session, no matter what kind of session it is (portlet or servlet). Why is this method not on ExternalContext?! Oh boy, those crazy rascals in the JSF EG... with rewriting, the filter chain might not have access to the post-rewrite request information. we'll save some of the information that we may need.
+Called by the Seam Redirect Filter when a redirect is called. Appends the conversationId parameter if necessary. Temporarily promote a temporary conversation to a long running conversation for the duration of a browser redirect. After the redirect, the conversation will be demoted back to a temporary conversation. Handle any changes to the conversation id, due to propagation via natural id. If a page description is defined, remember the description and view id for the current page, to support conversation switching. Called just before the render phase. Redirect to the given view id, encoding the conversation id into the request URL. Redirect to the given view id, after encoding the given conversation id into the request URL. Redirect to the given view id, after encoding parameters and conversation id into the request URL.
+Create a new status message, with the messageTemplate is as the message. You can also specify the severity, and parameters to be interpolated Deprecated, use {@link #add(org.jboss.seam.international.StatusMessage.Severity, String, Object...)} instead Add a FacesMessage that will be used the next time a page is rendered. Deprecated, use a method in {@link StatusMessages} instead Add a status message, looking up the message in the resource bundle using the provided key. You can also specify the severity, and parameters to be interpolated Deprecated, use {@link #addFromResourceBundle(org.jboss.seam.international.StatusMessage.Severity, String, Object...)} instead Add a status message, looking up the message in the resource bundle using the provided key. You can also specify the severity, and parameters to be interpolated Deprecated, use {@link #addFromResourceBundleOrDefault(javax.faces.application.FacesMessage.Severity, String, String, Object...)} instead Create a new status message, with the messageTemplate is as the message. A severity of INFO will be used, and you can specify paramters to be interpolated Deprecated, use {@link #addToControl(String, org.jboss.seam.international.StatusMessage.Severity, String, Object...)} instead Create a new status message, looking up the message in the resource bundle using the provided key. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Deprecated, use {@link #addToControlFromResourceBundle(String, org.jboss.seam.international.StatusMessage.Severity, String, Object...)} instead Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Deprecated, use {@link #addToControlFromResourceBundleOrDefault(String, org.jboss.seam.international.StatusMessage.Severity, String, String, Object...)} instead Called by Seam to transfer any messages added in the phase just processed to the FacesMessages component. A task runner is used to allow the messages access to outjected values. Called by Seam to transfer messages from FacesMessages to JSF Utility method to create a FacesMessage from a Severity, messageTemplate and params. This method interpolates the parameters provided Utility method to create a FacesMessage from a Severity, key, defaultMessageTemplate and params. This method interpolates the parameters provided Calculate the JSF client ID from the provided widget ID Get all faces global messages that have already been added to the context. Get all faces messages that have already been added to the context. Get all faces messages that have already been added to the control. Convert a StatusMessage to a FacesMessage Convert a FacesMessage.Severity to a StatusMessage.Severity Convert a StatusMessage.Severity to a FacesMessage.Severity
+private Map<String, Object> pageParameters;
+
+
+
+
+
+Specifies that this factory method should be automatically called whenever the variable is asked for, even if @In does not specify create=true. The scope() element is meaningful only for factory methods that return the value to be outjected. Factory methods that return void are expected to take responsibility for outjecting the value, and then scope() is ignored. If the factory method returns a value, but no scope is explicitly specified, the scope of the component with the @Factory attribute is used. But if the component scope is STATELESS, the EVENT scope is used.
+
+gets instance produced by this component's factory
+
+
+
+
+
+
+Finds an instance of MultipartRequest wrapped within a request or its (recursively) wrapped requests.
+
+
+
+The Hibernate filter name. The filter parameters.
+
+
+
+
+
+
+
+Does this flush mode keep unflushed changes past a transaction commit?
+
+
+
+
+
+
+
+
+Extracts the error from the <tt>RecognitionException</tt> and generates a location of the error by extracting the original text at the exceptions line and column. Extracts the error from the <tt>RecognitionException</tt> and generates a message including the location of the error. Override (e.g. for i18n) ANTLR parser error messages. Override (e.g. for i18n) ANTLR parser error messages. Override to instantiate a custom <tt>SeamTextLexer</tt> and <tt>SeamTextParser</tt>. Override (e.g. for i18n) ANTLR parser error messages. Validate the given value as well-formed Seam Text. If there are parse errors, throw a ValidatorException including the first parse error.
+
+
+
+
+
+
+
+
+Add many items to cart Add the selected DVD to the cart
+
+Returns an {@link RPCRequest} that is built by decoding the contents of an encoded RPC request and optionally validating that type can handle the request. If the type parameter is not <code>null</code>, the implementation checks that the type is assignable to the {@link com.google.gwt.user.client.rpc.RemoteService} interface requested in the encoded request string. <p> If the serializationPolicyProvider parameter is not <code>null</code>, it is asked for a {@link SerializationPolicy} to use to restrict the set of types that can be decoded from the request. If this parameter is <code>null</code>, then only subtypes of {@link com.google.gwt.user.client.rpc.IsSerializable IsSerializable} or types which have custom field serializers can be decoded. </p> <p> Invoking this method with <code>null</code> for the type parameter, <code>decodeRequest(encodedRequest, null)</code>, is equivalent to calling <code>decodeRequest(encodedRequest)</code>. </p> Returns the {@link Class} instance for the named class or primitive type. Returns a string that encodes the result of calling a service method, which could be the value returned by the method or an exception thrown by it. <p> If the serializationPolicy parameter is not <code>null</code>, it is used to determine what types can be encoded as part of this response. If this parameter is <code>null</code>, then only subtypes of {@link com.google.gwt.user.client.rpc.IsSerializable IsSerializable} or types which have custom field serializers may be encoded. </p> <p> This method does no security checking; security checking must be done on the method prior to this invocation. </p> Override this method to control what should happen when an exception escapes the {@link #processCall(String)} method. The default implementation will log the failure and send a generic failure response to the client. <p/> An "expected failure" is an exception thrown by a service method that is declared in the signature of the service method. These exceptions are serialized back to the client, and are not passed to this method. This method is called only for exceptions or errors that are not part of the service method's signature, or that result from SecurityExceptions, SerializationExceptions, or other failures within the RPC framework. <p/> Note that if the desired behavior is to both send the GENERIC_FAILURE_MSG response AND to rethrow the exception, then this method should first send the GENERIC_FAILURE_MSG response itself (using getThreadLocalResponse), and then rethrow the exception. Rethrowing the exception will cause it to escape into the servlet container. Override this method to examine the serialized response that will be returned to the client. The default implementation does nothing and need not be called by subclasses. Override this method to examine the serialized version of the request payload before it is deserialized into objects. The default implementation does nothing and need not be called by subclasses. Override this method in order to control the parsing of the incoming request. For example, you may want to bypass the check of the Content-Type and character encoding headers in the request, as some proxies re-write the request headers. Note that bypassing these checks may expose the servlet to some cross-site vulnerabilities. Gets the {@link SerializationPolicy} for given module base URL and strong name if there is one. Override this method to provide a {@link SerializationPolicy} using an alternative approach. This is called internally. Returns the source representation for a method signature. Gets the <code>HttpServletRequest</code> object for the current call. It is stored thread-locally so that simultaneous invocations can have different request objects. Gets the <code>HttpServletResponse</code> object for the current call. It is stored thread-locally so that simultaneous invocations can have different response objects. Straight copy from {@link com.google.gwt.dev.util.TypeInfo#getSourceRepresentation(Class)} to avoid runtime dependency on gwt-dev. This is public so that it can be unit tested easily without HTTP. Determines whether the response to a given servlet request should or should not be GZIP compressed. This method is only called in cases where the requester accepts GZIP encoding. <p> This implementation currently returns <code>true</code> if the response string's estimated byte length is longer than 256 bytes. Subclasses can override this logic. </p>
+Call the service. Recurse up the class hierarchy, looking for a compatable method that is marked as "@WebRemote". If one is not found (or we hit Object.class) then we barf - basically trust nothing from the client other then what we want to allow them to call. Get the method on the class, including walking up the class heirarchy if needed. Methods have to be marked as "@WebRemote" to be allowed. Return the service component that has been bound to the given name. Only allow methods annotated with
+
+
+
+
+
+
+Put a image into the store Put an image into the store.
+Get all the Groovy Seam Components this handler has handled
+
+
+Name of the Guice injector component. By default the injector specified in the components.xml file is used.
+
+
+See JSF Spec. 8.5 Table 8-1
+
+
+
+Find a HeaderValueHolder by name, ignoring casing.
+
+This is the entry point method.
+Converts an array of character bytes representing hexidecimal values into an array of bytes of those same values. The returned array will be half the length of the passed array, as it takes two characters to represent any given byte. An exception is thrown if the passed char array has an odd number of elements. Converts a String or an array of character bytes representing hexidecimal values into an array of bytes of those same values. The returned array will be half the length of the passed String or array, as it takes two characters to represent any given byte. An exception is thrown if the passed char array has an odd number of elements. Converts an array of characters representing hexidecimal values into an array of bytes of those same values. The returned array will be half the length of the passed array, as it takes two characters to represent any given byte. An exception is thrown if the passed char array has an odd number of elements. Converts an array of bytes into an array of bytes for the characters representing the hexidecimal values of each byte in order. The returned array will be double the length of the passed array, as it takes two characters to represent any given byte. Converts a String or an array of bytes into an array of characters representing the hexidecimal values of each byte in order. The returned array will be double the length of the passed String or array, as it takes two characters to represent any given byte. Converts an array of bytes into an array of characters representing the hexidecimal values of each byte in order. The returned array will be double the length of the passed array, as it takes two characters to represent any given byte. Converts a hexadecimal character to an integer.
+
+
+
+
+
+
+
+Returns the class of the specified Hibernate entity Wrap the delegate Hibernate Session in a proxy that supports HQL EL interpolation and implements FullTextSession if Hibernate Search is available in the classpath. Wrap the Hibernate Session in a proxy that supports HQL EL interpolation and implements FullTextSession if Hibernate Search is available in the classpath.
+
+
+
+
+
+
+
+
+
+It is both enabled and the classpath was detected. Admittedly, this seems like a redundant confirmation. Dynamically instantiate a {@link HotDeploymentStrategy} Needed to prevent dependency on optional librarires Get all hot deployable paths Get all Components which the strategy has scanned and handled Return true if the component is from a hot deployment classloader
+
+
+
+
+
+
+Send a HTTP error as the response Send a HTTP error as the response
+
+add a component (usually the current itext object) to the itext parent's itext object signal that the component should create it's managed object look up the tree for the itext document find the first parent that is an itext component); find the first parent that is an itext component of a given type ------------------------------------------------------ look up the tree for an itext font get the current Itext object subcomponents should implement this to add child components to themselves remove the itext objext
+not all itext objects accept a string value as input, so we'll copy that logic here. return a color value from a string specification. Returns color of the form rgb(r,g,b) or rgb(r,g,b,a) r,g,b,a values can be 0-255 or float values with a '%' sign
+
+
+
+
+Adds a role to the authenticated user.  If the user is not logged in, the role will be added to a list of roles that will be granted to the user upon successful authentication, but only during the authentication process.  Checks that the current authenticated user has permission for the specified name and action Performs an authorization check, based on the specified security expression. Checks that the current authenticated user is a member of the specified role. Evaluates the specified security expression, which must return a boolean value.   Performs a permission check for the specified name and action Checks if the authenticated user is a member of the specified role. Simple check that returns true if the user is logged in, without attempting to authenticate  Attempts to authenticate the user.  This method is distinct to the authenticate() method in that it raises events in response to whether authentication is successful or not.  The following events may be raised by calling login(): org.jboss.seam.security.loginSuccessful - raised when authentication is successful org.jboss.seam.security.loginFailed - raised when authentication fails org.jboss.seam.security.alreadyLoggedIn - raised if the user is already authenticated Extracts the principal from the subject, and populates the roles of the authenticated user.  This method may be overridden by a subclass if different post-authentication logic should occur. Clears any roles added by calling addRole() while not authenticated. This method may be overridden by a subclass if different pre-authentication logic should occur. Attempts a quiet login, suppressing any login exceptions and not creating any faces messages. This method is intended to be used primarily as an internal API call, however has been made public for convenience. Removes a role from the authenticated user    Will attempt to authenticate quietly if the user's credentials are set and they haven't authenticated already.  A quiet authentication doesn't throw any exceptions if authentication fails. Resets all security state and credentials
+
+
+Returns a list of the roles that are explicitly granted to the specified user; Returns a list of roles that are either explicitly or indirectly granted to the specified user.
+
+Adds the specified role as a member of the specified group. Authenticates the specified user, using the specified password. Changes the password of the specified user to the specified password. Creates a new role with the specified role name. Creates a new user with the specified username and password. Creates a new user with the specified username, password, first name and last name. Deletes the specified role. Deletes the user with the specified username. Disables the user with the specified username.  Disabled users are unable to authenticate. Enables the user with the specified username.  Enabled users are able to authenticate. Returns a list of all the roles explicitly granted to the specified user. Returns a list of all roles that the specified user is a member of.  This list may contain roles that may not have been explicitly granted to the user, which are indirectly implied due to group memberships. Returns a list of all the groups that the specified role is a member of. Grants the specified role to the specified user. Returns true if the specified user is enabled. Returns a list of roles that can be granted (i.e, excluding conditional roles) Lists the members of the specified role. Returns a list of all the roles. Returns a list of all users. Returns a list of all users containing the specified filter text within their username. Removes the specified role from the specified group. Revokes the specified role from the specified user. Returns true if the specified role exists. Returns true if the IdentityStore implementation supports the specified feature. Returns true if the specified user exists.
+Alter the ratio of the output image <b>without</b> altering the ratio of the input by adding transparent strips. If the image is already of the correct ratio (to within the given precision) nothing happens Blur the output image using a convolution Create Canvas, set some defaults (bg colour, rendering hints) The content type of the output image, by default DEFAULT_CONTENT_TYPE The height of the image Get the image as a byte[], any conversions having been applied. Returns null if the image could not be read The aspect ratio of the image The width of the image Check whether the image is of a given ratio to within a given precision Resize the image to the given width and height, changing the ratio if necessary Scale the image by the given factor Scale the image to the given height Scale the image to the given width Set the image. This can be one of String (loaded from the classpath), a URL, a File, an InputStream or a byte[]
+
+
+Specifies the name qualifiers for which unqualified names may be used.
+Specifies that a component should be instantiated if the context variable is null. Specifies that the injected value must not be null, by default. Explicitly specify the scope to search, instead of searching all scopes. More efficient as it avoids scanning all contexts The context variable name. Defaults to the name of the annotated field or getter method.
+
+
+
+
+
+Sanity check to warn users if they have disabled core interceptors makes sure appropriate namespaces exist for a name.  isComponent indicates the name is for a component type, in which case we don't create a namespace for the last part The debug page is considered available if debug JAR is on the classpath and Seam is running in debug mode (to prevent it from being enabling in the event the JAR is inadvertently packaged). Remove any observer methods registered on the component. Needed to clean out old observer methods on hot deploy
+This actually creates a real Component and should only be called when we want to install a component Get the highest priority component for the component name component properties are non-namespaced and not in the reserved attribute list
+
+
+
+
+
+Indicates that the component should not be installed unless the the given class definitions are available on the classpath Is this a debug component? Indicates that the component should not be installed unless the dependent components are installed Indicates that the component should not be installed unless the dependent components are installed The precedence of the component. If multiple components with the same name exist, the one with the higher precedence will be installed. Is this component installed by default?
+
+
+
+
+Specifies that an interceptor is called "around" another interceptor or interceptors. Performance optimization for stateless interceptors. Specifies that the interceptor is a SERVER or CLIENT side interceptor. Specifies that an interceptor is called "within" another interceptor or interceptors.
+
+
+Appends the interface code for a non-component class to an OutputStream. Appends component interface code to an outputstream for a specified component. Append Javascript interface code for a specified class to a block of code. Generates the JavaScript code required to invoke the methods of a component/s. A helper method, used internally by InterfaceGenerator and also when serializing responses.  Returns a list of the property names for the specified class which should be included in the generated interface for the type. Returns the remoting "type" for a specified class.
+Replace all EL expressions in the form #{...} with their evaluated values.
+
+
+
+
+
+
+Instantiates a IoC bean and provides it as a java bean to be wrapped by Seam.
+
+
+FIXME my sense is that this could lookup could be more elegant or conforming Consults the jboss.system:type=Server MBean to determine if this instance of JBoss AS is currently being shutdown. Note that the flag only returns true if the shutdown() method on this MBean is used. It does not detect a force halt via a process signal (i.e., CTRL-C).
+
+
+Creates a sample chart.
+Private ------------------------------------------------------- InvocationHandler implementation --------------------------- ProxyContext implementation ----------------------------------- The proxy provides an access point for the client to methods not part of the MBean's management interface. It can be used to configure the invocation (with context, client side interceptors, RPC), exception handling, act as an access point to MBean server interface and so on. Object overrides ----------------------------------------------
+
+Creates and adds a data cell to the worksheet using the data cell format. If the cell format is null, initializes the cell format. Finally moves the internal pointer to the next row. Creates a hyperlink to an URL in the worksheet Adds an image to the worksheet. First converts it to PNG since it's what the library wants. If starting rows or columns are given, uses them, otherwise uses the current indexes. If column- and rowspannings are given, uses them, otherwise tries to determine them from the image dimensions and default cell dimensions. Adds an item (cell, image, hyperlink) to add to the worksheet Adds a row page break to the worksheet Places an item in the worksheet footer Places an item in the worksheet header Applies column settings for the current column Creates a new worksheet (or selects one if it exists) in the workbook. Will require a rework for auto-renaming when support for auto-adding of new worksheets if there are more than 65k rows. Resets the internal state (row- and column indexes, current styles etc) Intitializes a new workbook. Must be called first. Not that pretty but the API has different constructors for all permutations of workbook settings and template usage Executes a command for a worksheet Returns the binary data from the internal representation of the workbook Gets the document type of the data for the DocumentStore Groups columns in the worksheet Groups worksheet rows Merge cells in the worksheet Moves the internal column pointer to the next column, called by the tag to indicate that a new column has been started. If the pointer exceeds the maximum allowed, throws an exception. Resets the styles and row indexes etc. Moves the row pointer to the next row. Used internally when adding data Sets stylesheets for the workbook Checks if the workbook contains a sheet
+Creates a JExcelAPI representation of an alignment Creates a JExcelAPI representation of a border Creates a JExcelAPI representation of an color Creates a JExcelAPI date display format Creates a JExcelAPI representation of a font Creates a JExcelAPI header or footer representation. Processes the left, center and right facets using a helper method Creates a JExcelAPI representation of a border line style Creates a JExcelAPI number display format Creates a JExcelAPI representation of an orientation Creates a JExcelAPI representation of a page orientation Creates a JExcelAPI representation of a paper size Creates a JExcelAPI representation of a pattern Creates a JExcelAPI representation of an script style Creates a JExcelAPI representation of an underline style Creates a JExcelAPI representation of a vertical alignment Gets a constant from a class Gets a suggestion string of available constants from a class. Gets a list of constants from a class Checks if text is an alignment Checks if text is a border line style Checks if text is a color Checks if text is an orientation Checks if text is a pattern Checks if text is a script style Checks if text is an underline style Checks if text is an vertical alignment Processes a header or footer command, adding itself to the contents Processes a header or footer facet. A header or footer facet in JExcelAPI is split into three parts, left, center and right and the UI representation has facets with the same namings. Gets the requested facet from the UI component and calls helper methods for processing the header commands in sequence
+Adds list validation to a cell Adds numeric validation to a cell Adds range validation to a cell Applies column settings to a column Applied worksheet settings Creates a JExcelAPI cell representation from the given input Creates cell features from a template Creates a cell format Creates a JExcelAPI Workbook settings object from the UI counterpart. Starts with an empty object and adds the setting only if it is non-null Gets the cell type for a cell. Tries to look it up in a cache based on the component id of the cell. If it's not found, it's created and cached. Gets a cell format for a cell. Tries to look it up in a cache based on the component id of the cell. If it's not found, it's created and cached. Gets cell info needed for cell creation Tries to get a general display format (number first, then date) Sets the stylesheets for the parser
+TODO: copy/paste from ClientSide interceptor
+This premain will be called if the vm is told to use this agent after startup, which is done in a vm-dependent way Create the body of the synthetic method Create the code for initializing a Constructor object for a given constructor Create the code for delegating to a given method, including handling exceptions Create the code for initializing a Method object for a given method Create an arrray of parameter types for a given method or constructor. We have to look this up lazily because when our constructor is called we may not have the appropriate paths added to our ClassPool, particularly if we are doing runtime instrumentation using WEB-INF/wicket Does this class alone have the SeamWicketAnnotation? Set up instrumentation.  This adds ourselves as a transformer to the instrumentation, and loads the set of packages to transform from the "org.jboss.seam.wicket.instrumented-packages" System property. The main entry point for instrumenting a given class.  Note that this will not check if the class is instrumentable, but will assume that you have. This instruments a specific set of classes and writes their classes to the specified directory, if that directory is non-null Returns true if the given class can be instrumented.  This will return false if: <ul> <li> The class is an interface or an enum <li> The class is annotated with Seam's @Name annotation or is a non-static inner class of a @Named class <li> The class is already instrumented.  We check this by checking if it already implements the InstrumentedComponent interface </ul> Does this class, or any of its nonstatic enclosing classes, or any of its superclasses contain the SeamWicketComponent marker annotation? This premain will be called if the vm is started with -javaagent:/path/to/jar/with/this/class This is the implementation of the ClassFileTransformer interface. Wrap some code in an exception handler that uses the WicketHandler to handle the exception
+
+
+
+Dynamically deploy a page flow definition, if a pageflow with an identical name already exists, the pageflow is updated. Read a pageflow definition Read a process definition Remove a pageflow definition
+
+
+
+Generates a 64 bit random salt value
+Creates a Query that returns a list of permission records for the specified parameters. Groups a list of arbitrary permissions into a more easily-consumed structure Returns a list of all user and role permissions for a specific permission target and action. Returns a list of all user and role permissions for the specified action for all specified target objects If the user or role properties in the entity class refer to other entities, then this method uses the JpaIdentityStore (if available) to lookup that user or role entity.  Otherwise it simply returns the name of the recipient. This is where the bulk of the actual work happens.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Get the selected locale Force the resource bundle to reload, using the current locale, and raise the org.jboss.seam.localeSelected event. Set the language and force resource bundle reload, useful for quick action links: <tt>&lt;h:commandLink value="DE" action="#{localeSelector.selectLanguage('de')}"/>"/></tt>
+
+
+
+
+
+
+
+
+
+
+
+Convenience method for registering an MBean and retrieving a proxy for it. Convenience method for registering an MBean and retrieving a proxy for it. Static -------------------------------------------------------- Creates a proxy to an MBean in the given MBean server. Creates a proxy to an MBean in the given MBean server.
+
+
+Deprecated, use {@link MailComponent#encode(FacesContext, UIComponent, String)} Encode the children of cmp, writing to a string (rather than the http response object) and return the string look up the tree for UIMessage look up the tree for mail message Deprecated, use {@link MailComponent#findParent(UIComponent, Class)} find the first parent that is a mail component of a given type Get a valuebinding as a Boolean Get a valuebinding as a string Get a vauebinding
+
+
+
+Writer methods
+
+Initialise mail session Unless disabled, if a mail Session can be found in JNDI, then just manage be a simple wrapper; otherwise configure the session as specified in components.xml Get the transport to used. If the not explicitly specified smtp or smtps is used    Explicitly set the transport to use
+
+
+Changes the thread's current conversation context to the one that holds a reference to this component. This is necessary if a nested conversation is making a call to a component in a parent conversation.
+Hibernate filters to enable automatically The JNDI name of the Hibernate SessionFactory, if it is to be obtained from JNDI we can't use @PostActivate because it is intercept NEVER we can't use @PrePassivate because it is intercept NEVER A value binding expression that returns a SessionFactory, if it is to be obtained as a Seam component reference
+
+A value binding expression that returns an EntityManagerFactory, for use of JPA outside of Java EE 5 / Embeddable EJB3. Hibernate filters to enable automatically The JNDI name of the EntityManagerFactory, for use of JPA in Java EE 5 / Embeddable EJB3. Note that we must use the method on the {@link HttpSessionActivationListener} interface rather than @PostActivate since interceptors are disabled on this component. If a transaction is active, fail the passivation. The field holding the managed EntityManager is marked as transient so that it is not serialized (it can't be). The transient keyword was choosen because we don't want to forcefully close and nullify the EntityManager on every request because then we have to keep hitting the database to load the entities back into the persistence context. The only downside is that we cannot clean up on the old node before the session hops, but it turns out not to matter. Note that we must use the method on the {@link HttpSessionActivationListener} interface rather than <code>@PrePassivate</code> since interceptors are disabled on this component.
+The JNDI name of the queue
+The JNDI name of the topic
+The name of a Seam context variable holding an instance of org.drools.RuleBase The name of a Seam context variable holding an instance of org.drools.RuleBase
+Temporarily promote a temporary conversation to a long running conversation for the duration of a browser redirect. After the redirect, the conversation will be demoted back to a temporary conversation. Promote a temporary conversation and make it long-running Begin a new nested conversation. Clean up timed-out conversations Clean up all state associated with a conversation Add the conversation id to a URL, if necessary Add the conversation id to a URL, if necessary Add the conversation id to a URL, if necessary Add the parameters to a URL Make a long-running conversation temporary. Touch the conversation stack, destroy ended conversations, and timeout inactive conversations. Make the root conversation in the current conversation stack temporary. DONT BREAK, icefaces uses this  Look for a conversation propagation style in the request parameters and begin, nested or join the conversation, as necessary. Initialize a new temporary conversation context, and assign it a conversation id. DONT BREAK, icefaces uses this Kills all conversations except the current one Leave the scope of the current conversation, leaving it completely intact. Initialize the request conversation context, given the conversation id and optionally a parent conversation id. If no conversation entry is found for the first id, try the parent, and if that also fails, initialize a new temporary conversation context. Only public for the unit tests! Switch to another long-running conversation and mark the conversation as long-running, overriding a previous call in the same thread to demote a long-running conversation. Switch to another long-running conversation. Change the id of the current conversation.
+Returns a Map.Entry
+
+
+
+
+
+
+This is an example of a security restriction.  Any attempts to persist a new memberBlog instance requires the user to pass a permission check.  In this case, because the method is annotated with <code>@PrePersist</code> the required permission is memberBlog:insert
+
+
+
+
+Call ONLY on servlet startup
+
+
+Create the Map and cache it in the EVENT scope. No need to cache it in the SESSION scope, since it is inexpensive to create.
+
+Tries a Class.loadClass with the context class loader of the current thread first and automatically falls back to the ClassUtils class loader (i.e. the loader of the myfaces.jar lib) if necessary. Return the wrapped MethodBinding. Note: MethodInfo.getParamTypes() may incorrectly return an empty class array if invoke() has not been called. Same as {@link #classForName(String)}, but throws a RuntimeException (FacesException) instead of a ClassNotFoundException.
+
+-------- StateHolder methods -------------------------------------------
+
+
+Attempt to encode the URL, falling back to an identity function if the response has not been set on this mock context. This functionality is needed in order for the ExceptionFilter to maintain the session id when url rewriting is used.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obtain the underlying EnhancedMockHttpServletResponse, unwrapping {@link javax.servlet.http.HttpServletResponseWrapper} decorators if necessary.
+
+
+
+
+Get the URL for a particular resource that is relative to the web app root directory.
+
+Get the most recently rendered message sent using the MockTransport. Get the most recently rendered message sent using the MockTransport.
+
+
+Do the validation, normally called by Wicket
+
+
+Checks if a specified sequence of bytes ends at a specific position within a byte array.
+Get and clear the dirty flag.
+Set the dirty flag. Set the dirty flag if the value has changed. Call whenever a subclass attribute is updated.
+
+
+
+
+
+
+
+The qualifier used to get the component name of components in this package from the XML element names
+Returns packages with @Namespace declarations
+
+Converts characters in <code>subdomain</code> which aren't java-friendly into java-friendly equivalents. Right now, we only support the conversion of hyphens ("-") to underscores ("_"). We could do other things like toLowerCase(), but there are instances of upper-case package names in widespread use even by the likes of IBM (e.g., <a href="http://publib.boulder.ibm.com/infocenter/db2luw/v8/index.jsp?topic=/com.ibm.db2.udb.dc.doc/dc/r_jdbcdrivers.htm"> COM.ibm.db2 classnames</a>). java:package seam:component seam:package:prefix Convert path elements to package names in forward order <p>Converts an XML namespace, <code>ns</code>, to a Stringified package name
+
+
+
+Go ahead and execute the navigation rule.
+Send an error. Redirect to the view id. Render the view id.
+
+
+
+
+
+
+
+
+
+
+Allow conversions to either Integer or String.
+In case no component instance exists, should a component instance be created to handle the event, or should the event be ignored.
+--- placing the authentication request ---
+
+
+Returns true if this interceptor should be enabled. The component and the annotation will be injected into the interceptor instance before this method is called, and can be used to decide whether the interceptor should be enabled
+
+
+
+round a positive big decimal to 2 decimal points
+
+
+
+Specifies that the outjected value must not be null, by default. Specifies the scope to outject to. If no scope is explicitly specified, the default scope depends upon whether the value is an instance of a Seam component. If it is, the component scope is used. Otherwise, the scope of the component with the @Out attribute is used. But if the component scope is STATELESS, the EVENT scope is used. The context variable name. Defaults to the name of the annotated field or getter method.
+
+
+
+
+Convert String-based input to internal byte array, then invoke PBKDF2. Desired key length defaults to Pseudo Random Function block size. Convert String-based input to internal byte array, then invoke PBKDF2. Allow reading of configured parameters. Get currently set Pseudo Random Function. Allow setting of configured parameters. Set the Pseudo Random Function to use. Note that deriveKeys/getPRF does init this object using the supplied candidate password. If this is undesired, one has to override getPRF. Convert String-based input to internal byte arrays, then invoke PBKDF2 and verify result against the reference data that is supplied in the PBKDF2Parameters.
+Four-octet encoding of the integer i, most significant octet first. Core Password Based Key Derivation Function 2. Function F. Factory method. Default implementation is (H)MAC-based. To be overridden in derived classes. Integer division with ceiling function. Block-Xor. Xor source bytes into destination byte buffer. Destination buffer must be same length or less than source buffer.
+Convert String to parameters. Depending on actual implementation, it may be required to set further fields externally. Convert parameters to String.
+
+
+Pseudo Random Function Query block size of underlying algorithm/mechanism. Initialize this instance with the user-supplied password.
+
+is executed when execution arrives in this page at runtime. parses the dom4j element that corresponds to this page.
+Put the buffered context variables in the faces view root, at the beginning of the render phase.
+Begin executing a pageflow. Get the current Node of the pageflow. Get the current Page of the pageflow. Get the JSF view id of the current page in the pageflow. Get the current counter value, used for detecting illegal use of the backbutton. Allows the user to extend this class and use some logical naming of pages other than the JSF view id in their pageflow. Does the current node have a default transition? Add a message to indicate that illegal navigation occurred. May be overridden by user to perform special processing. Navigate to the current page. Given the JSF action outcome, perform navigation according to the current pageflow. Process events defined in the pageflow. Redirect to the Page. Proceed to render the Page. Reposition the pageflow at the named node. Check that the current state of the pageflow matches what is expected by the faces request.
+
+
+Apply page parameters passed as view root attributes or request parameters to the model Call the action requested by s:link or s:button. Convert and validate page parameters passed as view root attributes or request parameters Create a new default Page object for a JSF view id Create the stack of pages that match a JSF view id Encode page parameters into a URL Encode page parameters into a URL Search for a defined concurrent request timeout, beginning with the most specific view id, then wildcarded view ids, and finally the global setting from Manager Get the root element of the document The global setting for login-viewid. The global setting for no-conversation-viewid. Search for a defined no-conversation-view-id, beginning with the most specific view id, then wildcarded view ids, and finally the global setting Get the Page object for the given view id. Get the stack of Page objects, from least specific to most specific, that match the given view id. Build a list of page-scoped resource bundles, from most specific view id, to most general. Get the values of any page parameters by evaluating the value bindings against the model and converting to String. Get the page parameter values that were passed in the original request from the PAGE context Search for a defined conversation timeout, beginning with the most specific view id, then wildcarded view ids, and finally the global setting from Manager Call the JSF navigation handler Check if a login redirect is required for the current FacesContext Run any navigation rule defined in pages.xml Parse a pages.xml file Parse a viewId.page.xml file Parse a page element and add a Page to the map Parse navigation Parse end-conversation (and end-task) and begin-conversation (start-task and begin-task) Parse the attributes of page Parse param Parse create-process and end-process Parse rule Parse begin-task, start-task and end-task Check permissions and validate the existence of a conversation for pages which require a long-running conversation, starting with the most general view id, ending at the most specific. Finally apply page parameters to the model. Call page actions, check permissions and validate the existence of a conversation for pages which require a long-running conversation, starting with the most general view id, ending at the most specific. Also perform redirection to the required scheme if necessary. Look for a DataModel row selection in the request parameters, and apply it to the DataModel. Update the page parameter values stored in the PAGE context with the current values of the mapped attributes of the model
+
+Convert the string value of a page parameter to the required type Get the current value of a page or redirection parameter from the model, and convert to a String Get the current value of a page parameter from the request parameters Validate the pre-converted value of the parameter using the JSF validator specified in pages.xml, and using Hibernate Validator annotations specified on the model.
+
+
+private static String storeConversationContext(PassivatedEntity result) { if (result==null) { return null; } else { String key = result.getKey(); Contexts.getConversationContext().set( key, result ); return key; } } private String getKey() { return "org.jboss.seam.passivatedEntity." + entityClass.getName() + '#' + getId(); } public static Object unpassivateEntityAndCheckVersion(String key) { return unpassivateEntity(key, true); } public static Object unpassivateEntity(String key) { return unpassivateEntity(key, false); } private static Object unpassivateEntity(String key, boolean checkVersion) { PassivatedEntity passivatedEntity = (PassivatedEntity) Contexts.getConversationContext().get(key); return passivatedEntity==null ? null : passivatedEntity.toEntityReference(checkVersion); }
+
+
+
+
+not necessarily available when pattern is created
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restore the previous flush mode if the current flush mode is marked as temporary.
+
+Enable a Filter. This is here just especially for Hibernate, since we well know that other products don't have such cool features. Returns the class of an entity bean instance Get the value of the entity identifier attribute. Get the name of the entity Get the value of the entity version attribute. @Create method not called on stateless components Does the persistence context have unflushed changes? If it does not, persistence context replication can be optimized. Wrap the delegate before returning it to the application Wrap the entityManager before returning it to the application Register a Synchronization with the current transaction. Set the flush mode to manual-only flushing. Called when an atomic persistence context is required. <p> Set the FlushMode the persistence contexts should use during rendering by calling {@link PersistenceContexts#changeFlushMode(FlushModeType, true)}. The actual changing of the flush mode is handled by the {@link PersistenceContexts} instance. The boolean argument should be true to indicate that this is a temporary change and that the old flush mode should be restored after render. </p> <p> Ideally, this should be MANUAL since changes should never flush to the database while in render response and the cost of a dirty check can be avoided. However, since the MANUAL mode is not officially part of the JPA specification, the default implementation will perform no operation. </p> Indicate whether this JPA provider supports the feature defined by the provided Feature enum value.
+
+
+
+
+
+
+TODO: RESTEasy doesn't seem to use that at all
+
+
+
+
+Assign the TaskInstance with the id passed in the request parameter named "taskId" to the given actor id. Assign the TaskInstance with the id passed in the request parameter named "taskId" to the current actor.  Unassign the TaskInstance with the id passed in the request parameter named "taskId" from the actor to which it is assigned, and return it to the pool it came from.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Returns the 5 latest blog entries for a member Used to read all blog entries for a member
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The JNDI name of the QueueConnectionFactory
+
+The event name, defaults to the name of the method.
+
+Random ----------------------------------------------------------------------- <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of all characters.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of alpha-numeric characters as indicated by the arguments.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of characters specified.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of alpha-numeric characters as indicated by the arguments.</p> <p>Creates a random string based on a variety of options, using default source of randomness.</p> <p>This method has exactly the same semantics as {@link #random(int,int,int,boolean,boolean,char[],Random)}, but instead of using an externally supplied source of randomness, it uses the internal static {@link Random} instance.</p> <p>Creates a random string based on a variety of options, using supplied source of randomness.</p> <p>If start and end are both <code>0</code>, start and end are set to <code>' '</code> and <code>'z'</code>, the ASCII printable characters, will be used, unless letters and numbers are both <code>false</code>, in which case, start and end are set to <code>0</code> and <code>Integer.MAX_VALUE</code>. <p>If set is not <code>null</code>, characters between start and end are chosen.</p> <p>This method accepts a user-supplied {@link Random} instance to use as a source of randomness. By seeding a single {@link Random} instance with a fixed seed and using it for each call, the same random sequence of strings can be generated repeatedly and predictably.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of characters specified.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of alphabetic characters.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of alpha-numeric characters.</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of characters whose ASCII value is between <code>32</code> and <code>126</code> (inclusive).</p> <p>Creates a random string whose length is the number of characters specified.</p> <p>Characters will be chosen from the set of numeric characters.</p>
+
+
+
+
+
+
+Capture the view id and request parameters from the current request and squirrel them away so we can return here later in the conversation. Capture the view id, request parameters and page parameters (which take precedence) from the current request and squirrel them away so we can return here later in the conversation. If no conversation is active, begin a conversation. The conversation is terminated by {@link Redirect#returnToCapturedView()} if begun by this method. Perform the redirect Get all the request parameters that have been set Get the JSF view id to redirect to TODO: replacement for Conversation.endAndRedirect() public boolean returnToParentView() { Manager manager = Manager.instance(); String viewId = manager.getParentConversationViewId(); if (viewId==null) { return false; } else { manager.redirect(viewId); return true; } } Should the conversation be propagated across the redirect? Redirect to the captured view, and end any conversation that began in captureCurrentView(). Note that conversations are propagated by default Set a request parameter value (to set a multi-valued request parameter, pass an array or collection as the value) Set the JSF view id to redirect to
+
+
+
+
+Get all the fields which are annotated with the given annotation. Returns an empty list if none are found Get all the getter methods annotated with the given annotation. Returns an empty list if none are found Return's true if the class can be loaded using Reflections.classForName() Check to see if clazz is an instance of name
+
+
+A flag that an application can use to protect sensitive operations if the user has been auto-authenticated.
+
+
+
+Appends various configuration options to the remoting javascript client api.
+
+
+
+Stores a stamp in the store, and returns the key it is stored under.
+
+Template method for custom decoding of concrete renderer. All parameters checking if performed in original decode() method. Template method for custom start encoding of concrete renderer. All parameters checking and writer is performed in original encodeBegin() method.  Template method for custom finish encoding of concrete renderer. All parameters checking and writer is performed in original encodeEnd() method. Get base component slass , targetted for this renderer. Used for check arguments in decode/encode. Render one component and it childrens Render all children for given component.
+
+Get a Facelet for a URL Render a Facelet
+Since Trinidad, and possibly other JSF implementations don't always subclass from {@link javax.faces.component.UIForm} we can't cast to UIForm.
+
+
+
+The name of the request parameter
+
+
+
+
+Called at component instantiation. EntityHome component must be set in order for component to be created. Store entity passed as a parameter in the database. Called by RESTEasy when HTTP POST request is received. Persists received entity and returns 201 HTTP status code with location header set to new URI if operation succeeds. Delete database entity. Called by RESTEasy when HTTP DELETE request is received. Deletes a database entity. Retrieve an entity identified by id parameter. EntityHome component getter. Override this method to set the EntityHome this resource will operate on. You can use either EntityHome or HibernateEntityHome instance. Retrieve entity identifier's class. If not set, type parameters of a superclass are examined. Called by RESTEasy when HTTP GET request is received. String form of entity identifier is passed as a parameter. Returns a response containing database entity. EntityHome component setter If set to read-only mode, this resource will only response to GET requests. HTTP 415 status code (method not allowed) will returned in all other cases. Convert HTTP request body into entity class instance. Converts String form of entity identifier to it's natural type. Merge the state of the database entity with the entity passed as a parameter. Override to customize the update strategy - for instance to update specific fields only instead of a full merge. Called by RESTEasy when HTTP PUT request is received. Merges the state of the database entity with the received representation.
+
+
+Called at component instantiation. Retrieve a list of database entities. EntityQuery getter Called by RESTEasy to respond for an HTTP GET request. Retrieves a list of entities matching criteria set by query parameters from database and returns it wrapped in Response instance.
+
+
+
+
+
+
+
+Restrictions may be expressed using any EL expression, and usually include the use of s:hasRole(...) or s:hasPermission(..., /..). If no EL expression is explicitly specified, Seam security defaults the permission to be checked.
+The name of the {@link org.jbpm.graph.def.ProcessDefinition} (optional, only required for lookup by business key) An EL expression that evaluates to the process id. (not required for lookup by business key) The name of the request parameter under which we should locate the the id of process to be resumed. (not required for lookup by business key) An EL expression that evaluates to the process business key. (optional, only required for lookup by business key)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Performs a permission check for the specified name and action Post-authentication event observer Synchronises the state of the security context with that of the subject
+
+
+Called just prior to dispatching a message, fault or exception. The Seam request lifecycle is ended here Extracts the conversation ID from an incoming SOAP message Inbound message handler. Seam contexts should be initialized here, and the conversation ID (if present) is extracted from the request. Handle inbound and outbound messages Sets the conversation ID in the outbound SOAP message.
+
+Get the deployment strategy this scanner is used by Recursively scan directories, skipping directories in the exclusion list. Recursively scan directories, skipping directories in the exclusion list. Scan for structures which contain any of the given resources in their root
+
+
+
+
+Get the Seam component, even if no application context is associated with the current thread. Get the component name Get the scope for a role Get the default scope Get the component type Get the bean class from a container-generated proxy class Mark the session for invalidation at the end of the request cycle Is the class a container-generated proxy class for an entity bean? Is the session marked for invalidation?
+
+(non-Javadoc) @see javax.faces.application.Application#addBehavior(java.lang.String, java.lang.String) (non-Javadoc) @see javax.faces.application.Application#addDefaultValidatorId(java.lang.String) (non-Javadoc) @see javax.faces.application.Application#createBehavior(java.lang.String) (non-Javadoc) @see javax.faces.application.Application#createComponent(javax.el.ValueExpression, javax.faces.context.FacesContext, java.lang.String, java.lang.String) (non-Javadoc) @see javax.faces.application.Application#getBehaviorIds() (non-Javadoc) @see javax.faces.application.Application#getDefaultValidatorInfo() (non-Javadoc) @see javax.faces.application.Application#getProjectStage() (non-Javadoc) @see javax.faces.application.Application#getResourceHandler() (non-Javadoc) @see javax.faces.application.Application#setResourceHandler(javax.faces.application.ResourceHandler) (non-Javadoc) @see javax.faces.application.Application#subscribeToEvent(java.lang.Class, java.lang.Class, javax.faces.event.SystemEventListener) (non-Javadoc) @see javax.faces.application.Application#subscribeToEvent(java.lang.Class, javax.faces.event.SystemEventListener) (non-Javadoc) @see javax.faces.application.Application#unsubscribeFromEvent(java.lang.Class, java.lang.Class, javax.faces.event.SystemEventListener) (non-Javadoc) @see javax.faces.application.Application#unsubscribeFromEvent(java.lang.Class, javax.faces.event.SystemEventListener)
+
+TODO Use permission schemes for this? Check whether access is allowed to the given wicket component. Uses the @Restrict annotation to control access
+
+
+This post processor must run after any spring AutoProxyCreator
+
+Add the property to the set of properties only if it hasn't already been added Get a list of possible values for a given key. First, System properties are tried, followed by the specified resource bundle (first in classpath only). Colon (:) deliminated lists are split out.
+
+
+
+
+Wrap the base ELContext, adding Seam's FunctionMapper. Thus, any expressions with s:hasRole, s:hasPermission must be evaluated either via Facelets/JSP (since they are declared in the tld/taglib.xml or via the Expressions component.
+Initializes the factory. If proxy=true then initialize the proxy. Return the current instance of a Seam component or the proxy if proxy was set to true. Return the type of the component if available. Should the factory create an instance of the component if one doesn't already exist in this context. If null Must always be true for STATELESS components. The name of the seam component to get an instance of. (required) Should the factory wrap the component instance in a proxy so the seam component can be safely injected into a singleton. The scope of the seam component (optional) Forces type of a proxy created. Useful when using EL where the type of the object may not be available at Proxy creation time.
+
+
+
+
+
+
+
+Starts a Seam Call if one is not available and if executing within a Spring Transaction.
+
+
+Wraps the Seam ManagedPersistenceContext in a close suppressing proxy and returns.
+
+Optionally provide an instance of the SessionFactory we are wrapping. Only necessary if the proxy needs to expose access to any interfaces besides SessionFactory.class. The name of the Seam "managed-hibernate-session" component.
+
+
+Restore the page and conversation contexts during a JSF request Set up the Seam contexts, except for the conversation context Raise an event so that an observer may add a faces message when Seam-managed transactions fail.
+
+
+
+Get an instance for the current Seam Locale
+
+
+
+Gets an instance of a Seam component providing the current ObjectFactory if needed. Not used yet.  On remove destroys the seam component.
+Null is not a valid prefix so make it the default is used if null or empty. Add all of the seam scopes to this beanFactory.
+
+
+
+Get the component for this TargetSource Returns a component instance for this TargetSource. Obtains the seam component beanClass or the defined type for this TargetSource.  Don't think we need to do anything here.
+
+Allow the delegate to produce the action URL. If the conversation is long-running, append the conversation id request parameter to the query string part of the URL, but only if the request parameter is not already present. <p/> This covers form actions Ajax calls, and redirect URLs (which we want) and link hrefs (which we don't) (non-Javadoc) @see javax.faces.application.ViewHandlerWrapper#getBookmarkableURL(javax.faces.context.FacesContext, java.lang.String, java.util.Map, boolean) (non-Javadoc) @see javax.faces.application.ViewHandlerWrapper#getRedirectURL(javax.faces.context.FacesContext, java.lang.String, java.util.Map, boolean)
+Override to set up seam security, seam status messages, and add the SeamEnforceConversationListener Add Seam status message transport support to your app. Add Seam Security to the wicket app. This allows you to @Restrict your Wicket components. Override this method to apply a different scheme Override to provide a seam-specific RequestCycle, which sets up seam contexts. Seam's hooks into Wicket. Required for proper functioning Custom session with invalidation override. We can't just let Wicket invalidate the session as Seam might have to do some cleaning up to do. We provide SeamWebSession as a separate class to allow for user subclasssing.
+
+
+
+
+
+
+The max age of the cookie Override to define the cookie name Get the value of the cookie Is the cookie enabled? Set the cookie
+Propagate additions and removals to the HttpSession if the current conversation is long-running, or remove all attributes if it is a temporary conversation. This work may only be done at the end of the request, since we don't know for sure the conversation id until then.
+Woh, we can re-use code from the client !
+
+
+
+
+Convenience method that retrieves the servlet context from application scope.
+this method should really be one that converts the baseURL to the viewId, but we need default faces extension for that
+
+
+
+Schedule HttpSession invalidation at the end of the request. Is HttpSession invalidation scheduled for the end of this request? Should we invalidate the session due to a change in the request scheme? Is session invalidation on scheme change enabled? Enable or disable session invalidation on scheme change?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Utility to add a SpringComponent to the seam component ApplicationContext. Calls the spring destroy callback when seam destroys the component Just like Component.forName() but mocks the applicationContext and you provide it with the spring bean name instead of the seam component name. Ignore PersistenceContextAttributes if scope is stateless Overrides Components inject to unwrap all of the spring AOP layers so that fields can be injected into this bean. Use the InterceptionType override if available otherwise use the annotation or seam default. Registers a destruction callback with this bean.
+Obtain the BeanFactory using WebApplicationContextxUtils.getWebApplicationContext
+The dispatcher to handle scheduled events The Spring TaskExecutor to handle immediate asynchronous events
+Attempts to find a BeanFactory and return the instance found. Obtains a PlatformTransactionManager from either the name or expression specified.
+Get all annotated components known to this strategy Get all scanned and handled Seam namespaces Get all XML defined (throught components.xml and component.xml) components
+Set the FlushMode for any EntityManager used in this conversation. An EL expression for the conversation id. If a conversation with the same id aready exists, Seam will redirect to that conversation. The name of the jBPM process definition defining the page flow for this conversation. An EL expression that evaluates to the task id. The name of the request parameter under which we should locate the the id of task to be started.
+A list of other Seam Components that should be started before this one, if they are installed. If applied to an APPLICATION scope component, the dependant components should be APPLICATION scope. If applied to a SESSION scope component, the components should be in SESSION scope.
+
+
+Get the message severity Get the message
+Create a new status message, with the messageTemplate is as the message. A severity of INFO will be used, and you can specify paramters to be interpolated Add an array of InvalidValues from Hibernate Validator. Each message will be added with a severity of WARN. Add an InvalidValue from Hibernate Validator. The message will be added with a severity of WARN. Create a new status message, with the messageTemplate is as the message. You can also specify the severity, and parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. You can also specify the severity, and parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. A severity of INFO will be used, and you can specify parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. You can also specify the severity, and parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. A severity of INFO will be used, and you can specify parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. You can also specify the severity, and parameters to be interpolated Create a new status message, with the messageTemplate is as the message. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. A severity of INFO will be used, and you can specify parameters to be interpolated Add an InvalidValue from Hibernate Validator. The message will be added with a severity of WARN. You can also specify the id of the widget to add the message to Create a new status message, with the messageTemplate is as the message. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Add an InvalidValue from Hibernate Validator. The message will be added with a severity of WARN. The name of the property that was validated will be used as the widget ID Create a new status message, looking up the message in the resource bundle using the provided key. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. A severity of INFO will be used, and you can specify parameters to be interpolated Create a new status message, looking up the message in the resource bundle using the provided key. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. A severity of INFO will be used, and you can specify parameters to be interpolated Add a status message, looking up the message in the resource bundle using the provided key. If the message is found, it is used, otherwise, the defaultMessageTemplate will be used. The message will be added to the widget specified by the ID. The algorithm used determine which widget the id refers to is determined by the view layer implementation in use. You can also specify the severity, and parameters to be interpolated Add an array of InvalidValues from Hibernate Validator. Each message will be added with a severity of WARN. The name of the property that was validated will be used as the widget ID Clear all status messages
+
+
+
+
+
+
+
+
+The entry point for handling a request.
+
+
+
+
+
+
+
+How long should we wait for the lock before throwing an exception?
+
+
+
+
+
+
+
+TODO: we really need to cache the list in the event context, but then we would need some events to refresh it when tasks end, which is non-trivial to do....
+
+
+
+Create a Map in the event scope. When the theme is changed, ThemeSelector is responsible for removing the Map from the event context.
+Get the localized name of the named theme, by looking for org.jboss.seam.theme.&lt;name&gt; in the Seam resource bundle Get the name of the current theme Get the resource bundle for the theme Get a selectable list of available themes for display in the UI Recreate the JSF view, using the new theme, and raise the org.jboss.seam.themeSelected event
+
+
+
+Get the selected timezone Force the resource bundle to reload, using the current locale, and raise the org.jboss.seam.timeZoneSelected event
+
+
+to simulate panelCollapsible Don't make this begin a conversation as this class is intended to be used in a footer. If this method starts a conversation it can't be added to the foot of applications that don't expect conversations to already be in progress Gets the effect used when a cell is expanded or contracted Method used to toggle the expanded status of this item This would be called from the front end pages
+
+workaround for a bug in EJB3
+
+
+
+If the client has not already delivered us a cookie and the cookie notice is enabled, write out JavaScript that will show the user an alert if cookies are not enabled.
+
+
+
+The JNDI name of the TopicConnectionFactory
+
+
+
+
+
+
+
+The transaction propagation type.
+The transition name, defaults to the name of the method.
+
+
+
+
+
+
+@Override public void configurePlot(Plot p) { super.configurePlot(p); }
+
+
+The type of the body - plain or html
+
+
+
+
+
+
+removeITextObject, handleAdd set by parent
+
+
+
+
+
+
+
+
+
+
+
+Method called by DecorateRendererBase when it's about to render a subtree containing this component.
+
+
+
+
+
+
+
+
+
+Workaround for IE, which includes the full path to the file. {@inheritDoc } {@inheritDoc } {@inheritDoc }
+
+
+
+
+
+
+
+
+
+
+
+
+HeaderFooter derives the font for the number from the font of the before phrase. Worse still, there is no way to set the font after the phrase is created. The best we can do is get the surrounding font context and hope for the best.
+XXX - this needs some work
+
+
+A depth-first search for an EditableValueHolder
+@Override public void configurePlot(Plot p) { super.configurePlot(p); }
+
+for dingbats symbol list for ROMAN,GREEK for dingbats number list
+
+
+
+
+A depth-first search for an EditableValueHolder
+
+
+-- ITextComponent methods -- ValueHolder methods
+
+
+
+
+
+
+
+xxx - use string
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Return the selector that controls the unique browser identifier cookie. Indicates whether to allow the same form to be submitted multiple times with the same signature (as long as the view does not change). This is a common need if the form is perform Ajax calls but not rerendering itself or, at the very least, the UIToken component. The preferred approach is to have the UIToken component rerendered on any Ajax call where the UIToken component would be processed. The default value is false. Indicates whether a JavaScript check should be inserted into the page to verify that cookies are enabled in the browser. If cookies are not enabled, present a notice to the user that form posts will not work. The default value is false. Indicates whether the session id should be included in the form signature, hence binding the token to the session. This value can be set to false if the "build before restore" mode of Facelets is activated (the default in JSF 2.0). The default value is false.
+
+
+
+
+Hack? Noooooooooooooooo
+Returns an iterator over objects passed to the worksheet
+
+
+
+<p>Returns the detail message explaining the reason for the denial. Includes the view ID if specified.</p> <p>Returns the view ID to which the authorized command was directed.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The hash algorithm, only used if there is no @PasswordSalt property specified Number of iterations for generating the password hash
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The JSF validator id. Default to the component name.
+
+Create a new ClassValidator for the given class, using the current Seam ResourceBundle. Get the cached ClassValidator instance. Get the cached ClassValidator instance. If the argument is an instance of a session bean Seam component instance, the returned validator will be aware of constraints defined on the bean class. Therefore this method is preferred to getValidator(Class) if the argument might be a session bean. Validate that the given value can be assigned to the property given by the value expression.
+
+Converts Seam parameters Map <String,String> to JSF 2 Map<String,List<String>>
+
+
+
+Specifies a list of paths to exclude from the result's object graph
+
+Recursively collect all class names for class files found in this directory.
+
+Upon initialization and re-initialization, lookup the hot deployment strategy and grab its classloader, if it exists.
+
+
+
+
+
+
+
+
+
+
+Parses an XML document safely, as to not resolve any external DTDs Get safe SaxReader with doctype feature disabled
+
+

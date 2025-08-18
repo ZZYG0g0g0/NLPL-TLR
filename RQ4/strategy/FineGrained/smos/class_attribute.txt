@@ -1,0 +1,99 @@
+serialVersionUID idAbsence idUser dateAbsence idJustify academicYear
+serialVersionUID
+serialVersionUID idAddress name
+serialVersionUID idClassroom idAddress name academicYear
+serialVersionUID
+active config connectionCloser driver fullConnectionString inactiveMaxTimeout maxPoolSize pool
+serialVersionUID LOGGER connection manager statements
+manager waitTimeout
+ACTIVE_TIMEOUT DRIVER_MYSQL FULL_PATH_DATABASE linker manager MAX_POOL_SIZE PASSWORD POOL_TIMEOUT properties USER_NAME WAIT_TIMEOUT
+serialVersionUID
+serialVersionUID idDelay idUser dateDelay timeDelay academicYear
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+DEFAULT_ERROR_MESSAGE poolPropertiesPath
+serialVersionUID idJustify idUser dateJustify academicYear
+serialVersionUID
+
+instance TABLE_ADDRESS TABLE_ADDRESS_HAS_TEACHING
+instance TABLE_CLASSROOM TABLE_ADDRESS TABLE_TEACHER_HAS_CLASSROOM TABLE_STUDENT_HAS_CLASSROOM
+instance TABLE_ABSENCE TABLE_DELAY TABLE_JUSTIFY TABLE_NOTE
+instance TABLE_TEACHING TABLE_ADDRESS_TEACHINGS TABLE_TEACHER_CLASSROOM
+
+instance TABLE_VOTES
+serialVersionUID
+serialVersionUID
+serialVersionUID idNote idUser dateNote description teacher academicYear
+serialVersionUID
+serialVersionUID student absence delay
+pagella
+serialVersionUID ADMIN TEACHER STUDENT PARENT ATA DIRECTOR
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID config
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID id_teaching name
+
+serialVersionUID id login password firstName lastName idParent cell eMail
+serialVersionUID name eMail id
+
+SLASH BACKSLASH day validHour month requestState imageHeaderPath imageHeaderLogoPath imageLeftColumn textFooter serverSmtp needDayBeforeExam maxDayBeforeExam pdfPath uploadPath driverMySql fullPathDatabase userName password maxPoolSize waitTimeout activeTimeout poolTimeout
+serialVersionUID id_votes id_user teaching written oral laboratory accademicYear turn

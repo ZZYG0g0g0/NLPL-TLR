@@ -1,0 +1,99 @@
+version uid absenc user absenc justifi year
+version uid
+version uid address name
+version uid classroom address name year
+version uid
+activ config close driver connect string max timeout pool size pool
+version uid logger connect manag statement
+manag timeout
+activ timeout drive mysql ful pat databas linker manag poo size password poo timeout properti use name wai timeout
+version uid
+version uid delay user delay delay year
+version uid
+version uid
+version uid
+version uid
+defaul erro messag properti path
+version uid justifi user justifi year
+version uid
+
+instanc tabl address tabl addr ha teach
+instanc tabl classroom tabl address tabl teach ha classroom tabl studen ha classroom
+instanc tabl absenc tabl delay tabl justifi tabl note
+instanc tabl teach tabl addr teach tabl teach classroom
+
+instanc tabl vote
+version uid
+version uid
+version uid note user note descript teacher year
+version uid
+version uid student absenc delay
+pagella
+version uid admin teacher student parent ata director
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid config
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid name
+
+version uid id login password name name parent cell mail
+version uid name mail id
+
+slash backslash day hour month state header path header logo path leav column footer smtp day exam day exam path path sql path databas name password pool size timeout timeout timeout
+version uid teach write oral laboratori year turn

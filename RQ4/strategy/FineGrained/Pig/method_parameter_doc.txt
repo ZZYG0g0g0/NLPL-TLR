@@ -1,0 +1,1316 @@
+input input
+input
+input input
+input
+input
+
+b valu input input input input
+failur job locat job conf unset job job cli opt conf prefix conf tupl conf key valu conf first second type type schema str reader split writer tupl locat dir locat dir schema schema locat job locat signatur locat job signatur conf unset tupl schema tupl schema conf unset
+num num delim
+b stale datainput dataoutput
+tupl tupl
+index
+b
+
+tupl tupl
+
+b input
+
+oper
+plan po po po
+b schema b b b b b b b b b b schema b schema b f val val bd bi bag dt
+mutat colfam colqual valu job tupl key valu
+cli arg cli cli cli
+b type type v
+input input
+v exp plan
+
+
+b input provid op input op input
+b input provid op input op input
+b input provid type op input op input
+b input provid op input op input
+input base
+
+b input provid op input op input
+
+b input provid op input op input
+
+b input provid op input op input
+op
+e name alia ps macro idx adaptor
+expr cg cu filter foreach gen load join limit rank sort output plan
+b input
+locat job locat job locat job locat job locat job reader split field list locat job filter signatur schema locat job stat locat job
+op op expr op cast constant express op equal op express op op express op op op op op op exp project op op op
+op cg cross cube distinct filter foreach join limit load nativ rank sort split output store stream union
+key
+v exp plan
+input schema
+val type num num num type num num val l type num val num val type
+tupl
+adaptor
+count node name nvc node input e follow input ttype follow adaptor alia node alia name node name
+constraint col schema cast constraint predic invert schema plan invert pred invert op invert pred invert op invert op invert op invert label col field group col field group col col field v v v type datum tupl input schema cg c dt filter join lm load split store u
+isplit tc
+b stale
+key valu key key valu key
+isplit tc
+writer job key valu
+schema field schema schema type name name record
+name namespac schema name map schema
+rs locat job locat job locat job p job locat job c signatur locat job locat job be w rfl locat dir locat job filter signatur locat job signatur
+input schema db v
+b len p
+level msg msg msg msg msg l msg
+recurs schema stack defin schema recurs schema f stack defin schema recurs schema schema rfl schema rfl name space type descript schema record name colon doubl underscor rs name name space record name colon doubl underscor name colon doubl underscor
+record record name index file conf path f path conf index path f string conf find path f schema file index schema x x ss field schema schema nullabl
+po be
+
+
+
+input
+input
+input
+input
+input
+input
+tupl
+tupl comp limit comp b
+bag
+input input
+tupl schema
+tupl bag schema
+input
+op po po ps format verbos op op op op pred insert succ root plan op remov oper oper op
+input
+b valu input dividend divisor input input input
+
+
+
+
+valu
+input
+b valu input dividend divisor input input input
+
+
+
+
+valu
+tupl input
+tupl input
+v exp plan
+type b type size type type type type bag bd bi val val type
+
+size datum c list
+locat job locat job locat job locat job locat job reader split writer locat dir locat job plan signatur locat job b f l bag dt
+split context
+job
+split context
+wc
+op class index type
+
+op class index lh rh
+command
+
+input p input dba
+key bag partit filter size type combin
+alia queri server pl propfil prop propfil prop lst stat
+predecessor po
+b len charset delimit n
+input input
+b input type element fals posit
+byt po byt bool po
+split context
+input
+bit n f reason limit base perm length len len size magic size size limit
+bit c c u f n v code length len len size len freq size len b c st st st lo hi n bv
+input
+input input
+valu first second input input
+input
+input
+b input input input
+b input input input
+valu first second input input
+crc ch
+treatment str treatment str treatment str delimit treatment str treatment str treatment str reader split writer quot see buf len buffer field list write buf id locat job signatur signatur
+reader split field list buf id locat job signatur
+
+v exp plan spec
+plan
+caster byte schema type str str str str str
+
+
+b
+content destin content destin overwrit datum datum overwrit local destin local destin overwrit path destin path local destin local destin
+c
+
+predecessor oper
+
+plan
+col type column type chain info project
+
+
+
+op subplan schema uid
+op load item op cg cross filter foreach join limit load rank sort split output store union
+
+plan plan packag reduc fe op pplan oper lrearrang op
+cfe plan plan plan collector map agg op pplan newplan fe type foreach type scope fe group op pplan inner proj pplan rearrang rearrang lr plan combin lr mfe agg mlr op plan index
+key bag bag writabl ntup index info
+commandlin
+
+b report
+type
+messag type messag type kind type type map type log log collector log string type log type aggreg log collector type aggreg log
+lh rh
+lh rh
+plan schema right outer join first reduc key class name
+name valu conf conf configur properti properti default configur
+properti key valu properti properti
+reader
+
+v exp plan expr val
+input input
+
+signatur name name prefix signatur signatur error record signatur name signatur e tupl signatur
+predecessor counter
+
+input input
+input input
+tupl tupl input result input index newt
+input
+input input
+writer tupl signatur locat job datum type
+tupl input
+input
+graph state graph state graph state tm stream stream encod stream index xla kind po kind index xla kind
+
+stream stream state token state start end state state po state po state po po kind state po po po kind po po d
+
+foreach
+b stale
+ba ba start length str b buf b
+arg arg colspec
+type val
+pattern name parent child contain parent child parent child name parent child parent child parent child element name contain configur
+
+type type type iter num klass field schema lh rh name dt dt type type type label type type type type type type type type type type
+input
+b input input input
+b input input input
+dt
+input input
+iter c b counter counter rec spill stale tupl size mem msg enum e
+tupl comp limit comp
+
+tupl read conf reader split key file locat job
+process
+
+val num num val
+
+node see fifo plan visitor
+node successor see visitor plan visitor
+v exp plan column col schema column
+input input
+arg
+n space tabl op alia bag datum output tabl op bag output op bag bag op datum oper eq class lo lp alia datum datum map output foreach inner log datum map datum output op lp data op lp datum inner log datum map see output lp datum inner log datum map
+input input input func
+
+predecessor op
+
+b b type type type v
+v exp plan
+
+
+content file
+op op op op plan ps plan
+op op op plan ps verbos
+
+op op op op plan ps
+op plan op plan plan op plan op suc op suc op op op op plan op plan op plan op op op op op op op plan ps plan
+op op op plan ps verbos
+input
+b valu input input input input
+input input
+input input
+input
+input input
+
+
+input input
+input input
+input input
+input
+input input
+
+input input
+valu
+uri server uri uri
+path path src dst src dst src dst key valu key valu alia alia alia script verbos format target param file token number alia script target param file jobid path dir src dst cmd jar path engin namespac path opt cmd script batch param file key valu token
+context argument child argument
+reader split locat job
+
+byte
+byte
+uid see foreach foreach
+
+input
+tupl input
+input
+input
+name src name configur src configur configur name configur config
+locat locat locat alia
+locat locat locat alia id e
+mr
+v exp plan
+left right v
+input
+plan parent lp phi map result eqclass map datum map inner log phi map see plan lp phi map datum map inner log phi map eqclass map
+signatur e tupl signatur
+
+input spec name input input input input logger report signatur msg enum
+key sb messag name messag
+plan base datum plan datum map plan datum map load max
+val num num num num val
+item
+
+cooki log error
+properti context
+type type properti
+stream process error output queue re
+lp pc ps format verbos dir suffix id lp name pc configur properti valu
+op op op op pc op op op op op op op op op op op op op op op op op op op op op op op op
+
+child type illustr v
+input input
+b input pind psign input report input field index order
+input
+input
+fr join predecessor fr join input
+
+b
+
+name group name
+pp pc ps format pp store pp store
+pp pc pp pc pc pp
+store
+msg
+name group name name delta group name delta
+
+sto sto conf path f sto conf
+os process
+split
+
+type spec spec append context spec context contain spec context properti path properti path properti path file name filenam store filenam context name storag filenam context elem name name properti context context context suffix context elem f filenam context filenam store filenam context filenam store filenam context spec offset context name type storag spec context name name properti elem elem path style context initi r
+name offset end
+
+obj
+
+
+predecessor oper
+op plan b expr op project expr op type op op type op op plan b op
+
+tupl
+
+b len b
+locat job locat job locat job spec reader split field list line field column locat job filter signatur
+locat job locat job writer filter signatur locat job stat locat job field column offset
+input input
+b valu input input input input
+input input
+input input
+
+
+input input
+input input
+input input
+input
+input input
+
+input input
+
+predecessor oper
+plan gen exp index caster f fs fs fs schema schema foreach
+input
+
+spec spec string name arg arg schema
+identifi jar identifi jar
+item
+func type
+input class name class name function index class name
+input
+input digit digit
+input
+left right v
+lh rh lh rh type lh rh type input col pc be val val col val col val comp type col val comp type field field sampl field sampl field sampl flatten name col sampl field sampl field sampl field sampl flatten field col sampl index col sampl index col sampl bag
+r column row r be r num limit r num limit be size be ent be num limit r num limit r num limit r num limit r num limit r num limit valu be limit be r column
+input input
+input input
+input input
+
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+predecessor op rdd op parallel
+input
+v exp plan
+left right v
+v exp plan
+b input
+
+input input
+
+annot annot context file path namespac context
+object object
+
+
+file c
+print output script batch illustr param file input batch elem path path src dst src dst src dst key valu key valu alia alia alia script verbos format target param file alia script verbos format target param file print output token number alia script target param file jobid path dir src dst cmd jar path lang namespac path option cmd script batch param file key valu token path param file bin cmd interact state interact b
+b schema b b b b b b b b b b schema b schema b f l bd bi bag dt
+name list filter info info conf job op val locat job locat job key type timestamp key type split info byte job type list delimit whitespac reader split writer field list locat dir locat dir info list locat job signatur locat job signatur field list byte
+context op key option
+
+pattern name parent child contain parent child parent child name parent child parent child parent child element name contain configur
+name type name type type
+name configur src configur configur configur
+plan properti lp pc ps format verbos file suffix properti plan properti id lp name pc configur properti valu
+configur configur configur
+cooki log error e
+conf
+name src name configur src configur obj name permiss config
+readlimit b b len offset whenc n
+
+stream partit error limit id
+origin conf id conf id identifi id map id id path conf attempt id
+command command
+input init input
+input
+input
+b
+key valu partit
+
+locat job locat job locat job locat job reader split field list buff struct path locat job filter signatur
+field locat job
+rang split ctx numb context format string
+job metadata conf job conf num
+split ctx
+read name valu type list arr map pattern schema schema
+input name input
+input input
+c name
+input input input
+obj oi column info obj obj poi ti f
+input
+input input
+
+input input
+origin input input
+input input
+input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+input input
+element element element element element element element dummi
+class index illustr
+group name
+input class po limit result
+po plan plan po po eq class po class cond cast func counter demux distinct eq fl gte grt null lte lt lim ld lr look neg eq nfe pkg proj rank sort spl st stream un func
+b
+op op
+plan messag
+conf key
+key sort order secondari key
+conf key index
+os process
+store
+input input
+job reduc oper ld job conf ld job conf ld job max
+conf
+input input
+b valu input input input input
+
+
+
+split context
+wc
+type val val type
+
+locat job locat job locat job locat job locat job reader split writer locat dir locat job plan signatur locat job
+
+
+
+count percent
+
+count percent comp comp
+
+
+
+
+
+
+
+
+dbag klass obj origin origin input klass klass
+input
+mv idx mv clazz argument clazz input name method static argument name method static argument type clazz clazz mv idx idx name cw input mv clazz
+input input
+input
+input
+
+input input
+input input
+input input
+v exp plan
+input input
+iter
+input iter
+iter
+iter
+next
+n n condit n num n n
+pl name pl filenam name filenam alia definit cmd jarfil udffil namespac var valu
+cleanup method
+clazz
+job class f jar class os name content timestamp file context os context content context
+around len dstream dstream startlin startcolumn dstream startlin startcolumn buffers dstream encod dstream encod startlin startcolumn dstream encod startlin startcolumn buffers dstream dstream startlin startcolumn dstream startlin startcolumn buffers c line col amount c
+path target sourc
+context conf filenam prefix uri conf plan mro job mro job plan name conf job reduc oper conf conf url context conf url collect plan mro config context job job p rem f job mro ld context conf url src part job id row number mro type job job context conf path cluster context conf properti key cluster mro context conf context conf url src fail job
+
+oper oper key predecessor oper oper pred rd d plan job d plan op oper plan oper previou spark oper oper convert file plan key pred oper op
+id id end start manag add manag remov updat updat add metric updat remov end start complet submit end get result start rdd id
+v durat sto conf oper e conf msg success
+plan op op op oper plan op op plan op op
+predecessor op
+key bag size illustr plan flatten
+b input
+
+tupl input
+directori context file path namespac context
+buffer object depth type valu schema depth type valu schema depth valu tupl depth array schema depth object schema depth object schema depth input bag schema depth map schema depth tupl schema depth schema schema buffer object
+expr name param name reader name script size name valu name script context file path namespac context
+locat job locat job locat job reader split p field fieldnum p tok field locat job filter signatur
+e path metanam conf locat job locat job locat job schema locat job schema msg e del filter del schema locat job stat locat job
+writer signatur locat job schema locat job stat locat job json field
+tupl msg input
+path name script file context context file path namespac context path loader
+object tupl object
+input input
+mr
+buffer conf
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+arg
+
+input input
+input input
+v plan plan plan gt flag
+v nest
+v plan plan oper
+v plan
+v plan plan
+v alia alia project p
+input
+input
+input
+v flatten plan schema plan schema defin schema
+v loc
+v plan index index inner plan jt
+v plan limit plan
+v state limit field schema tmp load conf schema signatur
+v obj mr jar param
+v col dens rank number col plan
+v sort plan asc col col l plan b func
+v
+v uid schema plan
+v info tmp store
+v state
+v schema alias uid uid plan flag
+input input
+left right v
+input input
+jc report pp pc ps format verbos report type dbg context trace trace line line num line prog id conf php name pc j throwabl
+input input
+v exp plan
+left right v
+v exp plan
+col key line delimit
+mro mr op mr op mr op mr
+predecessor limit
+
+b comp stale
+uid func spec op spec f field schema op pred op schema spec group op op filter fe gen load join limit load rank sort op split op stream op plan
+multipl multipli
+datum lineag class op data base datum data ld op cg c dt filter join op load split split store u
+
+key bag writabl ntup index class index distinct inner
+b schema b b b b b b b b b b schema b schema
+plan load conf rdd op op
+locat dir separ path delimit reader split locat dir locat job signatur msg enum
+name locat locat locat path extens path name system path path name path path
+locat job locat job locat job func filter
+depth reader split locat dir func locat job signatur
+locat job locat job locat job filter
+locat job predic
+field list
+
+op op op op
+op op
+properti context
+php datum lineag attach eg pc
+predecessor oper
+readlimit b b len offset whenc n
+
+flag scope parallel alia locat input op partition flag plan op plan pc cg loj plan cg op plan input flag cg cross distinct filter foreach load loj limit load nativ rank sort split split output store stream union
+top top msg enum log messag messag file name log file name log verbos messag file name log verbos messag footer messag
+exp plan f
+ps format verbos exp plan
+op op op op op op op op op op op op op op op op op op op op op op op op op
+ps format verbos alia context context scope input output valid
+loc op alia alia expr comment plan loc cmd loc cmd path path handl spec handl spec dir limit loc alia alias partition loc op alia alia oper plan loc alia alia partition loc op alia alia expr loc op alia alia plan loc name arg ft loc foreach gen plan flag schema loc op alia alia plan gt flag partition loc plan name name static arg loc op alia alia plan jt flag partition loc alia alia limit loc op alia alia expr loc alia filenam spec schema loc jar cmd path alia alia input loc plan alia op list loc plan alia op loc op plan alia op expr loc op plan alia op plan loc op plan alia op expr loc plan alia op limit loc plan op alia op list loc plan op alia op loc plan foreach oper expr loc plan foreach oper alia expr plan loc op plan alia op plan flag fs loc op alia alia partition loc op alia alias partition loc plan op input alia col loc plan op oper plan alia col loc plan op input expr expr loc rank alia alia plan flag loc alia alia valu loc loc filter alia alia plan expr loc sort alia alia plan flag fs loc alia loc op alia alia null loc op alia alia plan loc alia alia filenam spec loc alia alia command schema input list loc plan name arg loc alia alias schema alia loc name expr plan loc expr oper plan loc op alia oper plan plan loc plan foreach alia plan plan plan plan alia command alia f loc scope plan list lro expr plan loc op foreach alia alia alia oper plan idx idx scope hint loc hint loc plan oper foreach lp plan input alia op op alia sch op parallel op partition load expr lp input clazz loc spec ft
+
+plan plan path plan plan alia plan plan plan plan plan plan nvc plan ft plan plan alia alia alia alia alia alia alia alia path plan plan input e follow input ttype follow adaptor path plan
+set rule
+node node lp datum
+
+cogroup cross cube distinct filter foreach gen load join limit load mr rank sort split split output store stream union
+uid lf fss opt schema opt alia partition parallel schema
+field sch sch f schema schema inner alia uid num alia alia alia alia mode schema schema verbos
+
+input input
+b valu input input input input
+
+
+
+input tupl input
+
+
+op op op plan mro spec spec old str mr op mr op lr inner plan jar paramet sort job file file rp sort job plan file file rp key plan class name arg ldr class name op job file file rp plan sort job file file rp field mro conf input plan plan op plan spec old op op op op op op op op op op co grp op op op op op op op op op op op
+
+
+properti context
+
+mr
+v job map reduc job name index sto stat sb job job type task mro conf id size max min avg median size max min avg median
+mr
+
+jc ps job job ps mr success ps mr success e ps job job client name job e pc client jcc plan display mro map
+verbos mr
+mro conf mrop conf mro mro mro mro mro conf mro conf
+name group name name delta group name delta statu
+conf conf tez config map conf conf conf conf vertex map vertex conf conf f split info resourc mem split dir conf f
+scope nig mro scope nig
+properti context file file context file properti path stat e context arg properti time arg listen context file engin context pig script file file file name file
+
+schema schema
+v exp plan
+
+result f path filter plan context conf conf file conf input split combin split size conf fs statu f statu max split dist file reduc type conf split context conf st context conf job
+php pc job map job store php pc ps format verbos spec job dbg context id conf php name pc prog prog job
+plan input map input reduc sort la do do do nic file do sort order join file order spl secondari key df str tab type compar v
+store name incr
+key
+lo op pred lp
+input input
+b input valu report input report input
+predecessor oper
+
+
+predecessor merg join
+reader split locat job
+clazz
+op datum oper eq class complet class op datum oper eq class concis op datum real
+input input
+
+arg
+type name valu
+input input
+type b type v
+v exp plan
+
+anno type input
+input input
+input input
+input input
+
+key val key key valu key valu key valu key
+index past end index mpkgr index pkg key type combin combin splitter reduc map key type combin splitte mr mr pl mr splitte mapper splitter op list splitter op mr succ reduc splitter reduc splitter op initi current key type mapper splitter pl op index key type initi current key type reduc splitter mapper splitter reduc splitter op reduc mr mr initi op key type splitter list mr
+oper plan oper plan size b plan spliter splitte plan splitter splitte op
+op list oper plan oper plan splitter splitte op
+lst pkgr pkgr key type index writabl ntup index combin map key type
+writer tupl locat job
+type b type v
+v exp plan
+
+input
+input
+input input
+input input
+v
+
+stat key v
+v exp plan
+
+plan c plan c
+input
+n n
+scope scope
+messag
+input
+lh rh
+tupl comp limit comp
+
+
+b obj stale
+
+
+op
+filter plan
+rem mr
+v exp plan
+left right v
+v exp plan
+
+
+
+
+
+
+
+
+
+
+index k null n
+
+
+
+type
+key valu key registri
+str str byte obj
+v key val key oper key loc p
+obj op scope
+op po po op op op op pred insert succ load store op remov oper oper
+graph clazz node plan attribut content clazz file clazz file clazz
+op po po op op op op pred insert succ op remov oper oper
+op op op op op op deref express op op op op op op op op op op op op op op op op op op op op cogroup cross distinct filter foreach gen load join limit load rank sort split split output store stream union
+
+foreach foreach gen plan
+v exp plan
+expr builder rs locat job locat job expr expr locat f filter locat job locat job column schema schema column locat job valu valu expr locat job locat job locat job reader split writer field list locat dir locat job filter expr signatur locat job signatur
+
+
+
+
+split
+tupl
+name offset end
+
+
+byte conf store record success
+input input sch
+store job
+v
+type class index op lh rh v
+skip input conf key input key input key key
+class index name v
+key output conf key conf output key output key output key null key key
+obj f class index lf v
+class index v
+lst valu class index end input tin type plan v
+input bag class index increment asc col plan dens rank row number count id id v
+skip input conf output conf class index input key input key output key output key key key v
+output conf increment context output key output key output key output key v
+datum class index v
+plan re class index leaf combin v
+class index partition v
+old old lr tupl class index key fragment file v
+schema tupl factori index broadcast
+skip input conf input key input key
+class index plan v
+plan flatten datum class index plan side reset flatten flatten v
+class index cross partition v
+sort order secondari key
+skip input conf output conf input key input key key
+v
+class index predecessor v
+class index limit plan v
+class index cf tmp file limit pc sf signatur v
+lst re lst valu plan lst type class index cross distinct index index queri type index plan plan plan key valu secondari key v
+output conf key output key output key packag key skew join
+index type index type plan type type
+class index key v
+inp idx split idx index class index top heap top heap end input record mark file spec file name signatur file spec load func rearrang tup v
+plan type inp idx index key class index leav key end input file input file name loader func spec signatur pipelin caus except e v
+param quot class index rjar param v
+class index v
+v
+cg join
+v
+v
+k inp class index illustr inp pkgr v
+mr pkg plan pkg mr
+map key tupl map key tupl map map entri target threshold first threshold second key valu map key tupl result key valu op class index plan plan aggreg v
+lst valu context
+lst valu
+sampl class index v
+end input
+lst valu class index type plan v
+
+list valu input tupl class index col idx col col overload col singl tupl bag star v
+input id class index asc col id plan v
+skip input conf id input key input key input key input key v
+class index v
+partition sort order secondari key
+constant impl v
+v
+sampl class index v
+class index v
+key skip input conf input key input key key skew join
+key skip input conf class index input key input key v
+skip input conf context input key input key key
+class index plan v
+class index l func sort func plan v
+
+plan class index plan leaf store v
+
+class index cf counter index file tmp multi store file schema sf signatur info func decor impl v
+store
+output conf context output key output key key
+class index spec properti properti fetchabl initi v
+class index input v
+class index v
+class index spec input function cf signatur spec oper type sf signatur v
+skip input conf class index input key input key key v
+key output conf key class index context key output key output key output index record index key v
+
+predecessor oper
+key bag key index writabl ntup index class index distinct illustr inner compound info tupl type input type pack secondari key key val
+
+cnst
+op
+stream stream encod stream tm index kind pc
+
+stream stream state state start end byte state start end state po po po kind po d
+
+input output input output param file
+metadata field list locat job
+metadata locat job
+str token token sequenc imag
+
+
+
+project op op
+
+tupl count size tupl
+
+name descriptor event vertex name task id event complet updat
+factori express path locat conf factori express f statu level key path locat ctx class signatur filter express class signatur locat conf class signatur
+locat conf locat name key name key path
+v oper name leaf node match sourc node
+list list list node op plan node visit idx
+
+name
+op add cond cast mg func cnst demux distinct dv eq join fl gte gr grt null lte lt lim ld lr look co grp join mod mul not neg eq nfe pkg partial agg sampl combin local rearrang proj rank sampl join sort spl st stream sub un func
+op add cond broadcast spark cast mg func cnst counter cross demux distinct dv eq join fl gte gr grt null lte lt lim ld lr look co grp join mod mul nat neg eq nfe pkg partial agg pr sampl combin local rearrang proj rank sampl sk sort spl st stream sub un func
+alia locat alia locat op plan op type illustr input plan logger report parallel type v
+verbos ps format verbos op node node opmap
+pkg
+alia definit path namespac var var pl name pl filenam name filenam alia definit cmd filenam jarfil udffil namespac qstr var var valu cmd
+context event
+array po e symbol schema old size schema old schema array old old expect old expect old expect old expect
+array array record name po schema datum e union datum schema datum schema datum datum datum datum schema datum datum datum schema datum schema datum
+split context job
+context job level
+tupl map
+context key valu
+conf
+conf
+conf
+conf
+
+command
+buffer cursor candid c stream candid
+buffer cursor candid
+
+
+path resourc path path path name path path src dst dst file reader reader param file param file reader file path reader file path param file alia alia alia path list command line properti alia spec spec conf param key param key clazz path function spec alia command name name name cl l type locat valu p list file param
+key incr group name incr
+
+conf
+conf
+code sourc sourc sourc sourc msg code src user retri locat
+lfunc context datum func spec context
+job
+stream stream encod stream tm index xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla xla kind po kind index xla kind overwrit pc
+
+stream stream state state token state start end byte state start end state po state po state po state po state po state po state po state po state po state po state po state po po kind state po po po po po po po po po po po po kind po po po po po po po po po po po state d
+conf
+context oc tupl conf input output split context key tupl context leaf type plan context
+
+updat
+aggreg report msg enum
+
+split index op index conf split context index conf index conf input split index op size combin conf jobcontext func split conf func index conf
+split context jobcontext conf
+split context
+conf
+j field state sleep j
+runtim obj name runtim wrap rubi object rubi object rubi object rubi object rubi object rubi object rubi object rubi object rubi object rubi object rubi object rubi object object object object object object object object object object object object object object
+msg enum
+conf
+file line header reason input output file st mlist comma def stack context mask tree file st c next st next st word next ast stack context stack start st input output line file node type
+conf input output split context
+
+
+
+index null
+context state context context context context context store context context context store context store context context store conf
+jobcontext store jobcontext taskattemptcontext taskattemptcontext conf lookup key prop context store jobcontext
+taskattemptcontext taskattemptcontext
+stack
+
+
+vertex input event input output input output leaf
+id plan id stat id stat id job id id job submit id job succeed id job launch id stat id progress
+msg
+
+split conf split context
+job reduc oper
+arg listen
+schema nullabl schema nullabl type field nullabl schema schema index schema schema schema schema schema field
+stream stream encod stream tm kind index kind kind path path src dst src dst src dst key valu key valu alia alia alia script verbos format target param file token number alia script target param file jobid path dir src dst cmd jar path engin namespac path opt token script batch param file key valu token c interact
+
+stream stream state state token state start end byte state start end state po state po state po state po state po state po state po state po state po state po state po state po po kind state po po po po po po po po po po po po kind po po po po po po po po po po po state d
+b conf
+key key asc
+job
+properti type path alia filenam alia alia alia build filenam alia stream alia format verbos execut lp ep dir suffix filenam alia stat alia lp name dir name dir id param number path lang namespac function spec name queri queri line file param param file name name file name param name param file alia command sourc target p name prioriti pars regist batch statement id filenam id filenam func alia filenam func
+idx idx conf idx counter b split os obj os
+locat locat locat alia id e code messag code stat
+sto conf sto conf
+fname index store code uri name code msg map
+name group name name incr group name incr name incr group name incr context statu
+tupl buf start end tup locat job locat job store job obj locat job locat job locat job reader split writer field list f byte start end locat dir path job locat job filter signatur locat job signatur schema locat job stat locat job
+
+
+
+locat job locat job locat job filter signatur
+locat job locat job
+byte offset length
+byte byte offset length
+byte offset length f byte index index f buf index index buf index index f buf index index byte index index utf
+job
+job
+conf
+id id success dag stat id id plan vertic launch id id vertex complet progress id id applic id
+
+conf
+conf
+name incr group name incr
+
+
+op suc op plan op plan op plan op op op op sep string plan ps verbos
+key valu po key valu
+
+
+plan class plan key plan class orig
+listen
+predecessor see node lep pp printer verbos df str tab type op op op op op op op
+key key messag name key sb messag name name map matcher messag
+fp tp
+
+walker
+plan plan visitor
+input schema
+predecessor po
+sampl reader split
+node predecessor see visitor plan visitor
+project op op
+
+cmd param file key key key valu key val key val overwrit key val key val overwrit context line line key cmd
+input tupl
+msg rep
+proj proj func proj func plan foreach gen
+v exp plan alia relat op num alia col num alia col
+rel num num plan num plan proj num expr plan plan po rel plan cg cu foreach join rank sort
+plan proj
+field chang field field
+fp tp
+properti properti name properti name properti
+
+
+context file path namespac context
+ex e name e
+tree ex e name input e follow input ttype follow adaptor
+recogn ast ast file header reason fname node def see queri token input token input token queri sourc node node node node ast
+
+n p datum
+
+scope lp name func input alia context name spec token token offset ex filenam context path path fsuri conf str node tree name path context
+input input
+rdd oper
+input input
+input input
+input input
+input input
+input input
+input
+input input
+input input
+input input
+reader split
+predecessor rank
+b stale
+input buffer
+skip input conf input input key input key
+locat job locat job locat job reader split locat job filter signatur
+field field valu valu valu valu valu valu valu valu valu
+predecessor op rdd op parallel
+reader split locat job
+v exp plan
+input input
+input input
+input
+lh rh
+pattern pattern lh rh pattern index constant
+input input
+uri path lang namespac uri uri
+locat job
+
+input
+input column key input column key info field input column key info key info field field
+pe
+
+field key order key version sb rs type alia
+byte field record byte byte
+
+input input
+node see fifo plan visitor
+node fifo plan visitor
+k
+tupl result input input
+key valu partit conf
+context arg context runtim context block context block arg context arg context context context context
+context arg context self context arg runtim context arg context arg context arg arg context context
+context arg context arg context self arg context self context runtim alia context arg context context arg context context context arg arg context type context self arg context self context self context self context self context self context self context self context self context self context self context self context self arg context arg name arg arg context context context self arg context self
+node node plan skip
+statu perm
+input input
+input input
+input
+input
+input input
+input input
+input
+tupl input
+input input
+input input
+input input
+
+input pc reader split locat dir locat job n signatur
+mr op name mr
+v exp plan logic oper refer oper
+func
+filter limit
+plan
+f alia f cast input f schema schema inner alia name level type type num alia alia schema alia schema alia alia sub name match alia sb level take alia preced alia take preced take alia preced take alia preced mergeabl type schema take alia preced schema take alia preced differ size merg incompat type schema level access sb schema type sb schema type level level
+op group cross distinct filter foreach gen load join limit mr rank sort split output store stream union
+
+
+fp tp
+op schema cogroup cross cube distinct filter foreach gen load join limit load rank sort split split output store stream union plan
+val v v v v v v v v v v v v val val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val null val val val val val val val val val val val val val val val val val val val val val val val val po null null null po type type null val po null val po null val po null val po null val po null val po null val po null val po null val po null val po null val po null val po null val po null type type num num num num num num num num num num num num num num null type num val num val num val num val num val num val num val num val num val num val l num val num val num val num val num num num num num num num num num num num num num num num num num type hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null hash v null num num v v v v v v v v v v v null val null val null val null val null val null val null val null val null val null val null val null val null val num val l type type num val num val num val num val num val num val num val num val num val num val num val num val num val num val type v v v v v v v v v v v v v v v v v v v v v v val val val val val val val val val val val val val identifi v v v v v v v v v v v
+conf conf local conf context id append context id trip append context
+name code string dir append id dir context append dir context append id annot dir
+id append append context size
+context conf schema append type context schema append context
+type name type type name name name type name name name type name type type name type size type name name type name name type name type type name type
+count count mean input input
+line lang clazz filenam loader path file context file path namespac context context file key stat key stat
+context engin
+bs plan stat job id job submit job succeed job launch stat progress stat l listen line name context reader file script plan script line context state
+id id log dir name name captur output
+input
+tupl url input
+input string
+plan chain info rearrang plan rearrang sort key info mr
+mr
+plan lr plan lr oper
+
+plan plan plan chain info root plan rearrang plan rearrang sort key info
+key valu partit conf
+rdd op
+input input
+conf credenti conf credenti
+size type type type v v extra buf
+offset whenc
+
+locat job locat job locat job locat job locat job reader split writer locat dir locat job filter signatur locat job
+reader split class locat job class w type
+around len dstream dstream startlin startcolumn dstream startlin startcolumn buffers dstream encod dstream encod startlin startcolumn dstream encod startlin startcolumn buffers dstream dstream startlin startcolumn dstream startlin startcolumn buffers c line col amount
+
+key valu partit
+key valu partit
+key valu partit
+prefix n n valu prefix
+job mr context client jcc plan job mro job
+b stale
+key valu
+dist parallel predecessor skew join plan index java pair rdd index java pair rdd partition dist dist reduc file
+key valu partit job
+
+obj
+predecessor oper
+obj
+store
+index chain info asc
+
+comp
+
+spark op op spark op key dist file op spec spark op spark op lr inner plan key jar paramet sort oper plan rp class name arg join plan sort job file file rp field input plan plan plan spec old key op op op op op op op op op op co grp op op op op op op op op op op op
+
+incr name
+name valu name display name
+counter name incr key name key name name name name valu key name name name name name name incr group name incr key valu name name valu
+udf import list str
+properti context
+limit id
+
+v po success input store success metric listen metric listen metric oper conf
+plan plan path name type plan file master conf stat plan context pp pc ps format verbos plan ps format verbos file url file url plan id conf plan name context plan context conf file pc plan
+properti
+
+oper
+
+oper key featur sort parallel oper file spl type compar v
+op
+oper
+predecessor oper parallel
+split context
+idx idx idx counter b
+store oper id metric listen context e oper stat success metric listen conf store oper id metric listen context oper id success e context plan conf
+name name counter
+verbos op
+predecessor oper
+plan
+root plan
+id store oper pig stat e ps spark oper e ps spark oper op pp load store id context load store id context id store oper metric listen context pig stat
+predecessor oper size predecessor oper size spark op scope nig clazz partition parallel context plan engin conf list
+
+conf threshold fraction memori threshold fraction memori threshold n
+
+predecessor split
+
+
+input sch
+tupl locat job locat job job locat job locat job locat job locat job input reader split writer locat dir locat dir server context schema locat job filter signatur locat job signatur schema locat job stat locat job object
+buf offset length del delimit delimit field field type inform field delim type inform tupl buf start end val del byte type type inform
+store
+b f l bd bi bag dt
+op conf op predecessor op
+locat job locat job locat job writer locat dir signatur locat job msg enum
+tupl
+locat job locat job writer locat dir signatur locat job
+func schema locat job statist locat job
+schema locat job locat job depth writer tupl locat path func signatur locat job
+schema locat job stat locat job
+
+predecessor stream
+event arg
+byte
+op op op op
+handl spec path path handl argv execut spec dir file limit spec stderr file
+command arg command argv file command
+val delimit buf index depth index buf depth index
+
+command cach path input path input input
+
+
+
+
+conf env command env name valu pb
+input input
+b input input input
+b input input input
+input input
+f
+
+separ path delimit input
+
+input input
+input bag
+input input
+v exp plan
+visitor
+input input
+id plan id stat id stat id job id id job submit id job succeed id job launch id stat id progress
+input
+input
+split context
+wc
+locat job locat job locat job locat job locat job reader split writer locat dir locat job plan signatur locat job
+input schema schema sch
+input schema schema sch
+input input
+input input
+split obj
+val num num num val op
+name group name name delta group name delta statu
+
+b schema b b b b b b b b b b schema b schema reader split locat job b f l bag dt
+op tez op plan rp sort oper type field op op key tez op tez op lr inner plan sort type field sort rp input type sort rp key plan class name arg plan oper plan oper rearrang sort type field context input plan plan op plan oper op op op op op op op op op op co grp op op op op op op op op op op op
+
+plan edg movement type plan plan edg plan op predecessor edg input key plan op successor edg output key project rp scope nig scope nig scope nig key op op input key input key op output key output key partition op plan scope nig
+v job counter name script info id
+plan tez op conf merg input type type type type op pc merg input op op op op conf job type conf op merg input conf class type conf op connect packag merg input job op
+map reduc output key class output key compar class output valu class nic sort order secondari key
+op
+properti context
+properti
+skip input conf input key input key
+name stat
+name plan node resourc plan node contain script plan node contain
+php pc group map php pc ps format verbos pc id conf php name pc plan pc plan pc
+properti
+
+oper
+plan oper conf plan oper key pc
+name name f path url name plan op root plan op total parallel
+key predecessor key group key featur parallel successor group key close estim parallel parallel reduc estim parallel intermedi parallel parallel oper oper oper order parent spl input file size grace parallel mr map set secondari key group group member parallel df str tab v
+output conf output key output key
+tez op pkg tez op tez op vertex grp tez op pkg op
+op
+op
+plan oper conf pc
+job name oper success name name plan contain
+plan plan op predecessor splitter split plan op succ plan segment successor plan scope spec scope spec node plan succ
+v
+contain verbos plan contain node
+plan contain node
+plan contain node
+verbos oper
+name f path uri resourc name context conf
+tf
+conf name op conf plan conf name dag stat name plan vertex launch name vertex complet progress name applic id name listen plan node name op conf name op conf
+conf job conf conf resourc cred job conf session conf resourc cred job conf session session session config session resourc
+context
+name group name name delta group name delta
+conf op conf op store conf op type conf type oper
+queri pc pp pc
+v statu parallel conf
+h
+str input str str input
+input
+input
+input
+input input
+input input
+input input
+input input
+input input
+kind kind imag
+eof see state line column char str
+name param file plan name
+tupl arg input store limit bag
+match match
+tree indent
+p job
+input input
+val num num num num val delim
+size datum c list
+tupl
+size
+
+input input
+word ngram size queri
+idx idx idx idx idx idx idx idx idx idx idx idx idx idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val idx val
+op op op op
+
+op equal op spec schema type spec func schema type func node type type collector f spec func schema type spec func schema type byte array spec func schema type type op func exp type arg node f arg op func sch sch sch type sch schema schema schema type byte array op op exp cond cast deref op op op op op op map op op exp op exp exp rg op func exp
+expr plan join plan op plan op type op op group join plan op msg code input fe cg c op filter gen load join limit load rank sort split op store u plan op
+type class class group name increment input size klass input size
+conf conf str sy prop str c arg c c arg conf properti context
+class name signatur type conf conf serial conf op key store conf op key type plan op key op ld st func
+func
+func foreach gener
+func
+op
+input input
+input input
+input input
+input input
+cast ld st udf
+input
+input
+op cogroup cross distinct filter foreach gen load join limit load rank sort split split output store stream union
+op class index type
+
+op e plan
+
+predecessor oper
+union
+op op op pred clone union plan vertex group op vertex group op op pred op successor op pred op predecessor op successor output key vertex group op pred op plan op key op op store func store func op successor output key output key op
+input input
+input input
+val num num val
+uri uri conf
+v exp plan spec
+b schema b b b b b b b b b b schema b f b schema schema field schema schema schema start b field schema number b f l bd bi bag dt
+plan op branch drop sch plan class fs f schema schema
+conf class entri zo dir file class f class dir path zo klass jar class dir path zo start
+input input
+input c input
+input input input
+
+input input
+list bag list bag key valu partit valu configur
+key valu partit
+plan
+arg
+messag e e
+
+key valu partit
+str reader split locat job
+mr
+po node pkgr node node node printer lep node pp node
+
+input input
+string input input
+
+input input
+input input
+input input
+input input
+input
+input

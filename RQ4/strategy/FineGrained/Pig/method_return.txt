@@ -1,0 +1,1316 @@
+boolean Double List Schema
+Double
+boolean Integer Schema
+Double
+Double
+Double
+void void Tuple long Double List String String String Double Schema Double
+void void void void void void void CommandLine Map InputFormat Map LoadCaster Collection Tuple OutputFormat Map Tuple Properties RecordWriter void Pair byte[] Text Text void void void void String String byte byte void void void void void void byte[] Text void
+boolean byte boolean Iterator void String String
+void void void int boolean long AccumulativeTupleBuffer int boolean boolean Iterator void void long long void
+void void String String
+void Iterator boolean void
+void void T
+String
+void void Integer Integer
+String
+void void T T
+String
+void
+void boolean boolean int
+DataBag BigDecimal BigInteger Boolean String DateTime Double Float Integer Long Map Tuple byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+void void Collection Tuple
+Authorizations CommandLine String int long boolean
+Number Add Result Result Result Result Result Result Result String void
+boolean DateTime List Schema
+void LogicalExpression LogicalFieldSchema boolean
+Transformer
+String String String
+void void BigDecimal BigDecimal BigDecimal BigDecimal BigDecimal Schema
+void void BigInteger BigInteger BigInteger BigInteger BigInteger Schema
+void void Double Double Double String Double Double Schema
+void void Double Double Double Double Double Schema
+void void String String String T EvalFunc
+String
+void void Float Float Float Float Float Schema
+String
+void void Integer Integer Integer Integer Integer Schema
+String
+void void Long Long Long Long Long Schema
+String String String void
+alias_return alias_col_ref_return as_clause_return assert_clause_return assert_statement_return bag_return bag_type_return bag_type_cast_return bin_expr_return cache_clause_return case_cond_return case_expr_return cmd_return col_alias_return col_alias_or_index_return col_index_return col_range_return col_ref_return comment_return cond_return const_expr_return cross_clause_return cube_by_clause_return cube_by_expr_return cube_by_expr_list_return cube_clause_return cube_item_return cube_or_rollup_return cube_rollup_list_return define_clause_return distinct_clause_return dollar_col_ref_return dot_proj_return eid_return error_clause_return expr_return field_def_return field_def_list_return filename_return filter_clause_return flatten_clause_return flatten_generated_item_return foreach_clause_return foreach_plan_return func_args_return func_clause_return func_eval_return func_name_return general_statement_return generate_clause_return TreeParser[] String String String String[] TreeAdaptor group_clause_return group_item_return group_type_return in_eval_return input_clause_return join_clause_return join_group_by_clause_return join_group_by_expr_return join_item_return join_sub_clause_return join_type_return keyvalue_return limit_clause_return literal_return load_clause_return map_return map_key_return map_type_return mr_clause_return nested_blk_return nested_command_return nested_cross_return nested_distinct_return nested_filter_return nested_foreach_return nested_limit_return nested_op_return nested_op_input_return nested_op_input_list_return nested_proj_return nested_sort_return num_scalar_return op_clause_return order_by_clause_return order_clause_return order_col_return output_clause_return parallel_clause_return partition_clause_return path_list_return pound_proj_return projectable_expr_return query_return rank_by_clause_return rank_by_statement_return rank_clause_return rank_col_return real_arg_return realias_clause_return realias_statement_return rel_return rel_list_return rel_op_return rel_op_eq_return rel_op_gt_return rel_op_gte_return rel_op_lt_return rel_op_lte_return rel_op_ne_return rel_str_op_return sample_clause_return scalar_return void void ship_clause_return simple_type_return split_branch_return split_clause_return split_otherwise_return split_statement_return statement_return store_clause_return stream_clause_return stream_cmd_return boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void tuple_return tuple_type_return tuple_type_cast_return type_return type_cast_return union_clause_return var_expr_return
+LogicalExpressionVisitor void void void void void void void void void void void void
+void void String String
+List AllLoaderInputFormat LoadCaster Tuple String[] String[] ResourceSchema ResourceSchema ResourceStatistics Properties void RequiredFieldResponse void void void void void
+void void void void void void void void void void void void void void void void void void void void void void void void void
+void void void void void void void void void void void void void void void void void void
+Object void
+void LogicalExpression LogicalFieldSchema boolean
+void void DataBag Schema
+void int int int Object Object byte Tuple long byte Object int boolean boolean boolean void void void SchemaTuple SchemaTuple void void SchemaTuple void int void
+boolean Boolean
+alias_return alias_col_ref_return as_clause_return assert_clause_return assert_statement_return bag_return bag_type_return bag_type_cast_return bin_expr_return cache_clause_return case_cond_return case_expr_return cmd_return col_alias_return col_alias_or_index_return col_index_return col_range_return col_ref_return comment_return cond_return const_expr_return cross_clause_return cube_by_clause_return cube_by_expr_return cube_by_expr_list_return cube_clause_return cube_item_return cube_or_rollup_return cube_rollup_list_return define_clause_return distinct_clause_return dollar_col_ref_return dot_proj_return eid_return error_clause_return expr_return field_def_return field_def_list_return filename_return filter_clause_return flatten_clause_return flatten_generated_item_return foreach_clause_return foreach_plan_return func_args_return func_clause_return func_eval_return func_first_arg_clause_return func_name_return func_next_arg_clause_return general_statement_return generate_clause_return TreeParser[] String String String[] TreeAdaptor group_clause_return group_item_return group_type_return import_statement_return in_eval_return input_clause_return join_clause_return join_group_by_clause_return join_group_by_expr_return join_item_return join_sub_clause_return join_type_return keyvalue_return limit_clause_return literal_return load_clause_return map_return map_key_return map_type_return mr_clause_return nested_blk_return nested_command_return nested_cross_return nested_distinct_return nested_filter_return nested_foreach_return nested_limit_return nested_op_return nested_op_input_return nested_op_input_list_return nested_proj_return nested_sort_return num_scalar_return op_clause_return order_by_clause_return order_clause_return order_col_return output_clause_return parallel_clause_return partition_clause_return path_list_return pound_proj_return projectable_expr_return query_return rank_by_clause_return rank_by_statement_return rank_clause_return rank_col_return real_arg_return realias_clause_return realias_statement_return register_statement_return rel_return rel_list_return rel_op_return rel_op_eq_return rel_op_gt_return rel_op_gte_return rel_op_lt_return rel_op_lte_return rel_op_ne_return rel_str_op_return sample_clause_return scalar_return scripting_language_clause_return scripting_namespace_clause_return scripting_udf_clause_return void ship_clause_return simple_type_return split_branch_return split_clause_return split_otherwise_return split_statement_return statement_return store_clause_return stream_clause_return stream_cmd_return boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void tuple_return tuple_type_return tuple_type_cast_return type_return type_cast_return union_clause_return var_expr_return
+alias_return alias_col_ref_return as_clause_return assert_clause_return assert_statement_return bag_return bag_type_return bag_type_cast_return bin_expr_return cache_clause_return case_cond_return case_expr_return void cmd_return col_alias_return col_alias_or_index_return col_index_return col_range_return col_ref_return comment_return cond_return const_expr_return cross_clause_return cube_by_clause_return cube_by_expr_return cube_by_expr_list_return cube_clause_return cube_item_return cube_or_rollup_return cube_rollup_list_return define_clause_return distinct_clause_return dollar_col_ref_return dot_proj_return eid_return error_clause_return expr_return field_def_return field_def_list_return filename_return filter_clause_return flatten_clause_return flatten_generated_item_return foreach_clause_return foreach_plan_return func_args_return func_args_string_return func_clause_return func_eval_return func_name_return general_statement_return generate_clause_return TreeParser[] String String String[] TreeAdaptor group_clause_return group_item_return group_type_return in_eval_return input_clause_return join_clause_return join_group_by_clause_return join_group_by_expr_return join_item_return join_sub_clause_return join_type_return keyvalue_return limit_clause_return literal_return load_clause_return map_return map_key_return map_type_return mr_clause_return nested_blk_return nested_command_return nested_cross_return nested_distinct_return nested_filter_return nested_foreach_return nested_limit_return nested_op_return nested_op_input_return nested_op_input_list_return nested_proj_return nested_sort_return num_scalar_return op_clause_return order_by_clause_return order_clause_return order_col_return output_clause_return parallel_clause_return partition_clause_return path_list_return pound_proj_return previous_rel_return projectable_expr_return query_return rank_by_clause_return rank_by_statement_return rank_clause_return rank_col_return real_arg_return realias_clause_return realias_statement_return Object Object register_statement_return rel_return rel_list_return rel_op_return rel_op_eq_return rel_op_gt_return rel_op_gte_return rel_op_lt_return rel_op_lte_return rel_op_ne_return rel_str_op_return sample_clause_return scalar_return void ship_clause_return simple_type_return split_branch_return split_clause_return split_otherwise_return split_statement_return statement_return store_clause_return stream_clause_return stream_cmd_return boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void boolean void tuple_return tuple_type_return tuple_type_cast_return type_return type_cast_return union_clause_return void void var_expr_return
+Tuple ExampleTuple ExampleTuple void void void void void void Tuple Tuple Tuple Object Object Object Object Map Map boolean void void void void void void void void void void void void void
+void NullWritable Record float void boolean
+void void void int long boolean boolean Iterator void void long long void
+void boolean boolean Set Object boolean Set Object void Object int Collection
+void NullWritable Record float void boolean
+void void void void
+void ResourceSchema ResourceFieldSchema ResourceFieldSchema
+Schema void boolean
+void void void Schema Schema List Schema InputFormat Tuple Schema OutputFormat String[] Properties Properties ResourceSchema List ResourceStatistics void void RequiredFieldResponse void String void void void void void void void void
+Object Map Array Record Utf8
+void long int void long
+void void void void void void void
+ResourceSchema ResourceSchema Schema Schema ResourceFieldSchema byte boolean boolean Schema Schema Schema Schema Schema String
+boolean boolean boolean boolean Field Schema Schema void Set String Path Set Schema Map Field boolean boolean boolean Schema Type boolean ResourceFieldSchema Schema
+void int Object List long long Object byte boolean Iterator void void void void int String void void
+String
+
+
+String
+String
+DataBag
+DataBag
+DataBag
+DataBag
+Integer
+BagFactory DataBag DataBag DataBag DataBag DataBag void void
+String
+boolean Long Schema
+boolean String Schema
+boolean Tuple long Schema
+boolean Schema
+void boolean void void void Pair void Iterator List List List List List List void boolean boolean boolean void void boolean void void void void int String void
+boolean BigDecimal
+void void Tuple BigDecimal BigDecimal BigDecimal String String String BigDecimal Schema BigDecimal
+
+
+
+BigDecimalWrapper BigDecimalWrapper boolean boolean
+int boolean BigDecimal int void void String void
+boolean BigInteger
+void void Tuple BigInteger BigDecimal BigDecimal String String String BigDecimal Schema BigInteger
+
+
+
+BigIntegerWrapper BigIntegerWrapper boolean boolean
+int boolean BigInteger int void void String void
+String Schema
+String Schema
+void LogicalExpression LogicalExpression LogicalFieldSchema LogicalExpression LogicalExpression boolean
+void Class int boolean DataBag Object Object Object Object Object InternalMap Map Tuple Tuple Tuple WritableComparable void void void void void void void
+Class void void
+boolean Tuple Tuple Tuple Tuple Tuple Class Class
+void void void InputFormat LoadCaster Tuple OutputFormat String[] ResourceSchema ResourceStatistics int void void void String void void void void byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+RecordReader
+RecordWriter
+void Text Tuple float void boolean
+void void
+void byte Tuple void
+LogicalExpression LogicalExpression
+void List ExpressionOperator ExpressionOperator Tuple void void boolean
+void void
+void
+Boolean List String void void
+void Result Result Result Result Result void void
+void PigStats void void void List List List PigStats PigStats PigStats void void
+RDD
+void long int int String long
+DataByteArray String String String Schema
+BloomFilter DataByteArray DataByteArray int void
+boolean byte
+RecordReader
+Double
+void void int int char int int void void void void void void void void long long long void void void void int int void void void void void void void void void void
+void void void void void void void void void void void void void boolean void void void void void void void char void void void void void void void void void
+Double
+boolean DataByteArray List SchemaType Schema
+Tuple Tuple DataBag String String String Schema String
+Double
+Double
+void void Long List String String String Long Schema Long
+void void Long String String String Long Schema Long
+Tuple Tuple DataBag String String String Schema String
+int int void void void
+Linebreaks Headers Multiline void List InputFormat Tuple void void void boolean RequiredFieldResponse void void void void void
+List InputFormat Tuple void RequiredFieldResponse void void void
+String
+void LogicalExpression LogicalFieldSchema FuncSpec boolean void
+LogicalExpressionVisitor
+Object Boolean Double Float Integer Long
+
+void boolean
+void boolean void
+void void void void void void boolean boolean FileStatus[] boolean void
+char String[] Integer String void
+void
+RDD
+boolean String String Type boolean String
+LogicalExpressionVisitor
+Object boolean ColumnInfo List int void void void void int String
+
+Object boolean List byte int int boolean boolean String
+Transformer
+void boolean void Set OperatorSubPlan OperatorPlan
+void void void void void void void void void void void void void void void void
+Pattern
+void void void POUserFunc void void
+void void PhysicalOperator void POForEach OperatorKey POPartialAgg PhysicalPlan List POUserFunc POLocalRearrange POPreCombinerLocalRearrange boolean void void
+void DataBag Result Tuple void
+void
+Pattern
+int int void
+Result Result Result Result Result Result Result Result Result Result Result byte void
+void void Message Map boolean boolean boolean Iterator void void void void void void int
+boolean
+boolean
+void
+Properties Properties void void Configuration Configuration Properties
+void Properties void
+void void void
+Transformer
+void LogicalExpression LogicalFieldSchema Object void boolean void
+boolean Long Schema
+
+Counter String long boolean long void void
+RDD
+void long Integer
+Map Schema
+DataBag Schema
+boolean void DataBag Schema void
+boolean DateTime
+String List Schema
+void OutputFormat void void void void int Boolean
+String Schema
+boolean void DataBag
+String[] Map void void void DotGraph void void void void void void ParseException Token Token boolean boolean boolean boolean void Token void int void void boolean String
+
+void void void void void Token void void void Token int int int int int int int int int int int int int int int int int int int void
+
+void
+void void void boolean boolean Iterator void long
+DataByteArray DataByteArray DataByteArray DataByteArray int int boolean byte[] int int void void int String
+void void void int void void void
+DataBag String String InternalMap Map Tuple Writable Object Object void
+ElementDescriptor[] ContainerDescriptor ContainerDescriptor ContainerDescriptor ContainerDescriptor ContainerDescriptor ElementDescriptor ElementDescriptor ElementDescriptor ElementDescriptor ElementDescriptor void ContainerDescriptor Properties Map void boolean void void
+
+boolean int int FieldSchema FieldSchema FieldSchema boolean byte byte byte byte Class String String String[] byte[] Map Map boolean boolean boolean boolean boolean boolean boolean boolean String byte int void DataBag BigDecimal BigDecimal BigInteger BigInteger Boolean Boolean byte[] byte[] DateTime DateTime Double Double Float Float Integer Integer Long Long Map String String Tuple
+String List
+void void DateTime String String String DateTime DateTime Schema
+void void DateTime String String String DateTime DateTime Schema
+int boolean DateTime int void void void void String void
+boolean Long List Schema
+void void void void void int boolean long DataOutputStream int void void void void void void long void long String long void void
+DataBag DataBag DataBag DataBag DataBag
+boolean boolean Iterator long
+void Object OperatorKey InputFormat LoadCaster Tuple void void void void void void
+void InputType
+OutputType
+void int Object List Class long int void void int void
+Class
+void PlanWalker void
+void PlanWalker void
+void LogicalExpression List LogicalFieldSchema List LogicalExpression boolean void void String List
+Integer List Schema
+int void String
+String void void String[][] String String String void void void void void String
+DataBag DataBag DataBag DataBag String String String
+
+RDD
+void boolean boolean Iterator long long
+Number Divide Number boolean Result Result Result Result Result Result Result String void
+void LogicalExpression LogicalFieldSchema boolean
+
+
+DotGraph DotGraph
+String[] MultiMap String Collection DotPlanDumper boolean
+String[] String Collection DotPlanDumper void
+
+String[] Collection String Collection DotPlanDumper
+void void void void void void void void void void void void void void void String[] String String String String String String String PlanDumper boolean
+String[] String Collection DotPlanDumper void
+Double
+void void Tuple long Double String String String Double Schema Double
+Double Double List
+Double Schema
+Double Double List
+Integer Schema
+
+
+Double Schema
+Double Schema
+boolean Long Schema
+boolean Double List
+Double Schema
+
+Double Schema
+int boolean double int void void String void
+URI[] DownloadResolver Map Map
+String boolean void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void Object String ObjectInspector
+InputFormat Tuple void void
+
+Tuple LoadCaster
+Tuple LoadCaster
+boolean List void
+String String
+String
+boolean Boolean List Schema
+Double
+Double
+void void OutputStream OutputStream void boolean Properties DataStorage Map InputStream InputStream void SeekableInputStream SeekableInputStream boolean void
+List Map long String long int String List JobClient JobGraph long int long String List List List Properties long long long int long String boolean boolean OutputStats
+List Map long String List JobClient JobGraph long int int long int String List List List long long long long boolean OutputStats void void void
+void
+void LogicalExpression LogicalFieldSchema boolean
+EqualToExpr Result Result String void
+boolean Boolean
+void Map
+void void
+ErrorHandler
+boolean T void List List Schema LoadCaster Log PigLogger PigProgressable Type Type String SchemaType List boolean boolean Schema void void void void void void void
+void int Map
+PhysicalPlan Map Map Map Collection Map LineageTracer Map void Map void void void void
+void int Object List long byte boolean void void void int String Tuple void
+T
+
+void String Properties Exception void POStore Iterator void void PigStats JOB_STATUS boolean void
+boolean ExecutionEngine Class boolean String
+ExecType ExecType ExecType
+void void void void void void void
+void void Properties DataStorage ExecutableManager void PigStats ScriptState void void PigStats void void
+void void PhysicalPlan void void void void void void void void void void void void void void void void void void void void void void void void void
+OpType
+Result ExpressionOperator boolean List Result void boolean String void
+String List Schema
+void void Tuple Tuple String String String Type Tuple Schema int int
+Boolean void
+Double
+void RDD void
+long int void
+void
+void DataInputBuffer Progress DataInputBuffer boolean
+Counter Counter
+void void PigStats void
+void boolean boolean boolean
+void StoreFuncInterface void
+void void
+FetchContext Counter Counter boolean boolean
+
+String long long boolean
+void void InputType
+WritableComparable
+void
+String OutputStream OutputStream void boolean void void FetchFileRet FetchFileRet[] FetchFileRet[] FetchFileRet boolean boolean String String ElementDescriptor[] long long ContainerDescriptor Path Path Path boolean String boolean boolean boolean boolean SeekableInputStream InputStream InputStream InputStream InputStream InputStream InputStream String ContainerDescriptor void void
+void OutputType
+boolean String String FuncSpec int int String
+int boolean int void String void
+OperatorPlan Transformer
+OperatorPlan
+RDD
+LogicalExpression LogicalExpression boolean KeyState KeyState KeyState KeyState Expression Expression Expression LogicalExpressionPlan Expression boolean boolean boolean LogicalExpression void void
+void
+boolean Map void void
+Map long
+void void
+String List InputFormat Tuple String[] ResourceSchema ResourceStatistics ArrayList void RequiredFieldResponse Object void void void
+void OutputFormat String[] ResourceStatistics void void void void void void String
+boolean Float Schema
+void void Tuple long Double String String String Double Schema Double
+Float Schema
+Integer Schema
+
+
+Float Schema
+Float Schema
+boolean Integer Schema
+boolean Float List
+Float Schema
+
+Float Schema
+OperatorPlan
+RDD
+void boolean LogicalFieldSchema LogicalSchema void void
+String
+
+FuncSpec boolean String String String String[] Schema int List void void void String
+List List
+T
+void
+Object String Class Class Class ExceptionalFunction
+Integer
+DataBag String void Tuple
+DataBag
+GTOrEqualToExpr Result Result String void
+MapReduceOper PhysicalPlan POAnd EqualToExpr EqualToExpr GTOrEqualToExpr GreaterThanExpr GreaterThanExpr POIsNull LTOrEqualToExpr LessThanExpr NotEqualToExpr POFilter POStore ConstantExpression POProject POProject OperatorKey FileSpec PhysicalPlan PhysicalPlan PhysicalPlan void void POFilter POFilter POFilter POFilter POFilter POForEach POForEach POForEach POForEach POForEach POForEach PlansAndFlattens PlansAndFlattens PlansAndFlattens PlansAndFlattens PlansAndFlattens PlansAndFlattens POGlobalRearrange POLimit POLoad POLocalRearrange POLocalRearrange POLocalRearrange POPartialAgg POPackage PORead POSplit POStore POUnion
+DataBag Tuple DataByteArray DataBag DataBag String Map Tuple Tuple Tuple Tuple DataBag DataBag Tuple Tuple String DataByteArray ResourceFieldSchema ResourceFieldSchema ResourceFieldSchema ResourceFieldSchema ResourceFieldSchema ResourceFieldSchema ResourceFieldSchema
+T Schema
+boolean Integer List Schema
+boolean Integer List Schema
+Tuple Type
+boolean Integer List Schema
+boolean Integer List Schema
+boolean Integer List Schema
+boolean Integer List Schema
+boolean Integer List Schema
+boolean Integer List Schema
+boolean Integer List Schema
+RDD JavaRDD
+String
+void LogicalExpression LogicalFieldSchema boolean
+GreaterThanExpr Result Result String void
+void LogicalExpression LogicalFieldSchema boolean
+void void Object Schema
+String String String
+T Object Schema
+
+GroovyScriptEngine Map String boolean boolean Map void
+Object Object
+OperatorPlan Transformer
+
+void int[] void void
+void void void void void boolean void String void int[] int[] void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void String int void void void void void void void
+DataBag BigDecimal BigInteger Boolean String DateTime Double Float Integer Long Map Tuple byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+void void void void void void void void void Delete Put void List List InputFormat LoadCaster Tuple OutputFormat List WritableComparable Properties Map byte[] void JobConf byte[] List void void void String RequiredFieldResponse void String String void void void void void void String
+List boolean
+Configuration
+HPath[] ContainerDescriptor ContainerDescriptor ContainerDescriptor ContainerDescriptor ContainerDescriptor ElementDescriptor ElementDescriptor ElementDescriptor ElementDescriptor ElementDescriptor void ContainerDescriptor Properties FileSystem Map void boolean void void
+byte byte PigNullableWritable PigNullableWritable PigNullableWritable PigNullableWritable
+void OutputStream Iterator InputStream InputStream SeekableInputStream SeekableInputStream
+PhysicalPlan void void Properties DataStorage JobConf ExecutableManager Map JobConf JobConf Map JobConf void void void void PigStats void void
+OutputStream InputStream InputStream SeekableInputStream SeekableInputStream
+void String Properties Exception void POStore Iterator void void PigStats JOB_STATUS boolean void void
+void
+int void void OutputStream OutputStream void boolean boolean Properties DataStorage FileSystem Path Map int InputStream void void SeekableInputStream boolean String void
+int void void boolean int int int void void long long
+Double
+void void void String void void void boolean
+JobContext JobContext TaskAttemptContext TaskAttemptID TaskAttemptID boolean boolean
+InputHandler OutputHandler
+Long List long long Schema
+Long
+Long
+HashCode void
+int
+
+List InputFormat Tuple Set String[] int[] ResourceSchema ResourceStatistics Properties void RequiredFieldResponse ColumnarStruct Tuple void void void void
+void OutputFormat Properties void void void
+String RecordReader String long List Date
+Writer int RecordWriter void
+void LongWritable BytesRefArrayWritable float Path void boolean
+Set String Object byte String Tuple InternalMap List List
+Object String String String GenericUDAFResolver Schema
+Object void List Schema
+String List MapredContext Class
+Object boolean Schema void
+Object ObjectInspector ConstantObjectInspector Object ResourceFieldSchema TypeInfo
+String List
+boolean Long List Schema
+Double
+boolean Integer Schema
+boolean HashMap Map Schema
+Long List Schema
+DateTime
+Long List Schema
+Long List Schema
+Long List Schema
+Long List Schema
+String List Schema
+String List Schema
+String List Schema
+String List Schema
+String List Schema
+Long List Schema
+String List Schema
+String List Schema
+Long List Schema
+Tuple Schema
+Object Schema
+boolean boolean void boolean boolean boolean Iterator boolean boolean boolean int Object[] T[] String
+Tuple void
+Counter Counter float void void
+void void boolean DataBag boolean LinkedList IdentityHashSet LineageTracer long LogicalSchema Boolean[] ArrayList void void void void
+Map void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void
+void boolean
+List Map
+void void void
+int boolean boolean byte Object int void void String
+void InputFormat Tuple OutputFormat void void void
+void void InputType void
+void
+String Schema
+int long long long
+long Configuration String INPUT_TYPE String String long boolean void void void void
+boolean Integer Schema
+void void Tuple long Double String String String Double Schema Long
+
+
+
+void Text Tuple float void boolean
+void void
+void Class Object Object void void
+InterSedes
+void void void InputFormat Tuple OutputFormat String[] ResourceSchema ResourceStatistics int void void void String void void void void
+
+
+void void void void boolean boolean Iterator long void
+void void boolean boolean Iterator long long
+
+void void boolean boolean Iterator long long
+String String
+MalformedURLException String
+String
+
+
+
+
+
+List T Class[] Object[] Type T Class Object[] Class
+Object
+void void String Object InvokerFunction byte[] Class[] String Class int void void void Schema void
+Boolean Schema
+boolean Boolean
+Boolean void
+void
+Boolean Schema
+Boolean Schema
+Boolean Schema
+void LogicalExpression LogicalFieldSchema boolean
+Boolean Schema
+Long
+void void T T void boolean
+Boolean
+Long
+boolean OUT void OUT
+void void void int boolean void Node Node void void Node
+BoundScript BoundScript JSPig JSPig JSPig JSPig void int void void void
+void String
+JVMReuseManager List void
+void void void ClassLoader void File String List
+void char void void void String char[] void void void void void void void void void char void void void int int int int int int int int char void
+void void String
+String void void int JobControl void int Path Path Path String Job Map List void void boolean void Path void void void void void void void Path URI int
+
+void void void List List void void void void List void void
+void Map void void void void void void void void void void void void void void void void void void boolean
+void long String String long long long String String Exception String Counters long long List String long long long long long long Map Map int int long List long long long long long long JobState boolean boolean boolean boolean void void void void
+void boolean boolean void void boolean void
+RDD
+void POOptimizedForEach List Result String void void void void
+void void Object void Schema
+String String String
+Object void Schema
+Map String HashSet List Map void
+void void void void Object String DataBag Object Tuple Schema Scriptable Scriptable Scriptable String void String
+Object Context JsScriptEngine Map Scriptable String Object Object Object Scriptable Scriptable void void Map void
+InputFormat LoadCaster Tuple String[] ResourceSchema List ResourceStatistics void Object Object void void void
+boolean Set String[] ResourceSchema ResourceSchema ResourceStatistics ResourceSchema void void void void void
+void ResourceSchema List OutputFormat List void void void void void void void
+Object void Schema
+PyFunction Map String boolean void Map void File
+PyObject PyTuple Object
+boolean DataBag Schema
+void
+JobConf byte[]
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+void
+
+boolean Integer List Schema
+Integer Schema
+void MultiMap Map GROUPTYPE boolean[] List LogicalFieldSchema LogicalSchema boolean void void void void void
+void List LogicalSchema boolean boolean void
+void MultiMap List List LogicalSchema boolean void void void
+void Operator LogicalSchema boolean
+void LogicalExpressionPlan Operator LogicalSchema boolean boolean void
+void LogicalSchema Pair LogicalPlan LogicalSchema boolean void
+Double
+Double
+Double
+void List boolean[] List List LogicalSchema List List boolean void void void void void void void void String
+void int LOForEach ProjectExpression LogicalSchema boolean void void boolean String
+void Collection MultiMap boolean[] List Collection JOINTYPE String LogicalSchema boolean boolean void void void void
+void Operator long LogicalExpressionPlan LogicalSchema boolean void void
+void CastState Configuration LogicalSchema FileSpec long LoadFunc LogicalSchema String LogicalSchema LogicalSchema String boolean boolean boolean void void void void void void void String
+void String String[] LogicalSchema boolean void void
+void List List LogicalSchema boolean boolean boolean void void void void
+void LOSort List Operator long Order LogicalSchema List SortInfo FuncSpec boolean boolean boolean void void void void void
+void LogicalSchema boolean
+void LogicalExpressionPlan long LogicalSchema boolean void void void
+void FileSpec FileSpec FileSpec LogicalSchema String SortInfo StoreFuncInterface boolean boolean void void void
+void CastState ExecutableManager LogicalSchema LogicalSchema StreamingCommand boolean boolean void void
+void LogicalSchema long Set List List LogicalSchema boolean boolean void void
+boolean String List Schema
+LTOrEqualToExpr Result Result String void
+boolean String List Schema
+double long void void void Exception Throwable StackTraceElement long boolean void void PigStats double void void
+boolean String Schema
+void LogicalExpression LogicalFieldSchema boolean
+LessThanExpr Result Result String void
+void LogicalExpression LogicalFieldSchema boolean
+Text List
+void void void void
+RDD
+OperatorPlan Transformer
+void void void int long Comparator boolean boolean Iterator void void void long long String void
+void FuncSpec Map boolean Class void void void void void void void void void void void void void void void void void void void void void void
+IdentityHashMap Collection IdentityHashMap Tuple IdentityHashMap void void void
+Map boolean boolean Map void void void void void void void void void void void void void void void void
+
+void LitePackager boolean[] Result Tuple Tuple boolean void void
+DataBag BigDecimal BigInteger Boolean String DateTime Double Float Integer Long Map Tuple
+JobConf RDD boolean void
+String List InputFormat LoadCaster Tuple String[] List String void String void void void
+Map String Path FuncSpec FuncSpec String String Path FuncSpec FuncSpec String
+String[] ResourceSchema ResourceStatistics LoadMetadata void void
+InputFormat LoadCaster String Tuple LoadFunc void String void void void
+String[] ResourceSchema ResourceStatistics void
+List List void
+List RequiredFieldResponse
+
+OperatorPlan LogicalSchema boolean void void
+List void
+boolean ExecutionEngine Class boolean String String
+Map void
+RDD
+int void void boolean int int int void void long long
+
+POForEach POPackage POMergeCogroup Map PhysicalPlan void void List void void void boolean void void void void void void void void void void void void void void void void void
+Exception PigException void void void void
+LogicalExpression LogicalFieldSchema long byte boolean void void void void String
+LogicalExpressionPlan void boolean List
+void void void void void void void void void void void void void void void void void void void void void void void void void
+void Operator String boolean void void
+String StreamingCommand StreamingCommand String String String String String FuncSpec void String LogicalExpression String String String String String Operator Operator Operator Operator Operator Operator void void Operator Operator Operator String String LogicalExpression LogicalExpression LogicalExpression String String String String String String String String String Tuple LogicalExpression String void void void void String LOCube DataBag LOFilter LOForEach LOGenerate LOCogroup LOInnerLoad LOJoin LOLimit LOFilter LOForEach LOLimit LOSort LORank LOFilter LOSort LOSplitOutput void void String String long long Map LogicalPlan List List void StreamingCommand FuncSpec Operator void String String BigDecimal BigInteger GROUPTYPE JOINTYPE long void void void void void void void void Class int String void
+List int int int List List List void
+alias_return alias_col_ref_return as_clause_return assert_clause_return assert_statement_return bag_return bag_type_return bag_type_cast_return bin_expr_return cache_clause_return case_cond_return case_expr_return cmd_return col_alias_return col_alias_or_index_return col_index_return col_range_return col_ref_return comment_return cond_return const_expr_return cross_clause_return cube_by_clause_return cube_by_expr_return cube_by_expr_list_return cube_clause_return cube_item_return cube_or_rollup_return cube_rollup_list_return define_clause_return distinct_clause_return dollar_col_ref_return dot_proj_return eid_return error_clause_return expr_return field_def_return field_def_list_return filename_return filter_clause_return flatten_clause_return flatten_generated_item_return foreach_clause_return foreach_plan_return func_args_return func_clause_return func_eval_return func_name_return general_statement_return generate_clause_return TreeParser[] String String LogicalPlan Map String[] TreeAdaptor group_clause_return group_item_return group_type_return in_eval_return inline_op_return input_clause_return join_clause_return join_group_by_clause_return join_group_by_expr_return join_item_return join_sub_clause_return join_type_return keyvalue_return limit_clause_return literal_return load_clause_return map_return map_key_return map_type_return mr_clause_return nested_blk_return nested_command_return nested_cross_return nested_distinct_return nested_filter_return nested_foreach_return nested_limit_return nested_op_return nested_op_input_return nested_op_input_list_return nested_proj_return nested_sort_return num_scalar_return op_clause_return order_by_clause_return order_clause_return order_col_return output_clause_return parallel_clause_return partition_clause_return path_list_return pound_proj_return previous_rel_return projectable_expr_return query_return rank_by_clause_return rank_by_statement_return rank_clause_return rank_col_return real_arg_return realias_clause_return realias_statement_return Object Object register_statement_return rel_return rel_list_return rel_op_return rel_op_eq_return rel_op_gt_return rel_op_gte_return rel_op_lt_return rel_op_lte_return rel_op_ne_return rel_str_op_return sample_clause_return scalar_return void ship_clause_return simple_type_return split_branch_return split_clause_return split_otherwise_return split_statement_return statement_return store_clause_return stream_clause_return stream_cmd_return boolean void boolean void boolean void boolean void boolean void tuple_return tuple_type_return tuple_type_cast_return type_return type_cast_return union_clause_return var_expr_return
+void List void
+void void void void void void
+void
+void void void void void void void void void void void void void void void void void void void
+void boolean void String String int int LogicalSchema boolean void void void void void void void void String
+void boolean void LogicalSchema boolean int LogicalFieldSchema LogicalFieldSchema int LogicalFieldSchema List boolean boolean boolean LogicalSchema String LogicalSchema LogicalSchema LogicalSchema void void int String String
+
+boolean Long Schema
+void void Tuple long Double String String String Double Schema Long
+
+
+
+Integer void Schema
+List
+List
+void void void MROperPlan void void void MapReduceOper MapReduceOper FileSpec POLoad MapReduceOper MROperPlan CompilationMessageCollector NativeMapReduceOper PhysicalPlan Pair Pair Pair Pair[] MapReduceOper POStore FileSpec boolean List void void void MapReduceOper void void void void void void void void void void void void void void void void void void void void void void
+
+
+boolean ExecutionEngine Class boolean String String
+PigStats ScriptState
+Set void
+void void void void void void void void void String String long long Counters String String Counters String long long long long long long Map Map int int long long long long long Iterator TaskStat void void void void void
+void
+String
+void MRJobStats JobStats MRJobStats MRJobStats MRJobStats void long void void void void
+void void
+void void MRScriptState String String String void void void
+TaskInputOutputContext Counter Counter boolean boolean void void
+void void void void void void void void void InputSplitInfoDisk
+POForEach void
+void SupportedScriptLang boolean List String String String String String int String String void Properties void PigProgressNotificationListener void void int int BufferedReader void String
+List boolean String
+boolean Set boolean OperatorPlan
+void LogicalExpression LogicalFieldSchema String LogicalExpression boolean String
+
+void FileSpec void List List long long String Map void void void void
+MROperPlan void void void Exception void void void PigStats boolean boolean boolean
+boolean POCounter POCounter String String String ArrayList int boolean[] boolean String boolean[] String POUnion boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean void void void void void String boolean void void void void void void void void void void void void void void void void void void String boolean boolean void boolean void
+void StoreFuncInterface void void
+int int
+boolean boolean boolean
+boolean Long Schema
+void void Tuple String String String Tuple Tuple Tuple Schema
+RDD
+OperatorPlan Transformer
+OperatorPlan Transformer
+RDD
+InputFormat LoadCaster Tuple void void
+boolean RuntimeException boolean
+float int float float
+boolean Long List Schema
+MiniCluster ExecType Launcher void void
+void
+MiniGenericCluster MiniGenericCluster void void Configuration ExecType FileSystem Launcher Properties void void void void void void
+boolean Long List Schema
+Mod Result Result Result Result Number String void
+void LogicalExpression LogicalFieldSchema boolean
+double[] int Class float[] int[] long[] String[] TimeUnit
+Object Object void
+boolean Long List Schema
+Double Schema
+Double Schema
+
+void boolean boolean List boolean Set void void V Collection int String Collection
+int void PhysicalPlan PODemux MapReduceOper List POPackage POSplit POStore boolean boolean boolean boolean boolean boolean int void int void int int void void int void void void void boolean void int void void void
+void POSplit List void void void void
+void void void void
+void void void List Result int List Tuple boolean boolean void void
+OutputFormat void void void Boolean
+Multiply Result Result Result Result Result Result Result Number String void
+void LogicalExpression LogicalFieldSchema boolean
+Pattern
+Map
+Integer
+Double List Schema
+DataBag List Schema
+String String int String[] String void void
+String String int String[] void
+String String int String[] String void void
+void LogicalExpression LogicalFieldSchema boolean
+OperatorPlan Transformer
+LogicalRelationalOperator List
+String
+void void Node int Node void void
+NodeIdGenerator long void void
+Map
+Long
+boolean
+DataBag DataBag DataBag DataBag DataBag
+
+LogicalExpression String
+void void void int boolean long int boolean boolean Iterator void void void long long String void
+Boolean List
+
+void
+void
+void void
+void LogicalExpression LogicalFieldSchema boolean
+NotEqualToExpr Result Result String void
+void LogicalExpression LogicalFieldSchema boolean
+Object
+Object
+Object
+Object
+Object
+Object
+Object
+Object
+Object
+Object
+NullablePartitionWritable int byte PigNullableWritable int Object int boolean void void void void void String void
+Object
+Object void
+Object
+String
+void ObjectCache ObjectRegistry Object void
+byte[] Object String String
+void void Object SourceLocation String OperatorPlan boolean Object void void
+int boolean OperatorKey OperatorKey long String int String
+void void void void Pair Iterator List List List List List List void boolean boolean void void void void int
+P E OperatorKey P P PlanAndGraphEntry
+void void void void Pair OperatorPlan Iterator List List List List List List void boolean boolean void void void void int
+void String void void void void void void void void void void void void void void void void void void void void void void void void void void String void void void void void void void void void void void void void void void void void
+
+LOGenerate boolean boolean boolean
+void LogicalExpression LogicalFieldSchema boolean
+void void void void String Object List Path InputFormat Tuple OutputFormat String[] List String String String ResourceSchema Object List SearchArgument List ResourceStatistics List TypeInfo TypeInfo void void RequiredFieldResponse void String void void void void void void
+int
+int
+
+List
+WritableComparable
+void void Result boolean Tuple void void
+void void Tuple OutputType byte[] boolean byte[] boolean
+String
+String
+String long Configuration String String String String long POStore long boolean Iterator void void void void void
+DataBag void Schema
+void boolean
+POAnd Result String void
+void POBinCond Result List ExpressionOperator ExpressionOperator Result Result Result Result Result Result Result Result Result Result Result Result Result ExpressionOperator Tuple String void void void boolean void
+void void POBloomFilterRearrangeTez Result String[] boolean String void void
+String Tuple String void boolean boolean void
+void void POBuildBloomRearrangeTez boolean Result int String[] String void void void void void
+POCast Object Result List FuncSpec Result Result Result Result Result Result Result Result Result Result Result Result Result Tuple void String void void void boolean void
+List Result Result Tuple String boolean void
+void Tuple byte Result List Result Tuple boolean String void void void void boolean boolean void
+Result void POCounter List List Long Result String int Tuple Long void boolean boolean String void void void void void void void void boolean boolean void
+void void void Result String[] String[] Tuple String void void void void boolean boolean void
+void Result String[] void void String void void void void
+void void Tuple Result Tuple boolean String void boolean boolean void
+void PhysicalOperator Result List Result Tuple boolean String Result void boolean boolean void
+PODistinct String Result Tuple boolean String void void boolean boolean void
+POFRJoin void OperatorKey int List POLocalRearrange[] Result FileSpec[] Tuple Tuple boolean boolean String void void void void boolean boolean void
+void void String void
+void void POFRJoinTez List String[] String void void
+PhysicalOperator Result PhysicalPlan Tuple String void boolean boolean void
+void void POForEach Tuple void String List void Result List PhysicalOperator[] List Tuple Tuple boolean boolean boolean String boolean Result void void void void void void void void void boolean boolean void
+String Tuple boolean boolean String void void boolean boolean void
+boolean[] boolean void void
+void void void Result String[] String void void
+POIsNull Result String void
+POGlobalRearrangeSpark List POPackage List Tuple String void boolean boolean void
+POLimit long PhysicalPlan Result Tuple String void void void boolean boolean void
+List FileSpec long LoadFunc Result PigContext List String Tuple boolean String void void void void void void void void boolean boolean void void
+void POLocalRearrange Tuple void byte Object byte byte Result List Map Map Tuple boolean boolean boolean boolean boolean boolean boolean String void void void void void void void void void void void boolean boolean void
+void POLocalRearrangeTez boolean Result Result String[] boolean boolean String void void void void
+POLocalRearrangeTez POLocalRearrangeTez POLocalRearrangeTez POLocalRearrangeTez
+POMapLookUp List String Result Result Result Result Result Result Result Result Result Result Result Result Tuple String Result void boolean void
+Tuple Comparable FuncSpec String List Result Result Tuple boolean String boolean void List void void void void void void void void void boolean boolean void
+void Object OperatorKey String List JOINTYPE POLocalRearrange[] Result Result Result String Tuple boolean String TuplesToSchemaTupleList void void void void void void void void void boolean boolean void void
+boolean String String[] Tuple String void void boolean boolean void void
+PONegative Result Result Result Result Result Result Tuple String void
+PONot Result String void
+void void
+POOptimizedForEach Result String void
+POOr Result String void
+void POPackage void Result int Packager Tuple String int void void void boolean boolean void
+void int void
+void void int void void void void void PhysicalOperator List Tuple void void void Tuple PhysicalPlan long Result Result Result List Tuple void boolean String void void boolean boolean boolean long Result void boolean boolean void
+POPartitionRearrange DataBag Result PigContext void String void
+POPartitionRearrangeTez DataBag Result void String
+Result Result Tuple String boolean boolean void void
+Result boolean String void
+void POPreCombinerLocalRearrange Tuple byte Result List Tuple String void void boolean boolean void
+
+void void POProject Result List int ArrayList Result Result Result Result Result Result Result Result Result Result Result Result Result Result Tuple int Tuple boolean boolean boolean boolean String Result void void void void void void boolean boolean void
+Result PORank List Result String Long List Tuple String void void void boolean boolean void
+void void Result Long String[] String void void void void
+Result Tuple String boolean boolean void
+String String POLocalRearrange POPackage boolean[] boolean String void void void
+PORegexp Result String void void void
+PORelationToExprProject Result String void void
+Result Result Result Tuple String Result boolean boolean void
+Tuple String boolean boolean void
+void void void Result String[] boolean void void void boolean
+void void void Result String[] Tuple String void boolean boolean void
+void void Result String[] void void void
+void boolean[] MultiMap Schema Tuple String void boolean boolean void
+POSort long List Comparator POUserComparisonFunc Result List Tuple boolean boolean String void void void void void boolean boolean void
+Result String
+void POSplit Result List FileSpec Result Tuple String Result void Result void boolean boolean void
+
+void boolean List int FileSpec Result FileSpec Schema List String SortInfo StoreFuncInterface StoreFuncDecorator Tuple boolean boolean String void void void void void void void void void void void void void void void boolean boolean void void
+void StoreFuncInterface void
+void Result String String[] void String void void
+PhysicalOperator void BlockingQueue BlockingQueue StreamingCommand boolean Result Result Properties Tuple boolean String void void void boolean boolean String void
+void Result Tuple String void boolean boolean void
+void POUserComparisonFunc List ComparisonFunc FuncSpec Result Result Result Result Result Result Result Result Result Result Result Result Result Result Tuple void String void boolean void
+POUserFunc boolean void void List List String EvalFunc FuncSpec String String Result Result Result Result Result Result Result Result Result Result Result Result Result Result Type PhysicalOperator Type List String boolean Tuple void Boolean boolean String boolean Schema Result void void void void void void void void void void void void boolean boolean void
+void void Result String[] Tuple String void void boolean boolean void
+void void boolean Result String[] Tuple void boolean boolean String void void void void boolean boolean void
+Double
+RDD
+void void Packager void DataBag Illustrator boolean[] Object Object Tuple Map boolean byte Result int int PackageType boolean Tuple Tuple Tuple boolean String int void void void void void void void void void void void Tuple
+boolean int String
+void
+void
+boolean void void void void void void ParseException Token Token Token void int void String
+
+void void void void Token void boolean void void void Token int int int int int void
+String
+void void void
+List void RequiredFieldResponse void
+void void
+String String
+String
+Throwable String
+Class
+KeyState boolean boolean
+OperatorPlan Transformer
+Pair Map long boolean
+Map
+void void void void void void void void
+boolean Set void Map List void void
+Set Map void void String[]
+void Class Object boolean boolean boolean void void void void String
+PatternPlan boolean boolean boolean void void
+void void void
+void void PerformanceTimerFactory PerformanceTimer
+void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
+void void void PhysicalOperator void List void void String String Illustrator List Log Result Result Result Result Result Result Result Result Result Result Result Result Result Result List PhysicalPlan PigLogger PigProgressable int byte boolean boolean boolean boolean boolean Result void void void void void void void void void void void void void
+void PhysicalPlan void void void void void boolean void void void void String
+void
+void void BoundScript BoundScript BoundScript Pig Pig Pig Pig void String int String String ScriptPigContext String void void String void int
+PigATSClient String void
+void Object Object Object Object Object Object Object Object Object
+Iterator long Object boolean NullPointerException int boolean void void void void void void void void void
+RecordReader List
+RecordWriter void
+void NullWritable Writable long float void boolean Tuple Tuple
+void void
+int int Configuration void
+int int Configuration void
+int int Configuration void
+int int Configuration void
+
+void
+int boolean boolean List
+int List
+
+
+void void void void void void void void ClassLoader ExecutableManager String String String BufferedReader BufferedReader Map Class ClassLoader StreamingCommand Properties Level int DataStorage byte ExecType ExecutionEngine DataStorage FuncSpec String DataStorage Properties ArrayList List Map List List PreprocessorContext Properties Map boolean void void Object Object Object T void void void void Class void void void void void void void void void void
+void void
+
+int int Configuration void
+int int Configuration void
+byte String int byte boolean SourceLocation boolean boolean boolean boolean boolean void void void void void void String
+DataBag void String
+List
+void void void void void void void ParseException Token Token String String void boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean void Token void void void int void void boolean String String void void void String String void void
+
+void void void void void void Token int void boolean void void void Token int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int void void
+int int Configuration void
+void void Context byte boolean void void void void void
+void
+void void
+boolean PigHadoopLogger void void void
+
+InputSplit RecordReader LoadFunc String List List void void
+RecordReader List void void
+RecordReader
+int int Configuration void
+State void LinkedList ThreadState int void void void State
+IRubyObject void RubyBoolean RubyFloat RubyFloat RubyFixnum RubyFixnum IRubyObject RubyString RubyHash RubyDataBag RubyDataByteArray RubyArray RubySchema DataBag DataByteArray Schema Tuple Long Boolean Long Double Map Integer Object String Object
+void
+int int Configuration void
+String String Set int CommonTree boolean CommonTree CommonTree boolean boolean boolean void void void void void String void void
+Context boolean
+
+
+
+PigNullableWritable int boolean byte Object int boolean void void void String void
+void void void void void List boolean boolean void JobContext TaskAttemptContext void void void
+void void OutputCommitter RecordWriter List boolean void void
+OutputCommitter RecordWriter void
+Tree String List InvocationPoint int void
+Object
+LoadCaster
+void void void void void void void void void
+void void void void void void void void void
+void void
+String
+void Text Tuple String float boolean void boolean
+int
+PigStats
+Schema Schema Schema Schema String boolean void Schema Schema Schema
+void void Token Token Token Token Token Token void void void void void void void void void boolean ParseException int Token Token void Token void void void void void int void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void String
+
+void void void void void void Token int void boolean void void void Token int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int void void void
+int int Configuration void
+int int int
+List
+Properties void void void LogicalPlan void long String void void boolean void Schema Schema PigStats List List PigStats boolean void void long Set Map Graph Graph Map String String List String LogicalPlanData LogicalRelationalOperator PigContext boolean boolean boolean PigStats String[] URL void boolean Iterator List void void void void void void void void void void void void void void void void void boolean void void void void void void void void ExecJob ExecJob PigStats
+boolean Configuration int long long SplitLocationInfo[] String[] int int List int InputSplit InputSplit boolean void Object void void void void void String void void
+PigStats List Map long String long int String Throwable String String String List JobClient JobGraph long int int long int String List List List PigContext Properties String long long long int long String String boolean boolean OutputStats void void void void void void PigStats void
+long boolean
+PigStats String String PigStats String boolean void void void void
+Counter Counter PigStatusReporter float boolean boolean boolean boolean void void void void
+void Tuple void void void void boolean boolean List InputFormat Tuple OutputFormat String[] ResourceSchema ResourceStatistics int Options void void RequiredFieldResponse void DataByteArray String void void void void void void boolean void void
+
+
+LoadCaster
+String[] ResourceSchema ResourceStatistics String void void
+Long ResourceStatistics void
+Tuple LoadCaster WritableByteArray
+Tuple Tuple LoadCaster byte[] WritableByteArray
+Tuple Object DataBag Map Tuple String LoadCaster byte[] WritableByteArray
+List
+RecordWriter
+int int Configuration void
+void void void void
+byte[]
+int int int Configuration boolean void
+int int int Configuration void
+boolean boolean
+
+
+void void void void void void MultiMap Collection Collection boolean void PlanDumper void
+void Pair PlanEdge
+
+Throwable Exception String
+boolean PhysicalPlan LinkedList String
+void void
+void void String String void String String void void String void void void void void void void void
+void void int Map void boolean boolean
+void
+
+OperatorPlan void void void
+OperatorPlan void PlanWalker void
+boolean Tuple Schema
+RDD
+Tuple Tuple void void
+void boolean void PlanWalker void
+KeyState boolean boolean void
+OperatorPlan Transformer
+String Map void void void boolean String void void void void void void String String void
+OUT OUT Class
+void void void
+List void void List void LogicalExpressionVisitor void void
+void LogicalExpression int LogicalRelationalOperator LogicalRelationalOperator String int int LogicalFieldSchema int Operator int byte boolean boolean boolean boolean void void void void void void void void String
+LogicalExpressionPlan List List void ProjectExpression ProjectExpression void void void void void void
+Pair
+boolean List boolean MultiMap List void void void void String
+void
+Properties void void void void
+OperatorPlan Transformer
+OperatorPlan Transformer
+List Map String Map void
+Lexer[] String String String void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void boolean void
+after_left_paren_return and_cond_return as_clause_return assert_clause_return bracket_expr_return cache_clause_return cast_expr_return cmd_return col_range_return col_ref_return col_ref_list_return col_ref_without_identifier_return cond_return cross_clause_return cube_clause_return cube_rollup_list_return curly_expr_return Tree define_clause_return distinct_clause_return eid_return eid_without_columns_return error_clause_return explicit_bag_type_return explicit_bag_type_cast_return explicit_field_def_return explicit_map_type_return explicit_tuple_type_return explicit_tuple_type_cast_return explicit_type_return explicit_type_cast_return expr_return field_def_return field_def_list_return filter_clause_return flatten_clause_return flatten_generated_item_return foreach_plan_complex_return foreach_plan_simple_return foreach_statement_return func_args_return func_args_string_return func_clause_return func_name_return func_name_suffix_return func_name_without_columns_return general_statement_return generate_as_clause_return Parser[] String String String String String[] TreeAdaptor group_clause_return group_item_return group_item_list_return identifier_plus_return implicit_bag_type_return implicit_map_type_return implicit_tuple_type_return implicit_type_return import_clause_return inline_clause_return inline_param_clause_return inline_return_clause_return input_clause_return invoker_func_return join_clause_return join_group_by_clause_return join_item_return join_sub_clause_return join_type_return keyvalue_return limit_clause_return literal_return literal_bag_return literal_map_return literal_tuple_return load_clause_return macro_body_clause_return macro_clause_return macro_content_return macro_param_clause_return macro_return_clause_return map_type_return mr_clause_return multi_expr_return nested_blk_return nested_command_return nested_cross_return nested_distinct_return nested_filter_return nested_foreach_return nested_limit_return nested_op_return nested_op_clause_return nested_op_input_return nested_op_input_list_return nested_proj_return nested_sort_return not_cond_return op_clause_return order_by_clause_return order_clause_return order_col_return order_col_list_return output_clause_return parallel_clause_return parameter_return paren_expr_return partition_clause_return path_list_return previous_rel_return projection_return query_return rank_by_clause_return rank_by_statement_return rank_clause_return rank_col_return rank_list_return real_arg_return realias_clause_return Object Object register_clause_return rel_return rel_list_return rel_op_return rel_str_op_return reserved_identifier_whitelist_return rhs_operand_return sample_clause_return scalar_return schema_return void ship_clause_return simple_type_return split_branch_return split_branches_return split_clause_return split_otherwise_return statement_return store_clause_return stream_clause_return stream_cmd_return stream_cmd_list_return boolean void boolean void boolean void boolean void try_implicit_map_cast_return tuple_type_return type_return unary_cond_return union_clause_return
+void void boolean Tree String String FetchFileRet Map PigServer void void PigMacro LogicalPlan Tree Object Tree LogicalSchema Tree CommonTokenStream void void void Tree
+int
+int
+int
+void String QueryParser QueryParser String Path File Set String void void
+Double Schema void
+RDD
+boolean String List Schema
+boolean Tuple List Schema
+boolean DataBag Schema
+boolean String List Schema
+String List Schema
+Double
+boolean Long List Schema
+boolean Double List Schema
+boolean String List Schema
+Tuple Tuple void
+RDD
+void void void int boolean long int boolean boolean Iterator void void long long void
+Object void
+void void Object String[] void
+InputFormat LoadCaster Tuple Tuple String[] ResourceSchema ResourceStatistics void boolean void void void void void
+Object Boolean ByteBuffer Schema Double Float Integer CharSequence Long Void Schema Builder Builder Builder void void void void void void void void void
+RDD JavaRDD
+InputFormat Tuple Pattern void void
+void LogicalExpression LogicalFieldSchema boolean
+String List Schema
+Tuple List Schema
+Integer
+boolean
+RegexImpl int boolean int void
+Integer List Schema
+boolean void URI[] boolean
+void
+
+Integer
+Pair List MapKeysInfo boolean boolean void void void boolean boolean void void void void void void int String
+void
+String
+boolean String[] ResourceFieldSchema[] Order[] int[] int ResourceSchema ResourceSchema ResourceSchema ResourceSchema void String
+Object boolean Long ResourceFieldStatistics[] Long Long Long int void ResourceStatistics ResourceStatistics void ResourceStatistics String
+String
+String Schema
+void PlanWalker void
+void PlanWalker void
+boolean boolean E void void
+boolean DataBag void Schema
+Configuration int void
+void void RubyDataBag RubyClass IRubyObject IRubyObject DataBag RubyDataBag RubyDataBag RubyString RubyBoolean RubyBoolean RubyBoolean Iterator RubyFixnum
+void RubyFixnum RubyFixnum RubyClass RubyBoolean DataByteArray IRubyObject RubyDataByteArray RubyDataByteArray RubyDataByteArray IRubyObject void RubyFixnum IRubyObject
+RubySchema void RubySchema RubySchema RubySchema RubyClass Schema RubySchema void RubySchema RubySchema RubySchema Schema RubyString RubyFixnum RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema RubySchema Schema RubySchema void RubyString void RubyFixnum RubyString RubySchema RubySchema
+OperatorPlan String Transformer OperatorPlan boolean boolean boolean List void
+void void int boolean void
+Double List Schema
+Double List Schema
+Double
+Double
+boolean Long List Schema
+boolean String SchemaType Schema
+Double
+boolean Boolean List Schema
+boolean Tuple List Schema
+boolean DataBag List Schema
+boolean String List Schema
+List
+void InputFormat LoadCaster int void String void void void boolean
+void void void
+void LogicalExpression Operator LogicalFieldSchema Operator void void String
+List void
+void void
+LogicalExpressionVisitor
+void void boolean void Schema boolean boolean FieldSchema Schema Set FieldSchema FieldSchema FieldSchema FieldSchema List Schema int int int int void boolean Schema String FieldSchema String Schema Schema Schema Schema Schema Schema String void void void void int void void String String
+void void void void void void void void void void void void void void void void void void
+
+
+void
+void void void void void void void void void void void void void void void void void void void void void
+void Boolean DataByteArray Double Float Integer String BigDecimal BigInteger Map Long DataBag Tuple DateTime int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int int boolean void int int BigDecimal BigInteger boolean byte[] DataBag DateTime double Object float int long Map String Tuple int boolean[] void SchemaTuple void void void void void void void void void void void void void SchemaTuple void void int void Object List BigDecimal BigInteger boolean byte[] DataBag DateTime double float byte long int long Map long SchemaTupleQuickGenerator String int String Tuple byte Object int int int int int int int int int int int int int int boolean boolean boolean byte[] double float int String BigDecimal BigInteger Map long DataBag DateTime void void boolean byte[] double float int String BigDecimal BigInteger Map long DataBag Tuple DateTime int void SchemaTuple SchemaTuple SchemaTuple SchemaTuple SchemaTuple void void void void void void void void void void void void void SchemaTuple void void void int Schema boolean double float int long boolean byte[] double float int String BigDecimal BigInteger Map long DataBag Tuple DateTime Map DataBag byte[] DateTime BigDecimal BigInteger boolean byte[] DataBag DateTime double float int long Map String Tuple void void void void void void void void void void void void void void void
+void void void void void SchemaTupleFactory SchemaTupleFactory SchemaTupleFactory SchemaTupleFactory SchemaTupleFactory void void
+void void int int String void
+SchemaTupleFactory SchemaTupleFactory SchemaTupleFactory SchemaTupleFactory boolean boolean SchemaTuple SchemaTuple Class
+void Map int void int void void
+void void Schema Schema Schema Schema Schema Schema List Schema Schema Schema Schema Schema Schema
+double double DataBag Schema
+boolean ScriptEngine String Map Map InputStream InputStream String SupportedScriptLang Map void Map void void
+ScriptPigContext PigContext ScriptEngine ScriptPigContext
+long void void void void void void void void void String ScriptState List String String String String PigContext String String String String void void void void void void void void void ScriptState ScriptState
+String String String Map boolean boolean void void void
+String List
+String String List Schema
+String List String
+boolean int int int SortKeyInfo void void
+int int int void
+PhysicalPlan int int int PhysicalPlan void
+int int int void
+SecondaryKeyOptimizerInfo boolean PhysicalOperator SortKeyInfo void
+Configuration int void
+RDD
+boolean Long List Schema
+void void
+boolean[] byte[] String Tuple void void void void void
+void long
+
+void void void InputFormat Tuple OutputFormat String[] ResourceSchema ResourceStatistics void void void String void void void void
+InputFormat Tuple byte void void void void Object
+char void void void String char[] void void void void void void void void void void void void int int int int int int int char void
+void
+int
+int
+int
+void void void Node int Node Object void void void String String
+MRJobStats MRJobStats void void List Map String JobClient JobControlCompiler long long long void boolean boolean boolean void
+void void void int boolean long int boolean boolean Iterator void void long long String void
+long long long
+SkewedJoinPartitioner RDD void JavaRDD OperatorKey Map void
+Configuration int void void
+void
+boolean int String Order int String
+RDD
+boolean List int boolean String
+void
+boolean[] List void boolean String
+boolean boolean Iterator long
+long
+String int PigParserNode int String
+void void void void void void SparkOperator FileSpec POLoad NativeSparkOperator SparkOperator SparkOperator Pair[] SparkOperator SparkOperator SparkOperPlan POStore FileSpec SparkOperator void void SparkOperator void void void void void void void void void void void void void void void void void void void void void void
+
+AccumulatorParam String String T void void
+void SparkCounter String String Map void
+boolean void void void void SparkCounter SparkCounter SparkCounterGroup Map Object boolean boolean void void
+void void void
+boolean ExecutionEngine Class boolean String String
+boolean
+ExecutableManager PigStats ScriptState
+void void void void Map long long String Counters String long long long long long long Map Map int int long long long long long Map Map void void void void
+void void void void void void void SparkOperPlan void void String String void void void PigStats void void void void void void void void
+boolean boolean String
+ExecType Launcher
+void
+String
+void void void boolean void List MultiMap int String String boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean void void void void void void void void void String void void void void void void boolean boolean void boolean void
+void
+Set Set void
+SparkPigContext ConcurrentHashMap int int void
+void
+boolean long SplitLocationInfo[] int int PigSplit InputSplit InputSplit boolean void void void
+void void void void void void List Map String JobClient int long long long void void boolean
+void SparkCounters SparkPigStatusReporter void void
+void void
+RDD
+SparkScriptInfo void
+PhysicalOperator
+void void void int String String SparkJobInfo long long boolean void
+void void void ClassTag Partitioner ClassTag ClassTag JobConf Seq
+long long
+void void void SpillableMemoryManager void void void
+
+RDD
+OperatorPlan Transformer
+
+DataBag Schema
+DataBag void void void Data InputFormat LoadCaster Tuple OutputFormat String[] ResourceSchema ResourceStatistics void Map void void void String String Data Data Schema void void void void void void void Tuple
+Tuple byte String void void void void Tuple void
+void
+byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+FromTupleFunction POStore RDD
+void void void void OutputFormat void void String void void Boolean void
+boolean StoreFuncInterface void void
+void void void OutputFormat void void String void void
+void StoreMetadata void void
+void void void String OutputFormat void void String void void void StoreFuncInterface
+void void
+List List
+RDD
+void void void void
+Tuple LoadCaster
+OperatorPlan LogicalSchema boolean void void
+void void void Object List String[] String List HandleSpec String int HandleSpec boolean boolean List void void void void void void void void String
+void void boolean boolean String[]
+byte[] byte[] byte[] byte[] byte[] byte[] byte byte[] byte[] byte[] byte[] byte[] boolean int
+byte[]
+String[] void void Object String Object String void boolean Schema void void StreamingCommand
+String Integer String String
+
+byte[]
+int
+void ProcessBuilder void void
+boolean String SchemaType Schema
+void void String String String String String String Schema
+void void String String String String String String Schema
+boolean Long Schema
+Tuple void
+
+String[] String String
+
+String Schema
+boolean String DataBag DataBag DataBag Set
+boolean DateTime List Schema
+void LogicalExpression LogicalFieldSchema boolean
+void
+Tuple Schema
+void void void void void void void void void
+Double
+Double
+void Text Tuple float void boolean
+void void
+void void void InputFormat Tuple OutputFormat String[] ResourceSchema ResourceStatistics int void void void String void void void void
+boolean DataBag boolean Schema
+DataBag boolean Schema
+boolean DataBag List Schema
+boolean Map Schema
+int boolean int void String void
+void int boolean Object List long List byte int void void void void int String Tuple void
+T Counter Counter float boolean boolean void void
+boolean
+DataBag BigDecimal BigInteger Boolean String DateTime Double Float Integer Long Map Tuple InputFormat LoadCaster Tuple void void byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+void void POLocalRearrangeTez void TezOperPlan void POSplit void FileSpec POLocalRearrangeTez Pair POPackage TezPlanContainer Pair Pair[] TezOperator[] FileSpec TezOperator TezOperPlan TezOperator void void void boolean void void void void void void void void void void void void void void void void void void void void void void
+
+boolean void TezEdgeDescriptor void void void POForEach POForEach POStore boolean void void void void
+void void Counters long long String Counters String long long long long long long Map Map int int long long long long long TezVertexStats void void
+void void Class Class Class Class String boolean void EdgeProperty GroupInputEdge Vertex LinkedList void void void void boolean void
+Boolean Boolean String String String boolean[] boolean boolean void void void void void void void void
+void
+boolean ExecutionEngine Class String boolean String String
+JobConf PigStats ScriptState
+void void String[] void
+ApplicationId Configuration DAG TezCounters float DAGStatus String String Map VertexStatus void void void
+void DAG TezJob String TezJob
+TezPlanContainer void void void void void void PigStats void void
+boolean boolean String
+void ExecType Launcher void void void
+void
+int TezOperator void
+void void void void boolean Credentials int Map List void void void String
+void void void boolean void List int int LoaderInfo double String int TezOperator TezOperator boolean[] OperatorKey long String List VertexGroupInfo List Map int boolean boolean boolean boolean boolean boolean boolean boolean boolean Boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean boolean void void void void void void void void void void void void void void void void void String boolean void void void void void void void void void void void void void void void void void void void void void void String boolean boolean String void
+void String[] void
+void int void
+Set Set void
+Set Set void
+int void
+void TezDAGStats void void List Map String JobClient long long long TezVertexStats void boolean
+void void OperatorKey void Set Map TezPlanContainerNode POLoad POStore void void String void
+boolean TezOperPlan int String boolean boolean String void
+void void void
+Set void
+void
+void void
+void Path Map void TezResourceManager Path Map void
+Map
+void void void void void void void TezScriptState TezDAGScriptInfo void TezDAGScriptInfo void void
+void SessionInfo void TezClient void void boolean boolean
+void
+ProcessorContext Counter Counter boolean boolean
+void void void void void
+TezPlanContainer TezPlanContainer
+void void void void long long Map String Counters String long long long long long long Map Map int int int long long long long long boolean void
+double boolean void void
+boolean String DateTime DateTime DateTimeZone List Schema
+boolean DateTime
+boolean DateTime
+boolean DateTime
+String List Schema
+boolean Long List Schema
+boolean String List Schema
+boolean Tuple Schema
+boolean Long List Schema
+Object Token Token String
+String String String
+PigPlans void List
+void void boolean List String String String DataBag Schema void
+boolean OperatorPlan void
+void
+Schema InputFormat OutputFormat
+boolean String List Schema
+void Object List long byte boolean void void int String
+TupleFactory boolean Tuple Tuple Tuple Tuple Tuple void Class Class
+String
+A A
+boolean
+boolean Long Schema
+void String[]
+BigDecimal BigInteger boolean byte[] DataBag DateTime double float int long Map Schema String Tuple void void void void void void void void void void void void void
+LogicalSchema Transformer boolean void void
+
+void void FuncSpec FuncSpec boolean void void FuncSpec FuncSpec FuncSpec long String List void void void void boolean boolean void void void void void void void void void void void void void void void void void void void void void void void
+byte byte LogicalSchema void LOForEach boolean boolean boolean void void void void void void void void void void void void void void void void void void
+Class String Class List void void void
+void UDFContext void void UDFContextKey Properties Properties Configuration UDFContext Properties Properties HashMap boolean boolean void String void void void void
+void Set void void void void void void void void
+boolean void
+List void List void void
+void
+Set void
+Double List Schema
+boolean String List Schema
+Map Schema
+boolean String Schema
+Set Set void void void void
+void Boolean
+String List
+void void void void void void void void void void void void void void void void void void
+void byte Tuple void
+LogicalExpression
+void List ExpressionOperator void void boolean
+String String
+RDD
+void
+PhysicalPlan void void void void void PhysicalPlan boolean boolean void void
+String Schema
+String List Schema
+void int Object List long void void int void
+boolean boolean
+void LogicalExpression List EvalFunc LogicalFieldSchema FuncSpec String void boolean boolean boolean void String
+DataBag BigDecimal BigInteger Boolean String DateTime Double Float Integer Long Map Object Tuple DataBag Object Map Tuple char Object boolean byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[] byte[]
+LOForEach Schema LinkedList LogicalFieldSchema FieldSchema LogicalSchema Schema
+void void void String Path void String void void
+boolean DataBag Schema
+boolean DataBag int Schema
+HashMap DataBag Schema
+
+boolean Long List Schema
+void Configuration ArrayList int PigNullableWritable float[] void void
+int void
+OperatorPlan List
+void
+IOException IOException
+byte[] int
+int
+Tuple InputFormat Tuple void void
+void void
+Element Element Node void void void void void void
+void void
+String List boolean
+String Tuple List boolean
+void void void
+boolean Long List Schema
+Double List Schema
+Integer List Schema
+Double List Schema
+Double
+Double

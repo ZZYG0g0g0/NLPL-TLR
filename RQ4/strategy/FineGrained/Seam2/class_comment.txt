@@ -1,0 +1,1156 @@
+Nasty nasty hack because hsqldb doesn't support date arithmetic and we actually want to deploy with usable test data.
+
+Abstract base class for {@link DeploymentHandler} providing common functionality
+Abstract Dispatcher implementation
+
+Helper class to load entities for the entity converter
+Abstract superclass for Seam components that act as servlet filters. Note that since a filter is potentially called outside of a set of Seam contexts, it is not a true Seam component. However, we are able to reuse the functionality for component scanning, installation and configuration for filters. All filters must specify the @Filter annotation to be included by Seam's master filter.
+
+Superclass of built-in interceptors
+
+Base helper implementation of Mutable
+Provides a default implementation of PersistenceProvider methods where possible Other methods must be implemented
+Resource class used by ResourceHome and ResourceQuery components. Contains information about path, media types and entity class the component operates on.
+Abstract base class for {@link Scanner} providing common functionality This class provides file-system orientated scanning
+Base implementation of UserTransaction
+
+
+
+
+
+
+
+
+
+
+An example of a Seam component used to handle a jBPM transition event.
+
+
+Utility class for creating JMX agent identifiers. Also contains the helper method for retrieving the <tt>AgentID</tt> of an existing MBean server instance.
+A Seam filter component wrapper for the Ajax4JSF. This class exists to allow the Ajax4JSF filter to be configured in the web: namespace. The subclass does the actual work.
+
+
+A convenience class for working with an annotated property (either a field or method) of a JavaBean class.
+
+Implements @HttpError
+Implements @Redirect
+
+RESTEasy and JAX-RS configuration, override in components.xml to customize RESTful request processing and RESTEasy settings.
+Application context - state associated with a deployment to a particular node. State is typically neither persistent across deployments, not replicated to other nodes.
+Synonym for javax.ejb.ApplicationException, for use in a pre Java EE 5 environment.
+Synonym for javax.interceptors.AroundInvoke, for use in a pre Java EE 5 environment.
+Synonym for javax.interceptors.AroundTimeout.
+A JSF DataModel for arrays.
+
+
+
+This shows how to do a a "composite" widget in GWT, as well as how to call back to the server.
+Marks a method as an asynchronous method, to be dispatched by the EJB3 TimerService. If the method returns Timer, the return value will be the Timer used for dispatching the method call. Otherwise, the method should return void. Note that asynchronous calls are processed in a different EVENT, SESSION and CONVERSATION context to the caller, so the actual receiving object may be a different instance of the component to the object that was called.
+An asynchronous event
+
+Dispatches method calls to @Asynchronous methods asynchronously, and returns the "timer" object if necessary.
+An asynchronous method invocation.
+
+Converter for java.util.concurrent.atomic.AtomicBoolean
+Converter for java.util.concurrent.atomic.AtomicInteger
+Converter for java.util.concurrent.atomic.AtomicLong
+
+This component is used to create new auctions, and is invoked via both the web interface and the AuctionService web service.
+
+
+
+
+
+
+
+
+Seam Servlet Filter supporting HTTP Basic and Digest authentication. Some code adapted from Acegi.
+
+
+
+
+Thrown when an authenticated user has insufficient rights to carry out an action.
+Specifies that the annotated component should be automatically instantiated whenever it is asked for, even if @In does not specify create=true. If this annotation appears at the package level, it applies to all components in the package.
+Wrapper for collections, arrays, etc.
+
+
+
+
+<p>Encodes and decodes to and from Base64 notation.</p> <p>Homepage: <a href="http://iharder.net/base64">http://iharder.net/base64</a>.</p> <p> Change Log: </p> <ul> <li>v2.2.1 - Fixed bug using URL_SAFE and ORDERED encodings. Fixed bug when using very small files (~< 40 bytes).</li> <li>v2.2 - Added some helper methods for encoding/decoding directly from one file to the next. Also added a main() method to support command line encoding/decoding from one file to the next. Also added these Base64 dialects: <ol> <li>The default is RFC3548 format.</li> <li>Calling Base64.setFormat(Base64.BASE64_FORMAT.URLSAFE_FORMAT) generates URL and file name friendly format as described in Section 4 of RFC3548. http://www.faqs.org/rfcs/rfc3548.html</li> <li>Calling Base64.setFormat(Base64.BASE64_FORMAT.ORDERED_FORMAT) generates URL and file name friendly format that preserves lexical ordering as described in http://www.faqs.org/qa/rfcc-1940.html</li> </ol> Special thanks to Jim Kellerman at <a href="http://www.powerset.com/">http://www.powerset.com/</a> for contributing the new Base64 dialects. </li> <li>v2.1 - Cleaned up javadoc comments and unused variables and methods. Added some convenience methods for reading and writing to and from files.</li> <li>v2.0.2 - Now specifies UTF-8 encoding in places where the code fails on systems with other encodings (like EBCDIC).</li> <li>v2.0.1 - Fixed an error when decoding a single byte, that is, when the encoded data was a single byte.</li> <li>v2.0 - I got rid of methods that used booleans to set options. Now everything is more consolidated and cleaner. The code now detects when data that's being decoded is gzip-compressed and will decompress it automatically. Generally things are cleaner. You'll probably have to change some method calls that you were making to support the new options format (<tt>int</tt>s that you "OR" together).</li> <li>v1.5.1 - Fixed bug when decompressing and decoding to a byte[] using <tt>decode( String s, boolean gzipCompressed )</tt>. Added the ability to "suspend" encoding in the Output Stream so you can turn on and off the encoding if you need to embed base64 data in an otherwise "normal" stream (like an XML file).</li> <li>v1.5 - Output stream pases on flush() command but doesn't do anything itself. This helps when using GZIP streams. Added the ability to GZip-compress objects before encoding them.</li> <li>v1.4 - Added helper methods to read/write files.</li> <li>v1.3.6 - Fixed OutputStream.flush() so that 'position' is reset.</li> <li>v1.3.5 - Added flag to turn on and off line breaks. Fixed bug in input stream where last buffer being read, if not completely full, was not returned.</li> <li>v1.3.4 - Fixed when "improperly padded stream" error was thrown at the wrong time.</li> <li>v1.3.3 - Fixed I/O streams which were totally messed up.</li> </ul> <p> I am placing this code in the Public Domain. Do with it as you will. This software comes with no guarantees or warranties but with plenty of well-wishing instead! Please visit <a href="http://iharder.net/base64">http://iharder.net/base64</a> periodically to check for updates or to contribute improvements. </p> end class Base64
+
+Base class for all Wrapper implementations.
+A basic implementation of Context that keeps the state in a Map.
+
+
+
+A version of the core @Begin annotation which can be placed on wicket component constructors. The wicket interceptor will scan for this as well as the default @Begin annotation.  They are identical in function, but java does not allow annotation inheritance.  In addition, the deprecated ifOutcome and id methods have been removed, and the pageflow method as well, as it is not as yet supported in wicket.
+Marks a method as causing a jBPM {@link org.jbpm.taskmgmt.exe.TaskInstance task} to be resumed. The jBPM {@link org.jbpm.context.exe.ContextInstance} is associated with the BUSINESS_PROCESS scope and the {@link org.jbpm.taskmgmt.exe.TaskInstance} is associated with a new conversation, unless the annotated method returns a null outcome. <p/> Note that both {@link BeginTask} and {@link StartTask} have effect before invocation of the intercepted method in that they are both about setting up appropriate {@link org.jbpm.context.exe.ContextInstance} for the current {@link org.jboss.seam.contexts.BusinessProcessContext}. <p/>
+
+
+
+A bijected attribute (field or get/set pair)
+Implementation of BijectedAttribute for a field
+Implementation of BijectedAttribute for a method
+
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> Free auxiliary functions. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html" >http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Represents a blog, containing zero or more blog entries.
+
+
+Represents a blog entry.
+
+Singleton for the blog instance.
+
+
+
+
+
+Example of using the JpaDaoSupport.
+
+
+Holds the task and process ids for the current conversation, and provides programmatic control over the business process.
+Exposes a jbpm variable context instance for reading/writing.
+Superclass for controller objects that control the business process context programmatically. Adds convenience methods for control of the jBPM business process.
+Implements annotation-based business-process demarcation.
+
+
+Disables interception of calls to a Seam component or Seam component method.
+
+Wraps EJBContext transaction management in a UserTransaction interface. Note that container managed transactions cannot be controlled by the application, so begin(), commit() and rollback() are disallowed in a CMT.
+Constant names for XLS-XSS attributes
+CSS parser for the XLS-CSS
+Provides automatic addition of cache-control HTTP headers to matching resource responses.
+CacheProvider provides methods to control and manipulate the configured cache
+
+
+Represents the context of an individual call.
+
+Default CAPTCHA algorithm, a simple addition problem. May be extended and customized.
+Serves CAPTCHA images
+
+Validates that the input entered by the user matches the captcha image.
+@Cache(usage=CacheConcurrencyStrategy.READ_ONLY)
+
+
+This resource demonstrates use of plain JAX-RS resource (no ResourceHome component) with Seam. It allows retrieving (GET), creating (PUT) and deleting (DELETE) of task categories. To create new category, simply send a PUT request without entity body to /auth/category/name where "name" is the name of category. Same path applies for retrieving and deleting of category.
+This resource demonstrates using ResourceHome component. This resource is used for testing purposes.
+Example of ResourceQuery usage. Used for testing purposes.
+
+
+Cell info that collects features and formats
+A cache for parsed cell info
+Helper class that collects font, border and background info with cell info into one package from stylesheet data
+
+
+A servlet filter that lets you set the character encoding of submitted data. There are two init parameters: "encoding" and "overrideClient".
+
+
+
+
+
+
+
+
+
+
+An Identifier strategy for class-based permission checks
+
+Controller interceptor for client-side interceptors of EJB3 session bean components
+<p>A selector which manages the cookie that gives the browser a unique identifier. This value is shared only between the browser and the server, thus allowing the server to determine if two distinct requests were made by the same source.</p> <p>The identifier is stored in a cookie named <code>javax.faces.ClientToken</code>.</p>
+
+
+Helper class that collects column info into one package from stylesheet data
+
+Command button based parameter handler. If user didn't specify id on button, do it for them (we need one rendered)
+
+
+
+Metamodel class for component classes. A Seam component is any class with a @Name annotation.
+
+
+The {@link ComponentDeploymentHandler} process Seam's component annotated with {@link org.jboss.seam.annotations.Name}
+Meta-data about a Seam component.
+The types of components understood by Seam.
+The {@link ComponentsXmlDeploymentHandler} components.xml and .component.xml files
+
+Subclass this resource if you want to be able to send the right response automatically to any conditional <tt>GET</tt> or <tt>HEAD</tt> request. The typically usecase is as follows: <p/> <pre> public class MyResource extends ConditionalAbstractResource { public void getResource(final HttpServletRequest request, final HttpServletResponse response) { String resourceVersion = ... // Calculate current state as string or byte[] resourceVersion = ... // Calculate current state as bytes String resourcePath = ... // Get the relative (to servlet) path of the requested resource if ( !sendConditional(request, response, createdEntityTag(resourceVersion, false), getLastModifiedTimestamp(resourcePath) ) { // Send the regular resource representation with 200 OK etc. } } } </pre> <p/> Note that the <tt>getLastModifiedTimestamp()</tt> method is only supplied for convenience; it may not return what you expect as the "last modification timestamp" of the given resource. In many cases you'd rather calculate that timestamp yourself. <p/>
+Implements &lt;http-error/&gt; for pages.xml
+Implements &lt;redirect/&gt; for pages.xml
+
+Factory for the JAAS Configuration used by Seam Security.
+
+
+
+Serves images and other member content
+API for accessing named components and named values that are currently associated with a particular seam scope.
+
+Manages the Seam contexts associated with a request to any servlet.
+A seam component that loads up a spring WebApplicationContext
+
+Perform work in a full set of Seam contexts
+
+Base class for controller objects. Provides various helper methods that help slightly reduce the code required to create a Seam component that acts as a controller.
+
+@BypassInterceptors public boolean equals(Object other) { return super.equals(other); }
+
+Demarcation of the conversation in pages.xml
+Manages a map of conversation id to ConversationEntry in the session context.
+Metadata about an active conversation. Also used by the conversation list and breadcrumbs.
+
+A strategy for propagating conversations across links and redirects
+
+
+Factory for the conversation list
+
+Overrideable component for extracting the conversation id from a request.
+
+Factory for the "breadcrumbs", a stack with all parent conversations of the current conversation.
+Specifies that a component or method is conversational, and may only be called inside the scope of a long-running conversation.
+Check that a conversational bean is not being invoked outside the scope of a long-running conversation. If it is, throw an exception.
+Thrown for an invalid conversion.
+
+
+Allows a Seam component to act as a JSF converter. The annotated class must be a Seam component, and must implement javax.faces.convert.Converter.
+This class provides a chainable converter for JSF. Any JSF converter can be placed at the end of the chain. A converter that is placed higher up the chain should return ConverterChain.CONTINUE if conversion has failed. If the all converters run return ConverterChain.CONTINUE an unconverted value will be returned. A converter can be placed in the chain with a priority, the order in which converters with the same priority is run is not specified.
+Generates JSF taglib descriptor for all FacesConverter annotated classes
+
+
+Alternative to javax.annotations.PostConstruct for use in a pre Java EE 5 environment. Designates a create method that is called after instantiation of a component.
+Marks a method creating a jBPM {@link org.jbpm.graph.exe.ProcessInstance process instance} unless the method throws an exception or returns a null outcome.
+
+A "cron schedule" for a timed event executed by the Quartz CronTrigger.
+
+The current date, as an instance of java.util.Date.
+The current date and time, as an instance of java.util.Date.
+The current time, as an instance of java.util.Date.
+
+
+An exception that is thrown when {@link BijectionInterceptor} detects that a component's dependencies cannot be injected due to a cyclic dependency. As the exception is passed up the stack, the call sequence is recorded so that a useful exception message can be constructed.
+
+An {@link EntityResolver} implementation which attempts to resolve various systemId URLs to local classpath lookups<ol> <li>Any systemId URL beginning with <tt>http://jboss.org/schema/seam/</tt> is searched for as a classpath resource in the classloader which loaded the Seam classes.</li> <li>Any systemId URL using <tt>classpath</tt> as the scheme (i.e. starting with <tt>classpath://</tt> is searched for as a classpath resource using first the current thread context classloader and then the classloader which loaded the Seam classes. </ol> <p/> Any entity references which cannot be resolved in relation to the above rules result in returning null, which should force the SAX reader to handle the entity reference in its default manner.
+
+Allows some "bound type" to be exposed to the user interface via a "wrapper type".
+Meta-annotation that specifies that an annotation is a databinding annotation, ie. that it results in outjection of a wrapped representation of the annotated component attribute value.
+Outjects a collection to the same scope as the owning component (or to the EVENT scope in the case of a stateless component), after wrapping as a JSF DataModel (a List as a ListDataModel, a Map as a MapDataModel, a Set as a SetDataModel, an array as an ArrayDataModel). Note that the List, Map, Set or array will be re-wrapped and re-outjected each time the current component value is different to the value held by the context variable as determined by calling equals() on the underlying collection.
+Exposes a List, array, Map or Set to the UI as a JSF DataModel
+Extracts the selected "index" (the row index, or the key of a map) from a JSF DataModel.
+Injects the selected row data of a DataModel. Intended for use with @DataModel.
+Injects the selected row index of a ListDataModel, MapDataModel or ArrayDataModel. Intended for use with @DataModel.
+Extracts the selected object (the element, or the value of a map) from a JSF DataModel.
+Wraps a collection as a JSF {@link DataModel}. May be overridden and extended if you don't like the built in collections which are supported: list, map, set, array.
+Allows extraction of the selected item from some "wrapper type".
+Meta-annotation that specifies that an annotation is a dataselection annotation, ie. that it results in injection of the selected item of some databound data.
+Provides a default JSF converter for properties of type java.util.Date. <p>This converter is provided to save a developer from having to specify a DateTimeConverter on an input field or page parameter. By default, it assumes the type to be a date (as opposed to a time or date plus time) and uses the short input style adjusted to the Locale of the user. For Locale.US, the input pattern is mm/DD/yy. However, to comply with Y2K, the year is changed from two digits to four (e.g., mm/DD/yyyy).</p> <p>It's possible to override the input pattern globally using component configuration. Here is an example of changing the style to both and setting the date and time style to medium.</p> <pre> org.jboss.seam.faces.dateConverter.type=both org.jboss.seam.faces.dateConverter.dateStyle=medium org.jboss.seam.faces.dateConverter.timeStyle=medium </pre> <p>Alternatively, a fixed pattern can be specified.</p> <pre> org.jboss.seam.faces.dateConverter.pattern=yyyy-mm-DD </pre>
+Extended DateTimeConverter which set Timezone from Seam web application config
+Handles date conversions
+Implements automagic redirection to the Seam debug page.
+
+API for setting the result of a decision from rules in a Drools decision handler.
+Decorating handler
+
+
+
+Default exception handler for MBean proxy.
+Implementation of FacesContext that delegates all calls. Further, it exposes {@link #setCurrentInstance(FacesContext)} as a public method
+An InvocationHandler implementation that delegates method invocations to a specified object, optionally allowing the method to be overridden locally.
+Delegating implementation of {@link javax.servlet.ServletInputStream}. <p/> <p>Used by {@link MockHttpServletRequest}; typically not directly used for testing application controllers.
+Delegating implementation of {@link javax.servlet.ServletOutputStream}. <p/> <p>Used by {@link MockHttpServletResponse}; typically not directly used for testing application controllers.
+
+Evaluates component dependencies to determine which components are installed.
+Parser for ejb-jar.xml and orm.xml deployment descriptors
+A deployment handler is responsible for processing found resources All deployment handlers should specify a unique name under which they will be registered with the {@link DeploymentStrategy}
+Metadata about resources the deployment handler is interested in
+
+A {@link DeploymentStrategy} coordinates the deployment of resources for a Seam application.
+
+Alternative to javax.annotations.PreDestroy for use in a pre Java EE 5 environment. Designates a destroy method that is called when a context ends and the component is being disposed.
+This class provides methods for performing Digest (RFC 2617) authentication and is intended to be extended by a concrete Authenticator implementation.
+
+Digest-related utility methods, adapted from Acegi and Apache Commons.
+Thrown when a DigestRequest fails validation.
+
+Interface to be implemented by any strategy for dispatching asynchronous method calls and asynchronous events.
+
+
+
+
+
+Helper class for DocumentStore
+The {@link DotComponentDotXmlDeploymentHandler} .component.xml files
+The {@link DotPageDotXmlDeploymentHandler} process .page.xml files
+
+A jBPM ActionHandler that delegates to a Drools WorkingMemory held in a Seam context variable.
+A jBPM AssignmentHandler that delegates to a Drools WorkingMemory held in a Seam context variable.
+A jBPM DecisionHandler that delegates to a Drools WorkingMemory held in a Seam context variable. The decision outcome is returned by setting the outcome attribute of the global named "decision".
+Common functionality for jBPM handlers for Drools.
+The duration of the wait before an asynchronous call is processed (or before the first occurrence of a repeating asynchronous call). This annotation occurs on a parameter of type long or Long of a method marked @Asynchronous.
+
+Adapts from Seam's InvocationContext API to the standard EE5 API. (Not much to see here, they are identical apart from package names.)
+Wraps the invocation context coming from EJB3, and adapts it to the Seam version of the API.
+An instance of JBoss EL.
+
+
+
+Implementation of CacheProvider backed by EhCache. The default cache region issues <i>org.jboss.seam.cache.DefaultCache</> as the default cache region.
+
+
+Meta-data about an EJB, discovered from a deployment descriptor.
+
+Receives JTA transaction completion notifications from the EJB container, and passes them on to the registered Synchronizations. This implementation is fully aware of container managed transactions and is able to register Synchronizations for the container transaction.
+Dummy component that lets us install the EjbSynchronizations via the tag transaction:ejb-transaction
+Encode the password provided using the same algorithm that IntelliJ IDEA uses to encode a JDBC database password before storing it in the project file, then assign it to the property.
+Marks a method as ending a conversation, if the method returns a non-null outcome without throwing an exception. If a list of outcomes is specified, the conversation ends only if the outcome is in the list. A null outcome never ends the conversation. If the method is of type void, the conversation always ends.
+Marks a method as causing a jBPM {@link org.jbpm.taskmgmt.exe.TaskInstance task instance} to be ended. The current conversation also ends. If a list of outcomes is specified, the task ends only if the outcome is in the list. A null outcome never ends the task.
+Mock implementation of the {@link javax.servlet.http.HttpServletRequest} interface. Supports the Servlet 2.4 API level. <p/> <p>Used for testing the web framework; also useful for testing application controllers.
+Mock implementation of the {@link javax.servlet.http.HttpServletResponse} interface. Supports the Servlet 2.4 API level. <p>Used for testing the web framework; also useful for testing application controllers.
+
+Actions that may be performed upon entities in JPA or Hibernate.
+Swizzles entities held in the conversation context at the end of each request.
+Swizzles entities held in the conversation context at the end of each request.
+Swizzles entities held in the conversation context at the end of each request.
+Swizzles entities held in the conversation context at the end of each request.
+
+Base class for controller objects that perform persistence operations using JPA. Adds convenience methods for access to the JPA EntityManager.
+Allows conversion of an entity to/from a key which can be written to a page. Support is provided for JPA (by default) and Hibernate (with the session specified in components.xml)
+
+This class provides an unified interface for accessing EntityHome and HibernateEntityHome instances.
+
+Page scoped store for entity identifiers used by the EntityConverter. By default a list is used and the key returned is the list index. The key used can be customised by overriding this component and implementing the get and put methods
+An Identifier strategy for entity-based permission checks
+EntityIdentifier manager for EntityCollectionModel
+
+A Seam component that bootstraps an EntityManagerFactory, for use of JPA outside of Java EE 5 / Embedded JBoss.
+InvocationHandler that Proxies the EntityManager, and implements EL interpolation in JPA-QL
+Proxies the EntityManager, and implements EL interpolation in JPA-QL
+Proxy the EntityManager if injected using @PersistenceContext
+
+Entity permission checks
+A Query object for JPA.
+Facilitates security checks for entity beans.
+Support for the JPA EntityTransaction API. Adapts JPA transaction management to a Seam UserTransaction interface.For use in non-JTA-capable environments.
+
+Processes a request for a particular entry, and sends a 404 if none is found.
+
+Converter for Enums
+
+
+Validates two fields are equal
+
+This class mainly does some validation "hook-in"
+Base implementation of HTTP error exception handlers.
+Event context - spans a single request to the server.
+
+The kinds of invocations that can be intercepted by an EJB3 interceptor.
+Support for Seam component-driven events
+Common superclass for the UI components. Contains helper methods for merging etc.
+Excel export class that exports a UIData component to an Excel workbook
+Factory to get excel workbook implementation
+General interface interacting with an Excel Workbook abstraction
+Encapsulate errors occuring in excel workbook generation
+Delegate uncaught exceptions to Seam exception handling. As a last line of defence, rollback uncommitted transactions, and clean up Seam contexts.
+An element of the chain that knows how to handle a specific exception type.
+Manages the exception handler chain
+Unmarshals the calls from an HttpServletRequest, executes them in order and marshals the responses.
+The expiration time at which an asynchronous call may first be processed (or the first occurrence of a repeating asynchronous call). This annotation occurs on a parameter of type Date of a method marked @Asynchronous.
+Factory for EL method and value expressions. This default implementation uses JBoss EL.
+
+Implementation of Renderer using Facelets Especially useful for sending email using Seam Mail
+
+Support for injecting the JSF FacesContext object
+Factory for method and value bindings in a JSF environment.
+Methods for setup and teardown of Seam contexts at the beginning and end of JSF requests.
+An extended conversation manager for the JSF environment.
+A Seam component that propagates FacesMessages across redirects and interpolates EL expressions in the message string.
+Book-keeping component that persists information about the conversation associated with the current page. public Map<String, Object> getPageParameters() { return pageParameters==null ? Collections.EMPTY_MAP : pageParameters; } public void setPageParameters(Map<String, Object> pageParameters) { this.pageParameters = pageParameters.isEmpty() ? null : pageParameters; } /** Used by test harness @param name the page parameter name @param value the value public void setPageParameter(String name, Object value) { if (pageParameters==null) { pageParameters = new HashMap<String, Object>(); } pageParameters.put(name, value); }
+
+Produces FacesMessages in response of certain security events, and helps to decouple the Identity component from JSF.
+Produces StatusMessages for JSF in response of certain transaction events. These events can be observed by support classes for other UI frameworks to produce similar messages.
+Helper class for preparing JSF URLs which include the conversation id. <p/> TODO This class has the potential to be better designed to make it fit more use cases.
+
+Marks a method as a factory method for a context variable. A factory method is called whenever no value is bound to the named context variable, and is expected to initialize the value of the context variable. There are two kinds of factory methods. Factory methods with void return type are responsible for outjecting a value to the context variable. Factory methods which return a value do not need to explicitly ouject the value, since Seam will bind the returned value to the specified scope. This annotation supports use of the Seam "factory component" pattern.
+
+
+
+
+
+
+
+Thrown when an exception occurs while uploading a file.
+
+
+
+
+Support for declarative application of Hibernate filters to persistence contexts.
+
+The stop date of the repeating asynchronous call. This a parameter level annotation and it is only available for the Quartz timer.
+
+
+within={"org.jboss.seam.????"}
+
+
+A full set of flush modes, including MANUAL, which is a glaring missing feature of the JPA spec.
+
+
+
+
+
+
+Wicket allows you to build powerful custom components easily. Here we've built generic border you can use to decorate a form input with a label, a * if the field is required and an feedback panel for displaying any error messages. It also attaches a model validator (which asks Seam to validate the input against Hibernate Validator). based
+
+Formatted Text validator Use as a JSF validator on an input control that allows entering Seam Text markup. <p> The Seam Text parser has a disabled default error handler, catch exceptions as appropriate if you display Seam Text (see <a href="http://www.doc.ic.ac.uk/lab/secondyear/Antlr/err.html">http://www.doc.ic.ac.uk/lab/secondyear/Antlr/err.html</a>) and call the static convenience method <tt>FormattedTextValidator.getErrorMessage(originalText, recognitionException)</tt> if you want to display or log a nice error message. </p> <p> Uses an instance of <tt>SeamTextParser</tt> by default, override if you require validation with your customized instance of <tt>SeamTextParser</tt>. </p>
+
+A decorator for DeploymentStrategy
+
+
+
+Marker Interface here to show that a given EntityManager is doing EL manipulation and for backwards compatibility with previous non proxy solution.
+Marker Interface here to show that a given EntityManager is doing EL manipulation and for backwards compatibility with previous non proxy solution.
+
+Hibernate Search version of the store querying mechanism. This version is updated to show the new Query capabilities of Hibernate Search 3.3, which requires Hibernate 3.6 and as such is the recommended (minimal) version to use for JBoss6. This code resides in a separate src directory as it wouldn't compile with older Hibernate Search versions.
+
+Abstract base class for GWT 1.5 integration.
+This class adapts GWT RPC mechanism to Seam actions.
+
+
+
+
+Renderer for image based components
+Serves images from the image store
+
+A deployment handler for (uncompiled) Groovy Seam components
+A deployment strategy for hot deploying Seam groovy components
+
+Google Guice support. Allows use of Guice injection inside Seam component.
+Guice support configuration component. Holds reference to the default injector.
+Triggers Guice injection on a Seam component.
+Constant declarations for HTML rendering.
+
+
+
+Internal helper class that serves as value holder for request headers.
+
+This is the "main" entry point, as per GWT. Generally this is a lean class, you tend to use seperate widget classes after this point. This is pretty much boiler plate, you can mostly ignore this. Entry point classes define <code>onModuleLoad()</code>.
+Hex encoder and decoder, ripped off from commons-codec.  DecoderException and EncoderException have been replaced by RuntimeException
+
+Base class for controller objects that perform persistence operations using Hibernate. Adds convenience methods for access to the Hibernate Session object.
+Base class for Home objects for Hibernate entities.
+
+EntityIdentifier manager for EntityCollectionModel
+Stores entity identifiers under a key, which can be used on a page
+A Query object for Hibernate.
+Support for non-standardized features of Hibernate, when used as the JPA persistence provider.
+Facilitates security checks for Hibernate entities
+A Seam component that bootstraps a Hibernate SessionFactory <p> Loads Hibernate configuration options by checking: <li>hibernate.properties in root of the classpath <li>hibernate.cfg.xml in root of the classpath <li>cfgResourceName as location of a cfg.xml file <li>factory-supplied cfgProperties options <p> Note that this factory only supports cfg.xml files <b>or</b> programmatic <tt>cfgProperties</tt> supplied to the factory. Any <tt>hibernate.properties</tt> are always loaded from the classpath. <p> Mapping metadata can be supplied via <li>mappingClasses: equivalent to &lt;mapping class="..."/> <li>mappingFiles: equivalent to &lt;mapping file="..."/> <li>mappingJars: equivalent to &lt;mapping jar="..."/> <li>mappingPackages: equivalent to &lt;mapping package="..."/> <li>mappingResources: equivalent to &lt;mapping resource="..."/> <p> or via cfg.xml files. <p> The <tt>jndiProperties</tt> are convenience, the factory will automatically prefix regular JNDI properties for use as Hibernate configuration properties.
+InvocationHandler that proxies the Session, and implements EL interpolation in HQL. Needs to implement SessionImplementor because DetachedCriteria casts the Session to SessionImplementor.
+Marker interface that signifies a proxy is using the HibernateSessionInvocationHandler. Also here for backwards compatibility with previous HibernateSessionProxy.
+Proxy the Hibernate Session if injected using @PersistenceContext
+Support for the Hibernate Transaction API. Adapts Hibernate transaction management to a Seam UserTransaction interface. For use in non-JTA-capable environments.
+
+
+
+A deployment strategy for hot deployable Java Seam components
+
+
+
+
+
+
+Convenient HTTP errors
+
+
+
+
+Configures the Identifier strategy to use for instance-based permissions.  The specified class should implement the IdentifierStrategy interface.
+A policy for the generation of object "identifiers" - unique Strings that identify a specific instance of an object.  A policy can consist of numerous identifier strategies, each with the ability to generate identifiers for specific classes of objects.
+Strategy for generating permission target identifiers.
+API for authorization and authentication via Seam security. This base implementation supports role-based authorization only. Subclasses may add more sophisticated permissioning mechanisms.
+A filter that provides integration between Servlet Security and the Seam identity component. This integration is accomplished by wrapping the HttpServletRequest with an HttpServletRequestWrapper implementation that delegates security-related calls to the Seam identity component.
+Thrown when an exception is encountered during account creation.
+Identity Management API, deals with user name/password-based identity management.
+An HttpServletRequestWrapper implementation that provides integration between Servlet Security and the Seam identity component.
+The identity store does the actual work of persisting user accounts in a database, LDAP directory, etc.
+Image manipulation and interrogation
+
+
+Allows use of unqualified names in @In by a component or by all components in a package. The semantics are similar to a .* import in Java.
+Specifies that a seam component should be injected to the annotated field or setter method of a seam component.
+
+
+At startup we need to reindex all entities from the database. This is an optional step in a real application, we need it in the demo as the database is volatile and was just filled with a SQL dump (see import.sql).
+Index Blog entry at startup
+Implementation of CacheProvider backed by Infinispan 5.x. for simple objects.
+A Seam component that holds Seam configuration settings
+Builds configuration metadata when Seam first initialized.
+
+
+Creates Guice injector from a list of modules.
+
+
+Specifies whether or not a component should be installed if it is scanned
+
+Thrown when Seam cannot instantiate a component.
+
+
+Annotates an interceptor class and specifies what kind of interceptor it is (client side or server side), and its ordering with respect to other interceptors in the stack.
+The type of an Interceptor, "client-side" (around the EJB proxy object) or "server-side" (inside the EJB interceptor stack).
+Synonym for javax.interceptors.Interceptors, for use in a pre Java EE 5 environment. Note that this may only be used as a meta-annotation.
+Generates JavaScript interface code.
+Interpolates EL expressions in Strings
+The unix cron expression to specify the frequency and other conditions for the repeating asynchronous call to be invoked (after the initial delay specified in Expiration or Duration parameters). If this parameter is set, the IntervalDuration parameter will have no effect. This annotation occurs on a parameter of type String of a method marked @Asynchronous.
+The interval between occurrences of a repeating asynchronous call. This annotation occurs on a parameter of type long or Long of a method marked @Asynchronous.
+
+
+
+
+An extension of Component that allows external IoC to provide the base instance for a Seam component.
+Manager component for a map of roles assigned to the current user, as exposed via the JSF ExternalContext.
+
+The purpose of this component is to detect a clustered environment and to inform the HttpSessionListener whether the origin of a session destroyed event is the failover of a session from one node to the next. If a node is failing over, we don't want the SFSBs referenced by the session to be destroyed.
+
+
+
+Invocation handler for MBean proxies.
+
+Class that encapsulates the JExcelApi Workbook and Worksheet concepts and internal state
+Factory for creating JExcelAPI objects
+A helper class for the JXLExcelWorkbook, caches cell info and holds CSS parser
+Controller interceptor for JavaBean components
+This class is responsible for instrumenting wicket component classes so that they can be seam-enabled. The exact notion of what "seam-enabled" means is left to the implementation in WicketComponent and WicketHandler and their delegate classes, in particular the interceptor chains they create. The instrumentations that take place are: <ul> <li> Add a to add a synthetic WicketHandler field similar to: <pre> WicketHandler handler = WicketHandler.create(this); </pre> as well as a synthetic getter for this field </li> <li> Add a static reference to WicketComponent is created, to ensure that the instrumented class is registered with WicketComponent: <pre> static WicketComponent component = new org.jboss.seam.wicket.WicketComponent(ThisClassName.class); </pre> </li> <li> Make the instrumented class implement org.jboss.seam.wicket.ioc.InstrumentedComponent, which includes adding this method: <pre> public InstrumentedComponent getEnclosingInstance() { return handler == null ? null : handler.getEnclosingInstance(this); }</pre></li> <li>For each non-abstract non-synthetic, non-static method (not constructor) named foobar() in this class, create a synthetic private instance method, call it foobar$100, which contains the original code from foobar().  Then instrument foobar to do the following: <pre> SomeReturnType foobar(arguments) { Method method = OurClass.class.getDeclaredMethod("foobar",argumentSignature); if (this.handler != null) this.handler.beforeInvoke(this,method); SomeReturnType result; try { result = foobar$100(arguments); } catch (Exception e) { throw new RuntimeException(this.handler == null ? e : this.handler.handleException(this, method, e)); } if (this.handler != null) this.handler.affterInvoke(this,method,result); return SomeReturnType; } </pre></li> <li>A similar instrumentation occurs for constructors, with the except that a super() or this() call must precede the invocation of the handler.</li> </ul> This instrumentor can be activated in several ways: <ul> <li>The WicketClassLoader will use it to instrument any class in WEB-INF/wicket</li> <li>The WicketInstrumentationTask (an ant task) will use it to instrument classes specified in ant</li> <li>The seam-wicket maven plugin will use it to instrument classes specified by maven configuration properties</li> <li>This class implements the ClassFileTransformer interface from the java.lang.instrument package, which means it can be specified with -javaagent:path/to/jboss-seam-wicket.jar.  In this case, the system property "org.jboss.seam.wicket.instrumented-packages" should specify a comma-separated list of package names to instrument</li></ul>
+Implementation of CacheProvider backed by JBoss Cache 2.x. for simple objects.
+Implementation of CacheProvider backed by JBoss Cache 1.x
+Implementation of CacheProvider backed by JBoss POJO Cache 1.x
+A seam component that boostraps a JBPM SessionFactory
+Resolves jBPM variables for Unified EL
+Specifies the JNDI name of a seam component.
+Stores entity identifiers under a key, which can be used on a page
+The default identity store implementation, uses JPA as its persistence mechanism.
+A permission store implementation that uses JPA as its persistence mechanism.
+A TokenStore implementation, stores tokens inside a database table.
+
+Activates @Inject on a Seam component
+
+
+An IdentityStore implementation that integrates with a directory service.
+Methods for setup and teardown of Seam contexts.
+
+A JSF DataModel for lists - yes, I know, JSF has one, but its not serializable (go figure).
+
+Local interface for EjbTransaction
+Local interface for TimerServiceDispatcher.
+Manager component for the current locale that is aware of the selected locale
+Configures the JSF locale support from the Seam container. <p> This component merely passes on configuration settings to the JSF runtime, so you still have to option of configure the locale support in the JSF configuration file. However, if you enable this component, it will overwrite any settings from that file. </p> <code> &lt;i18n:locale-config default-locale="en" supported-locales="en fr de"/&gt; </code>
+Selects the current user's locale
+Thrown by the SynchronizationInterceptor when it fails to get a lock within the allocated time.
+A logging interface that integrates with Seam's message interpolation functionality.
+
+Implementation of the Log interface using commons logging. void readObject(ObjectInputStream ois) throws ClassNotFoundException, IOException { ois.defaultReadObject(); log = LogFactory.getLog(category); }
+Abstracts the underlying logging implementation (log4j or JDK logging). This saves us from having to use evil and absurdly overengineered stuff like commons-logging.
+Injects a log
+
+Factory for Seam Logs and LogProviders. If log4j exists in the classpath, the LogProvider will be log4j. Otherwise, it will be JDK logging.
+This filter adds the authenticated user name to the log4j mapped diagnostic context so that it can be included in formatted log output if desired, by adding %X{username} to the pattern.
+
+
+
+
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html Default PRF implementation based on standard javax.crypt.Mac mechanisms. <hr /> <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Abstract base class for mail ui components
+
+
+
+The ResponseWriter for mail objects needs to support unencoded plain text output.
+
+Manager component for a javax.mail.Session
+
+Swizzles entity references around each invocation, maintaining referential integrity even across passivation of the stateful bean or Seam-managed extended persistence context, and allowing for more efficient replication.
+
+A Seam component that manages a conversation-scoped extended persistence context that can be shared by arbitrary other components.
+Manages a reference to a JbpmContext.
+A Seam component that manages a conversation-scoped extended persistence context that can be shared by arbitrary other components.
+Manager for a JMS QueueSender for a named JMS queue
+Manager for a JMS TopicPublisher for a named JMS topic
+A conversation-scoped Drools WorkingMemory for a named RuleBase
+The Seam conversation manager.
+A JSF DataModel for maps.
+
+
+
+A member account
+
+
+
+
+
+
+
+
+
+
+Factory for a Map that contains interpolated messages defined in the Seam ResourceBundle.
+Utilitilies relating to a MetaModel
+Converts a MethodBinding to a MethodExpression
+Sets up the METHOD context and unproxies the SFSB for the duration of the call.
+Converts a MethodExpression to a MethodBinding. See JSF 1.2 spec section 5.8.4
+
+An mock implementation of the JSF ApplicationFactory which returns a mock Application wrapped in a SeamApplication. This class can be registered with JSF to allow JSF to be used formally in a test environment as follows: <code> FactoryFinder.setFactory(FactoryFinder.APPLICATION_FACTORY, "org.jboss.seam.mock.MockApplicationFactory"); Application application = ((ApplicationFactory) FactoryFinder .getFactory(FactoryFinder.APPLICATION_FACTORY)).getApplication(); </code>
+
+
+
+
+
+
+public void clear() { attributes.clear(); isInvalid = false; }
+
+
+
+
+
+
+
+Mock implementation of the {@link javax.servlet.RequestDispatcher} interface. <p/> <p>Used for testing the web framework; typically not necessary for testing application controllers.
+
+
+Used to retrieve real ServletContext for the AbstractSeamTest startSeam.
+Used by security unit tests
+
+
+Provides a MockTransport for integration testing Seam Mail. {@link MockTransport#getMailMessage()} returns the most recently rendered message sent using the MockTransport. To enable the mock transport, set the mailSession.transport property to mock in components.properties.
+
+Base class of metamodels. For a class which is neither an entity nor a Seam component, the concrete type of the metamodel object will be Model. For components or entities it is a subclass of Model.
+Allows Hibernate Model Validation to be used in Wicket
+A filter for decoding multipart requests, for use with the file upload control.
+Interface that declares multipart-specific API methods, to enable easier mocking of multipart requests.
+Request wrapper for supporting multipart requests, used for file uploading.
+Must be implemented by any SESSION or CONVERSATION scoped mutable JavaBean component that will be used in a clustered environment. If this interface is not implemented correctly, changes may not be replicated across the cluster (depending upon the servlet engine implementation).
+Base class for controllers which implement the Mutable interface.
+Base class for controller objects that perform persistence operations using JPA. Adds convenience methods for access to the JPA EntityManager.
+
+
+
+This is a GWT service, which will be implemented as a Seam component on the server (see the server package). GWT uses strongly typed RPC interfaces.
+This is the interface the client code uses. You NEVER implement this directly, GWT does this for you, and calls are marshalled through to the Sync equivalent method in MyService on the server (which is a Seam component).
+Specifies the component name of a Seam component.
+Specifies the configuration namespace of a Java package containing Seam components.
+A deployment handler for namespaces
+
+<p>Converts an <a href="http://www.w3.org/TR/xml-names/">XML namespace</a> to a Java package name.</p>
+
+A conversation parameter strategy for "natural" conversation ids. Natural conversation ids are defined using &lt;conversation/&gt; in pages.xml.
+
+The result of a navigation rule.
+
+Throw when a component marked @Conversational is called outside the scope of a long-running conversation.
+
+Converter for no selection value item
+Thrown when an operation is performed on a non-existent role.
+Thrown when an operation is attempted on a non-existent user.
+When no kind of transaction management exists.
+
+Thrown when an unauthenticated user attempts to execute a restricted action.
+
+
+Int wrapper class.
+Marks a method as an observer of an event type or multiple event types.
+
+
+
+Interface that may be optionally implemented by an interceptor, to make the stacktrace smaller.
+
+Indicates we want the orange version of a binding.
+
+
+
+
+
+Specifies that a seam component should be outjected from the annotated field or getter method of a session bean.
+
+
+
+Wicket allows you to build powerful custom components easily. Here we've built generic border you can use to decorate an output
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html. <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html" >http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> Request for Comments: 2898 PKCS #5: Password-Based Cryptography Specification <p> Version 2.0 <p> PBKDF2 (P, S, c, dkLen) <p> Options: <ul> <li>PRF underlying pseudorandom function (hLen denotes the length in octets of the pseudorandom function output). PRF is pluggable.</li> </ul> <p> Input: <ul> <li>P password, an octet string</li> <li>S salt, an octet string</li> <li>c iteration count, a positive integer</li> <li>dkLen intended length in octets of the derived key, a positive integer, at most (2^32 - 1) * hLen</li> </ul> <p> Output: <ul> <li>DK derived key, a dkLen-octet string</li> </ul> <hr /> <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html" >http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html">http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> Parameter data holder for PBKDF2 configuration. </p> <hr /> <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html" >http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+Copied from Matthias Gartner's PKCS#5 implementation - see http://rtner.de/software/PBKDF2.html <p> A free Java implementation of Password Based Key Derivation Function 2 as defined by RFC 2898. Copyright (c) 2007 Matthias G&auml;rtner </p> <p> This library is free software; you can redistribute it and/or modify it under the terms of the GNU Lesser General Public License as published by the Free Software Foundation; either version 2.1 of the License, or (at your option) any later version. </p> <p> This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more details. </p> <p> You should have received a copy of the GNU Lesser General Public License along with this library; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA </p> <p> For Details, see <a href="http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html" >http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html</a>. </p>
+
+A page node in a jPDL pageflow
+The page context allows you to store state during a request that renders a page, and access that state from any postback request that originates from that page. The state is destroyed at the end of the second request. During the RENDER_RESPONSE phase, the page context instance refers to the page that is about to be rendered. Prior to the INVOKE_APPLICATION phase, it refers to the page that was the source of the request. During the INVOKE_APPLICATION phase, set() and remove() manipulate the context of the page that is about to be rendered, while get() returns values from the page that was the source of the request.
+A Seam component that manages the current jBPM ProcessInstance used for pageflow.
+
+A jPDL parser for Seam pageflow definitions
+Holds metadata for pages defined in pages.xml, including page actions and page descriptions.
+The {@link PagesDotXmlDeploymentHandler} process pages.xml files Its only purpose is to make sure pages.xml gets updated by hot deploy
+Metadata for a &lt;param/&gt; in pages.xml
+Access to request parameters in the JSF environment.
+
+A swizzled entity reference, consisting of the class, id and persistence context name.
+
+Password hashing utility functions
+The salt value used to produce the password hash
+
+
+
+
+
+
+Limit the scope of a CONVERSATION-scoped component to just the parent conversation in which it was instantiated. The component instance will not be visible to nested child conversations, which will get their own instance. Warning: this is ill-defined, since it implies that a component will be visible for some part of a request cycle, and invisible after that. It is not recommended that applications use this feature!
+Specifies an allowable permission action for the target class, and allows for an optional bit mask value for mapping the permission action to a persistent store
+Flags an entity field or method as representing the action component of a permission, e.g. "update", "delete".
+Meta-annotation that designates an annotation as being a permission action, requiring a security check prior to invoking the annotated method or class
+Flags an entity field or method as representing the discriminator column in a permission table that contains permissions for both roles and users.
+Permission management component, used to grant or revoke permissions on specific objects or of specific permission types to particular users or roles.
+Maps permission checks to resolver chains
+Permission actions can either be persisted as a comma-separated list of values, or as a bit-masked numerical value where certain bits represent specific actions for that class. This is a helper class that handles the conversion automatically and presents a unified API for dealing with these persistent actions.
+Implementations of this interface perform permission checks using a variety of methods.
+Flags an entity field or method as representing the role that a permission is assigned to.
+
+Permission store interface.
+Flags an entity field or method as representing the target of a permission.
+Flags an entity field or method as representing the principal (username) that a permission is assigned to.
+Specifies a list of permission actions for a class
+Support for changing flushmodes for an existing persistence context.
+Maintains the set of persistence contexts that have been touched in a conversation. Also controls the flush mode used by the persistence contexts during the render phase.
+Base class for controller objects which require a persistence context object.
+Abstraction layer for persistence providers (JPA implementations). This class provides a working base implementation that can be optimized for performance and non-standardized features by extending and overriding the methods. The methods on this class are a great todo list for the next rev of the JPA spec ;-)
+Resolves dynamically-assigned permissions, mapped to a user or a role, and kept in persistent storage, such as a relational database.
+
+
+
+
+
+Converts QueryParam etc. strings to GregorianCalendar if they are in ISO date format
+
+
+Handles JMS Message poll requests.
+Wrapper for a single request for a specified subscription poll.
+Support for assigning tasks in the pooled task list.
+Support for the pooled task list.
+
+Handles submission of a new blog entry
+Synonym for {@link javax.ejb.PostActivate}, for use in a pre Java EE 5 environment.
+Synonym for {@link javax.ejb.PostConstruct}, for use in a pre Java EE 5 environment.
+Synonym for {@link javax.ejb.PrePassivate}, for use in a pre Java EE 5 environment.
+
+
+Helper class for ConverterChain
+Demarcation of the business process in pages.xml
+Switches JBPM process definitions dynamically
+A Seam component that allows injection of the current jBPM ProcessInstance.
+Support for the process list.
+
+
+Contains progress information.
+
+
+Various options controlling how a conversation is propagated.
+Interface for parsing a style string array into a stylemap
+Property builder implementations for parsing css style arrays.
+
+
+
+
+
+Dispatcher implementation that uses the Quartz library.
+Provides control over the Quartz Job.
+
+
+Manager for a JMS QueueConnection. By default, the JBoss MQ UIL2.
+Manager for a JMS QueueSession
+Causes an event to be raised after the method returns a non-null result without exception. TODO: String[] ifOutcome() default {};
+
+<p>Operations for random <code>String</code>s.</p> <p>Currently <em>private high surrogate</em> characters are ignored. These are unicode characters that fall between the values 56192 (db80) and 56319 (dbff) as we don't know how to handle them. High and low surrogates are correctly dealt with - that is if a high surrogate is randomly chosen, 55296 (d800) to 56191 (db7f) then it is followed by a low surrogate. If a low surrogate is chosen, 56320 (dc00) to 57343 (dfff) then it is placed after a randomly chosen high surrogate. </p>
+Creates a random UUID using {@link java.util.UUID#randomUUID()} and assigns it to the property.
+
+Marks a component as immutable, not needing replication once created, or a method of the component as read-only, not mutating the state. This allows optimization of performance of JavaBean components in a clustered environment, without the need to implement Mutable.
+
+
+Encode a recipient.  Work is done here, subclasses simply need to specify a RecipientType
+Convenient API for performing browser redirects with parameters.
+
+Propagates the conversation context and page parameters across any browser redirect initiated from a JSF navigation rule defined in faces-config.xml. Note that this is no longer needed if all navigation rules are defined in pages.xml.
+Base implementation of redirection exception handlers.
+Metadata for a &lt;redirect/&gt; in pages.xml
+
+
+
+Remember-me functionality is provided by this class, in two different flavours.  The first mode provides username-only persistence, and is considered to be secure as the user (or their browser) is still required to provide a password.  The second mode provides an auto-login feature, however is NOT considered to be secure and is vulnerable to XSS attacks compromising the user's account. Use the auto-login mode with caution!
+
+Renderer for rendering the required &lt;script&gt; tags for Seam Remoting
+
+Serves JavaScript implementation of Seam Remoting
+Lifecycle management for Seam Remoting requests
+Removes SFSB components from the Seam context after invocation of an EJB @Remove method, or when a system exception is thrown from the bean.
+Metadata for a &lt;render/&gt; in pages.xml
+A class that stores render stamps for use with &lt;s:token&gt; when client side state saving is in use. By default the render stamp store will never remove a render stamp unless instructed to by a UIToken. If the maxSize property is larger than zero then it will control the maximum number of tokens stored, with the oldest token being removed when a token is inserted that will take the store over the maxSize limit. The default maxSize is 100.
+A component for direct rendering of templates. Especially useful with Seam Mail.
+Mangled version of Ajax4Jsf's RendererBase without supporting classes Base Renderer for all chameleon Skin's and components. At most, make all common procedures and realise concrete work in "template" methods.
+A copy of the FacesServlet for use in our Renderer. Shamelessly adapted from the RI
+
+
+
+
+Provides request handlers for different request paths.
+Injects a request parameter value
+Thrown when a null value is encountered during bijection of an attribute with required=true.
+This resource exposes a list of resolved tasks for a particular user using ResourceQuery component. This list is available publicly without authentication needed. The list can be marshalled to XML, JSON, Fastinfoset. ResourceQuery component is extended in order to provide Atom feed.
+A chain of permission resolvers.  Specific permission checks are generally mapped to a particular ResolverChain for resolution.
+Manager component for the Seam resource bundle
+This component exposes EntityHome and HibernateEntityHome components as a REST resource. Empty @Path because it's ignored by second-stage bootstrap if not subclassed or in components.xml but we need it as a marker so we'll find components.xml declarations during first stage of bootstrap.
+Access to application resources in tye JSF environment.
+This exception is mapped to 404 HTTP response code.
+This component exposes EntityQuery component as a REST resource responding to HTTP GET request. Empty @Path because it's ignored by second-stage bootstrap if not subclassed or in components.xml but we need it as a marker so we'll find components.xml declarations during first stage of bootstrap.
+
+Executes (through local calls, not TCP sockets) an HTTP request in a unit test, passing it through the Seam resource handlers and filters. <p> This class is supposed to be used <b>within</b> a <tt>SeamTest</tt>, in fact, you need to pass an instance of <tt>SeamTest</tt> into its constructor. This prepares the environment for the resource request processing. You can either share an instance of the environment between all your test methods (prepare it in <tt>&#064;BeforeClass</tt>) or you can create a new instance for each <tt>ResourceRequest</tt>: </p> <pre> import org.jboss.seam.mock.ResourceRequestEnvironment; import org.jboss.seam.mock.EnhancedMockHttpServletRequest; import org.jboss.seam.mock.EnhancedMockHttpServletResponse; import static org.jboss.seam.mock.ResourceRequestEnvironment.ResourceRequest; import static org.jboss.seam.mock.ResourceRequestEnvironment.Method; public class MyTest extends SeamTest { ResourceRequestEnvironment sharedEnvironment; &#064;BeforeClass public void prepareSharedEnvironment() throws Exception { sharedEnvironment = new ResourceRequestEnvironment(this) { &#064;Override public Map<String, Object> getDefaultHeaders() { return new HashMap<String, Object>() {{ put("Accept", "text/plain"); }}; } }; } &#064;Test public void test() throws Exception { //Not shared: new ResourceRequest(new ResourceRequestEnvironment(this), Method.GET, "/my/relative/uri) new ResourceRequest(sharedEnvironment, Method.GET, "/my/relative/uri) { &#064;Override protected void prepareRequest(EnhancedMockHttpServletRequest request) { request.addQueryParameter("foo", "123"); request.addHeader("Accept-Language", "en_US, de"); } &#064;Override protected void onResponse(EnhancedMockHttpServletResponse response) { assert response.getStatus() == 200; assert response.getContentAsString().equals("foobar"); } }.run(); } } </pre> <p> Note that in a <tt>SeamTest</tt> the (mock) HTTP session is always shared between all requests in a particular test method. Each test method however executes with a new (mock) HTTP session. Design your tests accordingly, this is not configurable. </p> <p> <b>IMPORTANT: A <tt>ResourceRequest</tt> has to be executed in a <tt>@Test</tt> method or in a <tt>@BeforeMethod</tt> callback. You can not execute it in any other callback, such * as <tt>@BeforeClass</tt>. </p>
+
+
+Detects (through scanning and configuration) JAX-RS resources and providers, then registers them with RESTEasy. <p> This class is a factory for <tt>org.jboss.seam.resteasy.dispatcher</tt> and it has been designed for extension. Alternatively, you can ignore what this class is doing and provide a different <tt>org.jboss.seam.resteasy.dispatcher</tt> yourself without extending this class. </p> <p> The main methods of this class are <tt>registerProviders()</tt> and <tt>registerResources()</tt>. These methods call out to the individual fine-grained registration procedures, which you can override if a different registration strategy for a particular type/component is desired. </p>
+Runs after Seam injection and provides JAX RS @Context handling, required for field injection on the actual bean (not proxy) instance.
+Accepts incoming HTTP requests through the <tt>SeamResourceServlet</tt> and dispatches the call to RESTEasy. Wraps the call in Seam contexts.
+Used to restrict access to a Seam component, component method or entity.
+Marks a method as causing an existing jBPM {@link org.jbpm.graph.exe.ProcessInstance process instance} to be associated with the current conversation, unless the annotated method returns a null outcome.
+
+
+
+Specifies the name and scope role for a seam component role. If a component has no <tt>@Role</tt> annotation, it has exactly one role, defined by <tt>@Name</tt> and <tt>@Scope</tt>. If it has one or more <tt>@Role</tt> annotations, the component has one or more roles in addition to the default role defined by <tt>@Name</tt> and <tt>@Scope</tt>.
+
+Meta-annotation that designates an annotation as being a role, requiring a security check prior to invoking the annotated method or class
+Flags an entity field or method as representing whether a role is conditional or not
+Flags an entity field or method as representing the group memberships for a role
+Flags an entity field or method as representing the name of a role
+
+Specifies the roles of a component.
+Automatically sets the current transaction to rollback only when an exception is thrown.
+
+
+
+
+
+Abstract superclass of all controller interceptors
+InvocationContext for use with CGLIB-based interceptors.
+Metadata for an &lt;rule/&gt; in pages.xml
+Manager component for a rule base loaded from a drools RulesAgent
+Manager component for a Drools RuleBase
+A permission resolver that uses a Drools rule base to perform permission checks
+Defines a security operation that can be executed within a particular security context.
+
+A SOAP request handler for controlling Seam's lifecycle and managing conversation propagation.
+Maintains a set of "safe" actions that may be performed by &lt;s:link/&gt;, as determined by actually parsing the view.
+The Scanner is used to find resources to be processed by Seam The processing is done by {@link DeploymentHandler}s
+A "schedule" for a timed event executed by a timer service which supports delayed timed events. It is the base class for the more useful TimerSchedule, NthBusinessDay and CronSchedule classes.
+Specifies the scope (context) of a seam component.
+The scopes defined by Seam.
+This implementation does not have access to the JTA TransactionManager, so it is not fully aware of container managed transaction lifecycle, and is not able to register Synchronizations with a container managed transaction.
+Convenience methods for accessing annotated information about Seam component classes.
+The Seam adaptor should translate seam exceptions and do any other additional management needed
+Proxies the JSF Application object, and adds all kinds of tasty extras.
+Factory for SeamApplication (how could you possibly have figured that out without JavaDoc?)
+An authorization strategy for Wicket backed by Seam Security
+A servlet filter that lets you set the character encoding of submitted data. There are two init parameters: "encoding" and "overrideClient".
+Abstract base class for an Apache Trinidad CollectionModel Implementing classes need to provide conversion between the current row index and a key for the unchanging row. Using rowIndex when backing the CollectionModel with a Query is not possible as sorting and paging alters the rowIndex outside the control of the CollectionModel.
+Intercepts when spring attempts to obtain an instance of a bean. If the bean is a seam component then we retrieve the bean from seam to ensure it gets wrapped and managed by seam as well. This post processor must have a lower precedence than any spring autoproxy creators.
+Intercepts any request for a view-id like /debug.xxx and renders the Seam debug page using facelets.
+
+Resolves Seam components and namespaces. Also allows the use of #{dataModel.size}, #{dataModel.empty}, #{collection.size}, #{map.size}, #{map.values}, #{map.keySet}, and #{map.entrySet}. Also allows #{sessionContext['name']}.
+A listener registered by SeamWebApplication which ensures that a long-running conversation exists when a page annotated with NoConversationPage is rendered
+As a last line of defence, rollback uncommitted transactions at the very end of the request.
+Plugs the JBoss EL expression language and Seam EL resolvers into jBPM. Note that this current implementation does not allow jBPM to see stuff defined only by the JSF ELResolvers.
+Allows JSF action listener methods to not declare the totally useless ActionEvent parameter if they don't want to.
+Obtains an instance of a Seam Component in the current context given the name and other optional parameters. If proxy is set to true then return a scoped proxy of the seam component instance. Use &lt;seam:instance/&gt; to simplify use of this factory.
+
+
+Resolves Seam Security EL functions, s:hasRole() and s:hasPermission() by decorating a delegate Unified EL FunctionMapper
+Goal which appends validator and converter custom tag file into face.
+Resolves Seam context variables as Drools globals
+Controller interceptor for server-side interceptors of EJB3 session bean components.
+Adapts from EJB interception to Seam component interceptors
+Utility Class for managing a spring Transactional Seam lifecycle
+Drives certain Seam functionality such as initialization and cleanup of application and session contexts from the web application lifecycle.
+Performs authentication using a Seam component
+An EntityManagerFactory that defers creation and management of an EntityManager to a Seam ManagedPersistenceContext.
+A FactoryBean the constructs EntityManagerFactories that proxy to a Seam ManagedPersistenceContext.
+A SessionFactory that delegates requests to open a Session to a "managed-hibernate-session".
+NamespaceHandler for a number of seam features in spring.
+Adds three new navigation possibilities beyond the frumpy JSF navigation rules: returning the view id directly, pages.xml, and jPDL-based pageflows.
+Manages the Seam contexts associated with a JSF request throughout the lifecycle of the request. Performs transaction demarcation when Seam transaction management is enabled. Hacks the JSF lifecyle to provide page actions and page parameters.
+
+
+Propagates the conversation context across a browser redirect
+The Seam resource bundle which searches for resources in delegate resource bundles specified in pages.xml, and a configurable list of delegate resource bundles specified in components.xml.
+Routes all types of HTTP requests to implementors of AbstractResource. <p> This servlet is optional in a Seam application but required for certain features, such as <tt>&lt;s:graphicImage/&gt;</tt>, RichFaces resources, and REST integration. It is typically mapped in <tt>web.xml</tt> with the <tt>/seam/resource</tt> URL pattern. </p>
+TODO: We need to significantly extend and change that class so we can lookup provider instances through Seam at runtime. The original class has only been designed for registration of "singleton" providers during startup. See comment about the TL handling in ResteasyResourceAdapter.java.
+Looks up Seam component in Seam contexts when a JAX-RS resource is requested.
+Allows for the creation of seam scoped component in spring. Seam scopes are automatically made available if the SeamScopePostProcessor is declared in the current BeanFactory. &lt;seam:configure-scopes/&gt;
+Post processor that makes all of the seam scopes available in spring and takes all of the beans with those scopes and creates Seam Components out of them. <p/> To use simply define the namespace handler in in your ApplicationContext. &lt;seam:configure-scopes/&gt;
+Manages the Seam contexts associated with a request to any servlet.
+A wrapper for the JSF implementation's StateManager that allows us to intercept saving of the serialized component tree. This is quite ugly but was needed in order to allow conversations to be started and manipulated during the RENDER_RESPONSE phase.
+
+A TargetSource for a seam component instance. Will obtain an instance given a name and optionally a scope and create. Used by the SeamFactoryBean to create a proxy for a requested seam component instance.
+Intercepts calls to user code coming from jBPM, sets up Seam contexts and associates the process and task instances with the contexts.
+Allows the JSF view locale to be integrated with the locale coming from Seam internationalization.
+The base class for Seam Web Applications
+This subclass of WebSession exists so that calls to invalidate the wicket session result in a delegation to the seam session invalidation code.
+Specifies that a class should be instrumented to allow for use as a Seam Wicket component
+Pulls the search results
+
+Delegating wrapper for EL security functions.
+Provides authorization services for component invocations.
+Support for selector objects which remember their selection as a cookie
+A conversation context is a logical context that lasts longer than a request but shorter than a login session. Conversation state may be passivated or replicated.
+This is the seam component that implements the service the GUI uses. Note that @WebRemote is needed, as is @Name to match the service full class name (defaults are not a great idea, as this is open to the wide world !)
+Abstracts the servlet API specific application context as a Map.
+
+Wraps a ServletContext with own attributes.
+A Seam component that binds the HttpServletRequest object to the current thread.
+Methods for setup and teardown of Seam contexts at the beginning and end of servlet requests.
+functions related to the faces servlet mapping and the translation from viewId to URL and back
+Abstracts the servlet API specific request context as a Map.
+Abstracts the servlet API specific session context as a Map. Actual sessions are created lazily.
+Abstracts the servlet API specific application context as a Map.
+Controls HttpSession invalidation in any servlet or JSF environment. Since Seam keeps internal state in the HttpSession, it is illegal to call HttpSession.invalidate() while Seam contexts are active. Applications using Seam security should call Identity.logout() instead of calling this component directly.
+Controller interceptor for server-side interceptors of EJB3 session bean components.
+Session context - state associated with a user session. Session state may be passivated or replicated.
+A JSF DataModel for sets.
+
+
+An example of a Seam component used to do jBPM assignments. (This is silly, for such a simple case, we would not need a component.)
+
+
+
+
+Simple method binding for constant action outcome.
+
+A simple entity class that can be used in tests.
+Implementation of the Group interface, used for holding roles etc.
+Simple implementation of the Principal interface, supporting a named user.
+
+
+
+
+Compiles Drools DecisionTable.
+An extension of Component that allows spring to provide the base instance for a seam component.
+Resolver patterned after the Spring DelegatingVariableResolver providing el access to Spring beans in non Faces Requests.
+Dispatcher that can utilizes SpringTaskExecutors for non scheduled asynchronous events but defer to another ScheduledDispatcher for Scheduled asynchronous events.
+
+The standard deployment strategy used with Seam, deploys non-hot-deployable Seam components and namespaces
+Marks a method as causing jBPM {@link org.jbpm.taskmgmt.exe.TaskInstance task} to be started. The jBPM {@link org.jbpm.context.exe.ContextInstance} is associated with the BUSINESS_PROCESS scope and the {@link org.jbpm.taskmgmt.exe.TaskInstance} is associated with a new conversation, unless the annotated method returns a null outcome. <p/> Note that both {@link BeginTask} and {@link StartTask} have effect before invocation of the intercepted method in that they are both about setting up appropriate {@link org.jbpm.context.exe.ContextInstance} for the current {@link org.jboss.seam.contexts.BusinessProcessContext}; {@link StartTask} however, also has effect after method invocation as that is the time it actually marks the task as started.
+Specifies that an instance of this component is created at system initialization time for an application scoped component, or when a session is started for a session scoped component. May only be applied to APPLICATION or SESSION scoped components.
+This is a hack to instantiate a thread-local object that Facelets uses to write the STATE_KEY into the response when directed by JSF. The STATE_KEY is written in the case when there is a form on the page. This hack is necessary since we are not calling Facelets in the normal way (and hence it is not completely initialized).
+
+A status message which can be created in the business layer and displayed in the view layer
+Abstract base class for providing status messages. View layers should provide a concrete implementation.
+
+
+String wrapper class.
+
+Utility class. Not much here but makes nested Maps look prettier. Contains a key -> value CSS mapping
+
+
+
+
+
+
+
+Support for the conversation switcher drop-down menu.
+Serializes calls to a component.
+A list of Synchronizations to be invoked before and after transaction completion. This class is used when we can't register a synchronization directly with JTA.
+Interface for registering transaction synchronizations
+Specifies that a stateful component has multiple concurrent clients, and so access to the component must be synchronized. This annotation is not required for session scoped components, which are synchronized by default.
+
+Seam's default strategy for propagating conversations.
+
+
+A Seam component that allows injection of the current jBPM TaskInstance.
+Support for the task list.
+Support for a list of tasks of a particular type.
+Support for a task list ordered by priority.
+This class exposes CRUD interface for manipulating tasks. ResourceHome component is used as the base and is significantly customized to correspond with usecase.
+This class exposes two lists of tasks for every category. Unresolved tasks can be obtained by sending HTTP GET request to category/{category}/unresolved URI. To obtain a list of already resolved tasks, use category/{category}/resolved URI.
+
+Factory for a Map of resources that may be used for skinning the user interface.
+Selects the current user's theme
+
+Dispatcher implementation that uses a java.util.concurrent ScheduledThreadPoolExecutor.
+Manager component for the current user's locale
+Selects the current user's time zone, defaulting to the server time zone.
+A wrapper around a TimeZone that provides a more convenience interface to access the time zone information in the UI, in particular in the options of a select menu.
+<p>Seam component that provides a list of time zones, limited to time zones with IDs in the form Continent/Place, excluding deprecated three-letter time zone IDs. The time zones returned have a fixed offset from UTC, which takes daylight savings time into account. For example, Europe/Amsterdam is UTC+1; in winter this is GMT+1 and in summer GMT+2.</p> <p>The time zone objects returned are wrapped in an implementation of TimeZone that provides a more friendly interface for accessing the time zone information. In particular, this type provides a more bean-friend property for the time zone id (id than ID) and provides a convenience property named label that formats the time zone for display in the UI. This wrapper can be disabled by setting the component property wrap to false.</p>
+
+A "schedule" for a timed event executed by the EJB timer service or some other timer service which supports delayed and/or periodic timed events.
+Dispatcher implementation that uses the EJB TimerService.
+An accelerated version of the underlying strategy that uses the SimpleURLScanner to determine the timestamp of the latest file.
+A no-op version of the URLScanner that merely returns whether the deployment handler would in fact handle this file. It does not process the file in any way. This allows us to use this scanner for timestamp checking.
+
+<p> The <strong>TokenRendererBase</strong> renders the form's signature as a hidden form field for the UIToken component. If the renderStampStore component is enabled, the actually signature will be stored in the session and the key to this token store in the hidden form field, providing the same guarantee for client-side state saving as with server-side state saving. </p> <p> The form signature is calculated as follows: </p> <pre> sha1(signature = contextPath + viewId + &quot;,&quot; + formClientId + random alphanum, salt = clientUid) </pre> <p> The developer can also choose to incorporate the session id into this hash to generate a more secure token (at the cost of binding it to the session) by setting the requireSession attribute to true. Then the calculation becomes: </p> <pre> sha1(signature = contextPath + viewId + &quot;,&quot; + formClientId + &quot;,&quot; + random alphanum + sessionId, salt = clientUid) </pre> <p> The decode method performs the following steps: </p> <ol> <li>Check if this is a postback, otherwise skip the check</li> <li>Check that this form was the one that was submitted, otherwise skip the check</li> <li>Get the unique client identifier (from cookie), otherwise throw an exception that the browser must have unique identifier</li> <li>Get the javax.faces.FormSignature request parameter, otherwise throw an exception that the form signature is missing</li> <li>If the renderStampStore component is enabled, retrieve the render stamp from the store using the key stored in the render stamp attribute of the form.</li> <li>Generate the hash as before and verify that it equals the value of the javax.faces.FormSignature request parameter, otherwise throw an exception</li> </ol> <p> If all of that passes, we are okay to process the form (advance to validate phase as decode() is called in apply request values). </p>
+A store containing user authentication tokens.  Used in conjunction with the RememberMe component to auto-login users that present a valid cookie-based token.
+Flags an entity field or method as representing the username for an authentication token
+Flags an entity field or method as representing the value for an authentication token
+Manager for a JMS TopicConnection. By default, the JBoss MQ UIL2.
+Manager for a JMS TopicSession
+Supports injection of a Seam UserTransaction object that wraps the current JTA transaction or EJB container managed transaction.
+An event that is processed when a transaction ends
+Implements transaction propagation rules for Seam JavaBean components.
+Transaction propagation strategies for Seam JavaBean components. Note that unlike EJB3 components, there are no strategies for suspending transactions.
+
+An event that is processed when a transaction completes succesfully
+Specifies that the transaction propagation for a JavaBean component or method of a JavaBean component. JavaBean components have @Transactional(SUPPORTS) behavior if no @Transactional annotation is specified.
+Marks a method as causing a jBPM transition after the method returns a non-null result without exception.
+Provide enhanced features when Trinidad is used as a JSF component set
+
+This is a support component and is not processed by the CDK (doesn't appear in faces-config)
+
+
+
+
+based on JBSEAM-1155 submission by user ivan
+JSF component for rendering a Bcc
+JSF component for rendering the body Supports plain text, html bodies and setting an alternative (text) part using an alternative facet
+JSF component class for Seam UIButton
+JSF component class for Seam UICache
+
+JSF component for rendering a Cc
+
+
+
+
+
+
+
+
+
+
+JSF component class which addd the conversation id to JSF link or button (e.g. &lt;h:commandLink/&gt;, &lt;s:button/&gt;)
+Embeds the natural conversation ID into the request.
+JSF component class for customization of the conversation propagation in a command link or a button
+"Decorates" a JSF input field when validation fails or when required="true" is set
+Component that is aware of being used from a facet by s:decorate
+Simulates pressing the action source when 'enter' is pressed
+
+JSF Component for Link which is able to download a file
+
+atomEntry = element atom:entry { atomCommonAttributes, (atomAuthor* & atomCategory* & atomContent? & atomContributor* & atomId & atomLink* & atomPublished? & atomRights? & atomSource? & atomSummary? & atomTitle & atomUpdated & extensionElement*) }
+JSF component class for creating SelectItem from an enum value
+JSF Component for validation of all child JSF input fields against the bound properties using Bean Validation
+atomFeed = element atom:feed { atomCommonAttributes, (atomAuthor* & atomCategory* & atomContributor* & atomGenerator? & atomIcon? & atomId & atomLink* & atomLogo? & atomRights? & atomSubtitle? & atomTitle & atomUpdated & extensionElement*), atomEntry* }
+
+JSF component class which renders a file upload control. This control must be used within a form with an encoding type of multipart/form-data
+
+
+
+JSF component class which outputs Seam Text. Parse errors generate WARN level log messages.
+
+JSF component class which surrounds a page fragment and allows you to apply render/not render without any html output
+JSF Component for rendering a from address
+Outputs an image to the view. You can specify the file as a path, a java.io.File, java.io.InputStream, java.net.URL or byte[]
+
+
+
+
+
+
+
+
+JSF Component which renders a label associated with the nearest JSF input component
+
+JSF component class which renders a link that supports invocation of an action with control over conversation propagation. It does not submit the form.
+
+
+
+
+
+JSF component class which decorates a JSF input field with the validation error message.
+
+
+
+
+
+
+
+
+
+
+
+Tag that auto-generates script imports for Seam Remote
+JSF component for rendering a Reply-to header
+JSF Component which can use a data in form as inputstream, java.util.File or byte[] and a content-type, this tag sends the data to the browser
+
+Parent of all Seam command like JSF components
+
+JSF Component which creates a List<SelectItem> from a List, Set, DataModel or Array.
+JSF component class which inserts a parameter that can be bound to a data model
+
+Renders a HTML &lt;span&gt;
+
+JSF Component which renders a HTML &lt;div&gt;
+JSF component for rendering subject line
+
+
+JSF component class for adding of task id to an output link (or similar JSF control), when the task is available via #{task}.
+
+
+JSF Component for rendering To
+<p> <strong>UIToken</strong> is a UIComponent that produces a random token that is inserted into a hidden form field to help to secure JSF form posts against cross-site request forgery (XSRF) attacks. This is an adaptation of the recommendation called Keyed-Hashing for Message Authentication that is referenced in the Cross Site Reference Forgery by Jesse Burns (http://www.isecpartners.com/files/XSRF_Paper_0.pdf) </p> <p> When placed inside a form, this component will first assign a unique identifier to the browser using a cookie that lives until the end of the browser session. This is roughly the browser's private key. Then a unique token is generated using various pieces of information that comprise the form's signature. The token may or may not be bound to the session id, as indicated by the value of the requireSession attribute. The token value is stored in the hidden form field named javax.faces.FormSignature. </p> <p> There is an assumption when using this component that the browser supports cookies. Cookies are the only universally available persistent mechanism that can give the browser an identifiable signature. It's important to know that the browser submitting the form is the same browser that is requesting the form. </p> <p> During the decode process, the token is generated using the same algorithm that was used during rendering and compared with the value of the request parameter javax.faces.FormSignature. If the same token value can be produced, then the form submission is permitted. Otherwise, an {@link UnauthorizedCommandException} is thrown indicating the reason for the failure. </p> <p> The UIToken can be combined with client-side state saving or the "build before restore" strategy to unbind a POST from the session that created the view without sacrificing security. However, it's still the most secure to require the view state to be present in the session (JSF 1.2 server-side state saving). </p> <p> Please note that this solution isn't a complete panacea. If your site is vulnerable to XSS or the connection to wire-tapping, then the unique browser identifier can be revealed and a request forged. </p>
+JSF Component which nestes in a &lt;s:graphicImage&gt;.Transforms an image by applying a blur.
+JSF Component which nestes in a &lt;s:graphicImage&gt;.Transforms an image by altering the size.
+JSF Component which nestes in a &lt;s:graphicImage&gt;.Transform an image by changing it's type.
+JSF component class which validates all child JSF input fields against the bound properties using Bean validation
+
+
+Implementation of {@link Scanner} which can scan a {@link URLClassLoader}
+Wraps JTA transaction management in a Seam UserTransaction interface.
+Access to UIComponents in the current view, by id.
+An exception is thrown when the authenticity of a JSF command (i.e., form post) that relies on a UIToken cannot be verified.
+
+Nobody should be using MethodBinding anymore, but if they are, we need this.
+Nobody should be using ValueBinding anymore, but if they are, we need this.
+
+Specifies that the object returned by the annotated getter method is to be injected instead of the component itself. Supports use of the Seam "manager component" pattern.
+
+Defines a new property name with the value converted to uppercase.
+
+
+
+A conversation-scoped component for creating and managing user accounts
+Flags an entity field or method as representing the enabled status of a user
+Flags an entity field or method as representing the first name of a user
+Flags an entity field or method as representing the last name of a user
+Flags an entity field or method as representing the password for a user
+
+Manager component for the current user Principal exposed via the JSF ExternalContext.
+This resource demonstrates use of ResourceHome component together with Seam security. This resource exposes user management as a web service, however only users with admin permission are allowed to access it.
+
+Flags an entity field or method as representing the list of role memberships for a user
+
+
+
+Extends the standard UserTransaction interface with a couple of helpful methods.
+
+
+Allows the application to determine whether the JSF validation phase completed successfully, or if a validation failure occurred.
+
+This simple validation utility shows how you can have the same code on the "client" as on the server (ie the server can re-use some code from the client - one of the GWT advantages).
+Allows a Seam component to act as a JSF validator. The annotated class must be a Seam component, and must implement javax.faces.validator.Validator.
+Generates JSF taglib descriptor for all Validators classes
+Caches instances of Hibernate Validator ClassValidator
+
+
+Provides authorization services for web service invocations.
+A special deployment strategy that can be used to scan the war root. This is treated as a special case.
+
+Indicates that the annotated method is accessible via the remoting framework.
+Port of Booking Application to Wicket
+
+
+
+This component wraps the WicketFilter, encapsulates the class dependencies upon the wicket library, and propogates the configuration from seam's own WicketFilter, specified with web:wicket-wilter.  It also sets up the WicketClassLoader to instrument wicket components on the fly, if necessary.
+
+
+
+
+Used for remoting unit tests to test a variety of constraint combinations.
+Performs work in a JTA transaction.
+
+
+
+
+Generates JSF taglib descriptor xml
+
