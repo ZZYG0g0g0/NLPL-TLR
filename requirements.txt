@@ -1,0 +1,56 @@
+annotated-types==0.7.0
+anyio==4.9.0
+certifi==2025.1.31
+charset-normalizer==3.4.1
+click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+distro==1.9.0
+et_xmlfile==2.0.0
+exceptiongroup==1.3.0
+filelock==3.13.1
+fsspec==2024.6.1
+h11==0.16.0
+httpcore==1.0.9
+httpx==0.28.1
+huggingface-hub==0.30.2
+idna==3.10
+Jinja2==3.1.4
+jiter==0.9.0
+joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
+MarkupSafe==2.1.5
+mpmath==1.3.0
+networkx==3.3
+nltk @ file:///C:/b/abs_3e10flry37/croot/nltk_1724427703710/work
+numpy==2.2.2
+openai==1.78.1
+openpyxl==3.1.5
+packaging==25.0
+pandas==2.2.3
+pillow==11.0.0
+psutil==7.0.0
+pyarrow==19.0.1
+pydantic==2.11.4
+pydantic_core==2.33.2
+python-dateutil==2.9.0.post0
+pytz==2025.1
+PyYAML==6.0.2
+regex @ file:///C:/b/abs_d785r851h6/croot/regex_1736542205858/work
+requests==2.32.3
+safetensors==0.5.3
+scikit-learn==1.6.1
+scipy==1.15.1
+six==1.17.0
+sniffio==1.3.1
+stanfordcorenlp==3.9.1.1
+sympy==1.13.1
+threadpoolctl==3.6.0
+tokenizers==0.21.1
+torch==2.6.0+cu124
+torchaudio==2.6.0+cu124
+torchvision==0.21.0+cu124
+tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
+transformers==4.51.3
+typing-inspection==0.4.0
+typing_extensions==4.12.2
+tzdata==2025.1
+urllib3==2.3.0
