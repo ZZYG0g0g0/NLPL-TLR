@@ -6,15 +6,9 @@ import time
 
 # Initialize DeepSeek client
 client = OpenAI(
-    # api_key = "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", #llama
-    # api_key = "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", #Gemini
-    # api_key = "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", #mistral
-    # api_key = "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", #coder_large
-    # api_key = "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", # codex
-api_key = "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", #deepcoder
+
+api_key = "sk-or-v1-a3725********", #deepcoder
     base_url= "https://openrouter.ai/api/v1"
-    # api_key="sk-82bdba6449304e02a5351e8e66995b2c",  # deepseek
-    # base_url="https://api.deepseek.com"  # DeepSeek API
 )
 
 def prompt_for_relation(requirements_text, code_text):
@@ -111,3 +105,4 @@ if __name__ == '__main__':
         results = [(dataset_name, precision, recall, f1)]
         save_results_to_excel(results, output_file)
         print(f"Results saved to {output_file}")
+
