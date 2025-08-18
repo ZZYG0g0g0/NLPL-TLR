@@ -1,0 +1,184 @@
+ui assign new rout uav
+control panel framework activ flight uu
+drag drop vertic layout fr info box store assign rout u
+set emerg button af info panel
+bar indic activ flight ui follow mode
+box side panel contain ua inform
+side panel contain af info box uav inform
+main layout activ flight uu
+map compon activ flight uu
+set map oper button af info panel
+set map oper button af info panel privat class listen implement context click listen privat static final long version uid overrid public void click context click event event upload system clic upload
+abstract base class virtual physic drone
+abstract base class command send gc contain id uav uniqu command id
+abstract factori class drone fleet factori
+abstract base class servic handl file
+abstract base class servic allow transfer file byte array
+base class predefin flight pattern exand
+
+terrestri posit wg class implement util method subclass
+
+
+structur identifi object hold id part refer child d turn hold one id part etc altogeth form whole identifi
+
+
+id valid uav command
+new gc connect dronolog send link connect request messag
+predefin pattern coordin land expand part link pattern task link full mission plan
+predefin pattern coordin expand part link pattern task link full mission plan
+delay task specifi delay rout execut commenc next round
+link dispatch queue manag handl incom outgo queue incom queue contain link uav state receiv uav dispatch link physic drone outgo queue contain link drone command send ua
+
+
+
+
+hold fleet virtual physic drone br activ ua vs regist fleet manag retriev assign rout
+associ drone state object drone br normal behavior ground awaitin takeof clearanc takin fli air land br unavail transit result except throw
+
+servic uav monitor messag br allow regist link remot monitor messag handler subscrib certain messag type topic br
+
+remot facad monitor ua vs allow regist link remot monitor messag handler subscrib certain messag type topic br
+servic handl ua vs allow initi new ua vs br allow retriev activ ua vs return proxi link iuav proxi actual physic virtual uav
+servic instanc handl ua vs see link drone setup remot servic detail
+remot facad handl ua vs allow initi new ua vs br allow retriev activ ua vs return proxi link iuav proxi actual physic virtual uav
+
+voltag simul everi minut flight batteri decreas volt
+
+
+
+
+use dummi object handi synchron dummi block
+
+
+
+
+servic handl uav flight br allow assign flight plan ua vs br allow send flight relat command ua vs return home
+
+remot facad handl uav fligth br allow assign flight plan ua vs br allow send flight relat command ua vs return home
+store flight inform includ waypoint current statu
+
+
+implement flight rout contain seri waypoint addit
+
+provid implement link flight rout detail see link abstract item persist provid
+servic handl flight rout br allow creat new rout retriev exist routu transmit modifi rout
+link flight routeplan servic instanc provid capabl retriev link flight rout file system br new link flight rout detect file system get automat load br rout provid via link flight rout info proxi contain basic info flight rout
+remot facad handl uav rout br allow creat modifi rout
+comput current posit virtual drone move flight serv lightweight sitl drone
+central manag class uav relat action br includ land check well assign flight plan ua vs
+
+manag mission plan mission plan one full mission plan instanc one uav mission plan instanc uav mission plan br ua individu mission plan compos mission task br entir mission plan load thread creat check individu uav mission plan determin start next task
+command send gc send new waypoint
+establish new handl establish connect dronolog multipl gc creat new link read dispatch link write dispatch thread connect new gc establish
+drone interfac
+interfac uav command
+
+
+
+
+remot interfac handl ua vs allow initi new ua vs br allow retriev activ ua vs return proxi link iuav proxi actual physic virtual uav
+
+
+
+
+interfac flight pattern implement expand sever differ link mission task
+
+
+
+
+
+
+
+
+interfac messag shall subscrib via monitor ap
+
+movement simul simul movement link virtual drone reach assign waypoint
+
+interfac handl commun server ui server servic
+
+
+
+
+
+link incom groundstat connect server listen predefin port new connect gc
+messag sever type batteri infrastrucutur
+simpl json reader convert json string link full mission plan object
+
+
+
+terrestri posit defin latitud longitud altitud
+handler class link virtual drone link physic drone handl basic function independ virtual physic endpoint br contain inform coordin state flight instruct endregion
+manag hashtabl store key list valu queri hashtabl never return null empti list list need creat initi
+util class draw marker uav icon map br need addit cleanup refactorin
+
+central control class respons build initi execut link full mission plan link mission control period check new task activ activ demand
+
+implement receiv save upload file listen success upload class mission upload implement receiv succeed listen privat static final long version uid public file file overrid public output stream upload string filenam string type system uploa file output stream fo null output stream write tri system file new file filenam file file temp file tmp new file fo new file output stream catch throwabl e todo auto catch block stack trace return null return fo overrid public void succeed succeed event event tri content file absolut path mission catch throwabl e todo auto catch block stack trace public string file string path string builder content new string builder buffer reader buf buffer file reader path string line tri buf null line line null content append line system separ catch io except e stack trace return string public buffer reader buffer file reader string path file reader fr null buffer reader buf null tri string path path fr new file reader buf new buffer reader catch file find except e ogg lwarn could read file path stack trace return buf
+servic plan execut mission multipl ua vs br initi implement mission plan capabl br allow retriev send mission plan json string dronolog
+
+remot facad handl mission plan initi implement mission plan capabl br allow retriev send mission plan json string dronolog
+
+
+
+
+
+terrestri posit defin normal vector altitud normal vector point surfac wg refer ellipsoid normal vector combin altitud repres distanc refer ellipsoid note distanc sea level sea level defin surfac ellipsoid wg altitud togeth precis defin posit earth unit vector e vector magnitud altitud meter
+
+posit earth repres x z coordin earth center earth fix refer frame origin frame center mass earth point toward equat meet prime meridean latitud longitud point toward geograph north pole latitud longitud undefin deriv use right hand rule point toward latitud longitud unit meter
+factori class predefin link flight pattern
+link pattern task repres predefin pattern expand mission creat
+represent physic uav either interact real hardwar sitl simul ua
+factori class initi new link physic drone instanc
+link plan pool manag pend execut complet plan singl ua
+manag pend plan individu ua vs activ uav link plan pool keep track assign pend flight plan
+threat handl incom messag gc br link read dispatch handl json messag transform uav messag extend link abstract uav messag link uav messag factori
+
+
+
+
+
+
+singleton class get instanc call instanc set runtim mode flight zone either simul physic mode may set one time execut simul use soft drone object physic use real drone control use dronekit ap
+
+
+
+
+
+command send gc adjust monitor frequenc br frequenc send ms
+command send gc adjust state frequenc br frequenc send ms
+
+
+
+simpl simul implement contain flight simul batteri simul
+store flight inform includ waypoint current statu
+
+direct one flight contain multipl waypoint
+
+
+synchron d predefin link synchron point
+
+link synchron manag hold list link synchron point ensur point fulli sync br allow ua vs proceed next task
+synchron point rout assign ua vs br link synchron point link synchron state activ one ua collabor e regist ua reach sync point order proceed
+possibl state link synchron point
+
+
+
+contain list link mission task part mission
+
+
+factori class creat link abstract uav messag json string
+mission plan individu ua part link execut mission plan
+monitor messag receiv gc specif ua
+base class monitor messag
+monitor messag receiv gc specif ua
+
+proxi class mang drone br datastructur intend pass extern client contain necessari inform regard actual uav manag dronolog
+
+state messag receiv gc specif ua
+represent virtual uav control intern simul
+factori class initi new link virtual drone instanc
+
+waypoint implement use link flight plan fight rout repres coordin link lla coordin approach speed toward respect waypoint br br class constitu field link serializ class pass via remot interfac
+
+
+writer thread take item outbound queue write socket

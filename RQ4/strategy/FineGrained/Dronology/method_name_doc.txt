@@ -1,0 +1,184 @@
+rout content side pannel statu pannel appli cancel hover return home rout assign rout
+panel
+new compon compon compon compon count compon index sortabl layout compon
+home hover
+stop follow button uav list
+listen bottom compon content top compon box visibl check box check click health color home button hover place hover switch check name rout button statu box visibl check click hover place check updat
+box box content check check visibl visibl box check focus name map view num uav drone box hover visibl
+follow af map control
+drone popup view way point popup view drone center lat center lon drone listen follow follow zoom map instanc waypoint listen zoom level refresh averag center center follow follow zoom zoom level
+click listen follow button view button
+click listen misison
+altitud base coordin coordin drone name drone statu latitud longitud base coordin coordin coordin manag drone user control veloc batteri level
+uav id timestamp json string string
+drone id drone drone
+item chang listen item item item item item chang listen server server
+item chang listen item file item item path file chang item item chang listen server server
+sync point task creat sync point task list initi
+task name uav id waypoint
+distanc lla ned vector lla coordin n vector p vector rot matrix distanc
+servic listen universi servic listen core servic file servic info server server info servic servic info workspac servic instanc servic listen universi servic listen servic workspac servic servic
+properi datum gc id identifi properti properti sendtimestamp timestamp type uavid type uavid timestamp string
+item item equal final attach item child id code attach item string
+equal name start coordin code start coordin
+
+
+type
+creat sync point flight pattern
+creat sync point flight pattern
+durat finish delay task
+dispatch thread monitor dispatch thread valid groundstationid outgo command queue do handshak messag drone statu updat monitor messag new drone safeti valid send
+distanc distanc instanc notifi messag
+instanc connect servic instanc connect connect
+start servic stop servic order properti path servic class connect connect connect drone
+
+drone drone fleet listen avail drone avail drone instanc regist drone regist drone avail drone listen drone drone avail pool droe
+state chang listen state machin statu await takeoff clearanc fli air land ground take state chang mode await take clearanc mode fli mode air mode land mode ground mode take mode user control
+initi locat mode safeti inform type safeti inform
+instanc subscrib handler servic instanc monitor messag handler monitor messag handler monitor frequenc handler
+start servic stop servic order properti path servic class subscrib handler monitor messag handler monitor messag handler handler
+instanc monitor messag handler monitor messag handler monitor frequenc
+drone statu chang listen drone activ uav activ ua vs instanc servic instanc drone drone statu chang listen command
+drone statu chang listen plan drone init drone start servic stop servic activ uav activ ua vs order properti path servic class drone drone statu chang drone statu chang listen command
+drone statu chang listen activ ua vs instanc drone drone statu chang listen command
+scenario item start servic stop servic file categori order path properti path servic class servic info properti file chang
+point voltag batteri batteri drain batteri drain
+
+instanc publish handler
+stream
+main
+
+
+file file byte array workspac file byte array file
+complet pend complet flight current flight pend flight current flight
+info currenct flight
+pend flight stop current flight flight info instanc servic instanc flight flight flight home takeoff
+pend flight start servic stop servic stop current flight flight detail flight info order properti path servic class flight flight flight home takeoff
+pend flight current flight flight info instanc flight flight flight home takeoff
+assign drone assign drone design drone id end locat end time flight id start locat start time statu takeoff altitud way point complet design drone id statu complet statu fli string reach
+creat creat
+drone id end time start locat start time waypoint drone id end time start locat start time waypoint
+waypoint waypoint categori descript id name waypoint waypoint waypoint categori descript name takeoff altitud takeoff altitud
+waypoint categori date creat date modifi descript rout length waypoint waypoint categori date creat date modifi descript rout length
+instanc persistor persistor
+flight path categori instanc item rout name servic instanc
+distanc item start servic stop servic file flight path categori item order path properti path rout name servic class servic info properti file chang
+item chang listen item item flight path categori instanc item item chang listen server server
+angl latitud delta longitud delta remain distanc destin reach move flight path
+pend flight complet plan land readi schedul schedul takeoff take readi pend fli pend fli takeoff stop await take flight await land await take plan chang flight flight flight flight home takeoff assign uav
+random rout main
+task uav build synch point mission activ task distanc task mission activ mission uav pre check
+
+handler id safeti valid run reconnect command statu callback notifi connect
+altitud base coordin batteri statu coordin drone name drone statu late drone snapshot latitud longitud destin reach land move command command base coordin coordin coordin ground speed manag drone veloc voltag check point
+uav id timestamp json string
+handler id command statu callback notifi
+connect connect connect
+monitor messag handler monitor messag handler monitor frequenc
+subscrib handler monitor messag handler monitor messag handler handler
+drone statu chang listen activ ua vs drone drone statu chang listen command
+drone statu chang listen drone activ uav activ ua vs drone drone statu chang listen command
+way point current way point way point home next point way point way point safeti direct land take home way point
+pend flight current flight flight info flight flight flight home takeoff
+pend flight stop current flight flight detail flight info flight flight flight home takeoff
+flight pattern task list initi
+assign drone assign drone design drone id end locat end time flight id start locat start time takeoff altitud way point complet design drone id statu complet statu fli
+waypoint waypoint categori descript waypoint waypoint waypoint categori descript takeoff altitud
+flight path categori rout name
+state chang
+mission descript descript mission descript descript
+mission mission plan mission plan mission plan
+mission mission plan mission plan mission plan uav
+task name uav id waypoint
+datum identifi timestamp type uavid
+queue
+point destin reach move flight path
+plan chang
+servic listen servic servic core servic file servic servic servic initi regist servic listen unregist
+monitor messag
+
+execut
+updat batteri level collis avoid coordin drone state mode veloc
+altitud batteri level coordin groundstat id home locat id info latitud longitud statu veloc
+run
+
+mission task
+
+waypoint
+execut
+altitud rang latitud rang longitud rang equal altitud latitud longitud code lla coordin n vector p vector string
+goal flight start end flight goal stop drone base coordin coordin drone name flight mode state flight safeti mode state messeng snapshot place complet start land state chang takeoff messag assign flight messag get snapshot messag goal updat messag unassign flight messag updat guidanc messag messag command flight home run command target altitud start stop flight updat goal guidanc
+add get
+activ flight rout drone marker connect reach activ flight rout drone marker
+creat messag messag messag plan activ plan complet
+mission mission mission instanc run
+
+mission mission content
+mission mission plan mission plan mission plan instanc servic instanc uav
+mission item start servic stop servic mission plan mission plan mission plan file order path properti path servic class listen uav listen
+item chang listen mission item item mission plan mission plan mission plan instanc item item chang listen server server
+rout waypoint final waypoint first way point home last waypoint uav
+deseri
+main
+call
+point voltag destin reach move flight path batteri drain batteri drain
+distanc equal altitud x z code distanc lla coordin n vector p vector string distanc distanc
+averag mid move
+equal x z code lla coordin n vector p vector string
+pattern
+
+altitud batteri statu coordin late drone snapshot latitud longitud destin reach land move command command ground speed veloc voltag check point updat batteri level collis avoid coordin drone state mode veloc
+instanc drone command handler
+plan pend plan complet plan current plan pend plan pend plan plan current flight complet next plan current
+plan new plan plan statu chang listen plan plan pool pend plan form complet plan complet plan current flight current plan instanc next pend plan pend plan pend plan pend flight plan chang plan
+connect id messag run
+monitor probe probe state probe notifi notifi notifi transform transform transform
+
+servic listen servic servic core servic file servic instanc servic servic initi regist servic listen unregist
+monitor messag
+servic listen servic servic core servic file servic instanc servic servic initi regist servic listen unregist
+
+command handler instanc physic simul command handler physic environ virtual environ command handler
+call
+
+
+
+
+
+
+
+alt lat long monitor messag
+main
+point voltag destin reach move flight path batteri drain batteri drain
+assign drone assign drone design drone id end locat end time flight id start locat start time statu takeoff altitud way point complet design drone id statu complet statu fli string
+simul
+way point current way point way point home next point next way point way point way point safeti direct land take home way point
+deseri batteri statu lla coordin vector
+call listen
+
+
+synch point synch item synchron point count unsynch ua vs instanc next altitud fulli synch uav altitud point exist visit synch point
+synchron point unsynch synch collabor collabor string
+
+
+waypoint
+task task task
+task task
+
+home safeti case home
+creat json
+next task task synch point equal task list coordin altitud start rout waypoint uav id activ task task code execut task coordin altitud count
+mode type
+datum datum type identifi timestamp type uavid string
+
+
+altitud batteri level coordin groundstat id home locat id info latitud longitud statu veloc code groundstat id home locat statu veloc string batteri level coordin veloc
+
+attitud batterystatu groundspe locat mode statu veloc armabl arm string
+batteri statu late drone snapshot destin reach land move command command ground speed veloc voltag check point
+instanc drone
+chang regist run stop
+equal approachingspe coordin code reach reach approachingspe
+waypoint
+path area map locat default root folder drone specif locat flight rout locat instanc mission plan locat sim scenario locat workspac locat file flight path item area map workspac flight path workspac mission plan workspac root server workspac specif workspac
+run

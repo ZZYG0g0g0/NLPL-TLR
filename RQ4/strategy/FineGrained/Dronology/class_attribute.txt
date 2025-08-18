@@ -1,0 +1,184 @@
+serialVersionUID LOGGER content topContent sideContent bottomButtons sideButtons panelContent frLayout sidePanel cancel apply left right numRoutes hoverSwitch returnToHome index boxID provider flightRouteService flightRouteInfo flightInfoService droneImage uavStatus
+serialVersionUID info
+serialVersionUID layout flightRouteService flightInfoService provider UAVid boxID
+serialVersionUID buttons hover home
+serialVersionUID totalLayout stopFollowingButton textLabel smallText UAVNames
+serialVersionUID visible isChecked hoverInPlace checkClicked check statusInfo1 statusInfo2 statusInfo3 health locationInfo1 locationInfo4 hoverSwitch returnToHome takeoff takeoffIcon rtlIcon assignRouteIcon resendIcon okIcon user_controlled assignNewRoute resendCommand mainContent topContent middleContent bottomContent uavStatus
+serialVersionUID panel selectButton visibleButton content numUAVs selectAll visible focused mapView drones service provider missionView LOGGER
+serialVersionUID controls map
+serialVersionUID leafletMap drones currentFlights service flightManagerService provider follow followZoom content followLayout followBar layout popup dronePopup panel drawingutil
+serialVersionUID buttons follow viewAll
+serialVersionUID buttons upload cancelMission executeMission
+LOGGER basePosition currentPosition droneName droneStatus mgdDrone
+serialVersionUID GSON data uavid command sendtimestamp commandid
+
+LOGGER
+LOGGER extension fileManager listeners itemmap storagePath
+synchPointMgr taskList
+uavID taskName
+
+LOGGER serviceInstance isStarted services customWorkspace
+serialVersionUID receiveTimestamp sendtimestamp type data uavid groundstationid
+serialVersionUID SEPARATOR ROOT id COUNTER child attacheditems
+droneName startCoordinate
+serialVersionUID uavid1 uavid2 distance
+SET_MODE_COMMAND GOTO_LOCATION_COMMAND PING_PONG_COMMAND TAKEOFF_COMMAND STOP_COMMAND SET_GROUND_SPEED_COMMAND SET_VELOCITY_COMMAND SET_MONITOR_FREQUENCY_COMMAND SET_STATE_FREQUENCY_COMMAND CONNECTION_RESPONSE
+serialVersionUID MESSAGE_TYPE
+
+
+LOGGER duration startTime
+LOGGER NUM_THREADS SERVICE_EXECUTOR USE_MONITORING queueMap dispatchThreads outgoingCommandQueue monitoringQueue groundstationid validator
+LOGGER MIN_DIST INSTANCE messageQueue dataMap
+INSTANCE
+connectionExecutor LOGGER GSON server activeConnections
+serialVersionUID
+LOGGER INSTANCE registeredDrones availableDrones busyDrones listeners
+LOGGER uavStateMachine uavid listeners
+serialVersionUID type initialLocation mode safetyInformation
+INSTANCE
+LOGGER ROOT_NODE handlerTree
+serialVersionUID LOGGER INSTANCE
+INSTANCE
+LOGGER physicalDroneFleetFactory virtualDroneFleetFactory listenerList
+serialVersionUID LOGGER INSTANCE
+LOGGER ORDER EXTENSION categories scenarios
+voltage batteryState SIMULATOR_BATTERY_DRAIN_VOLTS checkPointTime
+DEFAULT_ROOT_FOLDER DRONOLOGY_ROOT_FOLDER EXTENSION_FLIGHTROUTE EXTENSION_REGISTRATION EXTENSION_TYPEREGISTRATION EXTENSION_EQUIPMENT_TYPEREGISTRATION FOLDER_FLIGHTROUTE FOLDER_REGISTRATION FOLDERN_SIM_SCENARIO EXTENSION_SIM_SCENARIO EXTENSION_MISSION EXTENSION_AREA FOLDER_AREAMAPPING FOLDER_MISSIONPLANNING
+INSTANCE LOGGER queue SERVICE_EXECUTOR handlerRegistered
+ROUTE_ALIAS COORDINATE_ALIAS SPEC_ALIAS WAYPOINT_ALIAS
+LOGGER USE_SAFETY_CASES
+
+serialVersionUID
+LOGGER EXECUTOR_SERVICE directoryWatcher extension path
+serialVersionUID currentFlight pending completed
+
+INSTANCE
+flightManager
+serialVersionUID LOGGER INSTANCE
+serialVersionUID LOGGER flightNumber flightID wayPoints startLocation endLocation status drone startTime endTime uavid
+
+serialVersionUID droneId waypoints startLocation startTime endTime
+serialVersionUID name id category waypoints takeoffaltitude description
+serialVersionUID category waypoints dateCreated dateModified length description
+
+INSTANCE
+LOGGER ORDER EXTENSION flightPaths categories
+serialVersionUID LOGGER INSTANCE
+LOGGER currentPosition targetPosition previousDistance reached drone
+LOGGER planPoolManager droneFleet ca activeUAVS awaitingTakeOffFlights awaitingLandingFlights timer
+ADDRESS_SCHEME rand
+LOGGER uavMissionPlans synchPointMgr mission
+serialVersionUID
+LOGGER EXECUTOR socket registeredListeners readDispatcher writeDispatcher groundstationid dispatchQueueManager connected server
+
+ATTRIBUTE_FREQUENCY ATTRIBUTE_ALTITUDE ATTRIBUTE_SPEED ATTRIBUTE_MODE ATTRIBUTE_X ATTRIBUTE_Y ATTRIBUTE_Z ATTRIBUTE_SUCCESS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+port serverSocket cont LOGGER URL
+
+coordinatedMission
+serialVersionUID MODE_LAND
+coordinate
+
+serialVersionUID latitude longitude altitude
+LOGGER cont LIMITER EXECUTOR_SERVICE drone droneState droneSafetyState flightDirector targetAltitude haltTimer currentHaltTimer goals activeGoals commandQueue completedCommands currentCommand currentExecutor messenger MAILBOX_CAPACITY FIFO_MAILBOX mailbox executorFactory startGate
+serialVersionUID
+LOGGER leafletMap utilities wayPointMarkers flightRoutes markers droneIconFocused droneIcon droneIconSelected dotIcon mapComponent provider flightManagerService droneSetupService ACHN_X ANCH_Y
+
+LOGGER barrier missionrunning missionPlan SERVICE_EXECUTOR INSTANCE
+serialVersionUID
+missionContent
+INSTANCE
+LOGGER EXTENSION listener
+serialVersionUID LOGGER INSTANCE
+LOGGER
+LOGGER
+
+LOGGER listener
+LOGGER drone currentPosition targetPosition voltageSimulator
+SEMI_MAJOR SEMI_MINOR x y z altitude
+TOLERANCE
+x y z
+
+
+LOGGER baseStation droneID currentTarget lastCommand latestDroneSnapshot r
+LOGGER INSTANCE commandHandler
+LOGGER lockObject pendingPlans currentPlan completedPlans id
+INSTANCE LOGGER planList pendingPlans planStatusChangeListener
+inputStream cont LOGGER reader dispatchQueueManager
+gson stateProbes dronologyProbes monitoringProbes
+
+serialVersionUID LOGGER instance externalServices
+serialVersionUID display
+serialVersionUID LOGGER DEFAULT_PORT REG_BINDING instance
+
+LOGGER currentMode commandHandlers INSTANCE
+LOGGER handler message
+SERVICE_FLIGHROUTE SERVICE_SIMULATOR SERVICE_REMOTE SERVICE_FLIGHTMANAGER SERVICE_DRONESETUP SERVICE_REGISTRATION SERVICE_EQUIP_TYPE_REGISTRATION SERVICE_TYPEREGISTRATION SERVICE_MISSIONPLANNING SERVICE_AREAMAPPING
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID
+serialVersionUID LOGGER GSON geofence
+
+flightSimulator voltageSimulator
+serialVersionUID LOGGER flightNumber flightID status drone startTime endTime uavid altitude wayPoints
+USE_SIMPLE_SIMULATOR
+LOGGER drone safetyDiversion targetPosition wayPoints roundaboutPath
+LOGGER
+LOGGER listener
+LANDING_ASC_REACHED LANDING_LONLAT_REACHED LANDING_HOME_REACHED TAKEOFF_ASC_REACHED TAKEOFF_LATLON_REACHED TAKEOFF_WP_REACHED
+
+LOGGER synchPoints availableAltitude INSTANCE
+synchName collaborators synchronizationState
+NOTACTIVATED ACTIVE SYNCHED
+serialVersionUID
+coordinate
+FLIGHTPATTERN ROUTE SYNC WAYPOINT TAKEOFF LAND DELAY
+tasks
+serialVersionUID MESSAGE_TYPE
+serialVersionUID MESSAGE_TYPE HOME SAFETY_CASE
+MESSAGE_TYPE GSON TYPE_GSON
+LOGGER activeTask uavid taskList homeLocation firstWaypointLocation coordinationAltitude synchMgr
+serialVersionUID MESSAGE_TYPE DATA MODE GS_ID UAV_ID
+serialVersionUID GSON type timestamp id uavid data datatype
+serialVersionUID MESSAGE_TYPE
+
+serialVersionUID latitude longitude altitude ID batteryLevel velocity info status groundstationId home
+
+serialVersionUID MESSAGE_TYPE LOCATION ATTITUDE VELOCITY MODE STATUS ARMED ARMABLE GROUNDSPEED BATTERYSTATUS
+LOGGER simulator limiter
+INSTANCE
+LOGGER recursive manager fileExtensions watcher dir notifyTask changeList keys
+serialVersionUID coordinate destinationReached approachingspeed
+coordinate
+LOGGER root instance
+outputStream cont outputQueue LOGGER

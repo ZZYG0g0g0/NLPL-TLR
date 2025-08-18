@@ -1,0 +1,184 @@
+removes a route from the AFDragLayout
+
+
+
+
+Expands and collapses the box
+Adds a box to the panel      gets updated information from dronology about the UAV's location information and status. adds any new drones to the panel and removes any drones that were deactivated Removes a box from the panel Expands or collapses all the boxes
+determines if the map should continue in follow mode
+This function sets the center of the map as an average of the drones that it is following. This will constantly change as each drone flies.   This function sets the center and zoom of the map to include all drones and their flight routes. It finds the average latitude and longitude first. It then finds the point farthest from the center and bases the zoom level off of that point.
+
+
+Get unique base coordinates for the drone Set base coordinates for the drone
+
+Returns list of drones public List<ManagedDrone> getDrones() { return drones; }
+
+
+
+
+Calculates the distance from this position to other position. This is the distance a laser bean would travel to reach the other point. Calculates the latitude, longitude and altitude of a relative position given as the number of meters North, East, and down from this position. Calculates the number of meters North, East and down (NED coordinates) from this position to another global position. Convert this position if necessary to an LlaCoordinate. Convert this position if necessary to an NVector. Convert this position if necessary to a PVector. Calculate the rotation matrix representation of this position. This rotation matrix can take displacement vectors in ECEF coordinates and rotate them into NED coordinates at this position. This position cannot be at the poles as north and east directions don't make sense there. This is the matrix inverse of equation 11 in <a href= "http://www.navlab.net/Publications/A_Nonsingular_Horizontal_Position_Representation.pdf">this paper.</a> Calculates the distance a drone would realistically travel to get from this position to the other position. Warning! this code is slow. The time it takes to run is proportional to the distance from this to other.
+
+
+Returns all artifact identifier concatenated (separated by ::)
+
+
+
+
+
+
+
+
+
+
+
+
+Returns the next available drone. Currently uses FIFO to recycle drones. Checks for an available drone from the fleet. When a drone completes a mission, returns it to the pool of available drones.
+Set Flight mode to awaiting Takeoff Clearance Set flight mode to Flying Set flight mode to Landing Set Flight Mode to OnGround Set flight mode to Taking off Set Flight Mode to UserControlled
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Returns the drone assigned to the flight plan. Will return null if no drone is yet assigned.  REturns end time of flight.   Returns start time of flight. Returns current flightplan status (Planned, Flying, Completed) Returns way points Sets flightplan status to completed when called.
+
+
+
+
+
+
+
+
+Computes the angle at which a drone is flying with respect to the vertical Computes the delta between the drones current latitude and its target latitude. Computes the delta between the drones current longitude and its target longitude Computes the distance between current position and target position Checks if a drone has reached its target destination. Computes the position of the drone following one step. Checks if destination has been reached. Sets current flight path from current position to a targeted position
+Checks if the next pending flight is able to takeoff. Currently takeoff occurs in order of pending list.
+
+Assigns a task to a specific UAV Adds an additional UAV to the mission plan. Creates the <code>UAVMissionTasks</code> instance and passes it a reference to the <code>synchPointMgr</code> Build all synch points Activates next task in each UAV mission, if there is no unfinished active task Expands flight pattern tasks (e.g., coordinatedTakeOff or coordinatedLanding) Loads mission from JSON file. Currently hard coded.
+
+
+Fly drone to target coordinates      Land the drone. Update status. Sets drones coordinates Takeoff. Update status.
+
+
+
+
+
+
+
+Removes one wayPoint -- typically when a drone reaches a waypoint. Clear all waypoints Add a waypoint to the flight directive. void addWayPoint(LlaCoordinate wayPoint); public void returnHome(LlaCoordinate home); Check if more waypoints exist Specifies if flight is currently under a safety directive.
+
+
+Coordinates the flight of multiple UAVs across a potentially overlapping space consisting of a currentLocation and a targetLocation for each UAV. FOR NOW: We assume that currentCoordinates and targetWayPoints for all UAVs are unique and sufficiently separated from each other. Paths to move from current to target positions may overlap. We should add this check in later on.
+
+
+
+
+
+
+
+
+
+
+
+
+Adds a service listener to all currently available services informing on service status changes.  Retrieve the desired service to offer remote operations.<br> Requested service has to extends {@link IRemoteableService}.
+
+
+
+
+
+
+
+
+
+
+
+The altitude The latitude angle. The longitude angle
+Assigns a flight directive to the managed drone Blocks until the ManagedDrone run method has been called. Check for end of flight. Land if conditions are satisfied Delegates flyto behavior to virtual or physical drone Gets current coordinates from virtual or physical drone  return current flight mode state  region public methods Get the messenger associated with this drone. Client code needing to access this drone's functionality must do so through the messenger. Temporarily Halt Land the drone. Delegate land functions to virtual or physical drone needs refactoring to improve performance... endregion region private methods Temporarily Halt  Controls takeoff of drone Removes an assigned flight
+
+This function gets the flight routes from dronology core and draws them on the map. This function adds icons on the map that represent each drone's position. assists in the logic of updating flight routes updates the flight routes. Deletes old ones, adds new ones, and redraws the lines to different colors as each waypoint is reached This function updates the position of the drone icons on the map
+
+
+
+public MissionUploader getReceiver() { return receiver; }
+
+
+
+Given a routename extract the first way point Get the home coordinates of *this* UAV i.e., uavID (class variable)
+
+
+
+
+Finds the distance in meters from this NVector to another. This is the distance that a laser would travel.
+Uses the bisection method to iteratively hone in on the nvector that is metersToTravel distance away from the current n-vector along the path that goes from current to target. A path can be thought of as the set of NVectors you can create by interpolating between current and target. This code takes advantage of this to find the NVector on this path that is the right distance away from the current distance.
+
+
+
+
+
+
+
+
+private static synchronized MockupProbe getDronologyProbes(String messageType, String uavid) { String id = "dronology." + messageType + "." + uavid; if (dronologyProbes.containsKey(id)) { return dronologyProbes.get(id); } String scope = ("dronology." + messageType); // String probename = id + "-dronologymessage"; MockupProbe pp = new MockupProbe(id, "DRONOLOGY_INTERNAL", scope); dronologyProbes.put(id, pp); return pp; } public static void notify(UAVPlanChangeMessage message) {  MockupProbe probePoint = getProbe(message.getType().name(), message.getUavid()); // p.publish(); TransmittableEventObject event = transform(message); try { probePoint.sendData(event); } catch (Throwable t) { t.printStackTrace(); } } public static void notify(UAVStateChangeMessage message) {  MockupProbe probePoint = getDronologyProbes(message.getType().name(), message.getUavid()); // p.publish(); TransmittableEventObject event = transform(message); try { probePoint.sendData(event); } catch (Throwable t) { t.printStackTrace(); } } private static TransmittableEventObject transform(UAVStateChangeMessage message) { TransmittableEventObject event = TransmittableObjectFactory.createEventObject(PreciseTimestamp.create(), "UAVStateChangeMessage"); event.addData(TransmittableObjectFactory.createEventData(gson.toJson(message), "statechange")); return event; }  private static TransmittableEventObject transform(UAVPlanChangeMessage message) { TransmittableEventObject event = TransmittableObjectFactory.createEventObject(PreciseTimestamp.create(), "UAVPlanChangeMessage"); event.addData(TransmittableObjectFactory.createEventData(gson.toJson(message), "planchange")); return event; }
+
+
+
+
+
+Sets flightmode to PHYSICAL Does not allow the flight mode to be reset after it is initially set. Sets flightmode to SIMULATION. Does not allow the flight mode to be reset after it is initially set.
+
+
+
+
+
+
+
+
+'LlaCoordinate(41.679517, -86.252505, 10.000000)
+
+
+Returns the drone assigned to the flight plan. Will return null if no drone is yet assigned.  REturns end time of flight.   Returns start time of flight. Returns current flightplan status (Planned, Flying, Completed) Returns way points Sets flightplan status to completed when called.
+
+
+
+
+
+
+Activate all synchronization points (we may not always want to do this -- but it works for our current coordinated takeoff/landing Register a UAV for a synchPoint Create named synchronization point Count number of UAVs who are yet to visit the synch point Check if all expected UAVs have visited Remove UAV after it has visited Remove UAV from the synch point it has visited
+
+
+
+
+
+
+
+
+
+Needs to actually activate the flight route. NOTE: Needs to handle ROUTE, WAYPOINT, TAKEOFF, and LAND (Synch is done internally and shouldn't need any extra coordination). Expand the task list with PATTERNS. Currently supports two different patterns "SynchronizedTakeoff" and "SynchronizedLanding" Assumptions: SynchronizedTakeoff has a ROUTE definied immediately after. SynchronizedLanding has a ROUTE defined immediately prior. Check if task if finished
+
+
+
+
+(non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getAltitude() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getBatteryLevel() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getCoordinates() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getID() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getInfo() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getLatitude() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getLongitude() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getStatus() (non-Javadoc) @see edu.nd.dronology.core.vehicle.proxy.IUAVProxy2#getVelocity()
+
+
+
+
+Register the given directory with the WatchService
+
+
+
+

@@ -1,0 +1,184 @@
+routeInfo sidePanel statusContent index
+
+component index component component
+
+uavs
+visible checkClicked hoverInPlace isChecked uavStatus
+isChecked uavStatus hoverInPlace name select visible
+
+names focused checkedNames centerLat centerLon follow followZoom zoomLevel
+listener
+listener
+basePosition lat lon alt coordinate mgdDrone velocity batteryLevel
+
+droneID DroneID DroneType latitude longitude altitude id type initialLocation
+listener itemid id listener id id content
+listener itemid id file id changed listener id id content
+pointname task synchPointMgr
+
+other ned other pos other
+processListener processListener serviceClass processListener processListener customWorkspace
+key value key type uavid
+item toAdd obj handler
+obj latitude longitude altitude
+
+
+type
+uavMission currentLocation targetLocation
+uavMission currentLocation targetLocation
+
+id listener queue status uavid message id status message uavid message validator cmd
+toCheck message msg
+connector connector msg groundstationid
+connectionHandler connector msg connectionId groundstationid
+
+managedDrone listener designatedDroneId uavid add managedDrone managedDrone drone id
+listener oldState newState
+safetyInformation
+identifier handler handler identifier uavid frequency handler
+identifier handler handler identifier handler
+handler handler identifier uavid frequency
+listener status uavId info listener uavid
+listener id status di uavId info status listener uavId
+listener info listener uavid
+scenario id file changed
+
+
+message handler
+xstream
+args
+
+
+fileId fileId id content
+planInfo planInfo currentFlight
+uavId
+uavid uavid uavId uavid uavid planName waypoints planName waypoints uavid uavid altitude
+uavid uavid uavId uavid uavid planName waypoints planName waypoints uavid uavid altitude
+uavid uavId uavid uavid planName waypoints planName waypoints uavid uavid altitude
+uavid drone
+uavid planName waypoints planName waypoints
+droneId endTime startLocation startTime waypoints
+waypoint waypoint index coordinate index category description name altitude
+waypoint waypoint category dateCreated dateModified description length
+type
+name routeName
+waypoints id file name routeName changed
+listener itemid listener id id content
+distanceMovedPerTimeStep step currentPos targetPos
+uavid pendingPlan pendingPlan uavid changedPlan uavid uavid planName waypoints planName waypoints uavid uavid uavid altitude
+allRoutes args
+uavID task taskID params uavID uavid plan mission uavID
+
+validator cmd id listener
+targetCoordinates speed distanceMovedPerTimeStep i command basePosition lat lon alt coordinate speed managedDrone x y z altitude
+
+command id listener
+handler connector msg groundstationid
+handler handler identifier uavid frequency
+identifier handler handler identifier handler
+listener info listener uavid
+listener status uavId info listener uavId
+wayPoint home wayPoints
+uavid uavId iavid uavid planName wayPoints planName wayPoints uavid uavid altitude
+uavid uavid uavId uavid uavid planName waypoints planName waypoints uavid uavid altitude
+uavMission currentLocation targetLocation synchMgr
+uavid drone
+waypoint waypoint index waypoint index category description altitude
+routeName
+
+description description
+info info mapping mission
+info mission mapping mission uavid
+
+
+queue
+distanceMovedPerTimeStep i currentPosition targetCoordinates
+changedPlan
+listener service serviceInstance service rInfo listener create
+message
+
+
+location batteryLevel speed velocity attitude batteryLevel position velocity attitude location status mode velocity
+
+
+
+content item uavid
+
+
+
+altitude latitude longitude obj
+goal flightDirective targetCoordinates speed haltinms ref msg msg msg msg msg msg command targetAltitude observable o goal commands
+hashCode elem key key
+focused checked focused checked coordinates i focused checked focused checked
+droneId oldState newState type uavid type uavid data cmd plan plan
+mission mapping mission
+
+info
+mission mission mapping mission uavid
+info info mapping mission id file uavid
+listener itemid info mission mapping mission listener id id content
+activeTask activeTask allTasks routeName uavid routeName uavid
+element mapType arg2
+args
+
+distanceMovedPerTimeStep i currentPosition targetCoordinates
+other obj a b a b a b stepDistance
+a b a b current target metersToTravel
+obj
+type
+
+targetCoordinates speed i i command speed x y z altitude location batteryLevel speed velocity attitude batteryLevel position velocity attitude location status mode velocity
+droneID droneType latitude longitude altitude commandHandler
+plan masterPlan
+plan uavid plan listener plan plan uavId uavId plan uavid uavId uavId uavId changedPlan homePlane uavid
+message
+uavid message uavid message message message message message message
+
+processListener service serviceInstance service rInfo processListener rInfo
+message
+processListener service serviceInstance port service rInfo processListener rInfo
+
+handlerId commandHandler handlerId
+
+
+
+
+
+
+
+
+cord cord cord message
+args
+distanceMovedPerTimeStep step currentPosition targetCoordinates
+uavid drone
+drone
+wayPoint home wayPoints
+element mapType arg2 mapObject itemname mapObject itemname mapObject itemname
+
+
+
+uavid synchName synchName synchName synchName uavID synchName uavid synchName
+UAV uavid
+
+
+
+type uavid coordinate type uavid taskname params type uavid taskname params
+task
+
+coordinate
+messagestring message
+task synchMgr o alt
+type
+
+
+
+groundstationId home status velocity batteryLevel latitude longitude altitude velocity
+
+
+targetCoordinates speed distanceMovedPerTimeStep i command speed x y z targetAltitude
+droneID droneType latitude longitude altitude
+fileName dir start
+obj reached approachingspeed
+
+workspace absolutePath content overwrite fileName content overwrite fileName byteArray overwrite workspace
+

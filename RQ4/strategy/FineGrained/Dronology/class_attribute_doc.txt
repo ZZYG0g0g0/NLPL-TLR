@@ -1,0 +1,184 @@
+version uid logger content content content button button content layout panel cancel appli leav right rout switch home index id provid rout servic rout info info servic imag statu
+version uid info
+version uid layout rout servic info servic provid ua vid id
+version uid button hover home
+version uid layout follow button label text uav name
+version uid visibl check place click check info info info health info info switch home takeoff icon icon rout icon icon icon new rout command content content content content statu
+version uid panel button button content ua vs visibl focus view drone servic provid view logger
+version uid control map
+version uid map drone flight servic manag servic provid follow zoom content layout bar layout popup popup panel drawingutil
+version uid button follow
+version uid button upload mission mission
+logger posit posit name statu drone
+version uid gson datum uavid command sendtimestamp commandid
+
+logger
+logger extens manag listen itemmap path
+point mgr list
+id name
+
+logger instanc start servic workspac
+version uid timestamp sendtimestamp type datum uavid groundstationid
+version uid separ root id counter child attacheditem
+name coordin
+version uid distanc
+se mod command get locatio command pin pon command takeof command sto command se groun spee command se velocit command se monito frequenc command se stat frequenc command connectio respons
+version uid messag type
+
+
+logger durat time
+logger nu thread servic executor we monitor map thread command queue queue groundstationid valid
+logger mi dist instanc queue map
+instanc
+executor logger gson server connect
+version uid
+logger instanc drone drone drone listen
+logger state machin uavid listen
+version uid type locat mode inform
+instanc
+logger roo node tree
+version uid logger instanc
+instanc
+logger drone fleet factori drone fleet factori list
+version uid logger instanc
+logger order extens categori scenario
+voltag state simulato batter drai volt point time
+defaul roo folder dronolog roo folder extensio flightrout extensio registr extensio typeregistr extensio equipman typeregistr fold flightrout fold registr folder si scenario extensio si scenario extensio mission extensio area fold areamap fold missionplan
+instanc logger queue servic executor regist
+rout alia coordinat alia spe alia waypoin alia
+logger we safet case
+
+version uid
+logger executo servic watcher extens path
+version uid flight pend complet
+
+instanc
+manag
+version uid logger instanc
+version uid logger number id point locat locat statu drone time time uavid
+
+version uid id waypoint locat time time
+version uid name id categori waypoint takeoffaltitud descript
+version uid categori waypoint creat modifi length descript
+
+instanc
+logger order extens path categori
+version uid logger instanc
+logger posit posit distanc reach drone
+logger pool manag fleet can uav take flight land flight timer
+addr scheme rand
+logger mission plan point mgr mission
+version uid
+logger executor socket listen dispatch dispatch groundstationid queue manag connect server
+
+attribut frequenc attribut altitud attribut speed attribut mode attribut x attribut attribut z attribut success
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+port socket cont logger url
+
+mission
+version uid mod land
+coordin
+
+version uid latitud longitud altitud
+logger cont limit executo servic drone state safeti state director altitud timer halt timer goal goal queue command command executor messeng mailbo capac fif mailbox mailbox factori gate
+version uid
+logger map util point marker rout marker icon focu icon icon select icon compon provid manag servic setup servic ach x anc
+
+logger barrier missionrunn plan servic executor instanc
+version uid
+content
+instanc
+logger extens listen
+version uid logger instanc
+logger
+logger
+
+logger listen
+logger drone posit posit simul
+sem major sem minor x z altitud
+toler
+x z
+
+
+logger station id target command drone snapshot r
+logger instanc handler
+logger object plan plan plan id
+instanc logger list plan statu chang listen
+stream cont logger reader queue manag
+gson probe probe probe
+
+version uid logger instanc servic
+version uid display
+version uid logger defaul port bind instanc
+
+logger mode handler instanc
+logger handler messag
+servic flighrout servic simul servic remot servic flightmanag servic dronesetup servic registr servic equi typ registr servic typeregistr servic missionplan servic areamap
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid
+version uid logger gson geofenc
+
+simul simul
+version uid logger number id statu drone time time uavid altitud point
+we simpl simul
+logger drone divers posit point path
+logger
+logger listen
+landin reach landin lonla reach landin hom reach takeof reach takeof latlo reach takeof w reach
+
+logger point altitud instanc
+name collabor state
+notactiv activ synch
+version uid
+coordin
+flightpattern rout sync waypoint takeoff land delay
+task
+version uid messag type
+version uid messag type home safet case
+messag type gson typ gson
+logger task uavid list locat waypoint locat altitud mgr
+version uid messag type datum mode g id ua id
+version uid gson type timestamp id uavid datum datatyp
+version uid messag type
+
+version uid latitud longitud altitud id level veloc info statu id home
+
+version uid messag type locat attitud veloc mode statu arm armabl groundspe batterystatu
+logger simul limit
+instanc
+logger recurs manag extens watcher dir task list key
+version uid coordin reach approachingspe
+coordin
+logger root instanc
+stream cont queue logger

@@ -1,0 +1,184 @@
+This is the UI for assigning new routes to a UAV
+This is the control panel framework for the Activated Flights UI
+This is the drag and drop vertical layout in which the FRInfoBoxes are stored in the assign routes UI.
+This is the set of emergency buttons in the AFInfoPanel
+This is the bar that indicates when the active flights UI is in follow mode
+This is the box in the side panel that contains a UAV's information
+This is the side panel that contains the AFInfoBoxes with the UAV information
+This is the main layout for the Active Flights UI
+This is the map component for the Active Flights UI
+This is the set of map operation buttons in the AFInfoPanel
+This is the set of map operation buttons in the AFInfoPanel private class MyListener implements ContextClickListener {  private static final long serialVersionUID = -1892418708777796487L; @Override public void contextClick(ContextClickEvent event) { upload System.out.println("CLICK!"); upload.submitUpload(); } }
+Abstract Base class for both virtual and physical drones
+Abstract base class for all commands sent to the GCS.<br> Contains the id of the UAV and a unique command id.
+Abstract factory class for drone fleet factory
+Abstract base class for all services that can handle files.
+Abstract base class for all services that allow transferring files as a byte array
+Base class for all predefined flight patterns that can be exanded
+
+A terrestrial position in WGS-84. this class implements utility methods for subclasses.
+
+
+A structured Identifier. Each object holds an id part and refers to child IDs which in turn<br/> hold again one id part, etc, which altogether form the whole identifier. <p/>
+
+
+Ids for valid UAV commands
+When a new GCS connects to Dronology it sends a {@link ConnectionRequestMessage}.
+Predefined pattern for coordinated landing that is expanded as part of a {@link PatternTask} in a {@link FullMissionPlan}.<br>
+Predefined pattern for coordinated take-off that is expanded as part of a {@link PatternTask} in a {@link FullMissionPlan}.<br>
+Delay tasks specifying a delay after a route has been executed before commencing with the next round.
+The {@link DispatchQueueManager} handles both <i>incoming</i> and <i>outgoing</i> queues. </br> Incoming queues contain {@link UAVState} received from the UAV to be dispatched to the {@link PhysicalDrone}.<br> The outgoing queue contains {@link IDroneCommand}s being sent to the UAV.
+
+
+
+
+Holds a fleet of virtual or physical drones.<br> When activated, UAVs are registered with the fleet manager and can be retrieved for assigning routes to them.
+Associates a drone state object with a drone. <br> Normal behavior : ON_GROUND -> AWAITING_TAKEOFF_CLEARANCE -> TAKING_OFF -> FLYING -> In IN_AIR -> LANDING <br> Unavailable transitions will result in an exception being thrown.
+
+Service for UAV monitoring messages<br> Allows registering {@link IRemoteMonitoringMessageHandler} to subscribe to certain message types or topics<br>
+
+Remote facade for monitoring UAVs<br> Allows registering {@link IRemoteMonitoringMessageHandler} to subscribe to certain message types or topics<br>
+Service for handling UAVs.<br> Allows initializing new UAVs. <br> Allows retrieving active UAVs which returns a proxy ({@link IUAVProxy}) of the actual physical or virtual uav.
+Service instance for handling UAVs<br> See {@link IDroneSetupRemoteService} for details.
+Remote facade for handling UAVs.<br> Allows initializing new UAVs. <br> Allows retrieving active UAVs which returns a proxy ({@link IUAVProxy}) of the actual physical or virtual uav.
+
+Voltage simulator.  For every minute of flight, the battery decreases by 0.25 volts.
+
+
+
+
+Use as dummy object handy for "synchronized(dummy)" blocks.
+
+
+
+
+Service for handling UAV flights<br> Allows assigning flight plans to UAVs <br> Allows sending flight related commands to UAVs (take-off, return to home...).
+
+Remote facade for handling UAV fligths<br> Allows assigning flight plans to UAVs <br> Allows sending flight related commands to UAVs (take-off, return to home...).
+Stores flight information including its waypoints and current status.
+
+
+Implementation of a flight route, containing a series of waypoints and additional meta-data.
+
+Provider implementation for {@link IFlightRoute}.<br> Details see {@link AbstractItemPersistenceProvider}
+Service for handling flight routes.<br> Allows creating new routes, retrieving existing routus, and transmitting modified routes.
+The {@link FlightRouteplanningServiceInstance} provides capabilities for retrieving {@link FlightRoute} from the file system.<br> When a new {@link FlightRoute} is detected in the file system it gets automatically loaded.<br> Routes are provided via {@link FlightRouteInfo} proxies containing, basic info on the flight route.
+Remote facade for handling UAV routes<br> Allows creating and modifying routes.
+Computes the current position of a virtual drone as it moves during flight. Serves as a lightweight SITL for a drone.
+Central management class for all UAV related actions. <br> This includes take-off, and landing checks as well as assignment of flight plans to UAVs.
+
+Manages a mission plan. Each Mission plan has one <code>FullMissionPlan</code> instance, and one <code>UAVMissionPlan</code> instance for each UAV in the Mission plan. <br> Each of the UAV's individual mission plans are composed of MissionTasks. <br> Once the entire mission plan is loaded, a thread is created which checks each of the individual UAVMissionPlans to determine if they can start the next task.
+Command sent to the GCS for sending a new waypoint.
+Establishes new, and handles established connections between Dronology and multiple GCS.<br> Creates new {@link ReadDispatcher} and {@link WriteDispatcher} threads when a connection to a new GCS is established.
+iDrone interface
+Interface for all UAV commands.
+
+
+
+
+Remote Interface for handling UAVs.<br> Allows initializing new UAVs. <br> Allows retrieving active UAVs which returns a proxy ({@link IUAVProxy}) of the actual physical or virtual uav.
+
+
+
+
+Interface for all flight pattern implementations that can be expanded into several different {@link IMissionTask}.
+
+
+
+
+
+
+
+
+Interface for all messages that shall be subscribeable via the monitoring API.
+
+The movement simulator simulates the movement of a {@link VirtualDrone} to reach its assigned waypoints.
+
+Interface for handling communication between server UI and server services.
+
+
+
+
+
+The {@link IncommingGroundstationConnectionServer} listens on a predefined port for new connections from GCS.
+message severity warning/info/error type "battery" infrastrucuture...
+Simple JSON Reader that converts a json String into a {@link FullMissionPlan} object.
+
+
+
+A terrestrial position defined by latitude, longitude, and altitude (LLA)
+Handler class for both {@link VirtualDrone} and {@link PhysicalDrone}.<br> Handles basic functionality that is independent of a virtual or physical endpoint.<br> Contains information on coordinates, state, and flight instructions. endregion
+Managed Hashtable: stores a key and a list as value -> a query on the hashtable never returns null but an empty list. The list does not need to be created initially
+Utility class for drawing marker and UAV icons on the map <br> <b>NEEDS ADDITIONAL CLEANUP & REFACTORING!<b>
+
+Central control class responsible for building, initializing, and executing a {@link FullMissionPlan}.<br> The {@link MissionController} periodically checks for new tasks that can be activated and activates them on demand.
+
+Implement both receiver that saves upload in a file and listener for successful upload class MissionUploader implements Receiver, SucceededListener {  private static final long serialVersionUID = -533969977302422170L; public File file; @Override public OutputStream receiveUpload(String filename, String mimeType) { System.out.println("UPLOAD!!!!"); FileOutputStream fos = null; // Output stream to write to try { System.out.println(filename); // file = new File("c:\\tmp\\uploads\\" + filename); file = File.createTempFile("abc", "tmp"); file.createNewFile(); fos = new FileOutputStream(file); } catch (Throwable e) { // TODO Auto-generated catch block e.printStackTrace(); return null; } // ... return fos; } @Override public void uploadSucceeded(SucceededEvent event) { try { missionContent = readFile(file.getAbsolutePath()); executeMission(); } catch (Throwable e) { // TODO Auto-generated catch block e.printStackTrace(); } } public String readFile(String absolutePath) { StringBuilder contents = new StringBuilder(); BufferedReader buf = getBufferedFileReader(absolutePath); String line; try { while (buf != null && (line = buf.readLine()) != null) { contents.append(line + System.lineSeparator()); } } catch (IOException e) { e.printStackTrace(); } return contents.toString(); } public BufferedReader getBufferedFileReader(String absolutePath) { FileReader fr = null; BufferedReader buf = null; try { String path = absolutePath; fr = new FileReader(path); buf = new BufferedReader(fr); } catch (FileNotFoundException e) { // OGGER.Lwarn("Could not read file: " + absolutePath); e.printStackTrace(); } return buf; } };
+Services for planning and executing missions for multiple UAVs .<br> Initial implementation of mission planning capabilities. <br> Allows retrieving sending a mission plan as JSON String to Dronology.
+
+Remote facade for handling MissionPlanning<br> Initial implementation of mission planning capabilities. <br> Allows retrieving sending a mission plan as JSON String to Dronology.
+
+
+
+
+
+A terrestrial position defined by a normal vector (N-vector) and an altitude. An N-vector is a normal Vector that points out from the surface of the WGS-84 reference ellipsoid. The normal vector is combined with an altitude which represents the distance above (or below) the reference ellipsoid (note this is the distance above sea level as sea level is defined as the surface of the ellipsoid in WGS-84). The n-vector and altitude together precisely define a position on Earth. The n-vector should be a unit vector (i.e. a vector with a magnitude = 1). The altitude should be in meters.
+
+A position on Earth, represented as an X, Y and Z coordinate in an Earth centered Earth fixed reference frame. The origin of this frame is at the center of mass of the Earth. The X-axis points towards where the equator meets the prime meridean (latitude 0, longitude 0). The Z-axis points towards the geographic north pole (latitude 90, longitude undefined). The Y-axis can be derived using right hand rule and points towards latitude 0, longitude 90. All units are in meters.
+Factory class for predefined {@link IFlightPattern}.
+A {@link PatternTask} represents a predefined pattern that is expanded when the mission is created.
+Representation of a physical UAV which either interacts with real hardware or the SITL simulated UAV.
+Factory class for initializing a new {@link PhysicalDrone} instance.
+The {@link PlanPool} manages pending, executing, and completed plans for a single UAV.
+Management of pending plans for individual UAVs.<br> Each active UAV has a {@link PlanPool} that keeps track of the assigned (and pending) flight plans.
+Threat handling incoming messages from a GCS. <br> The {@link ReadDispatcher} can handle json messages that are transformed into UAV Messages (extending {@link AbstractUAVMessage}) by the {@link UAVMessageFactory}.
+
+
+
+
+
+
+This is a SINGLETON class. To get an instance call getInstance() Sets the runtime mode of FlightZone either as SIMULATION or PHYSICAL The mode may only be set one time during execution. Simulation uses soft drone objects. Physical uses real drones controlled using Dronekit API.
+
+
+
+
+
+Command sent to the GCS for adjusting the monitoring frequency.<br> The frequency is sent in ms.
+Command sent to the GCS for adjusting the state frequency.<br> The frequency is sent in ms.
+
+
+
+Simple simulator implementation containing a flight simulator and a battery simulator.
+Stores flight information including its waypoints and current status.
+
+Directions for one flight containing multiple waypoints.
+
+
+Synchronization IDs for predefined, built-in {@link SynchronizationPoint} .
+
+The {@link SynchronizationManager} holds a list of {@link SynchronizationPoint} and ensures that a point is fully synced<br> before allowing UAVs to proceed with the next task.
+Synchronization Point for routes assigned to UAVs. <br> Once a {@link SynchronizationPoint} is {@link SynchronizationState#ACTIVE} by one UAV, all collaborators (i.e., registered UAV) have to reach the sync point in order to proceed.
+Possible state of a {@link SynchronizationPoint}
+
+
+
+Contains a list of {@link IMissionTask} part mission.
+
+
+Factory class for creating {@link AbstractUAVMessage} from JSON strings.
+Mission plan for an individual UAV. Part of an {@link IExecuteableMissionPlan}.
+Monitoring message received from the GCS for a specific UAV.
+Base class for all monitorable messages.
+Monitoring message received from the GCS for a specific UAV.
+
+Proxy class for Manged Drones. <br> This datastructure is intended to be passed to external clients and contains necessary information regarding the actual UAV managed by Dronology
+
+State message received from the GCS for a specific UAV.
+Representation of a virtual UAV which is controlled by the internal simulator.
+Factory class for initializing a new {@link VirtualDrone} instance.
+
+Waypoint implementation used in {@link FlightPlan} and Fight Route to represent coordinates (as {@link LlaCoordinate})<br> and the approaching speed towards the respective waypoint. <br> <br> This class (and all its constituent fields) have to be {@link Serializable} as this class is passed via the remote interface.
+
+
+Writer Thread takes items from the outbound queue and writes it to the socket.

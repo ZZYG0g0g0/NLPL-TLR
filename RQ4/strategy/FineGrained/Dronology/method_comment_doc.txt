@@ -1,0 +1,184 @@
+remov rout af drag layout
+
+
+
+
+expand collaps box
+add box panel get updat inform dronolog ua locat inform statu add new drone panel remov drone deactiv remov box panel expand collaps box
+determin map continu follow mode
+function set center map averag drone follow constantli chang drone fli function set center zoom map includ drone flight rout find averag latitud longitud first find point farth center basi zoom level point
+
+
+get uniqu base coordin drone set base coordin drone
+
+return list drone public list manag drone drone return drone
+
+
+
+
+calcul distanc posit posit distanc laser bean would travel reach point calcul latitud longitud altitud rel posit give number meter north east posit calcul number meter north east ned coordin posit anoth global posit convert posit necessari lla coordin convert posit necessari n vector convert posit necessari p vector calcul rotat matrix represent posit rotat matrix take displac vector ecef coordin rotat ned coordin posit posit pole north east direct make sens matrix invers equat public nonsingular horizont posit represent paper calcul distanc drone would realist travel get posit posit warn code slow time take run proport distanc
+
+
+return artifact identifi concaten separ
+
+
+
+
+
+
+
+
+
+
+
+
+return next avail drone current use fifo recycl drone check avail drone fleet drone complet mission return pool avail drone
+set flight mode await takeoff clearanc set flight mode fli set flight mode land set flight mode ground set flight mode take set flight mode user control
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+return drone assign flight plan return null drone yet assign r eturn end time flight return start time flight return current flightplan statu plan fli complet return way point set flightplan statu complet call
+
+
+
+
+
+
+
+
+comput angl drone fli respect vertic comput delta drone current latitud target latitud comput delta drone current longitud target longitud comput distanc current posit target posit check drone reach target destin comput posit drone follow one step check destin reach set current flight path current posit target posit
+check next pend flight abl takeoff current takeoff occur order pend list
+
+assign task specif uav add addit uav mission plan creat uav mission task instanc pass refer point mgr build synch point activ next task uav mission unfinish activ task expand flight pattern task e g take land load mission json file current hard code
+
+
+fli drone target coordin land drone updat statu set drone coordin takeoff updat statu
+
+
+
+
+
+
+
+remov one point typic drone reach waypoint clear waypoint add waypoint flight direct void way point lla coordin point public void home lla coordin home check waypoint exist specifi flight current safeti direct
+
+
+coordin flight multipl ua vs across potenti overlap space consist locat locat ua assum coordin way point ua vs uniqu suffici separ path move current target posit may overlap add check later
+
+
+
+
+
+
+
+
+
+
+
+
+add servic listen current avail servic inform servic statu chang retriev desir servic offer remot oper br request servic extend link remot servic
+
+
+
+
+
+
+
+
+
+
+
+altitud latitud angl longitud angl
+assign flight direct manag drone block manag drone run method call check end flight land condit satisfi deleg flyto behavior virtual physic drone get current coordin virtual physic drone return current flight mode state region public method get messeng associ drone client code need access drone function must messeng temporarili halt land drone deleg land function virtual physic drone need refactor improv perform endregion region privat method temporarili halt control takeoff drone remov assign flight
+
+function get flight rout dronolog core draw map function add icon map repres drone posit assist logic updat flight rout updat flight rout delet old one add new one redraw line differ color waypoint reach function updat posit drone icon map
+
+
+
+public mission upload receiv return receiv
+
+
+
+give routenam extract first way point get home coordin uav e id class variabl
+
+
+
+
+find distanc meter n vector anoth distanc laser would travel
+use bisect method iter hone nvector travel distanc away current along path go current target path think set n vector creat interpol current target code take advantag find n vector path right distanc away current distanc
+
+
+
+
+
+
+
+
+privat static synchron mockup probe dronolog probe string type string uavid string id dronolog type uavid probe key return probe string scope dronolog type string probenam id mockup probe pp new mockup probe dronolog interna scope probe pp return pp public static void uav plan chang messag messag mockup probe point probe type uavid p publish transmitt event object event transform messag tri point datum catch throwabl stack trace public static void uav state chang messag messag mockup probe point dronolog probe type uavid p publish transmitt event object event transform messag tri point datum catch throwabl stack trace privat static transmitt event object uav state chang messag messag transmitt event object event transmitt object factori event object precis timestamp uav state chang messag datum transmitt object factori event datum json statechang return event privat static transmitt event object uav plan chang messag messag transmitt event object event transmitt object factori event object precis timestamp uav plan chang messag datum transmitt object factori event datum json planchang return event
+
+
+
+
+
+set flightmod physic allow flight mode reset initi set set flightmod simulatio allow flight mode reset initi set
+
+
+
+
+
+
+
+
+lla coordin
+
+
+return drone assign flight plan return null drone yet assign r eturn end time flight return start time flight return current flightplan statu plan fli complet return way point set flightplan statu complet call
+
+
+
+
+
+
+activ synchron point may alway want work current coordin regist uav point creat name synchron point count number ua vs yet visit synch point check expect ua vs visit remov uav visit remov uav synch point visit
+
+
+
+
+
+
+
+
+
+need actual activ flight rout need handl rout waypoin takeof land synch do intern need extra coordin expand task list pattern current support two differ pattern synchron takeoff synchron land assumpt synchron takeoff rout defini immedi synchron land rout defin immedi prior check task finish
+
+
+
+
+javadoc see iuav proxi altitud javadoc see iuav proxi batteri level javadoc see iuav proxi coordin javadoc see iuav proxi javadoc see iuav proxi info javadoc see iuav proxi latitud javadoc see iuav proxi longitud javadoc see iuav proxi statu javadoc see iuav proxi veloc
+
+
+
+
+regist give directori watch servic
+
+
+
+

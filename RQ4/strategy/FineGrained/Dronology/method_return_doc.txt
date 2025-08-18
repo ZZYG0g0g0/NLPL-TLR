@@ -1,0 +1,184 @@
+void void void void button button switch button collect void
+af info panel
+void list compon int int sortabl layout void
+nativ button nativ button
+button void
+void void void void boolean check box boolean string button boolean switch boolean string button string void void void void void void
+void void void boolean boolean boolean boolean vertic layout list string af map view oper int void boolean void void void
+void af map compon af control compon
+popup view popup view void doubl doubl leaflet mous listen boolean boolean l map leaflet mous listen doubl void void void void void void
+void nativ button nativ button
+void void
+doubl lla coordin lla coordin string uav proxi doubl doubl void void void void void void void
+string void string string
+string manag drone void
+boolean void collect boolean byte void
+boolean void ite type ite type collect string void void boolean byte void
+void void void task list void
+string string lla coordin
+doubl lla coordin vector vector lla coordin n vector p vector real matrix doubl
+boolean void list list servic info abstract server servic list string boolean void void void void void void void
+void string string artifact identifi set long precis timestamp messag type string void void void string
+void void boolean void collect artifact identifi string int void string
+boolean string lla coordin int void
+
+
+void
+void void
+void void
+doubl boolean void
+void void void string block queue void void void void void void void
+void void distanc checker void void
+drone connector servic void drone connector servic instanc void void
+void void int string class void void void void
+
+void void manag drone manag drone drone fleet manag manag drone list boolean void void void void
+void void string boolean boolean boolean boolean boolean boolean void void void void void void void void
+lla coordin drone mode string string void
+drone monitor servic set drone monitor servic instanc void void void void
+void void int string class set void void void
+drone monitor remot servic void void void
+void void iuav proxi collect drone setup servic drone setup servic instanc void void void
+void void void void void void iuav proxi collect int string class void void void void
+void collect drone setup remot servic void void void
+void simul scenario info void void simul scenario info collect int string string class servic info boolean void
+void doubl void void void
+
+dronolog monitor manag void void
+void
+void
+
+
+file byte void file boolean void
+void void list flight plan info list void
+flight info collect
+void void collect flight info flight manag servic flight manag servic instanc void void void void void
+void void void void collect flight info flight info int string class void void void void void
+void collect flight info flight manag remot servic void void void void void
+void manag drone string lla coordin long string lla coordin long string doubl list boolean void boolean boolean string boolean
+flight plan flight plan
+string long lla coordin long list void void void void void
+void void string string string string list int waypoint void void void doubl void
+void string long long string doubl list void void void void void void
+flight rout persist provid void void
+collect flight routeplan servic flight rout info flight rout info flight routeplan servic instanc
+doubl flight rout info void void flight rout info collect flight rout info int string string flight rout info class servic info boolean void
+boolean flight rout info void collect flight routeplan remot servic collect boolean byte void
+doubl doubl doubl long boolean boolean void
+void void void void void void void void void list boolean boolean void void void void void void void manag drone
+flight rout info void
+void void void void void void void void boolean void void void
+
+string void void void void void void void
+void doubl lla coordin doubl lla coordin string uav proxi drone snapshot intern doubl doubl boolean void boolean void void void void void void void void void void
+string void string
+string void void
+void void void
+void void void
+set void void void
+void collect void void void
+void void iuav proxi collect void void void
+void void void void lla coordin list boolean boolean boolean boolean void void
+void collect flight info void void void void void
+void void collect flight info flight info void void void void void
+void task list void
+void manag drone string lla coordin long string lla coordin long doubl list boolean void boolean boolean
+void void string string list int waypoint void void void
+collect flight rout info
+void
+void string list void
+void void void void
+void void void void void
+string string lla coordin
+string artifact identifi precis timestamp messag type string
+void
+void boolean boolean void
+void
+void void list list list object list void void void void void
+void
+
+void
+void void void void void void void
+doubl doubl lla coordin string lla coordin string map doubl doubl string doubl
+void
+
+void void
+
+lla coordin
+void
+doubl doubl doubl boolean doubl doubl doubl int lla coordin n vector p vector string
+void void void boolean void void void void lla coordin lla coordin string drone flight state manag drone safeti state manag manag drone messeng drone snapshot void boolean boolean void void boolean void void void void void void void void void void void void void void void void void void void void
+void list boolean
+void void void boolean void void
+monitor messag monitor messag monitor messag monitor messag monitor messag monitor messag
+void void void mission control void
+
+void void
+void void void void mission plan servic mission plan servic instanc void
+void mission info void void void void void mission info int string string class void void void
+boolean void mission info void void void void mission plan remot servic collect boolean byte void
+void void lla coordin lla coordin lla coordin lla coordin void
+uav mode chang messag
+void
+object
+void doubl boolean boolean void void void
+doubl boolean doubl doubl doubl doubl int doubl lla coordin n vector p vector string doubl doubl
+doubl n vector n vector
+boolean doubl doubl doubl int lla coordin n vector p vector string
+flight pattern
+
+void doubl doubl lla coordin drone snapshot intern doubl doubl boolean void boolean void void void void void void void void void void void void void
+physic drone fleet factori manag drone void
+void void list flight plan list boolean void void void
+void void void void void void void void list list flight plan plan pool manag flight plan list list boolean void void
+string void void void
+mockup probe mockup probe mockup probe void void void transmitt event object transmitt event object transmitt event object
+
+void void list list list remot manag object list void void void void void
+void
+void void list list list remot manag object list void void void void void
+
+drone command handler runtim drone type boolean boolean void void void void
+object
+
+
+
+
+
+
+
+boolean boolean boolean void
+void
+void doubl boolean boolean void void void
+void manag drone string lla coordin long string lla coordin long string doubl list boolean void boolean boolean string
+flight simul
+void void void void lla coordin lla coordin list boolean boolean boolean boolean void void
+map batteri statu lla coordin vector
+object void
+
+
+void boolean synchron point int synchron manag int boolean void void boolean void
+void int boolean void void string
+
+
+lla coordin
+mission task mission task mission task
+void list
+
+lla coordin string void
+abstract uav messag string
+void void void boolean void int lla coordin string boolean boolean int boolean void int
+string void
+string string artifact identifi precis timestamp messag type string string
+
+
+doubl doubl lla coordin string lla coordin string map doubl doubl string doubl int void void void void string void void void
+
+vector batteri statu doubl lla coordin drone mode drone statu vector boolean boolean string
+void doubl drone snapshot intern boolean void boolean void void void void void void
+virtual drone fleet factori manag drone
+void void void void void
+boolean doubl lla coordin int boolean void void
+lla coordin
+string string string string string workspac initi string string string boolean boolean boolean void void void void void void
+void void

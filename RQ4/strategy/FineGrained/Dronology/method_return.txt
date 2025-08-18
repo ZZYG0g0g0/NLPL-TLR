@@ -1,0 +1,184 @@
+void void void void Button Button Switch Button Collection void
+AFInfoPanel
+void List Component int int SortableLayout void
+NativeButton NativeButton
+Button void
+void void void void boolean CheckBox boolean String Button boolean Switch boolean String Button String void void void void void void
+void void void boolean boolean boolean boolean VerticalLayout List String AFMapViewOperations int void boolean void void void
+void AFMapComponent AFControlsComponent
+PopupView PopupView void double double LeafletMouseOverListener boolean boolean LMap LeafletMouseOverListener double void void void void void void
+void NativeButton NativeButton
+void void
+double LlaCoordinate LlaCoordinate String UAVProxy double double void void void void void void void
+String void String String
+String ManagedDrone void
+boolean T void Collection T boolean byte[] void
+boolean void ITEM_TYPE ITEM_TYPE Collection String void void boolean byte[] void
+void void void TaskList void
+String String LlaCoordinate
+double LlaCoordinate Vector3D Vector3D LlaCoordinate NVector PVector RealMatrix double
+boolean void List List S ServiceInfo AbstractServerService List String S boolean void void void void void void void
+void String String ArtifactIdentifier Set T long PreciseTimestamp MessageType String void void void String
+void void boolean void Collection ArtifactIdentifier String int void String
+boolean String LlaCoordinate int void
+
+
+void
+void void
+void void
+double boolean void
+void void void String BlockingQueue void void void void void void void
+void void DistanceChecker void void
+DroneConnectorService void IDroneConnectorServiceInstance void void
+void void int String Class void void void void
+
+void void ManagedDrone ManagedDrone DroneFleetManager ManagedDrone List boolean void void void void
+void void String boolean boolean boolean boolean boolean boolean void void void void void void void void
+LlaCoordinate DroneMode String String void
+DroneMonitoringService Set IDroneMonitoringServiceInstance void void void void
+void void int String Class Set void void void
+IDroneMonitoringRemoteService void void void
+void void IUAVProxy Collection DroneSetupService IDroneSetupServiceInstance void void void
+void void void void void void IUAVProxy Collection int String Class void void void void
+void Collection IDroneSetupRemoteService void void void
+void SimulatorScenarioInfo void void SimulatorScenarioInfo Collection int String String Class ServiceInfo boolean void
+void double void void void
+
+DronologyMonitoringManager void void
+void
+void
+
+
+File byte[] void File[] boolean void
+void void List FlightPlanInfo List void
+FlightInfo Collection
+void void Collection FlightInfo FlightManagerService IFlightManagerServiceInstance void void void void void
+void void void void Collection FlightInfo FlightInfo int String Class void void void void void
+void Collection FlightInfo IFlightManagerRemoteService void void void void void
+void ManagedDrone String LlaCoordinate long String LlaCoordinate long String double List boolean void boolean boolean String boolean
+IFlightPlan IFlightPlan
+String long LlaCoordinate long List void void void void void
+void void String String String String List int Waypoint void void void double void
+void String long long String double List void void void void void void
+FlightRoutePersistenceProvider void void
+Collection FlightRouteplanningService FlightRouteInfo FlightRouteInfo IFlightRouteplanningServiceInstance
+double FlightRouteInfo void void FlightRouteInfo Collection FlightRouteInfo int String String FlightRouteInfo Class ServiceInfo boolean void
+boolean FlightRouteInfo void Collection IFlightRouteplanningRemoteService Collection boolean byte[] void
+double double double long boolean boolean void
+void void void void void void void void void List boolean boolean void void void void void void void ManagedDrone
+FlightRouteInfo void
+void void void void void void void void boolean void void void
+
+String void void void void void void void
+void double LlaCoordinate double LlaCoordinate String UAVProxy DroneSnapshotInternal double double boolean void boolean void void void void void void void void void void
+String void String
+String void void
+void void void
+void void void
+Set void void void
+void Collection void void void
+void void IUAVProxy Collection void void void
+void void void void LlaCoordinate List boolean boolean boolean boolean void void
+void Collection FlightInfo void void void void void
+void void Collection FlightInfo FlightInfo void void void void void
+void TaskList void
+void ManagedDrone String LlaCoordinate long String LlaCoordinate long double List boolean void boolean boolean
+void void String String List int Waypoint void void void
+Collection FlightRouteInfo
+void
+void String List void
+void void void void
+void void void void void
+String String LlaCoordinate
+String ArtifactIdentifier PreciseTimestamp MessageType String
+void
+void boolean boolean void
+void
+void void List List List Object List void void void void void
+void
+
+void
+void void void void void void void
+double double LlaCoordinate String LlaCoordinate String Map double double String double
+void
+
+void void
+
+LlaCoordinate
+void
+double double double boolean double double double int LlaCoordinate NVector PVector String
+void void void boolean void void void void LlaCoordinate LlaCoordinate String DroneFlightStateManager DroneSafetyStateManager ManagedDroneMessenger DroneSnapshot void boolean boolean void void boolean void void void void void void void void void void void void void void void void void void void void
+void List boolean
+void void void boolean void void
+IMonitorableMessage IMonitorableMessage IMonitorableMessage IMonitorableMessage IMonitorableMessage IMonitorableMessage
+void void void MissionController void
+
+void void
+void void void void MissionPlanningService IMissionPlanningServiceInstance void
+void MissionInfo void void void void void MissionInfo int String String Class void void void
+boolean void MissionInfo void void void void IMissionPlanningRemoteService Collection boolean byte[] void
+void void LlaCoordinate LlaCoordinate LlaCoordinate LlaCoordinate void
+UAVModeChangeMessage
+void
+Object
+void double boolean boolean void void void
+double boolean double double double double int double LlaCoordinate NVector PVector String double double
+double NVector NVector
+boolean double double double int LlaCoordinate NVector PVector String
+IFlightPattern
+
+void double double LlaCoordinate DroneSnapshotInternal double double boolean void boolean void void void void void void void void void void void void void
+PhysicalDroneFleetFactory ManagedDrone void
+void void List IFlightPlan List boolean void void void
+void void void void void void void void List List IFlightPlan PlanPoolManager IFlightPlan List List boolean void void
+String void void void
+MockupProbe MockupProbe MockupProbe void void void TransmittableEventObject TransmittableEventObject TransmittableEventObject
+
+void void List List List IRemoteManager Object List void void void void void
+void
+void void List List List IRemoteManager Object List void void void void void
+
+IDroneCommandHandler RuntimeDroneTypes boolean boolean void void void void
+Object
+
+
+
+
+
+
+
+boolean boolean boolean void
+void
+void double boolean boolean void void void
+void ManagedDrone String LlaCoordinate long String LlaCoordinate long String double List boolean void boolean boolean String
+IFlightSimulator
+void void void void LlaCoordinate LlaCoordinate List boolean boolean boolean boolean void void
+Map BatteryStatus LlaCoordinate Vector3D
+Object void
+
+
+void boolean SynchronizationPoint int SynchronizationManager int boolean void void boolean void
+void int boolean void void String
+
+
+LlaCoordinate
+IMissionTask IMissionTask IMissionTask
+void List
+
+LlaCoordinate String void
+AbstractUAVMessage String
+void void void boolean void int LlaCoordinate String boolean boolean int boolean void int
+String void
+String String ArtifactIdentifier PreciseTimestamp MessageType String String
+
+
+double double LlaCoordinate String LlaCoordinate String Map double double String double int void void void void String void void void
+
+Vector3D BatteryStatus double LlaCoordinate DroneMode DroneStatus Vector3D boolean boolean String
+void double DroneSnapshotInternal boolean void boolean void void void void void void
+VirtualDroneFleetFactory ManagedDrone
+void void void void void
+boolean double LlaCoordinate int boolean void void
+LlaCoordinate
+String String String String String WorkspaceInitializer String String String boolean boolean boolean void void void void void void
+void void

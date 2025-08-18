@@ -1,0 +1,184 @@
+info panel content index
+
+compon index compon compon
+
+uav
+visibl click place check statu
+check statu place name select visibl
+
+name focu name lat lon follow zoom level
+listen
+listen
+posit lat lon alt coordin drone veloc level
+
+id drone id drone type latitud longitud altitud id type locat
+listen itemid id listen id id content
+listen itemid id file id chang listen id id content
+pointnam task point mgr
+
+ned po
+listen listen class listen listen workspac
+key valu key type uavid
+item add obj handler
+obj latitud longitud altitud
+
+
+type
+mission locat locat
+mission locat locat
+
+id listen queue statu uavid messag id statu messag uavid messag valid cmd
+check messag msg
+connector connector msg groundstationid
+handler connector msg id groundstationid
+
+drone listen drone id uavid add drone drone drone id
+listen state state
+inform
+identifi handler handler identifi uavid frequenc handler
+identifi handler handler identifi handler
+handler handler identifi uavid frequenc
+listen statu id info listen uavid
+listen id statu di id info statu listen id
+listen info listen uavid
+scenario id file chang
+
+
+messag handler
+xstream
+arg
+
+
+id id id content
+info info flight
+id
+uavid uavid id uavid uavid name waypoint name waypoint uavid uavid altitud
+uavid uavid id uavid uavid name waypoint name waypoint uavid uavid altitud
+uavid id uavid uavid name waypoint name waypoint uavid uavid altitud
+uavid drone
+uavid name waypoint name waypoint
+id time locat time waypoint
+waypoint waypoint index coordin index categori descript name altitud
+waypoint waypoint categori creat modifi descript length
+type
+name name
+waypoint id file name name chang
+listen itemid listen id id content
+move per time step step po po
+uavid plan plan uavid plan uavid uavid name waypoint name waypoint uavid uavid uavid altitud
+rout arg
+id task id param id uavid plan mission id
+
+valid cmd id listen
+coordin speed move per time step command posit lat lon alt coordin speed drone x z altitud
+
+command id listen
+handler connector msg groundstationid
+handler handler identifi uavid frequenc
+identifi handler handler identifi handler
+listen info listen uavid
+listen statu id info listen id
+point home point
+uavid id iavid uavid name point name point uavid uavid altitud
+uavid uavid id uavid uavid name waypoint name waypoint uavid uavid altitud
+mission locat locat mgr
+uavid drone
+waypoint waypoint index waypoint index categori descript altitud
+name
+
+descript descript
+info info map mission
+info mission map mission uavid
+
+
+queue
+move per time step posit coordin
+plan
+listen servic instanc servic info listen creat
+messag
+
+
+locat level speed veloc attitud level posit veloc attitud locat statu mode veloc
+
+
+
+content item uavid
+
+
+
+altitud latitud longitud obj
+goal direct coordin speed haltinm ref msg msg msg msg msg msg command altitud observ goal command
+code elem key key
+focus check focus check coordin focu check focus check
+id state state type uavid type uavid datum cmd plan plan
+mission map mission
+
+info
+mission mission map mission uavid
+info info map mission id file uavid
+listen itemid info mission map mission listen id id content
+task task task name uavid name uavid
+element type
+arg
+
+move per time step posit coordin
+obj b b b distanc
+b b current target travel
+obj
+type
+
+coordin speed command speed x z altitud locat level speed veloc attitud level posit veloc attitud locat statu mode veloc
+id type latitud longitud altitud handler
+plan plan
+plan uavid plan listen plan plan id id plan uavid id id id plan plane uavid
+messag
+uavid messag uavid messag messag messag messag messag messag
+
+listen servic instanc servic info listen info
+messag
+listen servic instanc port servic info listen info
+
+id handler id
+
+
+
+
+
+
+
+
+cord cord cord messag
+arg
+move per time step step posit coordin
+uavid drone
+drone
+point home point
+element type object itemnam object itemnam object itemnam
+
+
+
+uavid name name name name id name uavid name
+uav uavid
+
+
+
+type uavid coordin type uavid tasknam param type uavid tasknam param
+task
+
+coordin
+messagestr messag
+task mgr alt
+type
+
+
+
+id home statu veloc level latitud longitud altitud veloc
+
+
+coordin speed move per time step command speed x z altitud
+id type latitud longitud altitud
+name dir start
+obj reach approachingspe
+
+workspac path content overwrit name content overwrit name array overwrit workspac
+
