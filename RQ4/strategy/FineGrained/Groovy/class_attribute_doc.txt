@@ -1,0 +1,100 @@
+
+retentio classnod unit
+chec metho star member appl al class appl al member throw exceptio type sourc method start class member except type
+
+ast node node name class counter constant def statement def param var arg param
+cv context file field field groovi object field groovi object field field super field super properti properti groovi object properti groovi object properti properti super properti super map list method pointer list method map method rang method pojo wrapper method groovi object wrapper method class param creat debu info creat lin numb info debug ast node paramet name sourc control
+class type typ name cloneabl type bao type bai type oo type oi type invok type
+clone simpl cop constructor serial
+class type typ name contex cto paramet
+divisio extr precis divisio mi scale instanc
+empt metho array class info bundl field constructor method super class site class loader hierarchi empti code method empt array interfac interfac array primit modifi distanc interfac number
+
+
+own first delegat first own delegat self do skip empt objec array ident deleg owner object strategi direct type number paramet version uid bcw
+closur
+paramet code scope
+initi method attribut chooser init do closur metaclass meta class empt argument closur cal method closur cal method
+transform context sourc sourc name public class name sourc public class name name sourc ast class verifi debug configur callback callback visitor import visitor optim node resolv oper phase oper resolv import convert output complet check classgen mark
+first second
+visitor front visitor stack
+param index trail arg type
+can map
+log one b max b min b lon max b lon min addit dg lik class empt objec array
+log empt objec array
+
+empt argument neg empt objec array
+tabl chun separ
+class type typ name hashuti type objec type
+properti
+empt cla array meet class class meet method method properti stati qualifi constructor cla properti meet cla properti groov constructor meta class initi modifi call rwl lock lock chang init registri meta method properti cach bean properti cach method subclass method properti static method method class
+type
+unit stack trace error
+gra cla name gra name gra shor name grabexclud cla name grabexclud name grabexclud shor name grabconfi cla name grabconfi name grabconfi shor name grape cla name grape name grape shor name grabresolv cla name grabresolv name grabresolv shor name threa classnod grabexclud requir grabresolv requir gra requir gra option gra boolean gra iv pattern attribut pattern aut downloa set disabl checksum set short grab alia annot short grab exclud exclud alia exclud annot short grab config config alias config annot short grape alias annot short grab resolv resolv alias resolv annot unit unit loader context class loader download checksum
+aut downloa set disabl checksum set grape auto download checksum instanc
+
+use categori usag counter threa info
+empt ur array cach cach config recompil name counter loader ur pattern
+
+arg script file script file file output split pattern socket port extens debug conf pattern
+modul node
+url groovi sourc output counter pattern
+
+list class type typ name memb know immutabl class memb know immut memb ad cop cop wit method that type cloneabl type collectio type readonlyexceptio type dg type sel type hashma type type reflectio invok type sorteds classnod sortedma classnod se classnod classnod immutabl saf flag
+class type typ name
+empt mai arg empt arg empt argument empt type registri
+version uid size
+line column mark mark line read
+defaul categor name unit
+deleg closur
+memoiz null
+closur cal metho name class type typ name protect cach siz name cach siz name closur label metho label memoiz metho name memoiz mo metho name memoiz lea metho name memoiz betwe metho name
+
+empt argument stati metho miss stati propert miss metho miss propert miss invok metho method closur cal method closur cal method ge propert method se propert method metho missin arg gett missin arg sett missin arg cach cla nam compar empti ambigu listen method class cach class groovi object map method index properti index properti index listen method length properti properti index super groovi method set new meta method meta method properti method method method properti method registri node constructor initi get method set method miss get miss set miss class method header pro name nam ind copier metho ind copier
+
+modul meet file access method method listen list remov chang listen list class info registri loa default loa default includ exclud class creation handl
+substitut delet transposit case recomend metho score constructo score fiel score empt objec array
+method type static argument
+mpe properti type
+
+
+type name ba ba para error sourc newifi candid auto
+version uid parent name attribut valu
+
+
+long mi long integ mi integ doubl mi doubl float mi float
+deleg pc test siz properti conten properti
+deleg pc test siz properti conten properti clear properti
+deleg pc test siz properti conten properti
+closur check awar compar
+class type typ name legac typ name targ class targ cla name
+n arg
+phase complet configur loader collector
+
+empt interfac array empt closur map empt keyset instanc overrid debug method cach
+adapte interceptor
+empt string uri part prefix
+rea loc type writ loc type loc type defaul stati locknam defaul instanc locknam
+type datum
+deleg
+type typ name comparabl type comparato type valu thi hash oth hash ar ar
+name level line print line name stack constructor counter
+stati compil node binar ex target privat bridg method privat field accessor propert owner componen type receiv dynami properti
+typecheck classnod compilestati classnod typecheck annot arrayli classnod arrayli constructor arrayli ad method chooser node
+invokerhelp classnod invokerhel receiv invokerhelp invokemethod invokerhelp invokestaticmethod counter control call
+collect type deprec type matcher type array list type extensio metho cach numb type gstrin strin classnod unknow paramet type dg metho nod compar
+debu gener code uniqu long erro collector iterabl type empt methodnod list typecheck classnod typecheckin annot typecheckin inf node dg classnod curren signatur protoco version curren signatur protocol ge deleg ge owner ge thisobject deleg deleg target linkedhashma classnod closureparam classnod entr type enumeratio type gener empt statement closur cal n arg closur cal arg closur cal varg empt strin array listen adder check context extens
+invokerhelp type groovyobjec getpropert method invokerhelp getpropert method invokerhelp getpropertysaf method closur getthisobjec method collectio type collectio siz method ge method control
+
+inferr type declaratio inferr type inferr retur type closur argument readonl properti initia express direc metho cal target delegatio metadata implici receiv p field access p method access dynami resolut supe mo metho requir
+separ
+class type typ name
+caus sourc
+class type typ name stringbuild type invok type
+gett fir compar compilestati classnod
+implement classnod traitbridg classnod trai class trai classnod gener prox classnod selftyp classnod trai typ name trai helper fiel helper direc sett suffix direc gett suffix ini method stati ini method thi object stati thi object stati fiel prefix fiel prefix publi fiel prefix privat fiel prefix supe trai metho prefix
+origin
+node v
+class type typ name lhma type hma type chec metho type initi valu
+openin visit secon visit subsequen visit closin visit
+

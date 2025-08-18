@@ -1,0 +1,55 @@
+dbAccesso
+Login Password Tipo
+dbAmministratore
+Nome Cognome Matricola Email Login
+dbCartaIdentita
+Numero idCittadino Cittadinanza Residenza Via StatoCivile Professione Statura Capelli Occhi SegniParticolari DataRilascio DataScadenza ValidaEspatrio num_civico
+ci idCittadino CodiceFiscale Cognome Nome DataNascita LuogoNascita Email Advertise nucleoFamiliare Login
+dbCittadino
+nome indirizzoIp
+
+connection
+connection
+connection
+connection
+connection
+connection
+dbProperties cpds
+serialVersionUID
+connection
+connection
+connection
+Nome Cognome Matricola Email Login
+dbImpiegato
+idNucleoFamiliare capoFamiglia nota nComponenti
+nucleoF
+idRichiesta tipo data richiedente stato documento
+
+
+serialVersionUID session
+serialVersionUID
+serialVersionUID session
+
+
+
+nome cognome email matricola login password tipo
+nome cognome cf giorno mese anno dataN luogoN email advertise idNF login tipo cittadino NFM
+nome cognome email matricola login password tipo
+
+
+login password cpassword tipo
+nome cognome email matricola login password tipo
+nome cognome email idNF cittadino NFM CM
+nome cognome email matricola login password tipo
+
+
+
+email ci login tipo
+nome cognome email ci cf login password tipo
+
+
+
+
+
+serialVersionUID
+serialVersionUID

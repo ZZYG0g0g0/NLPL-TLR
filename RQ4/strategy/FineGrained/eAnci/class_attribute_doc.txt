@@ -1,0 +1,55 @@
+accesso
+login password tipo
+amministrator
+nome cognom matricola email login
+carta identita
+numero cittadino cittadinanza residenza via stato civil profession statura capellu occhi segnu particolari datum rilascio datum scadenza valida espatrio
+ci cittadino codic fiscal cognom nome datum nascita luogo nascita email advertis familiar login
+cittadino
+nome ip
+
+connect
+connect
+connect
+connect
+connect
+connect
+properti cpd
+version uid
+connect
+connect
+connect
+nome cognom matricola email login
+impiegato
+nucleo familiar famiglia nota componentu
+f
+richiesta tipo datum richiedent stato documento
+
+
+version uid session
+version uid
+version uid session
+
+
+
+nome cognom email matricola login password tipo
+nome cognom cf giorno mese anno n n email advertis nf login tipo cittadino nfm
+nome cognom email matricola login password tipo
+
+
+login password cpassword tipo
+nome cognom email matricola login password tipo
+nome cognom email nf cittadino nfm cm
+nome cognom email matricola login password tipo
+
+
+
+email ci login tipo
+nome cognom email ci cf login password tipo
+
+
+
+
+
+version uid
+version uid

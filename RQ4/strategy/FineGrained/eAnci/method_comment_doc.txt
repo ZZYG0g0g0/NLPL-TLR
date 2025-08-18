@@ -1,0 +1,55 @@
+metodo che permett di controllar la correttezza della login e della password di un accesso invocando il relativo metodo della class db metodo che permett di controllar della login invocando il relativo metodo della class db metodo che elimina un accesso dal db invocando il relativo metodo della class db metodo che restituisc tutti gli accessi memorizzatu invocando il relativo metodo della class db metodo che restituisc un accesso invocando il relativo metodo della class db metodo che inserisc un accesso del db invocando il relativo metodo della class db
+metodo che restituisc una login metodo che restituisc una password metodo che restituisc il tipo di utent che acced metodo che imposta una login metodo che imposta una password metodo che imposta il tipo di utent che acced metodo che converet una stringa le informazioni di un accesso
+metodo che elimina un amministrator dal db invocando il relativo metodo della class db metodo che restituisc un amministrator invocando il relativo metodo della class db metodo che restituisc un insiem di amministratori invocando il relativo metodo della class db metodo che restituisc tutti gli amministratori memorizzatu metodo che inserisc un amministrator del db invocando il relativo metodo della class db metodo che modifica un amministrator invocando il relativo metodo della class db metodo che restituisc un amministrator invocando il relativo metodo della class db
+metodo che restituisc il cognom metodo che restituisc l metodo che restituisc la login metodo che restituisc la matricola metodo che restituisc il nome metodo che imposta il cognom metodo che imposta l metodo che imposta la login metodo che imposta la matricola metodo che imposta il nome metodo che converet una stringa le informazioni di un accesso
+metodo che permett la ricerca di una carta tramit il suo numero invocando il relativo metodo della class db
+
+
+metodo che permett la cancellazion di un cittadino invocando il relativo metodo della class db metodo che permett la ricerca di un cittadino tramit il suo id invocando il relativo metodo della class db metodo che permett la ricerca di un cittadino tramit la sua login invocando il relativo metodo della class db metodo che permett di inserir un nuovo cittadino invocando il relativo metodo della class db metodo che permett la modifica del cognom di uno specifico cittadino invocando il relativo metodo della class db metodo che permett la modifica di uno specifico cittadino invocando il relativo metodo della class db metodo che permett la modifica della login per uno specifico cittadino invocando il relativo metodo della class db metodo che permett la modifica del nome di uno specifico cittadino invocando il relativo metodo della class db metodo che modifica il nucleo familiar del cittadino dato il suo id invocando il relativo metodo della class db metodo che permett la ricerca di un insiem di cittadini base al loro nome e cognom invocando il relativo metodo della class db
+preleva ip del comun preleva il nome del comun setta ip del comun setta il nome del comun
+
+metodo che permett di controllar la correttezza della login e della password di un accesso per garantir di una session autenticata metodo che permett di controllar della login metodo che elimina un accesso dal db metodo che restituisc tutti gli accessi memorizzatu metodo che restituisc un accesso metodo che inserisc un accesso del db metodo che modifica un accesso
+metodo che elimina un amministrator dal db metodo che restituisc un amministrator metodo che restituisc un amministrator metodo che restituisc un insiem di amministratori metodo che restituisc tutti gli amministratori memorizzatu metodo che inserisc un amministrator del db metodo che modifica un amministrator
+metodo che permett la cancellazion della carta del cittadino nel momento cui esso cambia residenza verso un comun esterno aggiornamento del db metodo che permett della residenza salvata nella carta del cittadino che ha effettuato un cambio di residenza nello stesso comun cui attualment risied aggiornamento del db
+metodo che permett la cancellazion di una carta aggiornamento del db metodo che permett la modifica della data di rilascio di una specifica carta aggiornamento del db metodo che permett la modifica della data di scadenza per una specifica carta aggiornamento del db metodo che permett la modifica del numero civico una specifica carta aggiornamento del db metodo che permett la modifica della residenza via e numero civio una specifica carta aggiornamento del db metodo che permett la modifica della di una specifica carta aggiornamento del db metodo che permett la modifica della via una specifica carta aggiornamento del db metodo che permett la registrazion di una nuova carta del databas metodo che permett la ricerca di una carta tramit il suo numero metodo che permett la ricerca di una carta partir del proprietario
+metodo che permett la cancellazion di un cittadino aggiornamento del db metodo che permett la ricerca del codic fiscal del cittadino partir dal suo id metodo che permett di conoscer del cittadino partir dai suoi dati anagrafici codic fiscal cognom nome metodo che permett la ricerca di un cittadino tramit il suo id metodo che permett la ricerca di un cittadino tramit la sua login metodo che permett la ricerca di un insiem di cittadini base al loro nome e cognom metodo privato che ritorna cittadino inserito metodo che permett la modifica del campo advertis di uno specifico cittadino aggiornamento del db metodo che permett la modifica del codic fiscal di uno specifico cittadino aggiornamento del db metodo che permett la modifica del cognom di uno specifico cittadino aggiornamento del db metodo che permett la modifica di uno specifico cittadino aggiornamento del db metodo che permett la modifica della login per uno specifico cittadino aggiornamento del db metodo che permett la modifica del nome di uno specifico cittadino aggiornamento del db metodo che modifica il nucleo familiar del cittadino dato il suo id metodo che permett di registrar un nuovo cittadino aggiornamento del db
+metodo che elimina un comun dal db metodo che restituisc un comun metodo che inserisc un comun del db
+metodo che chiud il pool di connession ritorna una connession al db se non disponibil ne vien creata una nuova carica db properti
+
+metodo che elimina un impiegato dal db metodo che restituisc tutti gli impiegati memorizzatu metodo che restituisc un impiegato metodo che restituisc un impiegato metodo che restituisc un insiem di impiegati metodo che inserisc un impiegato del db metodo che modifica un impiegato
+metodo che permett di controllar di un nucleo familiar metodo che elimina un familiar dal db metodo che restituisc un nucleo familiar metodo che restituisc componeneti di uno stato di famiglia metodo che inserisci un oggetto familiar nel db metodo che permett la ricerca di un nucleo familiar per conoscer le eventuali note metodo che modifica un capo famiglia metodo che modifica il numero di componenti del nucleo familiar
+metodo che elimina una richiesta dal db metodo che restituisc una richiesta metodo che restituisc un insiem di richiest metodo che restituisc un insiem di richiest metodo che restituisc un insiem di richiest metodo che restituisc un insiem di richiest metodo che inserisc una richiesta del db metodo che modifica lo stato di una richiesta
+metodo che restituisc il cognom metodo che restituisc l metodo che restituisc la login metodo che restituisc la matricola metodo che restituisc il nome metodo che imposta il cognom metodo che imposta l metodo che imposta la login metodo che imposta la matricola metodo che imposta il nome metodo che converet una stringa le informazioni di un accesso
+metodo che elimina un impiegato dal db invocando il relativo metodo della class db metodo che restituisc tutti gli impiegati memorizzatu invocando il relativo metodo della class db metodo che restituisc un impiegato invocando il relativo metodo della class db metodo che restituisc un insiem di impiegati invocando il relativo metodo della class db metodo che inserisc un impiegato del db invocando il relativo metodo della class db metodo che modifica un impiegato invocando il relativo metodo della class db metodo che restituisc un impiegato invocando il relativo metodo della class db
+restituisc del capofamiglia restituisc dello stato di famiglia restituisc il numero di componenti della famiglia restituisc le note rilasci setta del capofamiglia setta dello stato di famiglia setta il numero di componenti del nucleo familiar inserisc una nota
+metodo che permett di controllar di un nucleo familiar invocando il relativo metodo della class db metodo che decrementa il numero di componenti del nucleo familiar invocando un metodo della class db metodo che restituisc il numero di componenti del nucleo familiar invocando il relativo metodo della class db metodo che incrementa il numero di componenti del nucleo familiar invocando un metodo della class db metodo che inserisci un oggetto familiar nel db invocando il relativo metodo della class db metodo che modifica un capo famiglia invocando il relativo metodo della class db
+preleva la datum cui stata fatta la richiesta preleva il link al documento richiesto preleva della richiesta preleva del richiedent che ha effettuato la richiesta preleva lo stato della richiesta preleva il tipo di richiesta effettuata restituisc un valor booleano nel caso cui la richiesta sia stata accettata restituisc un valor booleano nel caso cui la richiesta sia stata rifiutata setta la datum alla richiesta setta il link al documento setta un nuovo id alla richiesta setta il richiedent della richiesta setta lo stato della richiesta setta il tipo della richiesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+servlet di risposta lato server destinata al client
+
+

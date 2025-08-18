@@ -1,0 +1,55 @@
+boolean boolean boolean Collection Accesso boolean boolean
+String String String void void void String
+String Amministratore Collection Collection boolean boolean Amministratore
+String String String String String void void void void void String
+CartaIdentita CartaIdentita
+String String Date Date int String String String String String String double String int boolean void void void void void void void void void void void void void void String
+String String Date String int String String String int boolean void void void void void void void void void void String
+boolean Cittadino Cittadino int boolean boolean boolean boolean boolean Collection
+String String String String
+void
+boolean boolean boolean Collection Accesso boolean boolean
+boolean Amministratore Amministratore Collection Collection boolean boolean
+boolean CartaIdentita
+boolean boolean boolean boolean boolean boolean boolean boolean CartaIdentita CartaIdentita
+boolean String int Cittadino Cittadino Collection int boolean boolean boolean boolean boolean boolean boolean int
+boolean Comune boolean
+void void Connection void
+
+boolean Collection Impiegato Impiegato Collection boolean boolean
+boolean boolean NucleoFamiliare Collection int int String boolean boolean
+boolean Richiesta Collection Collection Collection Collection boolean boolean
+String String String String String void void void void void String
+boolean Collection Impiegato Collection boolean boolean Impiegato
+int int int String int int int String
+boolean boolean int NucleoFamiliare boolean int boolean
+String String int int String String boolean boolean String String int int String String
+void
+void
+void void void
+void
+void
+void
+void
+void
+void
+int void
+void
+void
+void
+void
+void
+int void
+void
+void
+void
+void
+void String
+void
+void
+void
+void
+void
+void
+void
+void

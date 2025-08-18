@@ -1,0 +1,55 @@
+accesso login accesso accessi accesso accesso accesso
+login password tipo login password tipo string
+amministrator amministrator login amministrator name amministratori admin admin admin matricola
+cognom email login matricola nome cognom email login matricola nome string
+carta id c stri carta numero
+capellu cittadinanza datum rilascio datum scadenza num civico numero occhi profession residenza segni particolari stato civil statura via id valida espatrio capellu cittadinanza datum rilascio datum scadenza num civico numero occhi profession residenza segni particolari stato civil statura validita espatrio via string
+codic fiscal cognom datum nascita email id cittadino login luogo nascita nome nucleo familiar advertis codic fiscal cognom datum nascita email id cittadino advertis login luogo nascita nome nucleo familiar string
+cittadino cittadino id cittadino login cittadino cognom email login nome nucleo familiar cittadino
+indirizzo id nome indirizzo id nome
+post
+accesso login accesso accessi accesso accesso accesso
+amministrator amministrator login amministrator matricola amministrator name amministratori amministrator amministrator
+resid resid
+carta identita datum rilascio carta identita datum scadenza carta identita numero civico carta identita residenza carta identita valida espatrio via carta identita carta identita carta identita numero carta identita proprietario
+cittadino codic fiscal id cittadino cittadino codic cittadino login cittadino name id advertis codic fiscal cittadino cognom cittadino email cittadino login nome cittadino nucleo familiar cittadino cittadino
+comun comun name comun
+pool pool connect db properti
+
+impiegato impiegati impiegato login impiegato matricola impiegato name impiegato impiegato
+id famiglia nucleo familiar nucleo familiar id stato famiglia nucleo familiar id famiglia capo famiglia componentu
+richiesta richiesta id richiesta richiedent richiesta stato richiesta tipo richiest richiesta stato richiesta
+cognom email login matricola nome cognom email login matricola nome string
+impiegato impiegati impiegato login impiegato name impiegato impiegato impiegato matricola
+capo famiglia id nucleo familiar n componenti note capo famiglia id nucleo familiar n componenti note
+famiglia componenti n componenti nucleo nucleo componenti nucleo capo famiglia
+datum documento id richiesta richiedent stato tipo accettata rifiutata datum documento id richiesta richiedent stato tipo
+get
+get
+db db post
+post
+post
+post
+post
+post
+post
+nucleo f post
+post
+post
+get
+post
+post
+nucleo f post
+post
+init
+get
+get
+post password
+post
+post
+post
+post
+post
+post
+get
+get

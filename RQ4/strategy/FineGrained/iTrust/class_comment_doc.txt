@@ -1,0 +1,86 @@
+access dao queri relat author dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+use add personnel page personnel add empti hc ua creat random password similar link add offic visit action link add patient action
+use add patient page patient add empti patient creat random password patient similar link add offic visit action
+valid use link add patient action check first name last name email
+valid use link add patient action check first name last name email
+handl add remot monitor patient datum databas
+use add personnel page personnel add empti hc ua creat random password similar link add offic visit action link add patient action
+use log mechan dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+auth dao anyth authent method access user tabl dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+use manag cpt code dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os cpt code set accur describ medic surgic diagnost servic design commun uniform inform medic servic procedur among physician coder patient accredit organ payer administr financi analyt purpos
+use chang session timeout timeout note chang timeout get reflect new session
+use diseas risk pass logic link chronic diseas mediat variou subclass link risk checker
+use patient declar hc ps design hc ps
+valid ic cm code
+use edit drug interact edit get inform drug interact
+use manag drug interact dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+edit health histori patient use basic health
+handl chang add remov monitor list certain hc
+edit offic visit patient use offic visit exist two state save unsav unsav datum save sub action attempt except rais save howev sub action save
+edit patient health record give patient use ph
+edit patient use patient
+edit design personnel use personnel demograph personnel
+edit patient person repres use repres
+send email user sinc want train spammer insert databas put actual system would replac class stuff javax mail
+creat new emerg report use report
+use queri relat famili dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+handl get person name associ certain mid use user
+get visit remind give patient use remind
+use health record whole histori keep dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+check see give patient risk heart diseas detail method see link risk checker
+valid input hospit bean link updat hospit list action
+use manag hospit dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+use manag icd code dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os intern statist classif diseas relat health problem commonli know abbrevi ic provid code classifi diseas wide varieti sign symptom abnorm find complaint social circumst extern caus injuri diseas
+valid use valid loin cbean
+dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os logic observ identifi name code loin databas univers standard identifi medic laboratori observ
+action class lab proc hc
+class lab proc ua handl lab procedur ua ps
+dao manag lab procedur code databas access object info come dao alreadi valid worri db stuff note da os need dao factori access da os get connect also everi dao must constructor dao factori paramet
+valid nd code bean link updat nd code list action
+use log mechan dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+
+edit privaci level diagnosi use diagnosi
+use manag nd code dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os nation drug code nd univers product identifi use unit state drug intend human use
+use task relat offic visit use link diagnosi offic visit similar task dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os add overrid reason bean databas public long reason overrid reason bean orb throw db except connect conn null prepar statement ps null tri conn connect ps conn statement insert ov reaction overrid ov medic overrid code overrid comment valu long pre string code string descript updat return db util last insert catch sql except e stack trace throw new db except final db util connect ps
+use manag static inform relat patient inform relat aspect patient care see da os dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+valid patient bean link edit patient action
+use manag inform relat personnel hc ps ua ps admin dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+valid personnel bean link edit personnel action
+valid nd code link updat nd code list action
+use updat referr fetch list referr send hc ps dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+use keep track remot monitor datum dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+valid use valid add new remot monitor datum link add remot monitor datum action
+
+use handl datum relat report request dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+manag reset password use password
+abstract class number utliti method check risk extend class use method fill necessari inform use risk patient risk factor get actual risk see know subclass exampl
+
+valid secur question answer follow format other valid use variou state reset password link set secur question action
+class send messag
+listen time user time limit
+handl set retriev secur user use demograph demograph personnel
+class use add patient survey datum databas offic visit id link survey survey add transact log
+dao handl survey datum dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+dao handl survey result dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+use log mechan dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os
+check see give patient risk type diabet detail method see link risk checker
+check see give patient risk type ii diabet detail method see link risk checker
+updat cpt code medic procedur list use cpt procedur code cpt code set accur describ medic surgic diagnost servic design commun uniform inform medic servic procedur among physician coder patient accredit organ payer administr financi analyt purpos
+handl updat list hospit use list
+handl updat icd code diagnosi list use icd code intern statist classif diseas relat health problem commonli know abbrevi ic provid code classifi diseas wide varieti sign symptom abnorm find complaint social circumst extern caus injuri diseas
+handl updat loinc use logic observ identifi name code loin databas univers standard identifi medic laboratori observ
+handl updat nd code prescript list use nd code nation drug code nd univers product identifi use unit state drug intend human use
+handl retriev bean prescript record
+handl retriev log record access give user use access log
+action class view messag
+handl patient view record use record
+handl retriev patient datum certain hcp use telemedicin datum
+action class view report allow user see report
+action class view patient offic visit histori
+handl retriev bean prescript record
+action return list patient log hcp dhcp whose medic go expir within seven day
+action class view report
+class use handl retriev survey result databas also log transact
+action class view visit hc ps
+use queri relat patient remind dao stand databas access object da os intend reflect databas one dao per tabl databas time complex set queri extra da os add da os assum datum valid correct da os never setter paramet constructor factori da os access dao factori see link dao factori everi dao factori obtain jdbc connect access da os

@@ -1,0 +1,86 @@
+session timeout min default timeout session timeout min
+add
+patient
+valid
+valid
+remot monitor datum patient name telemedicin bean
+add
+report hcpmid immun name code perscript report report unremov advers event code report
+allergi allergi
+user user exist login failur reset password failur secur answer secur question user name user role login failur row reset password row login failur reset password failur login failur zero password secur question answer failur zero reset failur zero
+cpt code cpt code cpt code immun cpt code procedur cpt code code
+session timeout session timeout
+diseas risk patient id user name
+hcp declar hcp hcp
+valid
+interact interact interact
+interact interact interact
+health record health record patient name form
+list patient name patient list list
+list diagnosi bean hospit offic visit immun procedur offic visit event email app instruct prescript procedur referr sub action bean inform ov
+famili member cancer famili member diabet famili member heart diseas famili member high bp famili member high cholesterol health record offic visit allergi complet offic visit diseas risk famili famili member cod patient procedur famili member smoker email allergi
+messag filter employe name histori patient histori email inform
+messag filter inform
+repres repres repres
+email
+allergi blood type current prescript immun patient age patient emerg contact patient gender patient name warn diagnosi email
+child famili member parent sibl
+user name
+immun dose immun needer visit remind dip tet hpv haemo flu hep hep b measl pneumo polio rota viru varicella
+add health record
+diseas risk factor name diseas
+valid
+hospit hospit lt hospit hospit hospit hospit assign hospit assign hospit
+icd code icd code icd code code
+valid
+loinc loinc procedur updat
+privaci access lab proc next month pend count loinc procedur hcp
+email procedur patient procedur procedur
+lab procedur lab procedur lab procedur date lab procedur doc ov lab procedur doc ov lab procedur loinc lab procedur loinc hcp lab procedur hcp pend count lab procedur lab procedur lab procedur lhcp next month lab procedur patient lab procedur patient next month lab procedur patient ov lab procedur transit lab tech lab procedur receiv lab tech lab procedur test lab tech lab tech queue size lab tech queue size prioriti patient unview count view lab procedur lp test receiv lp test result lab procedur right
+valid
+messag messag messag messag name ascend messag name descend messag time ascend messag name ascend messag name descend messag time ascend read
+name report remov email
+diagnosi hcp diagnosi prescript hcp icd
+nd code nd code nd code nd code code
+add offic visit exist offic visit offic visit diagnosi offic visit lhcp offic visit offic visit hospit offic visit survey full offic vist valu updat
+empti patient histori repres declar hcp patient exist hcp patient patient current prescript declar hc ps diagnosi expir prescript immun procedur name patient patient histori prescript procedur renew need patient repres repres role histori repres repres patient name hcp
+valid
+empti personnel personnel exist personnel personnel hospit lab tech name next id personnel prescrib doctor ua ps hcp personnel name
+valid
+valid
+referr referr patient queri receiv queri referr referr patient referr patient unread referr receiv hcp referr receiv hcp unread referr ov referr send referr send sender queri referr messag referr referr messag
+patient list monitor hc ps number daili entri patient data date patient datum type patient datum telemedicin bean patient list patient datum pr
+valid
+report mail mail
+report request report request patient report request request report request view
+answer null mid role secur question max email app password password
+diseas risk factor name patient risk factor risk diseas
+patient name personnel name
+valid
+dlhc ps dlhc ps represente patient name personnel name messag
+creat destroy
+mid inform inform
+survey patient mid
+complet survey survey datum survey complet
+survey result hospit survey result zip
+sort role record access transact oper profil record access transact affect transact transact
+diseas risk factor name diseas
+diseas risk factor name diseas
+cpt code code inform
+hospit hospit inform
+icd code inform
+add inform
+nd code nd code code inform
+patient prescrib doctor prescript patient represente
+access default end default start repres
+messag messag messag name ascend messag name descend messag time ascend send messag send messag name ascend send messag name descend send messag time ascend name personnel name unread count referr read creat filter
+famili member cancer famili member diabet famili member heart diseas famili member high bp famili member high cholesterol health record offic visit allergi complet offic visit email histori famili famili health record famili histori famili member cod lab patient patient personnel procedur name procedur report request repres repres specif lab famili member smoker survey complet patient view
+monitor hc ps patient data date patient datum type patient datum without log patient name patient datum
+report request report request request long statu report request view
+patient list patient personnel offic visit
+patient prescrib doctor prescript patient represente
+renew need patient
+declar hc ps diagnosi patient personnel prescript procedur
+survey result hospit survey result zip
+declar hcp hcp list visit hc ps name hcp visit hc ps hcp visit bean personnel hcp
+diagnos visit needer flu shoot delinqu patient

@@ -1,0 +1,55 @@
+login password login login login ac login newAccesso
+login password tipo
+matricola login nomeAmm cognAmm newAdmin matricola newAdmin matricola
+cognome email login matricola nome
+id cod
+hair citta data datas n code eyes prof res listSp stat stat val list
+cod_fis surname data mail idCittadino ad log luogo name nf
+idCitt idCitt login cittadino idCitt cognome idCittadino email idCitt newLogin idCitt nome idCitt newid nome cognome
+i n
+request response
+login password login log log a log a
+matr log matrAmm nomeAmm cognAmm a matr a
+cod cod v nc
+cod cod d cod d cod nc cod via nc cod esp cod v c cod idC
+idCitt id cf surname name idCitt log name surname idCitt idCitt newcf idCitt newsurname idCitt newmail idC newLogin idCitt newname idCitt newnucleo citt
+nome nome c
+
+
+matr log matrImp nomeImp cognImp i matr a
+id id id id nf id idF idC idF n
+id id idR idR stato idR tipo ric idR stato
+cognome email login matricola nome
+matricola login nomeImp cognImp newImpiegato matricola newImpiegato matricola
+str str str str
+id id id id id nf id IdCitt
+str str str str str str
+request response
+request response
+indirnew num_civnew request response request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+conf
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response
+request response

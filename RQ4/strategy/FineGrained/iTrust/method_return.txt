@@ -1,0 +1,86 @@
+int void void
+long
+long
+void
+void
+void String List
+long
+void long List String List AdverseEventBean List List long
+void List
+String boolean int int String String String Role void void void void void void void void void
+boolean List ProcedureBean List List int
+void int
+List long String
+String List String
+void
+String List String
+boolean List boolean
+String List String HealthRecord
+boolean String boolean boolean
+List EditDiagnosesAction OfficeVisitBean List OfficeVisitBean EditImmunizationsAction EditLabProceduresAction void Email EditPatientInstructionsAction EditPrescriptionsAction EditProceduresAction EditReferralsAction void void String void
+boolean boolean boolean boolean boolean List List List OfficeVisitBean List List String PatientBean List boolean Email String
+void String List PatientBean boolean Email void
+void void
+String List String
+void
+List String List List String String String String List Email
+List List List List
+String
+String boolean boolean List List boolean String String String String String String String String String String
+boolean List
+List String boolean
+void
+boolean boolean boolean List HospitalBean int boolean int
+boolean List DiagnosisBean int
+void
+void List List int
+void boolean List int List List
+Email void List List
+long List List List List List List List int LabProcedureBean List List List List List List List List int int[] int void void void void void void void
+void
+void List List List List List List List List void
+String List void String
+List List List
+boolean List MedicationBean boolean int
+long boolean List List List OfficeVisitBean List List OfficeVisitBean void void
+long void boolean boolean boolean boolean void List List List List List List String PatientBean List List List List List List String boolean boolean boolean List boolean
+void
+long boolean void List List List String long PersonnelBean PersonnelBean List List
+void
+void
+long void ReferralListQuery ReferralListQuery ReferralBean List List List List List List List ReferralListQuery long void boolean
+boolean List int List List List List boolean void void
+void
+String Email Email
+long List List ReportRequestBean void
+String long String String boolean Email String void
+List String List boolean boolean
+List List
+void
+List List List String String void
+void void
+long SecurityQA void
+void long
+void SurveyBean boolean
+List List
+List List List OperationalProfile List List void void
+List String boolean
+List String boolean
+String int String
+String int String
+String String
+String String
+String String int String
+PatientBean PersonnelBean List List
+List String String List
+List List List List List List List List List String String int long void String
+boolean boolean boolean boolean boolean List List List OfficeVisitBean List List List List String List PatientBean PatientBean PersonnelBean List List List List List List boolean boolean long void
+List List List List String List
+long List String ReportRequestBean void
+boolean List PersonnelBean void
+PatientBean PersonnelBean List List
+List
+List List PatientBean PersonnelBean List List
+List List
+boolean String List List HCPVisitBean List HCPVisitBean boolean String
+List List List

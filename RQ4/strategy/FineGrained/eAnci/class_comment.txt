@@ -1,0 +1,55 @@
+La classe AccessManager interagisce con le classi di gestione del database La classe AccessManager non ha dipendenze
+La classe Accesso permette la gestione degli accessi La classe Accesso non ha dipendenze
+La classe AdminManager interagisce con le classi di gestione del database La classe AdminManager non ha dipendenze
+La classe Amministratore permette la gestione degli amministratori La classe Amministratore non ha dipendenze
+La classe CIManager interagisce con le classi di gestione del database La classe CIManager non ha dipendenze
+� un JavaBean che gestisce i metodi di settaggio e restituzione degli attributi della carta di identit� di un cittadino
+� un JavaBean che gestisce i metodi get e set degli attributi di un Cittadino
+La classe CittadinoManager interagisce con le classi di gestione del database La classe CittadinoManager non ha dipendenze
+La classe Comune permette la comunicazione con gli altri comuni
+La classe ControllerFiles gestisce l'upload di un file La classe non ha nessuna dipendenza
+La classe DbAccesso si occupa di gestire le connessioni al db per consentire gli accessi.
+La classe DbAmministratore si occupa di gestire le connessioni al db
+Classe che si occupa di gestire le connessioni con il database e di schermare le servet con il DBMS.
+Classe che si occupa di gestire le connessioni con il database e di schermare le servlet dal DBMS.
+Classe che si occupa di gestire le connessioni con il database e di schermare le servet con il DBMS.
+La classe DbComune si occupa di gestire le connessioni al db
+Questa classe fornisce un pool di connesione
+La classe DbException viene lanciata quando si verifica un eccezione legata al db
+La classe DbImpiegato si occupa di gestire le connessioni al db
+La classe DbNucleoFamiliare si occupa di gestire le connessioni al db
+La classe DbRichiesta si occupa di gestire le connessioni al db
+La classe Impiegato permette solo all'amministratore la gestione degli impiegati La classe Impiegato non ha dipendenze
+La classe ImpiegatoManager interagisce con le classi di gestione del database La classe ImpiegatoManager non ha dipendenze
+Questa classe si occupa di gestire lo stato di famiglia del cittadino
+La classe NucleoFamiliareManager interagisce con le classi di gestione del database La classe NucleoFamiliareManager non ha dipendenze
+Classe che gestisce i metodi dell'oggetto Richiesta
+La classe ServletAnnulla annulla l'operazione che l'utente stava eseguendo La classe ServletAnnulla non ha dipendenze
+La classe ServletCaricaPratica carica in una sessione gli oggetti Cittadino e CartaIdentita La classe dipende da DbCittadino e DbCartaIdentita
+La classe ServletCreaPdfCambioAbitazione un file PDF in base ai dati ricevuti da una pagina JSP La classe non ha nessuna dipendenza
+La classe ServletCreaPdfCertificati crea un file PDF con i dati ricevuti da una pagina JSP La classe non ha nessuna dipendenza
+La classe ServletCreaPdfCittadino un file PDF in base ai dati ricevuti da una pagina JSP La classe non ha nessuna dipendenza
+La classe ServletEliminaAmministratore ricerca ed elimina un amministratore La classe ServletEliminaAmministratore non ha dipendenze
+La classe ServletEliminaCittadino ricerca ed elimina un cittadino La classe ServletEliminaCittadino non ha dipendenze
+La classe ServletEliminaImpiegato ricerca ed elimina un impiegato La classe ServletEliminaImpiegato non ha dipendenze
+La classe ServletInserisciAmministratore inserisce un amministratore nel database La classe ServletInserisciAmministratore non ha dipendenze
+La classe ServletInserisciCittadino inserisce un cittadino nel database La classe ServletInserisciCittadino non ha dipendenze
+La classe ServletInserisciImpiegato inserisce un impiegato nel database La classe ServletInserisciImpiegato non ha dipendenze
+La classe ServletLogin effettua l'operazione di autenticazione di un utente nel sistema La classe ServletLogin non ha dipendenze
+La classe ServletLogout effettua l'operazione di logout di un utente dal sistema La classe ServletLogout non ha dipendenze
+La classe ServletModificaAccesso che effettua l'operazione di modifica di un accesso La classe ServletModificaAccesso non ha dipendenze
+La classe ServletModificaAmministratore che effettua l'operazione di modifica di un amministratore La classe ServletModificaAmministratore non ha dipendenze
+La classe ServletModificaCittadino che effettua l'operazione di modifica di un cittadino La classe ServletModificaCittadino non ha dipendenze
+La classe ServletModificaImpiegato che effettua l'operazione di modifica di un impiegato La classe ServletModificaImpiegato non ha dipendenze
+
+La classe ServletMostraAccesso mostra i dati relativi all'accesso di un impieagto o amministratore La classe ServletMostraAccesso non ha dipendenze
+La classe ServletMostraAccessoA mostra i dati relativi all'accesso di un cittadino La classe ServletMostraAccessoA non ha dipendenze
+La classe ServletRecuperoPassword gestisce l'operazione di recupero password per un cittadino La classe ServletRecuperoPassword non ha dipendenze
+La classe ServletRegistraCittadino gestisce l'operazione di registrazione di un cittadino nel sistema La classe ServletRegistraCittadino non ha dipendenze
+La classe ServletRicercaAmministratore ricerca e restituisce i dati di un amministratore La classe ServletRicercaAmministratore non ha dipendenze
+La classe ServletRicercaCittadino ricerca e restituisce i dati di un cittadino La classe ServletRicercaCittadino non ha dipendenze
+La classe ServletRicercaImpiegato ricerca e restituisce i dati di un impiegato La classe ServletRicercaImpiegato non ha dipendenze
+La classe ServletRicercaPratica restituisce una pratica specificata nel motore di ricerca La classe dipende dalla classe DbRichieste
+
+La classe ServletStatoDiFamiglia restituisce una lista dei membri di una famiglia La classe dipende dalla classe DbNucleoFamiliare
+La classe ServletVisualizzaPratiche restituisce una lista di richieste La classe dipende dalla classe DbRichieste

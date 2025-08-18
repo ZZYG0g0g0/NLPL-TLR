@@ -1,0 +1,55 @@
+access manag
+accesso
+admin manag
+amministrator
+ci manag
+carta identita
+cittadino
+cittadino manag
+comun
+control file
+db accesso
+db amministrator
+db cambio residenza
+db carta identita
+db cittadino
+db comun
+db connect
+db except
+db impiegato
+db nucleo familiar
+db richiesta
+impiegato
+impiegato manag
+nucleo familiar
+nucleo familiar manag
+richiesta
+servlet annulla
+servlet carica pratica
+servlet crea pdf cambio abitazion
+servlet crea pdf certificatu
+servlet crea pdf cittadino
+servlet elimina amministrator
+servlet elimina cittadino
+servlet elimina impiegato
+servlet inserisci amministrator
+servlet inserisci cittadino
+servlet inserisci impiegato
+servlet login
+servlet logout
+servlet modifica accesso
+servlet modifica amministrator
+servlet modifica cittadino
+servlet modifica impiegato
+servlet modifica residenza
+servlet mostra accesso
+servlet mostra accesso
+servlet recupero password
+servlet registra cittadino
+servlet ricerca amministrator
+servlet ricerca cittadino
+servlet ricerca impiegato
+servlet ricerca pratica
+servlet risposta
+servlet stato di famiglia
+servlet visualizza pratich

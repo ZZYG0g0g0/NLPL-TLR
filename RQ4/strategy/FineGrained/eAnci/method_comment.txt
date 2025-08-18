@@ -1,0 +1,55 @@
+Metodo che permette di controllare la correttezza della login e della password di un accesso invocando il relativo metodo della classe db Metodo che permette di controllare l'esistenza della login invocando il relativo metodo della classe db Metodo che elimina un accesso  dal db invocando il relativo metodo della classe db Metodo che restituisce tutti gli accessi memorizzati invocando il relativo metodo della classe db Metodo che restituisce un accesso invocando il relativo metodo della classe db Metodo che inserisce un accesso all'interno del db invocando il relativo metodo della classe db
+Metodo che restituisce una login Metodo che restituisce una password Metodo che restituisce il tipo di utente che accede Metodo che imposta una login Metodo che imposta una password Metodo che imposta il tipo di utente che accede Metodo che converete in una stringa le informazioni di un accesso
+Metodo che elimina un Amministratore  dal db invocando il relativo metodo della classe db Metodo che restituisce un amministratore invocando il relativo metodo della classe db Metodo che restituisce un insieme di amministratori invocando il relativo metodo della classe db Metodo che restituisce tutti gli amministratori memorizzati Metodo che inserisce un amministratore all'interno del db invocando il relativo metodo della classe db Metodo che modifica un amministratore invocando il relativo metodo della classe db Metodo che restituisce un amministratore invocando il relativo metodo della classe db
+Metodo che restituisce il cognome dell'impiegato Metodo che restituisce l'e-mail dell'impiegato Metodo che restituisce la login dell'impiegato Metodo che restituisce la matricola dell'impiegato Metodo che restituisce il nome dell'impiegato Metodo che imposta il cognome dell'impiegato Metodo che imposta l'e-mail dell'impiegato Metodo che imposta la login dell'impiegato Metodo che imposta  la matricola dell'impiegato Metodo che imposta il nome dell'impiegato Metodo che converete in una stringa le informazioni di un accesso
+Metodo che permette la ricerca di una carta d'identita tramite il suo numero invocando il relativo metodo della classe db
+
+
+Metodo che permette la cancellazione di un cittadino invocando il relativo metodo della classe db Metodo che permette la ricerca di un cittadino tramite il suo id invocando il relativo metodo della classe db Metodo che permette la ricerca di un cittadino tramite la sua login invocando il relativo metodo della classe db Metodo che permette di inserire un nuovo cittadino invocando il relativo metodo della classe db Metodo che permette la modifica del cognome di uno specifico cittadino invocando il relativo metodo della classe db Metodo che permette la modifica dell'indirizzo e-mail di uno specifico cittadino invocando il relativo metodo della classe db Metodo che permette la modifica della login per uno specifico cittadino invocando il relativo metodo della classe db Metodo che permette la modifica del nome di uno specifico cittadino invocando il relativo metodo della classe db Metodo che modifica il nucleo familiare del cittadino dato il suo id invocando il relativo metodo della classe db Metodo che permette la ricerca di un insieme di cittadini in base al loro nome e cognome invocando il relativo metodo della classe db
+Preleva l'indirizo ip del comune Preleva il nome del comune Setta l'indirizzo ip del comune Setta il nome del comune
+
+Metodo che permette di controllare la correttezza della login e della password di un accesso per garantire l'apertura di una sessione autenticata Metodo che permette di controllare l�esistenza della login Metodo che elimina un accesso  dal db Metodo che restituisce tutti gli accessi memorizzati Metodo che restituisce un accesso Metodo che inserisce un accesso all'interno del db Metodo che modifica un accesso
+Metodo che elimina un Amministratore  dal db Metodo che restituisce un amministratore Metodo che restituisce un amministratore Metodo che restituisce un insieme di amministratori Metodo che restituisce tutti gli amministratori memorizzati Metodo che inserisce un amministratore all'interno del db Metodo che modifica un amministratore
+Metodo che permette la cancellazione della carta d'identit� del cittadino nel momento in cui esso cambia residenza verso un comune esterno (aggiornamento del db) Metodo che permette l'aggiornamento della residenza salvata nella carta d'identità del cittadino che ha effettuato un cambio di residenza nello stesso comune in cui attualmente risiede.(aggiornamento del db)
+Metodo che permette la cancellazione di una carta d'identit�. (aggiornamento del db) Metodo che permette la modifica della data di rilascio di una specifica carta d'identit�. (aggiornamento del db) Metodo che permette la modifica della data di scadenza per una specifica carta d'identit�. (aggiornamento del db) Metodo che permette la modifica del numero civico in una specifica carta d'identit�. (aggiornamento del db) Metodo che permette la modifica della residenza (via e numero civio) in una specifica carta d'identit�. (aggiornamento del db)� Metodo che permette la modifica della validit�per l'espatrio di una specifica carta d'identit�. (aggiornamento del db) Metodo che permette la modifica della via in una specifica carta d'identit�. (aggiornamento del db) Metodo che permette la registrazione di una nuova carta d'identit� all'interno del database Metodo che permette la ricerca di una carta d'identit� tramite il suo numero. Metodo che permette la ricerca di una carta d'identit� a partire dall'id del proprietario
+Metodo che permette la cancellazione di un cittadino. (aggiornamento del db) Metodo che permette la ricerca del codice fiscale del cittadino a partire dal suo ID Metodo che permette di conoscere l'id del cittadino a partire dai suoi dati anagrafici (codice fiscale,cognome,nome) Metodo che permette la ricerca di un cittadino tramite il suo id. Metodo che permette la ricerca di un cittadino tramite la sua login. Metodo che permette la ricerca di un insieme di cittadini in base al loro nome e cognome. Metodo privato che ritorna l'id dell'ultimo cittadino inserito. Metodo che permette la modifica del campo advertise di uno specifico cittadino. (aggiornamento del db) Metodo che permette la modifica del codice fiscale di uno specifico cittadino. (aggiornamento del db) Metodo che permette la modifica del cognome di uno specifico cittadino. (aggiornamento del db) Metodo che permette la modifica dell'indirizzo e-mail di uno specifico cittadino. (aggiornamento del db) Metodo che permette la modifica della login per uno specifico cittadino. (aggiornamento del db) Metodo che permette la modifica del nome di uno specifico cittadino. (aggiornamento del db) Metodo che modifica il nucleo familiare del cittadino dato il suo id Metodo che permette di registrare un nuovo cittadino. (aggiornamento del db)
+Metodo che elimina un comune dal db Metodo che restituisce un comune Metodo che inserisce un comune all'interno del db
+Metodo che chiude il pool di connessione Ritorna una connessione al db, se non � gi� disponibile ne viene creata una nuova Carica i db properties
+
+Metodo che elimina un impiegato  dal db Metodo che restituisce tutti gli impiegati memorizzati Metodo che restituisce un impiegato Metodo che restituisce un impiegato Metodo che restituisce un insieme di impiegati Metodo che inserisce un impiegato all'interno del db Metodo che modifica un impiegato
+Metodo che permette di controllare l�esistenza di un nucleo familiare Metodo che elimina un nucleoFamiliare  dal db Metodo che restituisce un nucleo familiare Metodo che restituisce i componeneti di uno stato di famiglia Metodo che inserisci un oggetto nucleoFamiliare nel db Metodo che permette la ricerca di un nucleo familiare per conoscere le eventuali note Metodo che modifica un capo famiglia Metodo che modifica il numero di componenti del nucleo familiare
+Metodo che elimina una richiesta dal db Metodo che restituisce una richiesta Metodo che restituisce un insieme di richieste Metodo che restituisce un insieme di richieste Metodo che restituisce un insieme di richieste Metodo che restituisce un insieme di richieste Metodo che inserisce una richiesta all'interno del db Metodo che modifica lo stato di una richiesta
+Metodo che restituisce il cognome dell'impiegato Metodo che restituisce l'e-mail dell'impiegato Metodo che restituisce la login dell'impiegato Metodo che restituisce la matricola dell'impiegato Metodo che restituisce il nome dell'impiegato Metodo che imposta il cognome dell'impiegato Metodo che imposta l'e-mail dell'impiegato Metodo che imposta la login dell'impiegato Metodo che imposta  la matricola dell'impiegato Metodo che imposta il nome dell'impiegato Metodo che converete in una stringa le informazioni di un accesso
+Metodo che elimina un impiegato  dal db invocando il relativo metodo della classe db Metodo che restituisce tutti gli impiegati memorizzati invocando il relativo metodo della classe db Metodo che restituisce un impiegato invocando il relativo metodo della classe db Metodo che restituisce un insieme di impiegati invocando il relativo metodo della classe db Metodo che inserisce un impiegato all'interno del db invocando il relativo metodo della classe db Metodo che modifica un impiegato invocando il relativo metodo della classe db Metodo che restituisce un impiegato invocando il relativo metodo della classe db
+Restituisce l'id del capofamiglia Restituisce l'id dello stato di famiglia Restituisce il numero di componenti della famiglia Restituisce le note rilasciate Setta l'id del capofamiglia Setta l'id dello stato di famiglia Setta il numero di componenti del nucleo familiare Inserisce una nota
+Metodo che permette di controllare l�esistenza di un nucleo familiare invocando il relativo metodo della classe db Metodo che decrementa il numero di componenti del nucleo familiare invocando un metodo della classe db Metodo che restituisce il numero di componenti del nucleo familiare invocando il relativo metodo della classe db Metodo che incrementa il numero di componenti del nucleo familiare invocando un metodo della classe db Metodo che inserisci un oggetto nucleoFamiliare nel db invocando il relativo metodo della classe db Metodo che modifica un capo famiglia invocando il relativo metodo della classe db
+Preleva la data in cui � stata fatta la richiesta Preleva il link al documento richiesto Preleva l'id della richiesta Preleva l'id del richiedente che ha effettuato la richiesta Preleva lo stato della richiesta Preleva il tipo di richiesta effettuata Restituisce un valore booleano nel caso in cui la richiesta sia stata accettata Restituisce un valore booleano nel caso in cui la richiesta sia stata rifiutata Setta la data alla richiesta Setta il link al documento Setta un nuovo id alla richiesta Setta il richiedente della richiesta Setta lo stato della richiesta Setta il tipo della richiesta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+servlet di risposta lato server destinata al client
+
+

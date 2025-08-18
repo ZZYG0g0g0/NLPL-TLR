@@ -1,0 +1,55 @@
+boolean boolean boolean collect accesso boolean boolean
+string string string void void void string
+string amministrator collect collect boolean boolean amministrator
+string string string string string void void void void void string
+carta identita carta identita
+string string date date int string string string string string string doubl string int boolean void void void void void void void void void void void void void void string
+string string date string int string string string int boolean void void void void void void void void void void string
+boolean cittadino cittadino int boolean boolean boolean boolean boolean collect
+string string string string
+void
+boolean boolean boolean collect accesso boolean boolean
+boolean amministrator amministrator collect collect boolean boolean
+boolean carta identita
+boolean boolean boolean boolean boolean boolean boolean boolean carta identita carta identita
+boolean string int cittadino cittadino collect int boolean boolean boolean boolean boolean boolean boolean int
+boolean comun boolean
+void void connect void
+
+boolean collect impiegato impiegato collect boolean boolean
+boolean boolean nucleo familiar collect int int string boolean boolean
+boolean richiesta collect collect collect collect boolean boolean
+string string string string string void void void void void string
+boolean collect impiegato collect boolean boolean impiegato
+int int int string int int int string
+boolean boolean int nucleo familiar boolean int boolean
+string string int int string string boolean boolean string string int int string string
+void
+void
+void void void
+void
+void
+void
+void
+void
+void
+int void
+void
+void
+void
+void
+void
+int void
+void
+void
+void
+void
+void string
+void
+void
+void
+void
+void
+void
+void
+void

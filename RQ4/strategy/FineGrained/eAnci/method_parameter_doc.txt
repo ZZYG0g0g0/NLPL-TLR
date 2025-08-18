@@ -1,0 +1,55 @@
+login password login login login ac login accesso
+login password tipo
+matricola login amm amm admin matricola admin matricola
+cognom email login matricola nome
+id cod
+hair citta datum data n code eye prof re sp stat stat val list
+surnam datum mail cittadino ad log luogo name nf
+citt citt login cittadino citt cognom cittadino email citt login citt nome citt newid nome cognom
+n
+request respons
+login password login log log log
+matr log amm amm amm matr
+cod cod v nc
+cod cod cod cod nc cod via nc cod esp cod v c cod c
+citt id cf surnam name citt log name surnam citt citt newcf citt newsurnam citt newmail c login citt newnam citt newnucleo citt
+nome nome c
+
+
+matr log imp imp imp matr
+id id id id nf id f c f n
+id id be r stato be tipo ric r stato
+cognom email login matricola nome
+matricola login imp imp impiegato matricola impiegato matricola
+str str str str
+id id id id id nf id id citt
+str str str str str str
+request respons
+request respons
+indirnew request respons request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+conf
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons
+request respons

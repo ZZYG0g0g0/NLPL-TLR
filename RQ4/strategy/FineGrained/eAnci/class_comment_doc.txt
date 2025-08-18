@@ -1,0 +1,55 @@
+la class access manag interagisc con le classi di gestion del databas la class access manag non ha dipendenz
+la class accesso permett la gestion degli accessi la class accesso non ha dipendenz
+la class admin manag interagisc con le classi di gestion del databas la class admin manag non ha dipendenz
+la class amministrator permett la gestion degli amministratori la class amministrator non ha dipendenz
+la class ci manag interagisc con le classi di gestion del databas la class ci manag non ha dipendenz
+un java bean che gestisc metodi di settaggio e restituzion degli attributi della carta di di un cittadino
+un java bean che gestisc metodi get e set degli attributi di un cittadino
+la class cittadino manag interagisc con le classi di gestion del databas la class cittadino manag non ha dipendenz
+la class comun permett la comunicazion con gli altri comuni
+la class control file gestisc di un file la class non ha nessuna dipendenza
+la class db accesso si occupa di gestir le connessioni al db per consentir gli accessi
+la class db amministrator si occupa di gestir le connessioni al db
+class che si occupa di gestir le connessioni con il databas e di schermar le servet con il dbm
+class che si occupa di gestir le connessioni con il databas e di schermar le servlet dal dbm
+class che si occupa di gestir le connessioni con il databas e di schermar le servet con il dbm
+la class db comun si occupa di gestir le connessioni al db
+questa class fornisc un pool di connesion
+la class db except vien lanciata quando si verifica un eccezion legata al db
+la class db impiegato si occupa di gestir le connessioni al db
+la class db nucleo familiar si occupa di gestir le connessioni al db
+la class db richiesta si occupa di gestir le connessioni al db
+la class impiegato permett solo la gestion degli impiegati la class impiegato non ha dipendenz
+la class impiegato manag interagisc con le classi di gestion del databas la class impiegato manag non ha dipendenz
+questa class si occupa di gestir lo stato di famiglia del cittadino
+la class nucleo familiar manag interagisc con le classi di gestion del databas la class nucleo familiar manag non ha dipendenz
+class che gestisc metodi richiesta
+la class servlet annulla annulla che stava eseguendo la class servlet annulla non ha dipendenz
+la class servlet carica pratica carica una session gli oggetti cittadino e carta identita la class dipend da db cittadino e db carta identita
+la class servlet crea pdf cambio abitazion un file pdf base be dati ricevuti da una pagina jsp la class non ha nessuna dipendenza
+la class servlet crea pdf certificati crea un file pdf con dati ricevuti da una pagina jsp la class non ha nessuna dipendenza
+la class servlet crea pdf cittadino un file pdf base be dati ricevuti da una pagina jsp la class non ha nessuna dipendenza
+la class servlet elimina amministrator ricerca ed elimina un amministrator la class servlet elimina amministrator non ha dipendenz
+la class servlet elimina cittadino ricerca ed elimina un cittadino la class servlet elimina cittadino non ha dipendenz
+la class servlet elimina impiegato ricerca ed elimina un impiegato la class servlet elimina impiegato non ha dipendenz
+la class servlet inserisci amministrator inserisc un amministrator nel databas la class servlet inserisci amministrator non ha dipendenz
+la class servlet inserisci cittadino inserisc un cittadino nel databas la class servlet inserisci cittadino non ha dipendenz
+la class servlet inserisci impiegato inserisc un impiegato nel databas la class servlet inserisci impiegato non ha dipendenz
+la class servlet login effettua di autenticazion di un utent nel sistema la class servlet login non ha dipendenz
+la class servlet logout effettua di logout di un utent dal sistema la class servlet logout non ha dipendenz
+la class servlet modifica accesso che effettua di modifica di un accesso la class servlet modifica accesso non ha dipendenz
+la class servlet modifica amministrator che effettua di modifica di un amministrator la class servlet modifica amministrator non ha dipendenz
+la class servlet modifica cittadino che effettua di modifica di un cittadino la class servlet modifica cittadino non ha dipendenz
+la class servlet modifica impiegato che effettua di modifica di un impiegato la class servlet modifica impiegato non ha dipendenz
+
+la class servlet mostra accesso mostra dati relativi di un impieagto amministrator la class servlet mostra accesso non ha dipendenz
+la class servlet mostra accesso mostra dati relativi di un cittadino la class servlet mostra accesso non ha dipendenz
+la class servlet recupero password gestisc di recupero password per un cittadino la class servlet recupero password non ha dipendenz
+la class servlet registra cittadino gestisc di registrazion di un cittadino nel sistema la class servlet registra cittadino non ha dipendenz
+la class servlet ricerca amministrator ricerca e restituisc dati di un amministrator la class servlet ricerca amministrator non ha dipendenz
+la class servlet ricerca cittadino ricerca e restituisc dati di un cittadino la class servlet ricerca cittadino non ha dipendenz
+la class servlet ricerca impiegato ricerca e restituisc dati di un impiegato la class servlet ricerca impiegato non ha dipendenz
+la class servlet ricerca pratica restituisc una pratica specificata nel motor di ricerca la class dipend dalla class db richiest
+
+la class servlet stato di famiglia restituisc una lista dei membri di una famiglia la class dipend dalla class db nucleo familiar
+la class servlet visualizza pratich restituisc una lista di richiest la class dipend dalla class db richiest

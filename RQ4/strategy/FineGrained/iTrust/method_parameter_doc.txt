@@ -1,0 +1,86 @@
+conn min min
+p
+p
+p
+p
+bean pid mid
+p
+bean hcpmid id start end code start end id mid code id
+pid descript pid
+mid role password mid addr addr mid mid mid mid addr count conn addr count conn addr addr addr mid password question answer mid addr conn addr conn
+proc code proc
+string
+
+str input
+
+drug drug code drug drug descript
+drug drug code drug drug descript
+pid hr pid pid form
+mid bean pid mid mid
+hospit hospit tran id id problem bean form form
+member member member member member id member id member pid descript
+filter mid p
+filter form
+string pid input
+email
+
+pid pid relat queri param pid pid
+mid
+pid time time year month week dob first year month week mid type dob year month week count dob time count dob time count dob time dose time count dob time count dob time count dob time count dob time dose time count dob time count dob time count dob time
+record mid
+
+h
+hosp id id id id id id id hosp
+diag code diag
+
+hosp id ov
+x x id
+b b pid id
+b mid ovid mid ovid id id loinc mid mid id mid pid ovid id id ovid id id id mid mid pid b id id id id result result unit upper low b b
+
+bean mid mid mid mid mid mid mid mid bean
+mid prescript start end id mid messag
+icdcod hcpid icdcod
+med code med med
+ov id pid pid icdcod mid id id pid rs id ps ov ov
+pid hcpid represent represente pid hcpid pid pid id p hcpid id pid pid id pid mid mid mid id pid mid pid pid mid role pid represent represente represent represente first last pid id
+p
+role pid p mid mid role mid prescript hcpid first last
+p
+p
+r r pid mid id mid mid mid mid ovid mid mid mid id id id id
+mid hcpmid bean mid mid type mid low upper mid type mid mid mid hcpmid mid bean role mid mid mid
+
+bean bean list
+mid mid date pid mid id id date
+answer string mid role mid address mid role mid role answer password password addr password password
+
+name name name name
+bean
+pid mid mid bean
+
+mid
+bean id id
+bean date id id
+id specialti zip specialti
+list id role id id role id id low upper role mid id start rang type mid type mid mid info
+
+
+proc proc proc
+hosp hosp hosp
+diagn diagn
+diagn diagn
+med med med med
+id prescript id
+date date mid role access access pid
+messag filter mid mid id bean filter
+member member member member member id mid member mid mid code id id id member id input proc
+mid date date mid type pid
+mid id id id
+pb date
+id prescript id
+
+pid pid mid mid pid pid
+bean bean
+mid name name specialti zip name specialti zip name pb date pb name specialti zip name
+hcpid hcpid hcpid
