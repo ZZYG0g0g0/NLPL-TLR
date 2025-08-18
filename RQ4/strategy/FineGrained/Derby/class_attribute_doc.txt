@@ -1,0 +1,2200 @@
+aft pars aft bind aft optim
+tabl monitor
+conn schema queri exist datum depth detail id id nod type n open inpu row return row visit page sca qualifi nex qualifi scann object sca type sor type n outpu row b sorter
+modul
+use tran name sy tran name btre overflo threshold hea overflo threshold sor overflo threshold cf conglomdi cach heap defaul propert name pag reserv spac prop conglo prop imp type sor extern sor intern sor uniquewithduplicatenul extern nest readonl use tran nest updat use tran ramxac contex id ramxac chil contex id ramxac interna contex id
+
+cd estim index scan match index scan strategi mode optim path name
+
+
+result set field result set field activ method
+grant skip
+java project project
+citi state zip
+version uid class execut extensionlifecycl lifecycl listen metadata resolv resourc startlevel context deleg
+read except batch except track except label index except gener manag writer convert except
+fir version type type
+
+builti moder agg distinct uad aggreg name class name definit class name definit class inspector name rc ref
+process initi aggreg column
+function
+
+name column column column class name distinct rd
+
+id name id class name type space alia info name descriptor
+alia typ ud char alia typ aggregat char alia typ procedur char alia typ functio char alia typ synoni char alia typ ud string alia typ aggregat string alia typ procedur string alia typ functio string alia typ synoni string alia nam spac ud char alia nam spac aggregat char alia nam spac procedur char alia nam spac functio char alia nam spac synoni char alia nam spac ud string alia nam spac aggregat string alia nam spac procedur string alia nam spac functio string alia nam spac synoni string
+
+
+name
+
+offset start end length statu alloc length ha dealloc ha free al free ha unfil page kee unfil page n deallo pag map retir alloc page dealloc page fre page page fill page
+forma number alloc page number alloc page offset extent space allo pag head offset allo pag head size borrow spac offset borrow spac len borrow space te multipl allo page
+page number statu statu
+
+extent rang rang dirti extent page num valid
+schema name characterist
+ring top ring bottom sd name id type info action granular conglomer id tabl behavior sequenti tabl purg defrag end tabl statist statist statist statist name statist scan drop sort row fetch size compress row index count row count conglomer number id col heap cc row row row heap gsc ir g row array rl sorter column posit order collat td lcc dd dm tc activ
+element list granular statist statist statist statist name statist tabl sequenti purg defrag end tabl behavior tabl constraint type tabl descriptor info action
+
+
+
+null context sourc row fun number attach
+formatt
+mg leve unknown unknow client dn client mi mg level extnam srvnam srvrlslv srvclsnm spvnam prdid level type level level level
+cf class
+suffix context name idx name
+datum start end posit oi
+datum start end posit
+empt byt array
+string read
+catcher connect close connect error occur
+dump
+conn stmt result
+buffer transmitt interv ship interv ship interv ship time ship control lst sync flush semaphor defaul forceflu timeout chunk chunk high instant ship instant f low f high min max logger
+protocol sql nest dn protocol jc protocol decryp databas that encrypt boo password ne boo password replicatio star master replicatio sto master replicatio star slave replicatio sto slave replicatio interna shutdow slave replicatio slav host replicatio failov replicatio slav port dbnam attr shutdow attr deregist attr creat attr dro attr usernam attr passwor attr drdai attr upgrad attr lo devic territori crypt provid crypt algorithm crypt ke length crypt externa key ne crypt externa key crypt externa ke verif file creat restor rol forwar recov clien securit mechan drd sectk drd sectk drd secmec sof upgrad n featur check collat
+
+name valu token error
+file size
+modul
+scheme store authent trace secm usrssbpwd
+sq writ op sq selec op sq arbitar op sq cal op sq dd op propert writ op ja writ op nul priv selec priv updat priv refer priv inser priv delet priv trigg priv execut priv usag priv mi selec priv pri typ count creat schem priv modif schem priv dro schem priv creat rol priv dro rol priv syst authorizatio id publi authorizatio id
+child po stream
+start increment ident valu name name name counter posit initi
+forc driver modul
+
+count scale
+
+propert baseconglomid propert rowloccolumn forma number conglomer id locat column ba memor usag
+
+
+implementationid formatuuidstr uuid
+
+
+
+
+
+rawtran
+
+
+
+
+
+
+msg hold class name name factori type
+
+type id cach
+cpi type
+cod spli length cb class return type name paramet type except code entri var num num overflow method count type type offset stack depth condit array element type map boolean
+opcod
+empti paramet type return type descriptor
+size blob size val name
+rootpageid propert row pe pag paramet propert allowdupl propert nkeyfield propert nuniquecolumn propert parentlink propert uniqu wit duplicat null id key field uniqu column duplic parent link duplic null row per page desc info collat type
+n match matc find resca requir
+btre cach fetc b ke pe level btre sortmerg fetc b ke pe level btre uncach fetc b ke pe level
+
+
+
+btree
+key parent save key fetch descriptor
+updat column list key valu search oper key valu search oper desc updat lock sca init sca inprogress sca do sca hol init sca hol inprogress next
+column fetch height column
+thread stop collect time time
+servic number schedul queue shrink manag
+datum finish ioe time thread timeout
+finish ioe
+row locat
+tc null key column commit arra li size hashtabl
+run dbtask conn
+accoun tabl branc tabl tell tabl histor tabl defaul teller pe branch defaul account pe branch accoun extra branc extra tell extra histor extra branch per branch per branch
+random branch per branch per branch conn account histori teller branch account balanc
+thread
+lcc cm stmt set descript close name subqueri execut use vti warn gc row count count check execut sqrt te percen threshold heap cc sc conglomer number tabl descriptor row creat tabl scrollabl set holdabl updat index scan gener key result set mode gener key column index gener key column name valid uuid string uuid valu activ session context child action stack session tabl name save object row pv parent result set result set cal
+name name
+ident drop commit drop reusabl record id
+ident activ contain lock xact updat mode set action set
+factori storag factori contain id encrypt cach cach factori version version info c path store factori directori blck except identifi semaphor freez progress stub ok corrupt creat log lock db file lock istream line sync alloc sync checkpoint page action alloc action random access handler tabl stub info recoveri remov file code remov tem director action ge contain pat action ge alternat contain pat action fin contain action delet exist action ge pat action po recov remov action remov stub action boo action ge loc action relea loc action restor that director action ge contain name action id stub file uuid factori directori root bfilelist
+
+
+
+provid line set servic properti properti shutdown stream servic factori factori log group servic factori writer array temp writer
+obj ident header count owner latch clean latch log need version version statu vali page invali page ini pag reus ini pag overflow ini pag reu recordid lo recor default lo recor fo updat lo recor fo purg invalid record handl
+home dir dir path directori datum directori name name tem di prefix
+map number
+type id
+id name name jdbc type id
+
+version uid util name statement
+version uid name trac none trac connectio call trac statemen call trac resul se call trac drive configur trac connect trac protoco flow trac resul se meet datum trac paramet meet datum trac diagnost trac x call trac default level use onl secur clea tex passwor secur encrypt passwor secur encrypt use passwor secur stron passwor substitut secur timeout writer name descript sourc name number name ss ss str ss basic ss basi str ss pee authent ss pee authenticatio str user secm ha explicitl set mechan messag text file file suffix index directori file append password mode databas databas attribut level
+name version uid
+client optima queu size subscript servic mgr pq pq servic awaken wait paus run request stop servic time wakeup count
+activ servic af pf db dd lcf lf adapt local format format format uuid boot
+provid depend
+dd depend provid empt provid info
+version uid
+version uid descript sourc name name attribut databas databas password databas name password user timeout printer jdbcurl driver
+version uid ra
+thread id time stamp tag
+getter close name
+open finish row top result set warn open see filter execut time execut time time time time time time estim row count estim cost context track array row activ time descript tc column map
+uuid finder name
+te count failur col col
+clone distinct wrapper row vector
+id timemilli sequenc
+id timemilli modulu multipli step initia valu valu
+
+
+statu id
+
+represent strin represent bigdecima represent convert type
+divid minu plu time mod kind
+queri rewrit select
+name oper operand operand list
+circuit valu
+oper name receiv plu minu time divid concaten eq ne gt ge lt le like operand operand interfac type interfac type interfac type xmlexist xmlqueri base kind binari oper binari method name binari result type binari arg type queri
+
+
+equal great equal great le equal le equal kind op type vi base tabl node base tabl list probe sourc leav neither right
+length parent
+
+
+
+
+connect blob po po
+connect blob po
+
+k k k k defaul blocksiz initia bloc hold size mi hold growth block size block length
+src po
+src po
+valu valu
+
+
+wai fo destro milli
+c leftchild c coli last c ncolumn c leftchil bitmap
+dumm pag number branchrow
+
+
+holdabl control close string isol level read auto commit
+
+
+sql key
+
+control set type set concurr set holdabl name process
+
+dbtask conn
+
+
+array locat row posit row array column count column count ou row
+uninstal instal resolv start stop activ star transient star activatio polici sto transient
+
+
+version uid bundl type instal start stop updat uninstal resolv unresolv start stop laz activ
+version uid caus
+
+
+version uid provid requir host fragment actio provid actio requir actio host actio fragment actio actio none action version uid permiss
+name encod byte count count boff
+array offset length
+array length offset index array
+
+bh
+
+valu
+valu
+
+valu
+valu
+valu string code
+
+
+wai forev time wait n wait
+te constrain node curren ro locatio node grou b list curren isolatio node identit va node curren schem node ord b list predicat list resul colum list subquer list tabl elemen list untyp nul constan node tabl elemen node valu nod list al resul column ge curren connectio node statemen node lengt operato node se transactio isolatio node cha lengt operato node nul node nul node node sq jav valu node unar minu operato node unar plu operato node unar that timestam operato node timestam operato node tabl name grou b column jav sq valu node fro list boolea constan node node binar divid operato node binar equal operato node binar great equal operato node binar great tha operato node binar le equal operato node binar le tha operato node binar minu operato node binar equal operato node binar plu operato node binar time operato node concatenatio operato node lik escap operato node node betwe operato node conditiona node li operato node betwe operato node li operato node bi constan node varbi constan node ca node cha constan node colum refer dro ind node dro trigg node decima constan node doubl constan node rea constan node constan node bigin constan node longvarbi constan node longvarcha constan node smallin constan node tinyin constan node usertyp constan node varcha constan node predic resul column se schem node updat column simpl strin operato node stati cla fiel referenc node stati metho cal node revok node extrac operato node paramet node gran node dro schem node dro tabl node dro vie node subquer node ba colum node cal statemen node modif colum defaul node stati metho cal node curren node defaul node delet node updat node privileg node ord b column ro resul se node tabl privileg node virtua colum node curren datetim operato node curren use node use node node loc tabl node dro colum node alt tabl node aggregat node colum definitio node exe sp node f constrain definitio node fro vti materializ resul se node normaliz resul se node scrol insensitiv resul se node distinc node sessio use node syst use node tri operato node selec node creat vie node constrain definitio node ne invocatio node creat schem node fro ba tabl fro subqueri grou b node inser node joi node ord b node creat tabl node unio node creat trigg node hal out joi node creat ind node curso node tabl node ind ba ro node creat alia node projec restric node substrin operato node dro alia node intersec excep node timestam ad f node timestam dif f node modif colum typ node modif colum constrain node absolut operato node sqr operato node locat functio node renam node coalesc functio node modif colum constrain nul node mo operato node blo constan node clo constan node savepoin node xm constan node xm par operato node xm serializ operato node xm exist operato node xm quer operato node curren rol node creat rol node se rol node se rol dynam dro rol node gran rol node revok rol node generatio clau node ro coun node creat sequenc node dro sequenc node nex sequenc node aggregat windo functio node ro numb functio node windo definitio node windo referenc node windo results node fina valu nod type
+mutex cacheabl count remov ident callback
+
+
+
+
+manag conglomid conglom
+
+read page datum dirti dirti row count row count cach cach factori pag forma size writ sync writ n sync
+ps ident
+valu field
+interactor
+call
+call
+locat support avail creat locat call releas locat call get posit locat call get posit byte call get length call get byte call set byte call truncat call creat locat call releas locat call get posit string call get posit locat call get length call get sub string call set string call truncat call connect varcha maxwidth invali locat
+sourc key cardin row
+operand char type cti datum type function udt gener cast node semant target name
+name column posit uniqu uuid uuid uuid dvf ef uuidf count count name
+space dot char represent ut ccsid
+alloc page num alloc page offset
+old
+ssl
+user password token
+pro signatur
+synta error har upgrad requir need jav style readm fil name real doubl
+synta error har upgrad requir implement n row affect unknow optiona tool unrecogn procedur
+lan canno modif ai lan nul int null
+synta error upgrad requir canno alt identit column canno modif alway identit column n suc metho alia
+upgrad requir lan overflow
+
+unknow procedur
+
+ba syntax
+ba syntax tabl doe exist upgrad requir quer creat typ ddl dro typ ddl algorith properti
+synta error upgrad requir gran revok wit legac access
+upgrad requir invali provid chang suppor file sourc user pattern
+modernlatinlow n low tamil cjksubset name char count
+char varchar longvarchar clob kind
+
+derb eo marker encodabl length
+
+java encod tabl
+befor first offset byte po char po length length char length buffer awar stream
+column text
+
+lwm lwm tabl
+scale check
+algo valu length checksum cr algorithm length
+mi bootpa length encrypt decrypt
+
+
+
+cpt inner posit class list
+
+contex id cf
+
+interfac hash tabl entri estim size index
+paramet argument clazz constructor arg constructor
+
+type name prim type name objec typ name strin typ name bigdecima typ name cf
+
+cpt
+stor conglomdir stor pcxena datum valu factori datum valu descriptor boolean datum valu bit datum valu string datum valu date time datum valu number datum valu ref datum valu user datum valu concat datum valu xml datum valu format bit set base activ base express activ cursor activ row qualifi run time statist storabl standard except languag connect context constant action datum dictionari cursor result set exec index row exec prepar statement exec row activ result set file monitor gener class gener method gener byte code context put result set result set factori row factori row locat variabl size datum valu paramet valu set current datetim max min aggreg sum aggreg count aggreg avg aggreg user defin aggreg execut factori languag factori paramet valu set factori trigger new transit row trigger old transit row vti cost author
+size overhead size size size size size size size object size catalog guess test guess
+instanc
+list count size verbos
+class loader class loader
+
+string stream offset
+callabl statement null wa null wa null wa nul unset
+
+stream stream stream string
+lo testin prop name dist version path
+
+meta datum statement commit rollback listen invali locat messag text read holdabl name manag level prepar stmt transact isol prep stmt reus transactio unknown isol schema name commit unit work messag proc failur messag proc failur xa connect x associ x associ state host version timeout sourc name number ssl mode cursor name cach buffer size connect first sql derb transactio repeatabl read derb transactio serializ derb transactio rea commit derb transactio rea uncommit gener savepoint id gener savepoint name prefix proc
+version uid util name statement
+version uid
+
+version uid name
+version uid
+strin arg arg boolea arg shor arg
+default number default name default default messag text use onl secur clea tex passwor secur encrypt passwor secur encrypt use passwor secur stron passwor substitut secur default mechan default file append
+sq be rowid sq rowver sq ind uniqu sq ind meta datum info method datum info cach datum info cach level jdbc major version jdbc minor version qryclsimp layer b stream session datum cach ud t extdta abort timestamp nanosecond boolean valu long rdbna boolean paramet transport procedur callabl tabl select sort high sort low sort start sort end local file local file per tabl upper case identifi low case identifi mix case identifi upper case quot identifi low case quot identifi mix case quot identifi sql keyword numer function string function system function time date function search string escap extra name charact alter tabl add column alter tabl drop column convert convert type differ tabl correl name express order order unrel group group unrel group beyond select multipl result set multipl transact core sql grammar extend sql grammar an intermedi sq an full sq integr enhanc facil outer join full outer join limit outer join schema term procedur term catalog term catalog start catalog separ schema datum manipul schema procedur call schema tabl definit schema index definit schema privileg definit catalog datum manipul catalog procedur call catalog tabl definit catalog index definit catalog privileg definit posit delet posit updat select updat store procedur subqueri comparison union union open cursor across commit open cursor across rollback open statement across commit open statement across rollback max binari liter length max char liter length max column name length max column group max column index max column order max column select max column tabl max connect max cursor name length max index length max schema name length max procedur name length max catalog name length max row size max row size includ blob max statement length max statement max tabl name length max tabl select max user name length default transact isol transact transact isol level datum definit datum manipul transact datum manipul transact definit caus transact commit definit ignor transact result set type result set concurr updat visibl delet visibl insert visibl updat visibl delet visibl insert visibl detect detect detect batch updat
+file suffix index derb remot protocol object load driver driver
+
+
+
+
+msgid
+meta datum
+p iter connect xa physic connect cach connect writer id event listen
+prepar statement regist set regist meta datum type list updat cursor name connect unit work
+
+statement set meta datum state section stream reader orient orient orient orient orient orient orient orient orient wa null wa null wa nul unset dd retur caller dd retur client null return client server termin sqlca commit valid cursor posit valid cursor posit hold instanc identifi set type set concurr set holdabl rowset cursor first last first last sqlca fetch size size direct count posit row rowset row rowset row rowset insert row current row receiv current rowset yet receiv rowset column updat statement updat statement delet statement insert unposit server row use flag unit work
+run db version jvm version version slave version server host server port server host server port repl port databas path databas path client host
+id name
+row base statement owner set count queri method updat method method mode queri call updat updat mode insert sql delet sql updat sql set meta datum cursor singleton row datum prepar statement name client current result set set list timeou statement array list write timeout row field size auto committ statement catalog queri set type set concurr set holdabl size direct row datum attribut send prepar statement auto gener key key result set key column name key column index gener key poolabl complet result set special regist section outsid insid simplecom insid bracket comment
+parent socket slice
+bit boolean smallint integ bigint real doubl decim char varchar longvarchar date time timestamp binari varbinari longvarbinari blob clob jav object
+id seed xare first get connect con con
+name version uid
+version uid
+
+xid datas maxbquals
+writer buffer
+connect clob po
+clob po
+connect clob po po close
+connect clob po close
+
+magi byte unknow length charhdrgen dvd pre derbi ten five
+reader po updat count clob clob po close
+control po close
+
+mi item check rotat par cloc fo shrink manag size clock hand entri shrink
+
+alread close er messag close
+n weight mean var bracket n sampl
+conn uniq
+name list non paramet node idx
+cod offset loa variabl loa variabl fast stor variabl stor variabl fast arra access arra store retur opcod ca conversio info n variabl stack opcod action delta cb cout
+gener packag prefix
+fals true zeroind nulldata secchkc secchkc secchkc secchkc secchkc secchkc secchkc secchkc secchkc secchkc secchkc secchkc b secchkc e secchkc f secchkc secchkc secchkc secchkc secchkc excsat syncctl syncrsi accsec secchk synclog accrdb bgnbnd bndsqlstt clsqri cntqri drppkg dscsqlstt endbnd excsqlimm excsqlstt excsqlset opnqri prpsqlstt rdbcmm rdbrllbck rebind dscrdbtbl sqldta sqldtard sqlstt sqlattr sqlsttvrb qrydsc qrydta sqlrslrd sqlcinrd accsecrd agent codpnt codpntdr cstmbc ccsiddbc ccsidmbc ccsidmgr unicodemgr ccsidsbc cmnappc cmnsyncpt cmntcpip xamgr crrtkn trgdftrt dictionari deperrcd dscerrcd excsatrd extnam fixrowprc frcfixrow lmtblkprc mgrlvll mgrlvln monitor monitorrd newpassword password pkgdftcst pkgid maxblkext maxrslcnt rslsetflg rdbcmtok pkgnamct pkgsnlst prccnvcd prdid outovr outovropt pkgcnstkn prddta qryinsid qryblkctl qryblksz qryprctyp qryclsimp qryclsrl qryoptval qrydel qryrdo qryin qrysnsstc nbrrow outexp prcnam qryattupd qryupd rdb rdbacccl rdbalwupd qryrelscr qryscrorn qryrownbr qryrowsn qryrfrtbl qryattscr qryattsn qryblkrst qryrowset qryrtndta rdbinttkn rdbnam rdbcolid rscnam rsctyp rsncod rsyncmgr rtnsqlda typsqlda secchkcd secmec secmgr secmgrnm sectkn rtnextdta rtnextrow rtnextal spvnam sqlam sqlcard sqlcsrhld sqldard srvclsnm srvdgn srvlst srvnam srvrlslv sttdecdel sttstrdel supervisor svcerrno svrcod syncptmgr synerrcd typdefnam typdefovr uowdsp usrid vrsnam pkgnamcsn diaglvl dscinvrm cmdathrm cmdchkrm cmdnsprm agnprmrm bgnbndrm abnuowrm accrdbrm cmdcmprm mgrlvlrm mgrdeprm enduowrm objnsprm prccnvrm prmnsprm pkgbnarm pkgbparm qrynoprm qrypoprm rdbaccrm secchkrm rdbaflrm rdbathrm rdbnacrm rdbnfnrm rdbupdrm rsclmtrm syntaxrm trgnsprm valnsprm sqlerrrm opnqryrm endqryrm dtamchrm opnqflrm rslsetrm cmdvltrm cmmrqsrm typsqld st output typsqld st input typsqld ligh output typsqld ligh input typsqld output typsqld input qryclsim serv choic qryclsim ye qryclsim qryclsrl qryclsrl ye qryblkfc none qryblkexa qryblkflx diaglv diaglv diaglv extdta fdodsc fdodta fdodscoff fdoprmoff fdotrpoff pbsd pb iso pb schema synerrc d le tha synerrc ds lengt byt numb mismatch synerrc cbyt synerrc fbyt support synerrc ob le le tha synerrc big synerrc ob le allow synerrc incorrec extend len synerrc ob find synerrc mani synerrc du ob present synerrc invali correl synerrc va find synerrc ds con le equa synerrc chai sam nex correl synerrc chai erro continu synerrc invali c fo cmd prccnvc objd sen allow prccnvc excsa fir aft conn prccnvc accs secch wron state prccnvc rdbna mismatch svrco info svrco warn svrco error svrco sever svrco accdmg svrco prmdmg svrco sesdmg secm dcesec secm usridpwd secm usridonl secm usridnwpwd secm usrsbspwd secm usrencpwd secm usrssbpwd secm eusridpwd secm eusridnwpwd secchkc ok secchkc notsupport secchkc sectknmissin invalid secchkc passwordmiss secchkc useridmiss secchkc useridinvalid typdefna qtdsqlasc typdefna qtdsqljvm typdefna qtdsql name rdbna name rdbna len prdi max rdbcoli len pkgi len pkgcnstk len pkgnamc len qryblk min qryblk max qryrows max qryrows default qryblkct default maxblkex none maxblkex default qryscrrel qryscrab qryscraft qryscrbef outovrfr outovrani rlsconv synccrd xaretv timeout synctyp ne uow synctyp en uow synctyp prepar synctyp migrat synctyp commit synctyp commit synctyp forget synctyp rollback synctyp log synctyp migrat synctyp indoubt forget synctyp xid xaflag rsynctyp syncrrd tmnoflag prphrclst xidcnt mg codepoint unknow manag
+
+uuid type column name
+
+collat sensit info
+collat sensit info
+collat sensit info
+collat sensit info
+list class class
+autoincr type valu info node current default claus node increment start cycl start increment verifi creat autoincr modif autoincremen restar valu modif autoincremen valu modif autoincremen alway v default modif autoincremen cycl valu
+default info tabl name posit type default uuid uuid start inc valu cycl start increment
+
+action name type info provid valu default uuid default uuid start inc cycl start increment creat drop modif colum type modif colum constraint modif colum constrain null modif colum defaul restart modif colum defaul increment modif colum defaul valu modif colum gener alway modif colum gener b default modif colum defaul cycl
+hold return scroll sensit fcode keytyp rdbnam schema precis scale length type ccsid name label unnam comment ud tname ud tclass name keymem gener parmmod cornam name basenam updat schema rdbnam type cach paramtertyp writer set concurr name index cach close
+
+merg unknown merg sourc merg target name tabl name number number sourc sourc name tabl number column number number flatten number flatten aggreg window function call level level scop remap tabl id
+derb serv class derb server star derb server shutdow derb server sysinf class sysinfo class ij sq script cor path u path plugi name derb natur isrunn rundecor star serv launc confi type sto serv launc confi type launc confi type sysinf launc confi type protocol derb protocol syst home
+
+
+contex id datetim illeg curren connectio illeg functio cal illeg unnam paramet illeg diagnost illeg subquer illeg use illeg colum referenc illeg ignor missin class schem illeg interna sq illeg modifi sq that procedur illeg deterministu illeg sq routin illeg nex valu fo illeg sq legal interna sq legal chec constraint defaul restrict generatio clau restrict wher clau restrict havin clau restrict clau restrict aggregat restrict conditiona restrict grou b restrict ca operan restrict wher scope
+scop cell parser lcc lcf compil factori depend dm stack use reliabl column number tabl number subqueri number result set number isol level equival class class name object prefix schema check filter scope type privileg schema stack apl paramet flag cost control cost control list descriptor info warn type stack priv type column privileg tabl privileg schema privileg routin privileg usag privileg role privileg sequenc
+high page
+
+ij url driver
+store size lon store size compress byte compress tw byte
+
+
+cach factori name size polici mbean access count hit miss evict stop clean
+
+cach
+pass
+factori lock deadlock detect timeout timeout trace count
+
+branc limit parent stack goto
+operand condit els list
+
+product version holder driver name packag consist token compliant compat jre version derbi net protocol check cross convert check level isol fetch size attribut sensit static attribut insensit attribut updat attribut hold load resourc
+
+
+rowisdupl loc read loc upd loc in loc prevkey loc updat lock
+number name name index constraint row gener uuid id id
+
+hea factor id btre factor id
+
+
+conn lcc factori cal
+contex id
+session session tag connectio properti protocol
+
+
+
+config d
+connect repli
+
+
+
+
+class
+
+
+byte hash
+whe match insert whe match updat whe match delet
+
+
+valu
+tag slot index
+loc trace loc stac trace loc trac ad threa info waitin loc wait waitin loc grant waitin loc deadlock waitin loc interrupt
+name type name name id action id
+name type properti apl factori index name index uuid list text condit behavior type deferrabl default initial deferr default enforc default characterist
+enabl disabl sysconstraint stat field tabl name deferr defer enforc column id desc dl
+scan
+name sd schema id name delet rule updat rule
+rci role initi role invers info metadata
+ident
+version id hdl
+defaul pages defaul sparespac defaul assig id mod default mod unlog mod creat unlog mod forupd mod readonli mod truncat commit mod dro commit mod ope fo loc mod loc nowait mod truncat rollback mod flu commit mod n action commit mod tem keep mod we updat lock mod secondar lock mod basero inser lock mod loc ro nowait temporar segment fir pag number invali pag number ad pag default ad pag bulk ge pag unfil
+
+id id
+type bit compat number compat shortnam ci cix c cu cx
+lf
+lf
+oper creat byte array byte array creat drop remov
+op
+
+lan connect lan statement
+id name context manag
+tabl holder local csf sever level diag sever level stream string builder dump shutdown finder thread count
+factori stream context list context
+
+escap defaul escap quot defaul quot commu count defaul commu count star row defaul star row sto row defaul sto row fiel separ defaul fiel separ recor separ defaul recor separ colum definit defaul colum definit nul string defaul nul string format defaul format delimit format fiel star delimit defaul fiel star delimit fiel en delimit defaul fiel en delimit colum width messag file defaul version version newlin comma space tab cr lf crlf lfcr ff empt line semicolon that codeset ha delimet end interna none interna true interna fals interna tab interna space interna cr interna lf interna crlf interna lfcr interna comma interna semicolon interna newlin interna ff interna empt line properti
+version sibl page number sibl page number page number level root btree page row desc c coli first c versio colid c leftsi colid c rightsi colid c paren colid c leve colid c isroo colid c conglo colid c coli last c ncolumn c versio bitset c leftsi bitset c rightsi bitset c paren bitset c leve bitset c isroo bitset c conglo bitset spli fla la page spli fla la tabl spli fla fir page spli fla fir tabl c slot
+slot id space log
+
+
+storag factori
+
+file
+raf cbio file
+
+instanc log datum length offset
+
+cost count scan row count
+
+valu count star
+count limit
+
+name name class name type space info
+paramet array tabl name dynami resul se count languag externa name paramet style sq control determinist nul nul input retur type routin securit defin vararg routin eleman count reserv functio name reserv aggreg ag fo type ag retur type ag elemen count class name name type info
+creat tabl name text constraint info cf enabl characterist info
+style sheet name
+creat tabl uniqu duplic null deferr deferr check defer type type name ascend constraint uuid properti templat row id conglom num
+uniqu properti type name name name list name ascend column d td
+name
+name
+aid name
+name aid
+name name type valu valu valu valu
+name type valu valu valu valu sequenc eleman count
+granular commit delet row rollback delet row name name type info action properti
+granular commit delet row rollback delet row properti element list type column express
+name schema name tabl tabl id mask row enabl old new sp id text sp id text text action text refer name refer name comp schema id col col trigger action info
+name name event mask col row enabl claus claus text node text text action text info schema descriptor schema descriptor col int col trigger action tabl descriptor tabl name tabl name tabl refer claus tabl refer claus transform claus transform offs compar
+name name text type option info info schema id
+column express text option info info list offset first jdb climit claus
+access
+unknow length max byte valu min byte valu max short valu min short valu max int valu min int valu max long valu min long valu max float valu min float valu max doubl valu min doubl valu zero one
+datetim date time timestamp
+curren date curren time curren timestamp type id name type
+name stmt tabl name tabl name scan cost estim target tabl
+next locat cursor target row name
+
+
+string variabl string variabl shor string nul termin string byte nul termin byte ut ut buffer buffer stream valid byte posit lob row posit row posit datum posit datum comput length row receiv server read field size datum posit cach datum length cach data null cach updat delet hole cach updat delet hole row updat ro null ro null calendar type null length buffer
+
+tabl column mode
+unspecifi rea updat name list offset first jdb climit claus type mode target column tabl updat index stat session tabl name save object merg statement
+
+name name name
+
+warehous district id first middl last address phone sinc credit discount balanc datum
+
+
+defaul precis
+con val except except
+aggregat type ud type procedur type functio type
+
+
+
+
+refer col header
+
+
+
+column info stmt column type stmt auto inc stmt
+triggernam schemaid event firingtim type tableid referencedcolumn triggerdefinit referencingold referencingnew oldreferencingnam newreferencingnam whenclausetext
+
+bit map
+
+id
+unknow type ad type dro type modif type lockin type updat statist dro statist name ok creat schema
+defaul buff size mark nest n codepoint empt stack adju length n adju length extdt size radix magnitud agent ccsid manag ccsid manag manag buffer po count ddm collect stack collect len stack scalar len length continu chain err chain id chain diff id correl id correl id svrcod trace stream layer b stream byte count
+mark nest defaul buff size varcha byt length buffer stack top ccsid manag ccsid manag manag agent length locat id correl id drda protocol trace hdr locat corr id chain byte continu dss dss mark encod byte count
+
+dictionari version number version number
+id
+
+row locat sequenc uuid string
+vti tabl name column list mode info info tabl descriptor maintain conglomer number name cdl trigger defer process type bind constraint schema name tabl name ref action col descriptor index conglom number depend tabl col array tabl name claus tabl
+set
+result set sourc constant tc open execut
+cach sequenc uuid string result set gener key result set gener key row holder gener key column index gener val ident
+action row read map storabl heap col id dcoci dcoc objectifi stream count descript destin
+brace brace nul valu synta err mgrlv mgrlv mgrlv mgrlv mgrlv commit rollback id socki socko reader writer proto accrd requir requir len requir length requir server session slice connect warn cntqri close stream request databas level level manag manag access except pkgnamcsn rdbnam rdbcolid pkgid pkgcnstkn pkgsn timeou statement statement timeout manag public key target seed id byte sql state authenticatio provid builti class authenticatio provid non class dummi reset calendar sqlerrm toke delimit sqlerrm preformatt messag delimit
+derb drd serv id derb drd clien id that strea structur length drd typ integ drd typ ninteg drd typ small drd typ nsmall drd typ byt int drd typ byt int drd typ floa drd typ nfloa drd typ floa drd typ nfloa drd typ floa drd typ nfloa drd typ decim drd typ ndecim drd typ zdecim drd typ nzdecim drd typ numeri char drd typ nnumeri char drd typ rse loc drd typ nrse loc drd typ integ drd typ ninteg drd typ lobloc drd typ nlobloc drd typ clobloc drd typ nclobloc drd typ dbcsclobloc drd typ ndbcsclobloc drd typ rowid drd typ nrowid drd typ date drd typ ndate drd typ time drd typ ntime drd typ timestamp drd typ ntimestamp drd typ fixbyt drd typ nfixbyt drd typ varbyt drd typ nvarbyt drd typ longvarbyt drd typ nlongvarbyt drd typ ntermbyt drd typ nntermbyt drd typ cstr drd typ ncstr drd typ char drd typ nchar drd typ varchar drd typ nvarchar drd typ long drd typ nlong drd typ graphic drd typ ngraphic drd typ vargraph drd typ nvargraph drd typ longraph drd typ nlongraph drd typ mix drd typ nmix drd typ varmix drd typ nvarmix drd typ longmix drd typ nlongmix drd typ cstrmix drd typ ncstrmix drd typ psclbyte drd typ npsclbyte drd typ lstr drd typ nlstr drd typ lstrmix drd typ nlstrmix drd typ sdatalink drd typ nsdatalink drd typ mdatalink drd typ nmdatalink drd typ udt drd typ nudt drd typ lobbyt drd typ nlobbyt drd typ lobcsbc drd typ nlobcsbc drd typ lobcdbc drd typ nlobcdbc drd typ lobcmix drd typ nlobcmix drd typ boolean drd typ nboolean drd ud size sqltyp date sqltyp ndate sqltyp time sqltyp ntime sqltyp timestamp sqltyp ntimestamp sqltyp datalink sqltyp ndatalink sqltyp blob sqltyp nblob sqltyp clob sqltyp nclob sqltyp dbclob sqltyp ndbclob sqltyp varchar sqltyp nvarchar sqltyp char sqltyp nchar sqltyp long sqltyp nlong sqltyp cstr sqltyp ncstr sqltyp vargraph sqltyp nvargraph sqltyp graphic sqltyp ngraphic sqltyp longraph sqltyp nlongraph sqltyp lstr sqltyp nlstr sqltyp float sqltyp nfloat sqltyp decim sqltyp ndecim sqltyp zone sqltyp nzon sqltyp bigint sqltyp nbigint sqltyp integ sqltyp ninteg sqltyp small sqltyp nsmall sqltyp numer sqltyp nnumer sqltyp rowid sqltyp nrowid sqltyp blo locat sqltyp nblo locat sqltyp clo locat sqltyp nclo locat sqltyp dbclo locat sqltyp ndbclo locat sqltyp boolean sqltyp nboolean sqltyp fak udt sqltyp fak nudt drd ol timestam length drd timestam length jdb timestam length strea ok strea rea error strea short strea long
+n asso errcd n codpn arg agent id crrtkn arg info code point svrcod errcd messageid rdbnam srvdgn arg msg info tabl drd proto cmdchkrm drd proto cmdnsprm drd proto dtamchrm drd proto objnsprm drd proto pkgbnarm drd proto prccnvrm drd proto prmnsrm drd proto syntaxrm drd proto valnsprm drd proto mgrlvlrm drd proto rdbnfnrm drd disconnect drd agent error drd timeout drd invalid client
+code point svrcod cd code point codpnt arg
+open suspend qryclsim default close state hasdata len drda type precis scale type hold cursor type type count rs blksize maxblkext outovropt qryclsimp qryrelscr qryrownbr qryrfrtbl qryscrorn qryrowsn qryblkrst qryrtndta qryrowset qryprctyp prctyp rtnextdta nbrrow rslsetflg dta object ext posit pkgcnstkn qrydta
+server server method shutdown method thread class name class address number arg arg writer
+def nam order sbc dbc mbc sbc encod dbc encod mbc encod databas pkgnamcsn hold cursor level name type type count rslsetflg maxrslcnt ps pmeta call name type precis scale outpu param expect stmt drda rs set tabl set key list result set warn param state nbrrow qryrowset blksize maxblkext outovropt qryrfrtbl qryprctyp send param datum prepar counter type
+buffer writer modifi string
+thread reader writer xid
+
+
+
+
+
+
+name
+
+
+
+control
+
+
+name
+page
+
+
+time delay daemon trace daemon
+
+uuidf dictionari
+modul versio current versio c versio c versio c versio c versio c versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb versio derb databa id cor that dictionar version creat that dictionar version sof that dictionar version propert conglomerat version typ syst identifi catalo typ syst identifi sysconglomer catalo num systabl catalo num syscolumn catalo num sysschema catalo num sysconstraint catalo num syskey catalo num sysdepend catalo num sysalias catalo num sysview catalo num syscheck catalo num sysforeignkey catalo num sysstat catalo num sysfil catalo num systrigg catalo num sysstatist catalo num sysdumm catalo num systableperm catalo num syscolperm catalo num sysroutineperm catalo num sysrol catalo num syssequ catalo num sysperm catalo num sysus catalo num notnul constraint primaryk constraint uniqu constraint chec constraint dro constraint foreignk constraint modif constraint compil onl mode dd mode
+cf systabl id cf systabl ind id cf systabl ind id cf syscolumn id cf syscolumn ind id cf syscolumn ind id cf sysconglomer id cf sysconglomer ind id cf sysconglomer ind id cf sysconglomer ind id cf sysschema id cf sysschema ind id cf sysschema ind id sysconglomer cor num systabl cor num syscolumn cor num sysschema cor num nu core sysfu function sysfu deterministi index sysfu vararg index sysfu fir paramet index descriptor info schema desc ibm schema desc global temporari tabl schema desc util schema desc core name nu noncor schema name version version databas owner sql author info descriptor gener dvf af factori factori refresh paramet type boot tc dmgr oid td cach td cach name cach gener cach id hash cach size cach size cach size cach cach size coordin factori mode user ddl mode d upgrad stat updat disabl stat updat log stat updat trace sql name number last system sql name last system sql name util procedur public access util function public access type system schema type user schema drop exist set priv type map priv type map grant dia vt tabl class dia vt tabl functio class
+modul tem segmen name lockfil name e lockfil name
+sysschema signatur sysschema conglomerat name systabl signatur systabl conglomerat name sy schem id sysus signatur sysus conglomerat name properti signatur properti conglomerat name compilatio db dumm tabl name rea al page checksu size smal slo size larg slo size recor ha fir field file idx column null calendar
+
+config d
+sep empt st arr lock tm count lock file name file counter
+path dir read src releas
+
+integ integ null smallint smallin null doubl mi valu idx valu idx mi arra size descriptor id deriv
+
+
+unknow logica length
+
+finder local charact type
+name db name string mechan id password user id password substitut allow updat count token token crrtkn def nam order sbc dbc mbc sbc encod dbc encod mbc encod rdbupdr trgdftrt conn statement statement tabl support support check
+db name name db test configur
+inspector loader
+contex id
+db
+
+ur protoco directori ur pat inclusiv string ur pat inclusiv char ur pat separato char ur pat relativ char ur pat wildcar char ur pat recursiv char ur pat separato string ur pat relativ string ur pat relativ prefix ur pat wildcar string ur pat wildcar suffix ur pat recursiv string ur pat recursiv suffix creat lega action action path path type
+tchar tblob tclob tdate tdecim tdecimalnn tdoubl tfloat tint tlongint tnumericlarg treal tsmallint ttime ttimestamp tvarchar numtyp rn colnam
+represent length represent length represent length
+yea field mont field da field hou field minut field secon field fra secon interv secon interv minut interv hou interv da interv wee interv mont interv quart interv yea interv
+str len start separ
+year month day hour minut second nano
+
+
+
+log rn
+name tchar tdate tdecim tdecimalnn tdoubl tfloat tint tlongint tnumericlarg treal tsmallint ttime ttimestamp tvarchar numtyp colnam
+
+stop timeout
+tee
+pack decim msgutil radix magnitud
+
+
+factori
+byte byte pair gener pair agreement spec sh prn algorithm secm usrssbpw see len
+number uuid uuid
+
+valu text type column name current schema bit ma defaultvalu autoinc bit ma gener column
+local
+name text tree
+
+vti class name vti result set sensit
+inser statement updat statement delet statement
+
+result set depend set id node tabl row row holder id
+column c action descript
+columnnam defer tabl col bite set constant action delet node
+slot delet log
+tc constant sourc sourc index rc row base cc holder open execut row read list column number info array info checker activ trigger fk spars row base row mode delet rl row base column
+rs holder
+
+alia conglomer constraint default heap index prepar statement activ file store prepar statement tabl column tabl trigger view schema tabl permiss column permiss routin permiss rol grant sequenc perm
+
+
+id bloodhound id bloodhound
+compil fail dro tabl dro index creat index rollback chang cursor dro metho alia dro view creat view prepar statemen releas alt tabl dro sp use recompil request bul insert dro jar replac jar dro constraint se constraint enabl se constraint disabl creat constraint interna recompil request dro trigger creat trigger se trigger enabl se trigger disabl modif colum default dro schema compr tabl renam dro column dro statist updat statist renam index truncat tabl dro synonym revok privileg revok privileg restrict dro colum restrict revok role rechec privileg dro sequenc dro udt dro aggreg actio code
+
+cc row locat row qualifi row sc scoci dcoci fk column open sourc tc result set id col array locat row holder result set open array index vector control control open key scan posit posit id dcoci scoci search oper search oper qualifi suppli optim overrid time statist per read updat properti posit string posit string constraint lock row scan scan row
+
+provid properti
+
+
+contain id
+
+defaul derb port te dbo
+empt fil array ja run ja client ja engin ja net ja test requir jar version run jar path client jar path engin jar path net jar path classpath classpath
+plugi pkg plugi pk name plugi zi file plugi zi fil name plugi version plugi versio buil number main div version prop file file locat prop xml file
+state
+
+dir
+run imag desc
+formatt
+factori file factori directori
+project
+chang
+
+plugin
+dsport dshost sy home port host home
+prop text text home text server run
+name name
+util server listen rlisten
+
+major minor fixpack point version
+server host run
+
+
+
+
+
+file open file channel lock
+
+
+byte
+
+
+conglomer id conglomer conglomer id conglomer row tc row key size statist commit
+name rownam
+
+ro count version con tbl fktbl pktbl
+
+sort order
+order row size distinct agg sort id control result row sort
+element
+warehous
+read write
+
+config
+
+conn scale url driver check
+sd name space
+type space
+cascad schema name type
+db name drop
+id factori valu factori valu valu
+index name conglomer id
+cd td
+stream contain
+name
+name
+name
+behavior name
+name descriptor
+item
+name tabl sd tabl name
+number tabl name name sd cascad
+number behavior td
+name sd
+td
+tabl name name sd
+
+d length d id d nochain dsschain dsschai erro continu dsschai sam id dssfm objdss dssfm rpydss dssfm rqsdss correlatio unknown continuatio bit gd id gdschain gdschai sam id gdsfm objdss gdsfm rpydss gdsfm rqsdss
+li separ nul valu char point name tabl po header char digit buffer writer header header char buffer trace buffer sync char typ trac receiv typ trac send
+count
+
+
+trace
+length
+initia size buf posit use posit
+
+input stream type rs number
+layer b stream statu byte set statu except
+array ebcdic array uc
+root
+materi stream locat length posit offset valid control
+return output paramet null
+
+clob valid locat
+close n mem state metadata tr hash map hm key refer file activ abort commit commit none auth hold abil connect warn factori connect set id string encrypt shutdown har upgrad replic decrypt
+ref
+illega ud type url action factori descript descript
+pv type count
+string listen event listen iter connect isol level read connect handl sourc usernam password password activ
+meta datum get meta datum statement activ pre ten five hdr format bcc
+
+row base first next last previou beforefirst afterlast absolut rel row null close insert row stream result meta datum warn use activ order descript row field size numberof fetch row stmt stmt stmt milli atom result set row get updat row updat direct size use flag
+
+info
+name id
+connect statement count result gener key result set name meta datum set type set concurr set holdabl lcc warn sql text size direct max field size milli activ statement row pv poolabl complet result set result dynam result set
+re
+con ra xid second lcc
+
+version uid
+version uid
+
+version uid
+version uid
+
+
+version uid ra
+version uid
+
+
+
+ut ut buffer cha len marker buffer stream writer output stream input stream
+id
+op
+factori factori storag fil exist action storag fil delet action storag fil renam action code storag file dest storag file
+size tail size po df
+byte byte spec pair gener pair agreement key key factori name provid digest random secm usrssbpw see len secm usrssbpw pwdseq sh prn algorithm sh dige algorithm
+
+name rownam
+statu id
+
+
+
+
+
+
+standalon db storel engin properti
+
+file file stream reader stream reader file name line timestamp index index index index index index en timestamp paramet string begi threa string en threa string begi xi string en xi string begi databa string en databa string begi drdai string en drdai string begi executin string en executin string info metadata
+p key k sql state messag sever file info metadata
+
+writer writer getter
+
+instanc
+
+
+
+
+
+
+
+
+index templat column count column number
+name spsd ps
+contex id
+modul
+
+file name file name
+file reader result set object write datum con name name statement ext file
+con queri rs count name type length stmt name name
+file name file name ext file file offset stream char stream binari stream byte array stream buf buf
+file reader length separ separ string definit format start delimit stop delimit codeset local delimit end delimit
+datetim field name cb gc expr num non fast expr field num constructor comp ctx method field row scan result set name dvf rsf ef
+
+interfac field
+specifi sort buffer max buffer max implementationid formatuuidstr uuid defaul sortbuffermax minimu sortbuffermax defaul use defaul merg run sor ro overhead
+name method field
+tabl name rcl tabl sd action delet rule action updat rule
+foreig key refer key name name type uuid conglom number constraint id constraint deferr type locat constraint name uui ds conglom number id self refer array rule deferr
+
+
+prop key valu
+statu
+
+cp tripl type md tripl type ngd tripl type rl tripl type sd tripl type sd type gd type ro type sqlcadt lid sqldtagr lid nul lid indicato nullabl nul datum ty nullind en lid var ngda ful ngd size md tripl size sd tripl size sqldt rl size rl rp gr size sqldtagr size cp size fdod foot size sqldtagr co d size overrid md re size sqlcadt mdd sqldt mdd sqldtagr mdd sqlcadt sqldtar rlo sqldt rlo sqlcadt sqldtar rl size longvarcha len longvarbinar len longvarcha le numbyt numeri precis numeri defaul precis numeri defaul scale
+type size use comput datum length
+column fetch column id zer fil length column array
+base framework name string jvm iminor jdk jdk jdk version major version minor frame driver version master verbos
+id integ cach cach factori size space record size page updat pre alloc threshold pre alloc size increas contain size pr allo threshold mi pr allo size defaul pr allo size pr allo size alloc page number alloc page offset version row count log instant record id sequenc number insert page insert page unfil page alloc page page count dirti dirti cach info checksum buffer contain forma size checksu size contain inf size fir allo pag number fir allo pag offset fil drop fil committ drop fil reusabl recordid spac trace
+ja fil type id sd name id
+record buffer output buffer factori
+home version properti
+ja director name
+buff size
+
+ancesto cutof prop defaul ancesto cutoff repor disqualif prop usag derb project fiel relea note relea name generat jql soap servic user auth version cutoff disqualifi issu overrid parsec
+user password version id output
+file name reader reader number
+iee floatin point
+scan factori open log file number log file first unflush posit instant unflush unflush file number unflush file posit lo le byt length record length next record length
+lf fs lr option datum want input
+xm type saf dro sqlstate
+constraint descriptor constraint id delet rule updat rule
+
+schema name tabl name url connect name number map prepar statement
+cf info nest except
+
+name rownam
+
+
+array
+valu last byte bit
+
+id
+int
+long
+
+digit
+result set
+version uid bundl throwabl type start error packag refresh startlev chang warn info
+
+
+unset check index stat name descriptor conglomer descriptor desc delet fetch tabl uuid string check constraint fetch turn probe scan row count col column name max scan scan depend scan parent result set id index conglom id col array tabl restrict list base tabl restrict list list restrict list store restrict list restrict list updat delet base tabl exist map updat lock sysus locat column name row count count
+properti join order statist session schema transpar window
+subqueri list offset first jdb climit claus compil schema
+properti name tabl name number level key column capac factor capac access path access path sort avoid path good access path strategi number specifi join strategi cost estim row usag sort avoid path plan map remov plan ad plan loa plan tabl name tabl id
+map map call name list vti cost optim materializ target derbi style tabl function restrict tabl function rs time constant vti col list cost row count multipl instanti cost pushabl ps parm deferr set type column name restrict list sourc
+fir version name name
+millisecond year
+bytecod cf name
+
+rng n weight mean var
+dashlin file name file name file name file name file name file file file file file file filter num pass num fail num run num skip percent pass percent fail test start test durat suit name
+
+
+implement objec doe exist nonexisten object redundan claus contai null illega aggreg unstabl result overrid generatio claus referenc gener column routin issu sql ba foreig ke action illega ad default illega renam nee explici datatyp ba befor trigger nul need datatyp nul violat constrain violat foreig ke violat illega duplic synta error lexica error colum ou scope operatio forbid lac tabl priv lac colum priv lac execut priv lac usag priv modif ident cascad colum dro warn constrain dropp warn trigg dropp warn lan invali we default gran revok allow missin object routin depend type tabl depend type vie depend empt schema jav except illega ud class forbidd orderin oper illega agg illega comparison illega storag ba cast duplicat claus forbidd dro trigger loc timeout muc content strin truncat n generi permiss n selec updat permiss n tabl permiss
+
+express text express
+bann level mai sectio level issu detai level descriptio headlin issu headlin anchor bodi bold border column colum header horizonta line html divis list li element name paragraph row span tabl su previou relea id su relea id su exclud relea id defaul tabl bord width bldr file name doc summari list file name list file name doc file id releas id releas id list branch error ant
+ac ps gc type lcc
+aggreg info list sourc sourc templat
+info column id column id column id cf aggreg
+n access rea access ful access access level connect lcc
+
+name name name po type autoincr cursor gener claus
+
+
+
+
+
+scan
+factori
+factori factori constant action factori factori
+xa x phase x tw phase act act act size count write mode time statist set time mode declar global temp tabl savepoint level cursor id savepoint id time statist object sb db number id dbname queri tree tran nest transact nest depth factori factori tcf factori context depth trigger author name level ssc initi default schema descr isol level level level explicitli set level set use sq lor jdbc isol level statement text queri plan istream escal threshold valid execut context tabl tracer ht updat val null cach hashtabl walker except column map hash tabl user object map
+ef tcf dvf factori factori factori pf lcc instanc number size statement cach
+set
+
+decima paramet defaul precis decima paramet defaul scale pv valu type id class name mode set return output paramet type scale precis
+parm ci return output param
+statement class desc type descriptor name warn session schema tabl column mode constant object permiss list uuid string uuid valu savepoint stmt name schema name atom txt use count statement compil time time time time time compil timestamp compil timestamp valid action holder counter count stat
+descriptor
+id oper getter activ null rv compar result type cach
+descript conn queri stmt run result run result expect
+info dcoci scoci dcoci scoci tc lcc row hash tabl control column map qualifi row
+column type datum name map
+
+
+id order oper cr null rv init
+schema text read isol level stmt
+save point save point name result set depend track array subqueri lcc use flag task trigger read atom system code parent context invalid text pv allow activ session context
+code name
+tec triggerd activ lcc claus retriev retriev claus action ps activ ps action activ
+
+procedur function count tabl column count function return type procedur cursor type name type nullabl info metadata
+
+
+
+privileg grante
+grant privileg grante
+name grante admin option
+role grante
+groupin col conn ps group col group expr expect group size sql
+express
+group col add rollup
+list aggreg info parent distinct aggreg input row optim distinct aggreg column num sort order claus subqueri
+
+input return order distinct aggreg sort order distinct agg row size control exec index row result row complet result row valu rollup aggreg observ sort id tc properti
+outer join transform
+
+
+version uid buf blob len len
+version uid buf clob len len
+correl c rs
+node class class
+
+variant type paramet
+
+
+
+build posit posit row next fetch next vector size vector id scoci key getter search oper key getter search oper qualifi qualifi capac factor capac suppli optim overrid updat time statist column start stop posit null key column commit hashtabl duplic properti posit string posit string size constraint defaul initia capac defaul loadfactor defaul capac
+predic list predic list subqueri list subqueri list
+time time size properti sourc tabl restrict qualifi project map time stat result row result column duplic memori row count capac factor null key column next fetch next vector size vector tabl build hashtabl candid row ht
+
+id collat type ba memor usag contain ke memor usag
+
+
+implementationid formatuuidstr uuid
+
+
+
+pageno recid rh ba memor usag recor handl memor usag
+next
+column fetch column
+
+
+sca complet go row nee rs
+script java project project
+
+
+dbc schem name dbc sq ja name
+
+counter file name skip
+file reader read datum name column width number row result set meta datum column expect ext file column type str column type type name string type name class name string class null columnnameprefix
+file posit length datum
+file posit length length datum
+raf posit length input stream limit reader codeset
+file name line width width string char read far reader star size token token max size start delimit char far non white space char front non white space char back number start delimit index stop delimit index delimit posit start stop delimit open read defaul forma code asci fix forma code code column definit separ char separ char sep start white sep start white file reader column type separ separ length separ separ length string definit format codeset start delimit start delimit length stop delimit stop delimit length delimit end file handl file name offset length sep
+column name width column type type name class
+order descend
+irg cid dcoci scoci name cc tc mode row read map cc sc index row updat index row holder holder pass level activ index sc deferr lcc duplic constraint id
+num ascend order low
+name name name id
+
+uniqu column posit ascend order column type uniqu duplic null uniqu deferr deferr check
+irg number crf number
+conn ps
+descriptor row gener conglomer number name index row gener index conglomer number index name
+null
+id ef
+sourc restrict heap col col name col dcoci scoci cc base cc updat array row locat sourc time column count row locat col without row locat
+irg cid dcoc scoc name cc row read map tc holder changer mode updat open n index updat index al index open level activ
+
+backgroun task explici task queu length stream log trace derbi log std disabl mgr dispos stat lcc db owner name queue thread consecut unknown know process schedul reject dup reject fq reject creation time tsb
+index tabl n expect sep con timeout get tabl id get stat tabl get index id get stat index get stat get id name map conglom get id name map tabl
+sourc cd target tabl list updat refer col refer col refer col refer col
+row
+
+record id flag format id offset reus page
+dbutil
+path
+path start factori
+ski fragman size
+col name name name row locat increment auto gen column deferr check sequenc uuid string
+
+column list defer constraint deferr check constraint properti info insert insert replac list offset first jdb climit claus
+slot flag column log
+sourc constant claus gm conglom changer tc row specifi bulk insert insert perform insert insert replac row drop sort convers tabl col heap cc dd td row templat id name name id sourc heap sc order collat sorter holder rl row trigger scan open execut info array info checker activ insert counter check check constraint
+ps rs rs holder
+
+
+project restrict qualif row count
+
+driver mbean activ servic factori servic deregist pool boolea choic
+type text cc tabl id tabl name lcc result set result set row call event triggerd set vector counter ht
+
+
+interrup retri interrup retr sleep except
+type intersec op excep op new node call order column order direct order null low
+version uid filter caus
+
+
+valu null
+
+url string
+set size
+messag digest defaul algorithm de de sede tripl de ae bloc length ae length length bit key length algorithm algorithm short provid provid short digest secret key iv properti verifyk datalen
+
+cipher mode use ivspec block size sunjc key
+driver
+
+properti networ serv autostar cla name
+embedd embedd derbynetcli derbynetclien client work class name class name d class name d class name base
+client
+
+minwidth width select count retri
+
+statement
+remot getter
+server connector
+server mbean manag bean manag server identifi control
+servic url store dir context env
+provid
+sqltype jav class jav primit primit boolean char byte short int long float doubl class name name categori type class name kind
+jd id
+
+name jar jar stream loader vs
+
+datum
+lcc name name fr dd ddg
+name cla name custo cla name optiona tool
+jav factor properti
+node
+cast primit call statement return sql domain valu discard type field type
+version version major minor
+path bug list file name note list file name jira list file name note sourc bug sourc bug sourc
+n relea note missin relea note attachmen base attachmen name stat ad reset stat ad key stat ad summari stat ad fixvers stat ad releasenot key titl note attach id version
+innerjoin crossjoin leftouterjoin rightouterjoin fullouterjoin unionjoin join optim predic list predic list join aggreg list claus claus normal predic claus order strategi properti
+see left see right return time right open row row row result set num col result set num col restrict row right side exist right side suppli optim overrid
+
+
+id conglom
+object
+jvm version master version server host server port run
+run server host server port
+ldapurl base dn search filter search filter user properti dn auth dn auth pw dn lda searc base lda searc filter lda searc aut dn lda searc aut pw lda loca use dn lda searc filt usernam
+file access file
+close control po count
+close control po
+n tracker column blob publish releas locat see
+
+file byte byte size conn count defaul bu size bu size
+
+clien embedd test embedd test jdb test
+contex id outermo statement sq schema use nam schema n schema str str str str singl transactio lock mult transactio lock unknow case an case ant an case
+modul
+
+modul
+bul fetc prop bul fetc default bul fetc defaul int
+id search oper search oper qualifi suppli optim overrid time statist posit string lock row
+
+reader buffer
+
+type width
+char string supe string
+equal escap
+
+byte place
+
+charact place reader
+trigg recurs index tabl column tabl column view element selec list element grou element ord identifi length cha maxwidth varcha maxwidth lo maxwidth longvarcha maxwidth conca varcha length floatingpoin litera length charact litera length litera length mi co lengt fo curren user mi co lengt fo curren schema mi pag size pag size decima precisio scale defaul decima precis defaul decima scale small real larg real small positiv real larg negativ real small doubl larg doubl small positiv doubl larg negativ doubl blo retur len clo retur len
+colum name line
+distric coun w custom coun w ite count neword coun w histor coun w stoc coun w order coun w orderlin coun wv neword breakpoint
+
+
+ci loader version
+string asci stream unicod stream charact stream binar stream binar string locat invali locat type length obtain valid layer b stream count lo objec lengt unknow yet
+
+strbuf interest usag
+
+
+
+
+re local encod messag file en codeset en local file name key local local size size size date time timestamp number decim
+valu locat
+space ref qualifi count
+ref grant grant wait possibl skip
+
+
+group group owner cach group group group limit limit call callback limit
+latch tabl rowlock tc row tabl null initi flag info info metadata
+tabl name number mode
+name mode number tabl descriptor
+control control list list lock
+
+mod none mod record mod contain
+lo recor fix overhea size lo recor head size lo recor trail size lo numb lo buffer buffer buffer buffer progress log file semaphor write log byte log fac replic master mode replic slave mode output buffer instant length log record size checksum log oper log record factori encrypt
+buffer posit length next prev
+bufferdata posit instant
+
+
+
+cbio
+invali lo instant derb logfil number logfil number fil numb shift logfil size fil positio mask number posit
+runtim attribut be readonli lo director name modul
+error warn info log
+invali lo instant
+id op group input length
+
+
+length fid lo fil head size lo fil head previou lo instan offset lo recor overhead db flag dum lo dum lo fro lo file lo syn statist obsolet lo versio number defaul lo switc interv lo switc interva min lo switc interva max checkpoin interva min checkpoin interva max defaul checkpoin interv defaul lo buff size lo buff siz min lo buff siz max buffer size bet flag durabilit testmod n syn flag db durabl test mode sync defaul lo archiv directori switch interv interv directori storag factori flush log posit flush file number time log file number log file number log file number checkpoint instant daemon client number daemon call write last check point store factori factori read db factori replic master mode replic slave mode slave except replic slave pre mode recoveri monitor read file number log encrypt need checkpoint redo log switch stop devic sync archiv switch requir write record fill log call call log flush wait log sync statist byte log corrupt freez version disk major version disk minor version disk beta checksum write sync sync error check file backup progress te lo switc log te lo incomplet lo write te lo partia lo writ nu byte te lo full te switc lo fai te switc lo fai te recor fil log te logfil number action file file perm
+writer level configur write jdbc stream configur write jdbc stream writer need close
+first last compens b log commit abort prepar x needlock rawstor fil resourc checksum
+
+
+
+
+
+connect connect databas meta datum
+con writer major version minor version
+undo id
+
+
+callabl stmt ps c owner key cach
+
+id op
+
+file file end verbos least one debug
+buffer column space page column
+
+bu size space length blank non blank blank buffer alphabet close
+bu size space length blank blank non blank buffer alphabet
+memori low memori set
+
+connect index row schema tabl column properti
+text size ceil reader index key id key id id column id column id null
+
+lucen schema li index creat index dro index updat index separ score documen id tabl part colum part par count properti fil name ind descripto maker analyz lucen version updat timestamp
+tex fiel name class
+act
+instanc
+sy prop
+
+
+derb jm domain
+valu valu valu valu publicshort short publicbyt byte publicint integ publiclong long publicboolean boolean publicfloat float publicdoubl doubl string date time timestamp nonoverload intstat overload intstat overoverload intstat
+last block length
+defaul lo buff size lo buff siz min lo buff siz max store factori factori factori buffer shipper transmitt logger mode addr dbname buffer size activ slav connectio attemp timeout
+modul replicatio mode asynchron mode
+
+version uid fir version type refin name column signatur make method name set field name method name action refin method make method rs
+curren nod name refin column column valu column number method name set field name make method name
+
+
+
+lf
+sourc row buffer cid creat sourc cc scan tc drain tc time tc time
+commit rollback noaction
+
+max
+max
+size write v buf v ele buf buf po buf datum byte buf v ele buf datum byte
+delay
+entri hashtabl mth name descriptor index code
+att creat jdb prefix dbm statement connect databas
+fir version claus
+sort tran run buffer memori usag merg run size run size type row input row output merg run run size
+great equal le great right
+sourc tabl index targ tabl index targ ro locatio name tabl tabl condit claus list join list action join cursor
+left join count row row d open
+buffer run scan observ
+
+stat close stat initi stat insert stat insert stat scan stat scan state templat order order map order ascend map order null low map observ order insert scan run buffer buffer max buffer min properti
+type row input row output merg run run size
+ta stop properti boilerpl guid boilerpl guid note sourc file target file target file
+
+en finder
+we bundl name
+en sqlerrm messag delimit jc exceptio para length sqlerrm toke delimit sqlerrm preformatt messag delimit
+lon quot pattern lon quot allow pattern lon quot allow file properti
+n attemp start n attemp stop n star error n sto error addin natur derb natur add erro addin natur removin natur derb natur remov erro removin natur n derb natur ad tri n action serv run derb contain desc
+name
+
+name class name info call primit array type signatur parm method method return type paramet type
+modul
+
+
+
+posit default uuid modif colum type modif colum default modif colum constraint modif colum constrain null dro column modif colum gener alway modif colum gener b default kind
+cach factori cipher factori builder class factori daemon factori java factori lock factori properti factori resourc adapt jmx
+
+
+instanc identifi level servic servic boot
+
+servic typ directori ne instanc fro trac debu flag debu true debu fals monitor activ
+dela para name rin buff siz para name singleton delay buffer size output
+valu probe valu val index requir next scan
+
+
+inetaddr address port
+manag
+ident
+credenti db db databas oper local lifetim milli expir threshold format password properti
+row match right side templat
+
+row fun right outer join right empti right empti row right row return
+request request set request repli repli repli set repli connect connect request packag request statement request result set request connect repli packag repli statement repli result set repli socket input stream socket output stream ssl mode ccsid manag ccsid manag ccsid manag typdef target typdef target sqlam sqlam open socket convert rdbnam chain dirti
+statement
+cha dd that pa byte extna maxsiz mi agen mgrlvl mi cmntcpi mgrlvl mi cmnapp mgrlvl mi rd mgrlvl mi secmg mgrlvl mi sqla mgrlvl mi xamg mgrlvl mi syncptmg mgrlvl mi rsyncmg mgrlvl mi unicod mgrlvl passwor maxsiz prddt app fix len prddt acc suffi le byte prddt le byte prddt maxsiz prddt platfor id prddt use fix len pk identifi fix len rdbna len pk identifi len pkgcnstk fix len sectk maxsiz srvclsn jvm srvna maxsiz mgrlv to mgrlv mgrlv secm eusridpwd secm usridonl secm usrencpwd secm usridpwd secm eusriddta secm eusrpwddta secm usrssbpwd secmg secmec syst asc usri maxsiz prdid srvrlslv
+msgutil agent connect statement close agent cmntcpip rdb secmgr cmnappc xamgr syncptmgr rsyncmgr unicodemgr srvclsnm srvrlslv key public key seed seed secmec mechan reset password null transact xa call info offset valid stmt
+
+
+result set agent typdef row size use comput datum length graphic posit datum enabl
+
+typ trac receiv typ trac send char po header char digit header header char char point name tabl
+
+collectionnam
+statement
+connect statement cursor agent fix row protocol outovr build
+
+
+
+dir name path cmd jvmflag framework requir password timeout name info port pr saver saver err server server method networ serv cla name prefi po suffi po drive po por po star cm po sto cm po sto cm po
+connec tri servl pro messag servl address lang host number directori statu statu give invalid server
+
+
+connect agent send opnqri
+
+posit paramet
+flag timeout milli function ret val conn
+con
+
+
+initia callinf element xid xafun commit xafun end xafun forget xafun prepar xafun recov xafun rollback xafun start xafuncst none xafuncst commit xafuncst end xafuncst forget xafuncst prepar xafuncst recov xafuncst rollback xafuncst start xa xa conn isol level info array second
+defaul portnumb derbyn jar polic filenam polic fil properti derb hostnam wildcard ip hostnam wildcard sock permissio hostnam wildcard impl
+n usag msg command comman arg comman start comman shutdown comman trace comman tracedirectori comman testconnect comman logconnect comman sysinfo comman runtim info comman maxthread comman timeslic comman properti comman unknown dasharg dashar port dashar databas dashar user dashar password dashar loadsysibm dashar encalg dashar encprv dashar bootpassword dashar host dashar session dashar unsecur dashar ssl defaul protoco version shutdow wit credentia protoco version allow protoco version comman header repl header repl head length ok warn error sqlerror sqlwarn drd pro messag drd pro debug cloudscap driver unexpect err mi maxthread mi timeslic we default defaul maxthread defaul timeslic defaul host drd ms prefix defaul local defaul local countri shutdow chec attempt shutdow chec interv maxrepli srvnam id id byte number string ccsidsbc ccsidmbc defaul encod defaul charset defaul ccsid spac char mg level writer log writer driver errtyp sever errtyp user errtyp info errtyp unknown arg arg arg arg password arg alg arg prv arg arg address arg arg mc buffer buffer count buffer po number directori directori sync sync start sync connect connect sync thread thread sync slice slice sync aliv pool size pool size sync output start flag invali nots securitymechan secur mechan socket os array os os sync shutdown num socket instanc util local address tabl session list queue thread request tabl file name control databas shutdown ss ss basic ss pee authent mode support eusridpwd thread number
+ping shutdown start ctrl method
+
+server time control monitor receiv time receiv byte result send time send byte result
+num control pw
+instanti identifi builtin vti
+name descriptor
+test
+
+
+interfac field
+
+absolut rel first next last previou temporar resul se number
+set number row locat row locat defer check constraint exec row result set null col len
+activ track array time open lcc time time execut time execut time column column posit gener valu
+overflow page
+balanc link link key id chain aux
+defaul ini size growt multipli defaul size array size alloc list
+receiv static
+
+sourc row col col destin descript type
+updat
+
+derb clien driver nu row iter nu clien thread networkserv port c emb dburl derb clien url url driver
+properti pw url url properti pw select insert delet updat max key counter lock
+
+maxlon plu one minlon minu one
+mi decima divid scale decima precisio scale
+tinyint smallint int bigint decim doubl real kind
+
+co renam chang typ valu chang ad colum chang wher clau chang odb quer notic odb quer prefix subquer name ne co placehold follow preced boolea column map fragment meta file
+handler scale conn
+rand clast cid citem rescal string syllabl init
+ident
+compar class node offset offset
+type
+version versio
+cardinalit check n cardinalit check uniqu cardinalit check null context sourc row fun check number attach
+name backup backup fail error path
+name
+contain
+updat lock updat base tabl lock contain
+collat type
+
+ssl mode
+
+
+
+
+
+
+
+
+
+modul joi ord optim rul base optim n timeout memor pe tabl dynamu materi row we statist norma plan sor avoidanc plan
+modul
+id base optim timeout statist memori per tabl strategi set order optim
+lcc dictionari tabl queri optimiz tabl map list plan plan list correl tabl map join order join order posit join order find n jump read jump jump wal high wal low state look order base optim cost estim cost sort avoid cost cost optim start time exceed timeout statist lock threshold strategi row order good plan cost row order row order memori per tabl good plan join order limit cost estim pred push join order use pred
+
+
+
+
+
+
+id district warehous custom
+synta error colum find colum ou rang ord b colum find
+
+col ascend order low express list column offset
+ascend sort sort scc row order row size need set number tabl valu ctor order
+list
+number quantiti amount
+ord lessthan ord equal ord lessorequ ord greaterthan ord greaterorequ
+valu
+unmatchedposit posit
+
+linux maco macosx aix zo windowsxp
+owner page id overflow page overflow id lock initi
+xen majo version xen mino versio version
+version uid export import actio export actio import actio actio none action version uid permiss
+fir slo number invali slo number inser initi inser default inser und wit purg inser condit inser overflow inser fo split dia pag size dia reserv space dia minimu size dia byte free dia byte reserv dia numoverflow dia rowsiz dia minrows dia maxrows dia pageoverhead dia slottabl size
+
+id version page hdl
+id flag size space record size info size
+contain number
+
+number version
+number paramet type valu type variant type output paramet gener
+
+constructor token token sequenc imag eol
+
+larg toke size parser token manag stream sq ltext cc
+
+encod patter sh scheme patter configurabl scheme patter configurabl stretch scheme separato char digest algorithm
+sep se str
+
+measur
+sequenc type ud type aggregat type usag priv type object id permiss grantabl
+text state miss
+dd permiss
+
+oid grante grantor
+directori classpath jar http http inmemori readm fil name properti name root type
+
+phase version loader loader trace attribut
+
+op
+mod mod
+rdbnam rdbcolid pkgid pkgsn pkgcnstkn key
+url style sheet name xml html xsl lo re
+
+wait time thread stop collect time time
+scale thread constraint load check
+stream po
+
+node pushabl set class posit key key qualifi claus scop
+start predic stop predic qualifi qualifi ord equal qualifi ord oth relop qualifi ord equal qualifi ord qual qualifi ord claus qualifi nu categori
+ddl stmt ddl ddl
+
+
+version uid fir version timestamp version defaul timestamp price code amount instant
+
+
+tabl privileg routin privileg sequenc privileg ud privileg aggregat privileg type name privileg design privileg restrict provid
+
+count
+datum fo bo finish ioe
+stream encod finish ioe thread time interrupt timeout
+dbm dbm info tool tool info net ne info dnc dn info optionaltool optiona tool info
+product name level level level product version
+ba number alpha beta main encod vendor name name technolog name version version version maint version number beta genu
+restrict restrict list subqueri subqueri path modifi tabl number check constraint base tabl uuid string
+time time sourc restrict restrict project project map map time stat result row result circuit open row check constraint base tabl uuid locat
+properti file propert runtim prefix lo severit level ex dia severit level lo boo trace errorlo styl properti errorlo fil properti errorlo metho properti errorlo fiel properti errorlo rollingfil patter properti errorlo rollingfil limi properti errorlo rollingfil coun properti lo fil append syst hom properti boo n aut boot delet creat forc databa lock lock intro lock escalatio threshold defaul lock escalatio threshold mi lock escalatio threshold deadloc timeout deadloc timeou default wai timeou default deadloc monitor deadloc trace lockwai timeout databa classpath boo classpath databa properti derb instal url derb instal path derb securit host derb securit port creat wit n log pag siz paramet pag siz defaul long tb pag siz bum threshold id pag siz bum threshold ro lock properti conglo id storag tem directori durabilit properti durabilit testmod n sync filesyn transactio log lo archiv mode lo devic backup modul prefix su su protoco prefix modul en jd prefix modul en class prefix lan cach size lan cach siz default lan permiss cach size lan permiss cach siz default lan sp cach size lan sp cach siz default lan seqg cach size lan seqg cach siz default lan sequenc prealloc languag stal pla chec interv defaul languag stal pla chec interv mi languag stal pla chec interv statemen cach size statemen cach siz default storag aut ind stat storag aut ind stat log storag aut ind stat trace storag aut ind stat debu creat threshold storag aut ind stat debu creat threshol default storag aut ind stat debu absdif threshold storag aut ind stat debu absdif threshol default storag aut ind stat debu lndif threshold storag aut ind stat debu lndif threshol default storag aut ind stat debu queu size storag aut ind stat debu queu siz default storag aut ind stat debu kee disposabl stat pro x transactio timeout defaul x transactio timeout defaul use name databa modul sq authorizatio properti defaul connectio mod properti n access rea onl access ful access rea onl acc user properti ful acc user properti requir authenticatio paramet authenticatio provid paramet use propert prefix authenticatio provid nativ authenticatio provid builtin authenticatio provid ldap authenticatio serv paramet authenticatio provid loca suffix authenticatio provid nativ local authenticatio nativ passwor lifetim millisecond day authenticatio nativ passwor lifetim default authenticatio passwor expiratio threshold authenticatio passwor expiratio threshol default authenticatio builti algorithm authenticatio builti algorith default authenticatio builti algorith fallback authenticatio builti sal length authenticatio builti sal lengt default authenticatio builti iter authenticatio builti iter default lo switc interv checkpoin interv lo buff size replicatio lo buff size replicatio mi shippin interv replicatio shippin interv replicatio verbos alph bet allo upgrad restor fro backup delet roo error htt fil offset htt fil length htt fil name star drda drd pro logconnect drd pro traceal drd pro trace drd pro tracedirectori drd pro minthread drd pro maxthread drd pro timeslic drd pro ss mode drd pro securitymechan drd pro portnumb drd pro hostnam drd pro keepal drd pro streamoutbuffers servic protocol servic local collat uc basi collat territor base collat territor base primar collat territor base secondar collat territor base tertiar collat territor base identica collat collatio none storag that sync checkpoint storag that sync alloc storag lo sync storag we defaul fil permiss serv start fro cm line
+pc conglom id properti lf set lock pf
+
+colum name propert key propert valu
+
+produc vendo name produc technolog name produc externa name produc externa version produc majo version produc mino version produc main version produc drd main version produc bet version produc buil number produc whic zi file
+name snapshot
+
+properti list se jvm se databas se applic set
+set
+interfac identifi
+
+
+
+
+
+dbtask conn
+slot id log
+name rownam
+
+name name
+variant sca invari quer invari constant
+oper compar result null rv
+
+
+
+
+
+
+list list
+autoincremen star index autoincremen index autoincremen autoincremen index autoincreman creat modifi autoincremen cycl offset offset cm lcc action factori tag privileg collect requir
+v class
+datum sync code ge fil nam action creat contain action remov fil action ope contain action stubbif action ge rando acc fil action reop contain action ident stub error ok tri altern path file instant backup remov name
+channel cleanup monitor page io channel progress io om progress ident
+rawstor implhash formathash properti properti pf
+
+rawtran accessmanag context control control sort control sort id conglom temp conglom id tabl call make
+transact
+factori go
+equal great le cid cid name name id row hash tabl lcc defer key scan key row array key scan key row array cc counter first failur column ref row index fk row index ref row index fk row index row fail
+checker lcc
+colum name colum type count row row number
+normal drop committ drop
+
+datum
+backu histori factori factori factori factori factori random encrypt databas engin engin encrypt engin decrypt engin cipher factori cipher factori block size store daemon code fil write action storag file storag file append regula fil exist action regular file storag fil exist action regula fil delet action regula fil mkdir action regula fil director action regula fil remov director action regula fil renam action regular file cop storag director regula action buffer filter copi sub dir cop regula director storag action cop regula fil storag action regula fil li director action storag fil li director action cop storag fil regula action regula fil ge canonicalpat action storag fil ge canonicalpat action cop storag fil storag action storag fil delet action readm fil outputstrea write action te reencryp cra befor commt te reencryp cra aft commt te reencryp cra aft switc newkey te reencryp cra aft checkpoint te reencryp cra aft recov und logfil delet te reencryp cra aft recov und revertin key te reencryp cra befor recov fina cleanup
+derb stor mino versio derb stor mino versio derb stor mino versio derb stor mino versio derb stor mino versio derb stor majo versio pag siz default pag siz minimum pag siz string pag cach siz paramet pag cach siz default pag cach siz minimum pag cach siz maximum contain cach siz paramet contain cach siz default contain cach siz minimum contain cach siz maximum contain initia page minimu recor siz paramet minimu recor siz default minimu recor siz minimum pag reserv spac paramet pag reserv zer spac string pr allocat page pag reusabl recor id strea fil buff siz paramet strea fil buff siz default strea fil buff siz minimum strea fil buff siz maximum contain initia page encryptio align defaul encryptio blocksiz encryptio blocksiz that encryp algorith version lo encryp algorith version encrypt key ol encrypt key encryptio statu encryptio progress encryptio undo encryptio cleanup crypt ol externa ke verif file kee transactio log patc initpag recov error modul
+offset length eof length length name
+commit abort savepoin rollback loc escal except
+buffer cha len buffer stream writer output stream input stream
+
+close
+archiv directori
+datum conv close
+reader fir read rea buff reserv mar uns exceed buffer boff blen mark ahead limit eof buffer gen length truncat space length name count
+number attach result set statist
+open see filter time time time time overal num desc estim row count estim cost
+
+track array
+count defer lock updat
+count
+
+
+input distinct aggreg sort order result set statist properti
+
+
+constraint size key column level string name name qualifi qualifi posit posit properti
+size key column level qualifi properti result set statist track array
+name result set statist access heap
+count defer updat specifi bulk insert insert perform lock
+count defer
+see left see right return time suppli optim overrid
+level name name string
+result set statist tc time tc time
+row right side result set statist result set statist name set name
+right row return
+set number indent indent depth
+indent indent depth result set statist time overal num desc
+result set statist
+number attach result set statist
+project restrict time time result set statist track array
+
+result set statist
+return
+input key optim result set statist
+result set statist hash tabl hash tabl
+type see left see right return result set statist result set statist
+input return duplic sort order result set statist properti
+constraint lock size level name suppli optim overrid name string qualifi posit posit properti
+see left see right return result set statist result set statist
+count defer lock updat
+class name
+result set statist
+asap id id row handl id page id record id stamp attempt processor reclaim contain page ro reserv colum chain
+
+invali recor handl reserv recor handl deallocat protectio handl previou ke handl reserv recor handl reserv recor handl fir recor id
+id id number hint
+
+
+
+
+version uid strin arg arg boolea arg shor arg
+
+column column trigger action
+type count enabl constraint list constraint list self refer self referenc
+key index scan key key
+map
+compil action
+cach direct
+cf
+method
+run dbtask conn
+two byte
+equal relop equal relop great tha relop great equal relop le tha relop le equal relop nul relop nul relop
+usag builder
+usag overvi section ne featur section bu fix section issu section buil environmen section relea verificatio section headlin branc headlin compil headlin jav headlin jd headlin machin headlin osg headlin su version su compil su jav su jd su machin su ne featur su osgi su overview su relea verif note reader releas note
+preambl bldr doc file file xconf file file name file name xconf file name id
+l apach licen header main encod main length drd maint drd main default ne relea id id properti file name
+overrid hom prop defaul home repo locat dist
+remap
+bh record close
+connect url
+java project project
+name id go
+tabl name name tabl name object name object name id sd alter tabl
+tabl name object name object name td number alter tabl
+rcl class number
+replac replac
+rcl class number
+
+defaul numb lo buffer buffer buffer dirti buffer buffer buffer data buffer store buffer last instant latch latch buffer size mf
+scan posit instant datum offset datum info log switch
+verbos dbname
+version uid messag type typ initiat version typ initiat instant typ log typ ack typ error typ ping typ pong typ stop typ failov
+address socket conn defaul pin timeout thread ping thread confirm ping semaphor send ping pong semaphor
+defaul messag respon timeout semaphor msg messag receiv address conn dbname
+replicationt propfil replicatio mast time replicatio slav start ok replicatio boot slav operatio deni whil connect replicatio slav shutdow ok user dir home encrypt server host server port server host server port client host repl port databas path databas path db load db freez db test un replic load load tupl insert perf freq db sub path db sub path test verifi thread minut load init server control test jar version jvm version jvm version version master version slave version f ps sysinfo time drive cla name protocol al interfac lf shell util state env properti path conn conn slave except thread pre repl post repl pre slave post slave post slave
+
+
+
+
+
+
+
+
+
+canno connec slav mode replicatio mast mode tri
+
+
+derbi server pid
+
+
+
+
+agent defaul buff size ddm collect stack mark nest collect len stack scalar len empt stack length decrypt buffer decrypt po decrypt valu decrypt count decrypt length continu chain correl length code point num extend len byte po en collect en sam chain
+buffer mark nest stack length locat dss final includ start length agent
+sor requir eliminat dup nothin requir
+
+
+activ rm tabl
+name name name number map statement set queri
+
+
+name column name tabl name sourc tabl name schema name descriptor gener gener unmatch column insert group column refer redund name gener cursor column default outer join use claus result set gener set number column id
+
+row id select updat mismatch allow list size
+
+curren results entir results tree isbeforefirst isfirst islast isafterlast
+
+modul
+set number tabl map column result set target tabl sourc estim cost estim optim final cost estim
+result set repli
+
+
+
+modul
+privileg grante
+name grante admin option
+role grante
+
+
+invers far graph lifo node iter dd tc root initi
+uuid name grante grantor admin option def
+meter append limit count pattern file name stream file lock lock
+
+sq control modifi sq datum read sq datum contain sql n sql p java p derb jdb resul set p derbi sq allow mask deterministi mask securit defin mask vararg mask count type name mode result set type style option name null input type
+name function type list descriptor
+uuid name execut permiss
+descriptor
+
+
+open updat conglom dcoci scoci cid dcoc scoc irg activ tc column bit set row read list row read map column id holder name cc row locat isc row array chang column id
+offset first jdb climit claus
+sourc time stat offset first method first method jdb climit claus virgin fetch
+
+
+
+type bit compat shortnam number compat be r be r rip ri r r dia index dia xactid dia locktyp dia lockmod dia conglomid dia containerid dia segmentid dia pagenum dia recid dia count dia group dia state
+
+n lock
+
+n lock lf
+
+
+name
+
+ascend descend dontcar
+order alway order order optimiz column order optimiz
+
+return cach row next row row
+subqueri aggreg qec
+
+
+empt row empt ro bitset empt ro fetc descriptor rowuti fetc descripto constant
+argument method
+arg
+name cmd arg jvm version version version jversion iminor imajor skip find sync jdk jdk jcc exclus messag ib mjvm encrypt jvmflag java flag classpath server framework usesystem upgradetest jarfil useoutput keepfil encrypt encrypt provid encrypt algorithm runwithibmjvm runwithjvm jcc useprocess skips systemdiff name name suit name parent suit special prop special prop resourc packag outcopi userdir mtestdir verbos reportstderr timeout shutdownurl outputdir topsuitedir topreportdir canondir bootcp jvm jvm name dir file dir file properti properti file name encod upgradejarpath test xa singl exclus keyword
+verbos suit run name cmd jvmflag version classpath server java flag special prop userdir framework runwithibmjvm jcc useprocess skips systemdiff suit name outputdir outcopi canondir bootcp jvm name encod resourc packag debug timeout shutdownurl reportstderr properti properti dir dir file
+
+text name name time time time time time time compil timestamp compil timestamp execut timestamp execut timestamp result set statist track array
+derb embedd driver defaul url driver url user password init load opt gener thread per second sec sec usag
+level scan duplic scan scan row base row key index scan statist insensit qualifi posit posit
+minimu cach valu count can cycl step max min restart allocatio count increas valu remain bind
+sp typ trigger sp typ regular sp typ explain recompil invalid sd name schema id type text text uuid valid statement param time default compil param factori
+ident spsd dd
+pad ba memor usag le buff writ blob valu valu stream valu length
+
+
+boolea length boolea true boolea fals unknown ba memor usag valu isnul immut
+pad retur spac threshold growb fo char ba memor usag blank cha head gener valu datum length key valu stream finder
+te fou clo head gener te fiv clo head gener strea head length csd soft upgrad mode
+date ba memor usag separ separato ib we separ ib we separato ib eu separ ib eu separato en string
+valu datum scale ba memor usag bi decima memor usag
+doubl length ba memor usag valu isnul
+drd conversatio termin drd comman support drd objec support drd para support drd valu support drd sqltyp support drd conversio support drd repl ms support
+except
+integ length ba memor usag valu isnul
+
+ba memor usag valu isnul
+
+rea length ba memor usag valu isnul
+valu ba memor usag
+
+user role default schema mode
+smallin length ba memor usag valu isnul
+
+ambigu curso nam n subclass attemp assig updatabl colum n subclass attemp assig orderin colum n subclass cardinalit violatio n subclass cl specifi conditio n subclass connectio exceptio n subclass connectio exceptio connectio doe exist connectio exceptio connectio failur connectio exceptio connectio nam use connectio exceptio sqlclien unabl establ sqlconnect connectio exceptio sqlserv reject establishmen sqlconnect connectio exceptio transactio resolutio unknown that exceptio n subclass that exceptio arra elemen error that exceptio charact repertoir that exceptio datetim fiel overflow that exceptio divisio b zero that exceptio erro assign that exceptio escap charact conflict that exceptio indicato overflow that exceptio interva fiel overflow that exceptio interva valu ou rang that exceptio invali arguman fo natura logarithm that exceptio invali arguman fo pow function that exceptio invali argumen fo widt buck function that exceptio invali charact valu fo cast that exceptio invali datetim format that exceptio invali escap charact that exceptio invali escap octet that exceptio invali escap sequenc that exceptio invali indicato paramet valu that exceptio invali interva format that exceptio invali paramet valu that exceptio invali regula express that exceptio invalu repea argumen sampl claus that exceptio invali sampl size that exceptio invali tim zon displacemen valu that exceptio invali we escap charact that exceptio nul valu n indicato paramet that exceptio mo specifi typ mismatch that exceptio multis valu overflow that exceptio noncharact uc string that exceptio nul valu allow that exceptio nul valu substitut fo mutato subjec paramet that exceptio numeri valu ou rang that exceptio sequenc generato limi exceed that exceptio strin that lengt mismatch that exceptio strin that righ truncat that exceptio substrin error that exceptio tri error that exceptio untermin string that exceptio zer lengt charact string dependen privileg descriptor stil exi n subclass diagnost exceptio n subclass diagnost exceptio maximu numb diagnost area exceed dynami sq erro n subclass dynami sq erro curso specificatio canno b execut dynamu sq erro invali datetim interva code dynami sq erro invali descripto count dynami sq erro invali descripto index dynamu sq erro prepar statemen curso specif dynamu sq erro restrict that typ attribut violat dynamu sq erro that typ transfor functio violat dynamu sq erro invali that target dynami sq erro invali leve valu dynamu sq erro undefin that valu dynami sq erro usin clau doe matc dynami paramet spec dynami sq erro usin clau doe matc targ spec dynami sq erro usin clau requir fo dynami paramet dynami sq erro usin clau requir fo resul field externa routin exceptio n subclass externa routin exceptio containin sq permit externa routin exceptio modifyin sq that permit externa routin exceptio prohibit sq statemen attempt externa routin exceptio readin sq that permit externa routin invocatio exceptio n subclass externa routin invocatio exceptio nul valu allow featur support n subclass featur support multipl environmen transact integrit constrain violatio n subclass integrit constrain violatio restric violat invali authorizatio specificatio n subclass invali catalo nam n subclass invali charact se nam n subclass invali collatio nam n subclass invali conditio numb n subclass invali connectio nam n subclass invali curso nam n subclass invali curso stat n subclass invali granto stat n subclass invali rol specif invali schem nam n subclass invali schem nam li specificatio n subclass invali sq descripto nam n subclass invalu sq invok procedur referenc n subclass invali sq statement invali sq statemen identifi n subclass invali sq statemen nam n subclass invali transfor grou nam specificatio n subclass invali transactio stat activ sq transact invali transactio stat branc transactio alread activ invali transactio stat hel curso requir sam isolatio level invali transactio stat inappropriat acc mod fo branc transact invali transactio stat inappropriat isolatio leve fo branc transact invali transactio stat n activ sq transactio fo branc transact invali transactio stat rea onl sq transact invali transactio stat schem that statemen mixin support invali transactio initiatio n subclass invali transactio terminatio n subclass locato exceptio invali specif locato exceptio n subclass n that n subclass n that n additiona dynami resul set return remot databa acc n subclass savepoin exceptio invali specif savepoin exceptio n subclass savepoin exceptio mani sq routin exceptio n subclass sq routin exceptio functio execut n retur statement sq routin exceptio modifyin sq that permit sq routin exceptio prohibit sq statemen attempt sq routin exceptio readin sq that permit successfu completio n subclass synta erro acc rul violatio n subclass synta erro acc rul violatio direc statemen n subclass synta erro acc rul violatio dynami statemen n subclass targ tabl disagre wit curso specificatio n subclass transactio rollbac n subclass transactio rollbac integrit constrain violat transactio rollbac serializatio failur transactio rollbac statemen completio unknown trigger that chang violatio n subclass warnin n subclass warnin additiona resul set return warnin arra that righ truncat warnin attemp retur man resul set warnin curso operatio conflict warnin defaul valu lon fo informatio schema warnin disconnec error warnin dynami resul set return warnin insufficien ite descripto area warnin nul valu elimin se function warnin privileg grant warnin privileg revok warnin quer expressio lon fo informatio schema warnin searc conditio lon fo informatio schema warnin statemen lon fo informatio schema warnin strin that righ truncatio warn wit chec optio violatio n subclass resul se close unabl unwrap lan gran revok wit legac access shutdow databas propert unsupport chang
+time time fraction ba memor usag ib eu separ ib eu separato end ji separ u ji minut end separ pm en string
+fractio digit fractio nano billion date time nano ba memor usag that separ that separ ib that tim separ odb that tim separ that tim separ that tim separ end ib tim separ odb tim separ tim separ tim separ end en string
+tinyin length valu isnul ba memor usag
+defaul lef margin margin comment warn jav comment be meet objec name be objec name cstm objec name pstm objec name sq war objec name prompt con objec name stm objec name use name warn logic dd n r command dd r command quer command command exe queri exe dd n ro count exe dd wit ro count prepar execut cal stmt comment autocommit commit rollback se schema remov grant ge cursor curso next curso close connect se connect revok command ro count blan line sq error sq warn iwarn unknow line lin length line type test name script junit buf runtim statist ignor unconvert user connect connect connect count
+valu null null state
+
+vali that string vali tim string vali timestam string nul valu datum type column name datum type sql datum sql type
+
+
+
+model count
+sysalias colum count sysalias aliasid sysalias alia sysalias schemaid sysalias javaclassnam sysalias aliastyp sysalias namespac sysalias systemalia sysalias aliasinfo sysalias specifi name sysalias ind id sysalias ind id sysalias ind id uniqu column posit uuid
+tablenam string syscheck colum count syscheck constraintid syscheck checkdefinit syscheck referencedcolumn syscheck ind id uniqu column posit uuid
+tablenam string colpermsi co num grant co num granto co num tablei co num typ co num column co num colum count grant tabl typ granto ind num colpermsi ind num tablei ind num tota nu index column posit grant co nu grant tabl typ granto index uniqu uuid
+tablenam string syscolumn colum count syscolumn tableid syscolumn referenceid syscolumn columnnam syscolumn columnnumb syscolumn columndatatyp syscolumn columndefault syscolumn columndefaultid syscolumn autoincrementvalu syscolumn autoincrementstart syscolumn autoincrementinc syscolumn autoincrementinccycl syscolumn ind id syscolumn ind id uniqu uuid column posit dictionari
+tablenam string sysconglomer colum count sysconglomer schemaid sysconglomer tableid sysconglomer conglomeratenumb sysconglomer conglomeratenam sysconglomer isindex sysconglomer descriptor sysconglomer isconstraint sysconglomer conglomerateid sysconglomer ind id sysconglomer ind id sysconglomer ind id uniqu column posit uuid
+tablenam string sysconstraint colum count sysconstraint constraintid sysconstraint tableid sysconstraint constraintnam sysconstraint type sysconstraint schemaid sysconstraint state sysconstraint referencecount sysconstraint ind id sysconstraint ind id sysconstraint ind id uniqu column posit uuid
+tablenam string sysdepend colum count sysdepend dependentid sysdepend dependenttyp sysdepend providerid sysdepend providertyp sysdepend ind id sysdepend ind id uniqu column posit uuid
+sysdumm colum count uuid
+tablenam string sysfil colum count co num co name schem co num schem co name nam co num nam co name generatio co num generatio co name sysfil ind id sysfil ind id column posit uniqu uuid
+tablenam string sysforeignkey colum count sysforeignkey constraintid sysforeignkey conglomerateid sysforeignkey keyconstraintid sysforeignkey deleterul sysforeignkey updaterul sysforeignkey constrainti width sysforeignkey ind id sysforeignkey ind id column posit uniqu uuid
+tablenam string syskey colum count syskey constraintid syskey conglomerateid syskey ind id uniqu column posit uuid
+tablenam string sysperm colum count sysperm permissionid sysperm objecttyp sysperm objectid sysperm permiss sysperm grantor sysperm grante sysperm grantabl column posit perm uui id num perm objecti id num grant objecti granto ind num uniqu uuid
+tablenam string sysrol colum count sysrol rol uuid sysrol roleid sysrol grante sysrol grantor sysrol withadminopt sysrol isdef column posit sysrol rolei colpo ind e sysrol grant colpo ind e sysrol ind e idx sysrol ind de idx sysrol ind uui idx uniqu uuid
+tablenam string routinepermsi co num grant co num granto co num aliasi co num grantoptio co num colum count grant alia granto ind num routinepermsi ind num aliasi ind num column posit grant co nu grant alia granto index uniqu uuid
+tablenam string sysschema colum count sysschema schemaid sysschema schemanam sysschema schemaaid sysschema ind id sysschema ind id column posit uniqu uuid
+tablenam string syssequ colum count syssequ sequenceid syssequ sequencenam syssequ schemaid syssequ sequencedatatyp syssequ curren valu syssequ star valu syssequ minimu valu syssequ maximu valu syssequ increment syssequ cycl option column posit syssequ ind id syssequ ind id uniqu uuid
+tablenam string sysstat stmtid sysstat stmtname sysstat schemaid sysstat type sysstat valid sysstat text sysstat lastcompil sysstat compilatio schemaid sysstat usingtext sysstat constantst sysstat initial compil sysstat colum count sysstat hidd colum count sysstat ind id sysstat ind id column posit uniqu uuid
+tablenam string sysstatist id sysstatist referenceid sysstatist tableid sysstatist timestamp sysstatist type sysstatist valid sysstatist colcount sysstatist stat sysstatist colum count sysstatist ind id uniqu column posit uuid
+tablenam string tablepermsi co num grant co num granto co num tablei co num selectpri co num deletepri co num insertpri co num updatepri co num referencespri co num triggerpri co num colum count grant tabl granto ind num tablepermsi ind num tablei ind num column posit grant co nu grant tabl granto index uniqu uuid
+tablenam string systabl colum count systabl tableid systabl tablenam systabl tabletyp systabl schemaid systabl lockgranular systabl ind id systabl ind tablenam systabl ind schemaid systabl ind id systabl ind tableid uuid column posit
+tablenam string systrigg triggerid systrigg triggernam systrigg schemaid systrigg creationtimestamp systrigg event systrigg firingtim systrigg type systrigg state systrigg tableid systrigg whenstmtid systrigg actionstmtid systrigg referencedcolumn systrigg triggerdefinit systrigg referencingold systrigg referencingnew systrigg oldreferencingnam systrigg newreferencingnam systrigg whenclausetext systrigg colum count systrigg ind id systrigg ind id systrigg ind id column posit uniqu uuid utc dictionari
+tabl name sysus uuid passwor co name sysus colum count usernam co num hashingschem co num passwor co num lastmodifi co num sysus ind id column posit uniqu uuid
+tablenam string sysview colum count sysview tableid sysview viewdefinit sysview checkopt sysview compilatio schemaid sysview tablei width sysview ind id column posit uniqu uuid
+rng n weight mean var cumul stdv
+
+col datum datum row col index null close
+assert debug debugdebug stream debug flag debug debug
+point name savepoint
+name statement type
+name statement type
+input input row sort order exec index row satisfi row
+forward backward backwar fro lo end scan factori log file number log file length good log end instant direct log end
+ge gt to
+
+
+
+
+
+lock isol level lock mode level need updat mode level row builder candid col row locat name name
+
+base
+st syst schem name ib syst schem name ib syst can schem name ib syst fu schem name ib syst pro schem name ib syst sta schem name ib syst nullu schem name st sql schem name st syst dia schem name st syst uti schem name st defaul schem name sysca schem uuid sysfu schem uuid syspro schem uuid syssta schem uuid sysc dia schem uuid sysc uti schem uuid nulli schem uuid sql schem uuid syst schem uuid sysib schem uuid defaul schem uuid st declar globa temporar tabl schem name defaul use name use name name oid aid system sysibm type
+context name depth
+jar jar
+sourc row width ht row sourc posit posit first last first last hash tabl hash tabl row commit column hash tabl target reposit po rowloc po rowdelet po rowupd la extr column
+
+positio lef partia ke match positio righ partia ke match key templat btree slot exact optim
+number name cursor name set holdabl pkgnamc byte gener cursor name posit updat cursor name
+section non hold section hold avail section number pkgnamc byte hold pkgnamc byte name hold name hold name prefix hold name prefix hold updat cursor name queri section updat cursor name result set num section
+se databa properti ge databa properti freez databas unfreez databas checkpoin databas backu databas backu databa nowait backu databa enabl lo archiv mode backu databa enabl lo archiv mod nowait disabl lo archiv mode chec tabl instal jar replac jar remov jar expor tabl impor tabl impor tabl lob fro extfil impor datum impor that lob fro extfil bul insert reloa securit polici se use access ge use access invalidat store statement empt statemen cach se xplai mode ge xplai mode se xplai schema ge xplai schema creat user rese password dro user schema id name type
+embedd publi api inspect class
+n polici jv ha subjec author path set jar secur manag instal enabl polici resourc polici resourc secur manag
+we derb intern
+sq exceptio filter substitut
+list tabl aggreg aggreg aggreg claus claus list window plan func call group queri qec predic subqueri subqueri subqueri target list distinct distinct merg claus subqueri join fl claus level
+
+uuid name descriptor id type valu valu valu valu increment cycl
+preallocatio threshhold confus ok mar exhaust allocat ne valu cva statu cva curren valu cva la alloc valu cva numb valu alloc cva length can cycl ste increas increment valu mi valu restar valu schem name sequenc name prealloc exhaust valu prealloc valu
+
+
+defaul preallocatio count size
+conn delay
+string gener
+know embedd that sourc know clien that sourc
+host port client path
+
+version uid refer type regist modifi unregist
+
+
+version uid get regist actio get actio regist actio actio none action version uid permiss
+client demand subscrib request
+
+
+do requeu
+init attexc secacc chksec close drd session cm session tracenam prefix tracenam suffix socket num input output file name state type id trace request databas qryinsid util dbtabl nsctrl
+defer constraint
+constraint defer
+promp con warn promp we sane jdb url ja path sane insan jar warn string prefix
+sourc sourc activ type set number col input row input row order column order direct order null low see left see right return
+qec opt predic opt predic predic scop pred scop pred
+slot id valu valu
+name type
+name type
+name type
+name type
+level
+level
+
+
+
+state share exclus sh ex
+valu
+
+run version version server host server port databas path server host server port databas path
+
+
+
+
+run version version server host server port databas path server host server port databas path
+
+
+
+
+wildcard syst schema arg formatt
+bi endian littl endian
+framework protocol
+pw level find ahead usag
+conn scale seed random
+descriptor
+
+array idx row null column
+dbname networkserv port derb clien d c n dburl derb clien url url datum sourc
+dbname
+custom address rand
+
+result truli good access path
+tabl size type type string sec index column non index column tex size rando string rando byte
+conn pss be size type index index
+conn pss be size type index index
+stream p bfile name p bheader
+servic
+timer count warn
+
+address number defaul por
+defaul sock timeout store factori file receiv logger addr dbname log instant replic slave mode success scan receiv thread
+replic slave mode initi boot except dbname fac
+modul slav db replicatio mode slav mode slav pr mode
+socket output stream input stream
+
+inser ok inser duplic inser full sort alloc head height key shrink aux aux
+buffer tran free list size disk observ
+buffer
+
+
+modul
+
+
+input return distinct sourc order order observ templat row sort order sourc row size control result row sort row call column sort id gener sort sort properti
+sort tran current hold
+
+alloc page free page unfil page size
+id id name index tabl initi row null name name info tc info metadata
+tag kil timer kil threshol properti kil threshol default kil threshold name process saver saver output task read offset
+
+name identit val curren isol curren schema user curren user sessio user syst user curren role kind name type
+authent scheme
+xa error error en datum
+defaul errcod number messag posit label string except clien messag resourc name factori except
+warn
+builder serial queri type
+hig ord ro count lo ord ro count lo ord updat count hig ord updat count sq er length throw store proc invoc text retriev contain token code errmc errmc messag state errp errd warn state errmc byte errp byte warn byte sqlcax row count token messag text messag blank
+count cycl thread messag messag messag
+q w custom warehous district order list stoc info
+length reader byte buffer
+repor default repor never repor alway argument sever messag state report public api next
+java project project
+
+
+
+posit datum ps null info metadata
+cach connect logic statement close progress
+
+column
+
+file file stream reader stream reader file name tabl line timestamp index index index index row en timestamp begi threa string en threa string begi xi string en xi string begi executin string en executin string info metadata
+sourc statement state eof eof char peek promptwrit prompt statement statement string sqlcomment en statement en input minu singlequot doublequot semicolon newlin return space tab formfe slash asterisk
+id type
+conn statement
+callabl statement sql schema type concurr holdabl key
+callabl prepar
+empt list nee dd activ nee curso activ nee para activ nee ro activ nee nothin activ
+
+statement repli
+
+
+name type
+uuid
+name aid type
+uuid type
+
+unknown insert bul inser replac updat delet enabl disabl dro cascad dro restrict dro default renam tabl renam column renam index r cascad r restrict r noaction be setnul be setdefault se schem user se schem dynam se rol dynam
+type name
+str str str attach str str row count row count attach row countin row countdel str movefold exp exp tabl count sel sel sel sel sel sel sel in in in del del del exe exe exe exe exe
+name class name name delimit identifi field
+
+name param array paramet number system code insid bind null null state defin ad aggreg group
+url class url class nu row nu tabl iter file dro tabl creat tabl tabl name tabl col creat view vie col vie col inser tabl inser valu
+
+id ref id tabl id updat time type valid stat column count
+row uniqu
+version uid
+version uid
+java project project server
+
+
+ba memor usag
+
+versio number
+servic properti eo token home home sub protocol factori class storag factori char
+n fil loc support exclusiv fil lock exclusiv fil loc avail
+
+store reader
+ba cach ro fetc cost ba uncach ro fetc cost ba groupsca ro cost ba nongroupsca ro fetc cost ba hashsca ro fetc cost ba ro pe bytecost storeco cluster storeco sca set storeco sca normal
+
+releas store stream csd child object reader intern reader
+fiel initi fiel null fiel overflow fiel nullabl fiel extens fiel tag fiel fix fiel nonexist store fiel head statu size
+tw byt forma byt length mi tw byt forma id tw byt forma id mi mi nul forma id strin forma id serializabl forma id boolea typ id boolea compilatio typ id cha typ id cha compilatio typ id doubl typ id doubl compilatio typ id typ id compilatio typ id rea typ id rea compilatio typ id typ id compilatio typ id smallin typ id smallin compilatio typ id bigin typ id longin compilatio typ id userdefin typ userdefin compilatio typ id userdefin compilatio typ varcha typ id varcha compilatio typ id that typ imp descripto id that typ servic imp id conglomerat descripto find id constrain descripto find id defaul descripto find id alia descripto find id tabl descripto find id routin permissio find id tabl permissio find id column permissio find id rol gran find id that dictionar descripto find id vie descripto find id sp descripto find id fil inf find id trigg descripto find id trigg descripto id socrat versio id refer column descripto imp id plat versio id aristotl versio id xen versio id buff versio id mula versio id ivanov versio id versio id arw versio id longvarcha typ id longvarcha compilatio typ id clo typ id clo compilatio typ id longvarbi typ id longvarbi compilatio typ id blo typ id blo compilatio typ id xm typ id jsqltypeimp id ro li id that typ descripto id ind ro generato id bitimp id formatabl arra hold id formatabl properti id formatabl hold id formatabl lon hold id formatabl hashtabl id schem descripto find id colum descripto find id sequenc descripto find id per descripto find id unus oidimp id boolea typ impl cha typ impl doubl typ impl typ impl rea typ impl typ impl smallin typ impl bigin typ impl userdefin typ imp that typ impl tim typ impl timestam typ impl ag mi id ag coun sta id varcha typ impl paramet descripto id bi typ id bi typ impl varbi typ id varbi compilatio typ id varbi typ impl ind descripto imp id tinyin typ id tinyin typ impl decima typ id that typ id tim typ id timestam typ id decima typ impl longvarcha typ impl clo typ impl longvarbi typ impl blo typ impl bi compilatio typ id decima compilatio typ id tinyin compilatio typ id xm typ impl ro multis typ impl renam constan actio id delet constan actio id inser constan actio id updatabl vt constan actio id updat constan actio id matchin clau constan actio id merg constan actio id unus unus unus unus unus unus unus provid inf id ag av id ag coun id ag mi id ag su id ag use adapto id statist constan actio id unus unus unus alt sp constan actio id ind colum ord id ag inf id ag inf li id writ curso constan actio id constrain inf id exe ro build id unus f inf id unus trigg inf id transactio constan actio id se trigger constan actio id se trigger constan actio id se schem constan actio id se transactio isolatio constan actio id colum inf id provid inf id savepoin id storabl prepar statemen id generi resul descriptio id unus generi typ descripto id generi typ id curso tabl referenc id curso inf id cla alia inf id metho alia inf id wor uni alia inf id use aggregat alia inf id routin inf id synoni inf id ud inf id aggregat inf id defaul inf imp id generi colum descripto id sq boolea id sq cha id sq doubl id sq integ id sq rea id sq id sq smallin id sq longin id sq varcha id sq usertyp sq that id sq tim id sq timestam id sq bi id sq varbi id sq tinyin id sq decima id sq longvarcha id sq clo id sq longvarbi id sq blo id xm id acc id acc hea ro locatio id acc hea id acc id acc forma id acc stringcolum id acc iund id acc btre leafcontrolro id acc btre branchcontrolro id acc serializablewrapp id acc stati compil id acc tre id acc id acc gistund id acc gi leafcontrolro id acc gi branchcontrolro id statist imp id updat statist constan actio id dro statist constan actio id acc gi rtre id acc rectangl id acc intco id acc id acc hea id acc id p xen versio id logo chai allo page logo begi xact logo checkpoint logo contain logo delet logo en xact logo insert logo pag logica undo logo pag physica undo logo purg logo contain undo logo updat logo updat field logo cop row logo allo page logo ini page logo invalidat page logo se reserv space logo remov file logo checksum logo compr space logo compr space logo encryp contain logo encryp contain undo ra stor singl contain file ra stor singl contain strea file ra stor store page ra stor allo page fil strea lo file lo record lo counter basi uuid ra stor globa xac ra stor xac id ra stor globa xac new ra stor transactio tabl entri ra stor transactio tabl
+forma number pag head offset pag head size recor spac offset pag versio offset smal slo size larg slo size checksu size overflo point size overflo pt fiel size bh colum none colum first colum long colum creat null field size overflow page use id gener gener locat row count date checksum record size row size field size entri size tabl offset first entri tabl offset first record length field tabl offset first reserv space field space space free byte space record header datum datum datum
+recor delet recor overflow recor ha fir field recor vali mask overflo onl size id statu field handl overflow
+
+
+temporar segment
+id integ larg slo size mi buff size fiel statu fiel head size ident factori size file datum data header ciphertext byte storag fil exist action storag fil delet action storag fil mkdir action storag fil ge outpu strea action storag fil ge inpu strea action code storag file
+store id ident activ contain xact hold
+
+
+
+
+
+fak ro count fak instantiatio cost expect stack idx
+name column null
+trail lead collatio derivatio none collatio derivatio implicit collatio derivatio explicit collatio typ uc basic collatio typ territor base collatio typ territor base primari collatio typ territor base secondari collatio typ territor base tertiari collatio typ territor base ident
+length
+
+loop rowcount testcount rand increas targetmax targetmin inserts updates deletes fatal row countlock init grow shrink mode initia connect ij url driver statu ind
+column text
+overload intstat overoverload intstat sub class
+td id
+
+id constraint id delet rule updat rule
+overoverload intstat
+stoc level ord statu b name ord statu b id paymen b name paymen b id deliv schedul ne order ne ord rollback display op rand w count
+
+set type top node preprocess express subqueri operand new predic subqueri comparison oper node number attach correl correl check variant invari check list offset first jdb climit claus notimplement subqueri fro subqueri subqueri subqueri e subqueri e al subqueri n subqueri n al subqueri g subqueri g al subqueri g subqueri g al subqueri l subqueri l al subqueri l subqueri l al subqueri exist subqueri exist subqueri expressio subqueri
+sourc target class
+colum name xid committ commi time lin count descript recor header formatt
+
+sum
+extin extinout extout write target file name write target file name
+
+
+
+name name
+java project project
+
+
+null
+
+name type
+
+version uid server engin jmx shutdown control monitor we derb intern lega name lega action engin monitor action mask
+version uid name
+sq be rowid sq rowver drive typ option odb drive option
+td dd
+
+servic store
+column
+
+bom dela pn defaul bom delay v delay arm
+
+error invali key identit fail type
+cf fail
+cm iter parent
+dirti owner
+valu
+servic engin engin key iv factori
+
+
+
+
+
+id ascend
+
+dd tc lcc name name name id sd td
+daemon random record
+servic
+nest
+servic factori lf contain rollback te rollbac servic
+modul test name param
+servic
+valu waitm find except
+valu count latch
+allow locker count
+servic fail
+iter lf
+te size bloc size
+
+number error thread iter error test thread test object
+undo null b co te rollbac rollback properti rollback factori lf servic uuidfactori mode datum purg
+col
+servic undo infofil setup test path te badlo setup te badlo te badlo te badlo te badlo te badlo te badlo te badlo te ba checksu log te badlo info te badchecksumlo info factori lf factori servic
+servic undo infofil path log fail switch fail recov te fil log te ful recov fail te lo switc fail te ful recov te ful lo info factori lf servic
+servic undo null b co filein fileout recoveri recoveri path setu recoveri te recoveri recov testpath factori lf servic uuidfactori
+integ ro type strin ro type defaul ro count defaul colum count defaul seed count count row column abort
+row
+servic requeu demand subscrib number
+templat vector servic verbos id
+text
+cost
+servic factori lf contain rollback te rollbac servic
+tran cm servic lf store
+factori far
+remov none remov remov log buffer tid seq seq lwm tran seq back record transact datum len verbos
+lf ref iter offset test error
+factori factori factori contain mode
+servic store store
+servic servic
+rownotdupl index conglomer index set set crf stream storabl heap col id storabl heap col id
+ba tabl type syst tabl type vie type globa temporar tabl type synoni type vt type ro loc granular tabl loc granular defaul loc granular istat creat threshold istat absdif threshold istat lndif threshold granular commit delet row rollback delet row stat date stat updat reason schema name oid type conglom number descriptor list descriptor list descriptor list descriptor list descriptor descriptor list
+column td
+unknown ad foreig ke constraint ad primar ke constraint ad uniqu constraint ad chec constraint dro constraint modif column dro column modif constraint name type
+name id
+name name schema
+dd cach cach cach cach
+result set result set optim optim modifi access path do modifi access path do
+uuid name priv priv priv priv priv priv
+selec action delet action inser action updat action refer action trigg action actio count ye wit gran option ye withou gran option string td allow bit set list
+allow list bit set td list
+control control open key scan posit posit id dcoci scoci key getter search oper key getter search oper qualifi suppli optim overrid time statist col per read updat start stop posit do templat properti posit string posit string constraint lock row scan scan row count futur tbl qualifi row valid reposit
+name rsmd map
+nee priv fo updat stmt ori updat col
+find
+
+use count
+td savepoint level savepoint level modifi savepoint level
+
+child byte releas char length reader intern reader cach
+
+defaul overflowthreshold stat uninit stat insert stat drain array array slot row state cid creat cc properti scan descript activ uniqu stream virtual mem heap index creat index creat index conglom id index conglom id index index index row index row row locat
+array row scan tc open finish row descript append index conglom id virtual mem heap row mem holder cc row locat row indexsc
+trim locat substr like timestampadd timestampdiff kind oper name receiv operand operand interfac type interfac type interfac type interfac type type ternari oper ternari method name ternari result type ternari arg type
+
+master except count d warehous
+thread threadutil
+
+process process exit valu
+tabl rowlock newlin tc info lock row sb row time tabl column lengthoft line separ
+
+time run
+
+
+kind line column line column offset offset imag next token
+clien embedd test embedd test clien test jdb test sqlauthorizatio test
+
+
+key modul tabl instanc monitor shutdown type local
+relea lock kee lock x rdonli x ok
+unspecifi isolatio level rea uncommitt isolatio level rea committ isolatio level repeatabl rea isolatio level serializabl isolatio level c jdb isolatio leve map c sq isolatio map listen
+mod record mod tabl isolatio nolock isolatio rea uncommit isolatio rea commit isolatio rea committ noholdlock isolatio repeatabl read isolatio serializ openmod we updat lock openmod secondar lock openmod basero inser lock openmod forupd openmod fo loc openmod loc nowait openmod loc ro nowait ope conglomer ope scan ope creat sort ope sort ope total default temporari keep relea lock kee lock readonl transactio initi
+modul
+
+
+
+mod none loc instan durat loc commi durat loc manua durat
+cm csf usernam dbname driver url id databas lcc
+
+tabl initi row null info metadata
+xid gid log log statu myxact updat recoveri exclus clone lcc updat recoveri exclud
+id id type open row row page qualifi qualifi object type type output depth
+systrigg stat field trigg even updat trigg even delet trigg even insert id name refer name refer name definit sd mask row old new td sp id sp sp id sp enabl col col trigger action timestamp schema id tabl id claus text
+
+befor insert befor delet befor updat la befor event aft insert aft delet aft updat event name type
+lcc info tec executor activ cc text type id name
+befor insert befor delet befor updat aft insert aft delet aft updat
+updat event delet event inser event
+array
+set
+set
+identifi row new
+resul se open
+well
+dictionari
+
+
+ccsiddbc ccsidmbc ccsidsbc noccsid fixedlength twobytelength onebytelength decimallength loblength ut encod overrid tabl size type represent map tabl jdbc type agent sbc sbc set sbc encod dbc dbc set dbc encod mbc mbc set mbc encod overrid tabl
+long int short byte boolean float doubl string name type name name simpl
+longin maxwidt char maxwidt char smallin maxwidt char tinyin maxwidt char doubl maxwidt char rea maxwidt char defaul decima precis defaul decima scale decima precisio scale boolea maxwidt char plu op divid op minu op time op su op av op mo op
+modul
+packag name type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil type compil
+maximu widt unknown integ integ null smallint smallin null doubl
+id precis scale nullabl width type
+longin precis longin scale longin maxwidth precis scale maxwidth smallin precis smallin scale smallin maxwidth tinyin precis tinyin scale tinyin maxwidth doubl precis doubl precisio digit doubl scale doubl maxwidth rea precis rea precisio digit rea scale rea maxwidth decima precis decima scale decima maxwidth boolea maxwidth cha maxwidth varcha maxwidth longvarcha maxwidth bi maxwidth varbi maxwidth longvarbi maxwidth blo maxwidth clo maxwidth xm maxwidth that maxwidth tim maxwidth timestam maxwidth tim scale timestam scale bi name varbi name longvarbi name tinyin name smallin name integ name bigin name floa name rea name doubl name numeri name decima name cha name varcha name longvarcha name that name tim name timestam name binar name varbinar name longvarbinar name boolea name name cursor nationa cha name nationa varcha name nationa longvarcha name blo name clo name nclo name xm name arra name struc name datalin name rowi name sqlxm name use preced xm preced blo preced longvarbi preced varbi preced bi preced boolea preced tim preced timestam preced that preced doubl preced rea preced decima preced numeri preced longin preced preced smallin preced tinyin preced preced clo preced longvarcha preced varcha preced cha preced boolea id smallin id integ id cha id tinyin id bigin id rea id doubl id decima id numeri id varcha id that id tim id timestam id bi id varbi id id longvarcha id longvarbi id blo id clo id xm id al builti typ id type id id bit type id lob type id boolean type id concat type id decim type id long concat type id numer type id ref type id string type id float point type id real type id date time time stamp type id user defin type id precis scale preced type name max width
+
+
+cnt offset flag bufpo bufsiz avail begin buflin bufcolumn column line char cr char lf stream char buf buffer next char ind char ind buf
+fir version
+attribut attribut util prop derbi prop
+
+
+
+read close maximu buff size stream po count char count buffer buffer posit buffer read parent csd
+
+valu id
+null uui byt length
+
+
+unar oper unar method plu minu sqrt ab kind
+
+timestam metho name that metho name date timestamp kind
+
+oper name interfac type interfac type operand xmlpars xmlserial base kind unari oper unari method name unari result type unari arg type type whitespac
+
+
+new node call constructor tabl constructor
+see left see right return sourc final row count
+deferr defer constraint name name lcc id duplic
+number random left
+
+
+implementationid
+constraint name name deferr defer lcc id duplic
+
+
+sq packag name stric enforc exclud map verbos
+
+materi stream po blob po
+column id type
+
+column id updat column name name name sequenc uuid string row locat increment
+slot id log
+loader restrict packag list vs loader do classpath lf loader lock version upper parent compat reload reader
+column id defer constraint tabl col bite set updat columnnam
+slot id column log
+tc base row row spars row constant sourc changer base cc uniqu ci d uniqu creat uniqu cc uniqu scan row holder row holder checker info activ refer key foreign key open conglom info array row read list claus gm width base column temp row base row delet row result descript mode defer updat copi requir check constraint check
+blob
+clob
+r con clob count po length
+con lob count po length
+type name factori boot
+rs holder
+phase version sqlstat nee upgrad phase p creat p sof upgrad p po sof upgrad p har upgrad p po har upgrad
+file version path path
+name additiona db
+name rownam
+inpu type retur type aggregato type aggregato para count derb byt arra name
+
+
+fir version type null
+
+name
+name scheme modifi
+valu ba memor usag
+val
+
+
+nl
+radix arr
+
+databas dumm store name directori dir datum
+void void boolean boolean byte byte char char short short int int long long float float doubl doubl array array class class method method endclass endclass endmethod endmethod packag packag constan class constan fieldref constan methodref constan interfac methodref constan string constan integ constan float constan long constan doubl constan name type constan utf constan method handl constan method type constan invok dynam jav cla forma magic jav cla forma majo version jav cla forma mino version
+bad nop acon null icon icon icon icon icon icon icon lcon lcon fcon fcon fcon dcon dcon bipush sipush ldc ld w ld w iload lload fload dload aload iloa iloa iloa iloa lloa lloa lloa lloa floa floa floa floa dloa dloa dloa dloa aloa aloa aloa aloa iaload laload faload daload aaload baload caload saload istor lstore fstore dstore astor istor istor istor istor lstor lstor lstor lstor fstor fstor fstor fstor dstor dstor dstor dstor astor astor astor astor iastor lastor fastor dastor aastor bastor castor sastor pop po dup du du du du du swap iadd ladd fadd dadd isub lsub fsub dsub imul lmul fmul dmul idiv ldiv fdiv ddiv irem lrem frem drem ineg lneg fneg dneg ishl lshl ishr lshr iushr lushr iand land ior lor ixor lxor iinc l f f l l f b c lcmp fcmpl fcmpg dcmpl dcmpg ifeq ifn iflt ifg ifgt ifl icmpeq icmpn icmplt icmpg icmpgt icmpl acmpeq acmpn goto jsr ret tableswitch lookupswitch ireturn lreturn freturn dreturn areturn return getstat putstat getfield putfield invokevirtu invokespeci invokestat invokeinterfac xxxunusedxxx new newarray anewarray arraylength athrow checkcast instanceof monitorent monitorexit wide multianewarray ifnul ifnonnul get w j w breakpoint cod length length get length get length constan poo entri
+descriptor key
+schema tabl text
+estim row count estim cost
+defer control type number column
+
+
+return class name constructor ps vti row column ps target time constant project path qualifi nullabl column derbi style tabl function type column type project restrict schema name isol level
+context
+
+type servic transform
+
+column ncol
+version uid sum count
+version uid
+
+var longvar blob kind
+ignor precis
+list
+jdb interfac
+msgutil
+em driver name trunk fixpack includ exclud
+
+option name text uuid schema id n chec option
+result set column id correl
+path store
+latch tabl rowlock shexlock locktyp locknam conglomid containerid segmentid pagenum recid xactid lockcount lockmod state lockobj tablenam indexnam tabletyp
+entri fp os
+
+
+
+char numrow prime gener return two four ten twenti percent percent percent percent one percent one percent seed string close
+
+id name address tax ytd
+row row
+inlin list
+window rc ref
+
+name
+
+restrict sourc time column row rownumb
+parent func call wdn
+row
+charact datatyp datum
+callabl statement statement callabl statement callabl statement
+connect connect
+
+
+
+statement statement statement
+
+
+id scoci irg cid scoc name defer properti uuid mode info info row read list row read map storabl heap col id row sourc merg
+
+
+
+config d
+datum sourc resourc connect ra
+
+connect connect statement connect statement prepar statement callabl statement
+x rdonli x ok
+tr timeout tr deadlock tr fail associ associ complet conn resourc resourc xid cancel monitor list state code prepar timeout rollback task
+colon
+ut imp id ba memor usag x pa b ref x pa b valu x retur sequenc x retur content x empt empti x nul empti xm xm sequenc type string valu req check top level attr util
+
+
+stmt stm id stm text qblock qbloc optim id qbloc star time qbloc id qbloc optimiz qbloc op tabl number qbloc timeout qbloc vacuou qbloc sor cost qbloc tota cost qbloc n be plan qbloc skip jo j complet j slot decor decoratio conglo name decoratio key decoratio tabl name decoratio joi strategi decoratio skip decoratio conglo cost decoratio fir colum select decoratio extr star sto select decoratio star sto select decoratio extr qualifi decoratio extr qualifi ski reason pc p type p complet p avoi sort p summari c estim cost c ro count c singl sca ro count se count se select tabl functio flag pla co vti pla co view statement statement id queri block queri id block stack
+
+
+
+visitor schema
+modul
+tablenam string column name
+tablenam string column name
+tablenam string column name
+tablenam string column name
+tablenam string column name
+tablenam string column name
+lcc dd activ time inform stmt time uuid rset time sortrset scanrset child uuid stack
+insert stmt
+isolatio rea uncommit isolatio rea commit isolatio repea read isolatio serializ loc mod exclus loc mod instanten exclus loc mod share loc mod instanten share loc granularit tabl loc granularit row tablescan indexscan hashscan distinctscan lastindexkeyscan hashtabl rowidscan constraintscan joi nl joi hash joi n lo joi lo union set se intersect se except insert updat delet cascad vti bulk distinct normal scroll materi vt rs row project filter aggreg pro restrict sort group curren ro count window sca heap sca btree sca sort sca bits selec stm type selec approximat stm type inser stm type updat stm type delet stm type cal stm type dd stm type xplai xplai full sor extern sor intern ye code n code
+
+
+
+count close idl activ updat prepar en abort en prepar en commit recov rollbac first interna transact nest transact commi sync commi n sync commu prepar end statu sync creat xc factori factori factori valu factori space lock global id id transact id logger state complet updat post commit process start last point commit work abort work termin work transact buffer complet mode check name block wait lock
+xact factori
+use contex id nest readonl use contex id nest updat use contex id interna contex id nt contex id store daemon factori factori factori factori factori valu factori store factori ttab id polici creat log semaphor block oper backup
+id
+rsf
+tag resourc idx count row row child tag idx
+version locat
+
+
+
+
+
+home dir dir control file check point time
+set class web logic verbos java javax org informix sun roll one class list classpath outputfil hash indent count depend histori file
+
+
+
+
+packag n param primit
+
+url driver dirti ind
+
+numb tabl conn col name number queri map id name map db url file name delimit log list param schema view verbos db name log name util author schema name
+serv port front rear creation script creation script te delimit directori db name separ path counter name count protocol base collat schema name
+
+
+
+
+verbos
+verbos
+
+
+
+
+
+
+
+
+conn
+illeg statement name yet implement alreadi connect name bang except connect get warn fail class find protocol class find disconnect fail driver class name file find forward cursor get connect fail io except need disconnect async statement connect protocol tabl use result object null result set get warn fail resourc find scroll cursor support statement get warn fail wait interrupt zero invalid absolut avail driver
+except
+fatal except e
+statement rs do
+set column width
+
+
+set statement column width
+result row
+statement do
+
+vec warn
+warn
+c sdriver urlc
+
+
+
+
+
+
+
+
+
+
+
+
+flag noasyncgc verbosegc noclassgc ss oss ms mx classpath prof verifi noverifi nojit cmd version version imajor iminor name defaul polici defaul codebas verboselevel
+te quer execut
+
+
+star secon half nu execut derbi net
+rs
+hour minut second
+hav bu decim hav drive class cla name method proc param method method type jdbc type type name
+
+header footer
+object
+
+
+shutdownurl driver home
+use count
+
+messag id
+v size
+barrier error
+verbos
+dbm tool net client optionaltool
+
+sever level
+grabber stream tok mgr parser env ce connect input file input use run error error code except trace bufferedfiles grabber util
+
+
+version uid xa datum sourc xa connect name datum sourc cp datum sourc pool connect jcc net client framework strin p p boolea p
