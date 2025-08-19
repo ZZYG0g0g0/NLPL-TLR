@@ -25,7 +25,7 @@ You can obtain the dataset of this study [here](https://drive.google.com/drive/f
 │      textual_preprocessing.py
 │      
 ├─RQ2
-│      cooccurrence_commit_issue.py
+│      cooccurrence_different_ratio.py
 │      cooccurrence_pretrained.py
 │      pretrain.py
 │      Roberta.py
@@ -137,6 +137,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
