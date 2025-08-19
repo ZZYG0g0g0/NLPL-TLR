@@ -2,7 +2,7 @@
   <h1 align="center">Natural Language–Programming Language Software Traceability Link Recovery Needs More than Textual Similarity</h1>
 </div>
 
-### Overview of this study
+### 🔍 Overview of this study
 
 We found that methods relying solely on text similarity perform poorly in the natural language–programming language (NL–PL) traceability link recovery task. Therefore, this study first verifies this phenomenon through a systematic literature review and an empirical study. Subsequently, we introduce multiple auxiliary strategy signals—including code dependency strategies—into the models in two different ways: by representing them as edges in a heterogeneous graph neural network (HGT) and by incorporating them as additional information into a large language model (LLM). Based on these approaches, we construct HGT-ALL and Gemini-ALL, with HGT and Gemini 2.5 Pro serving as the representative models for heterogeneous graph neural networks and LLMs, respectively. Both methods leverage auxiliary strategy information to enhance the performance of the original models.
 
@@ -10,13 +10,13 @@ We found that methods relying solely on text similarity perform poorly in the na
 
 You can run HGT-ALL and Gemini-ALL locally using the following instructions.
 
-### Dataset
+### 📂 Dataset
 
 You can obtain the dataset of this study [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto). 
 
-### How to Use HGT-ALL and Gemini-ALL
+### ⚙️ How to Use HGT-ALL and Gemini-ALL
 
-#### Environment Setup
+#### 🛠️ Environment Setup
 
 Follow these steps to set up the environment for HGT-ALL and Gemini-ALL
 
@@ -26,11 +26,11 @@ conda activate hg
 pip install -r requirements.txt
 ```
 
-#### Download Dataset
+#### 📥 Download Dataset
 
 Create a `datasets` folder in the root path, download the dataset you need [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto), and then place the dataset into the folder you created. 
 
-#### Run HGT-ALL
+#### 🧮 Run HGT-ALL
 
 Modify the datasets list in `RQ4/HGNN/GraphCodeBERT.py` to the datasets you need, for example：
 
@@ -63,7 +63,7 @@ python RQ4/HGT.py
 
 
 
-#### Run Gemini-ALL
+#### 🤖 Run Gemini-ALL
 
 Modify the `api_key` and `base_url` to set the API key and select the model provider. For example:
 
@@ -92,6 +92,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
