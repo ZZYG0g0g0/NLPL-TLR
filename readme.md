@@ -2,7 +2,7 @@
   <h1 align="center">Natural Language–Programming Language Software Traceability Link Recovery Needs More than Textual Similarity</h1>
 </div>
 
-### 🔍 Overview of this study
+### 🔍 Overview
 
 We found that methods relying solely on text similarity perform poorly in the natural language–programming language (NL–PL) traceability link recovery task. Therefore, this study first verifies this phenomenon through a systematic literature review and an empirical study. Subsequently, we introduce multiple auxiliary strategy signals—including code dependency strategies—into the models in two different ways: by representing them as edges in a heterogeneous graph neural network (HGT) and by incorporating them as additional information into a large language model (LLM). Based on these approaches, we construct HGT-ALL and Gemini-ALL, with HGT and Gemini 2.5 Pro serving as the representative models for heterogeneous graph neural networks and LLMs, respectively. Both methods leverage auxiliary strategy information to enhance the performance of the original models.
 
@@ -14,7 +14,7 @@ You can run HGT-ALL and Gemini-ALL locally using the following instructions.
 
 You can obtain the dataset of this study [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto). 
 
-### 📂 Repository list
+### 📂 Repository List
 ```
 │  readme.md                                    # Description of this replication package
 │  requirements.txt                             # Environment configuration
@@ -136,6 +136,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
