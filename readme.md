@@ -14,6 +14,51 @@ You can run HGT-ALL and Gemini-ALL locally using the following instructions.
 
 You can obtain the dataset of this study [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto). 
 
+### 📂 Repository list
+"""
+│  readme.md
+│  requirements.txt
+│  statistic.xlsx  
+├─fig      
+│      
+├─preprocessing
+│      textual_preprocessing.py
+│      
+├─RQ2
+│      cooccurrence_commit_issue.py
+│      cooccurrence_pretrained.py
+│      pretrain.py
+│      Roberta.py
+│      
+└─RQ4
+    │  gemini.py
+    │  Gemini_strategy.py
+    │  HGT.py
+    │  
+    ├─HGNN
+    │      GraphCodeBERT.py
+    │      Roberta.py
+    │      
+    └─strategy
+        │  IR_model.py
+        │  rank_bm25.py
+        │  
+        ├─CodeDependency
+        │      Albergate.xlsx
+        │      ...
+        │      
+        ├─FineGrained
+        │  ├─Albergate
+        │  │      class_attribute.txt
+        │  │      ...      
+        │          
+        ├─UserFeedback
+        │      Albergate.xlsx
+        │      ...
+        │      
+        └─__pycache__
+"""
+
 ### ⚙️ How to Use HGT-ALL and Gemini-ALL
 
 #### 🛠️ Environment Setup
@@ -92,6 +137,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
