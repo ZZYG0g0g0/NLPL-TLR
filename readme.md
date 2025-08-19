@@ -4,12 +4,6 @@
 
 You can obtain the dataset of this study [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto). 
 
-### Overview of HGT-ALL and Gemini-ALL
-
-![1755574087379](C:\Users\zzy\AppData\Local\Temp\1755574087379.png)
-
-HGT-ALL integrates strategies through the edges of the heterogeneous graph, while Gemini-ALL integrates strategies by writing them into the Prompt as additional information. Researchers can attempt to combine newly proposed strategies with existing ones through the aforementioned methods. 
-
 ### How to Use HGT-ALL and Gemini-ALL
 
 #### Environment Setup
@@ -88,4 +82,5 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
