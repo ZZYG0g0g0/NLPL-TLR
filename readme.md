@@ -15,7 +15,7 @@ You can run HGT-ALL and Gemini-ALL locally using the following instructions.
 You can obtain the dataset of this study [here](https://drive.google.com/drive/folders/1-0MJEreOJr6F5lDQtJnCV5aNjQn_PDJX?dmr=1&ec=wgc-drive-hero-goto). 
 
 ### 📂 Repository list
-"""
+```
 │  readme.md
 │  requirements.txt
 │  statistic.xlsx  
@@ -57,7 +57,7 @@ You can obtain the dataset of this study [here](https://drive.google.com/drive/f
         │      ...
         │      
         └─__pycache__
-"""
+```
 
 ### ⚙️ How to Use HGT-ALL and Gemini-ALL
 
@@ -137,6 +137,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
