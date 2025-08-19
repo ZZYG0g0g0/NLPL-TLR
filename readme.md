@@ -1,4 +1,4 @@
-## Natural Language–Programming Language Software Traceability Link Recovery Needs More than Textual Similarity
+## <center>Natural Language–Programming Language Software Traceability Link Recovery Needs More than Textual Similarity</center>
 
 ### Overview of this study
 
@@ -90,7 +90,6 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
-
 
 
 
