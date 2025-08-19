@@ -24,7 +24,6 @@ Answer:"""
 
 
 def generate_response(prompt):
-    """Generate response using DeepSeek R1"""
     try:
         response = client.chat.completions.create(
             model="google/gemini-2.5-pro-preview",
@@ -230,5 +229,6 @@ if __name__ == '__main__':
         results = [(dataset_name, precision, recall, f1)]
         save_results_to_excel(results, output_file)
         print(f"Results saved to {output_file}")
+
 
 
