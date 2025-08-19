@@ -2,7 +2,7 @@
 
 ### Overview of this study
 
-
+![1755574087379](C:\Users\zzy\AppData\Local\Temp\1755574087379.png)
 
 ### Dataset
 
@@ -86,6 +86,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
