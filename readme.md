@@ -16,18 +16,18 @@ You can obtain the dataset of this study [here](https://drive.google.com/drive/f
 
 ### 📂 Repository list
 ```
-│  readme.md
-│  requirements.txt
-│  statistic.xlsx  
-├─fig      
+│  readme.md                                    # Description of this replication package
+│  requirements.txt                             # 环境配置内容
+│  statistic.xlsx                               # 系统文献综述搜寻到的文献
+├─fig                                           # readme文件中的图片
 │      
-├─preprocessing
-│      textual_preprocessing.py
+├─preprocessing                                 
+│      textual_preprocessing.py                  # 对需求和代码制品进行预处理
 │      
 ├─RQ2
-│      cooccurrence_different_ratio.py
-│      cooccurrence_pretrained.py
-│      pretrain.py
+│      cooccurrence_different_ratio.py          # 计算源制品和目标制品间的Different ratio比例
+│      cooccurrence_pretrained.py               # 使用Roberta模型完成源制品和目标制品的TLR任务并进行评估
+│      pretrain.py                              # 预训练模型代码
 │      Roberta.py
 │      
 └─RQ4
@@ -137,6 +137,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
