@@ -17,46 +17,45 @@ You can obtain the dataset of this study [here](https://drive.google.com/drive/f
 ### 📂 Repository list
 ```
 │  readme.md                                    # Description of this replication package
-│  requirements.txt                             # 环境配置内容
-│  statistic.xlsx                               # 系统文献综述搜寻到的文献
-├─fig                                           # readme文件中的图片
+│  requirements.txt                             # Environment configuration
+│  statistic.xlsx                               # Literature found in the systematic literature review
+├─fig                                           # Images referenced in the readme file
 │      
 ├─preprocessing                                 
-│      textual_preprocessing.py                  # 对需求和代码制品进行预处理
+│      textual_preprocessing.py                 # Preprocessing requirements and code artifacts
 │      
 ├─RQ2
-│      cooccurrence_different_ratio.py          # 计算源制品和目标制品间的Different ratio比例
-│      cooccurrence_pretrained.py               # 使用Roberta模型完成源制品和目标制品的TLR任务并进行评估
-│      pretrain.py                              # 预训练模型代码
-│      Roberta.py
+│      cooccurrence_different_ratio.py          # Calculate the Different ratio between source and target artifacts
+│      cooccurrence_pretrained.py               # Use the Roberta model for the TLR task between source and target artifacts and perform evaluation
 │      
 └─RQ4
-    │  gemini.py
-    │  Gemini_strategy.py
-    │  HGT.py
+    │  gemini.py                                # LLM without any auxiliary strategies (example: Gemini 2.5 Pro)
+    │  Gemini_strategy.py                       # LLM with all auxiliary strategies
+    │  HGT.py                                   # HGT combined with auxiliary strategies
     │  
     ├─HGNN
-    │      GraphCodeBERT.py
-    │      Roberta.py
+    │      GraphCodeBERT.py                     # Use GraphCodeBERT to vectorize code artifacts
+    │      Roberta.py                           # Use Roberta to vectorize requirement artifacts
     │      
     └─strategy
-        │  IR_model.py
-        │  rank_bm25.py
+        │  IR_model.py                          # Use IR methods to calculate similarity of fine-grained content
+        │  rank_bm25.py                         # BM25 model
         │  
-        ├─CodeDependency
+        ├─CodeDependency                        # Results of code dependency (files below are results for each project)
         │      Albergate.xlsx
         │      ...
         │      
-        ├─FineGrained
+        ├─FineGrained                           # Results of fine-grained strategies (files below are results for each project)
         │  ├─Albergate
         │  │      class_attribute.txt
         │  │      ...      
         │          
-        ├─UserFeedback
+        ├─UserFeedback                          # Results of user feedback strategies (files below are results for each project)
         │      Albergate.xlsx
         │      ...
         │      
         └─__pycache__
+
 ```
 
 ### ⚙️ How to Use HGT-ALL and Gemini-ALL
@@ -137,6 +136,7 @@ Finally, you can run `RQ4/gemini.py` to execute Gemini-ALL. Similarly, you can s
 ```shell
 python RQ4/gemini.py
 ```
+
 
 
 
