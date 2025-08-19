@@ -8,7 +8,7 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 # Initialize DeepSeek client
 client = OpenAI(
     api_key="sk-or-v1-74f9********",  # Replace with your actual API key
-    base_url="https://openrouter.ai/api/v1"  # DeepSeek API base URL
+    base_url="https://openrouter.ai/api/v1"  # openrouter API base URL
 )
 
 def prompt_for_relation(requirements_text, code_text, extra_info=""):
@@ -230,4 +230,5 @@ if __name__ == '__main__':
         results = [(dataset_name, precision, recall, f1)]
         save_results_to_excel(results, output_file)
         print(f"Results saved to {output_file}")
+
 
